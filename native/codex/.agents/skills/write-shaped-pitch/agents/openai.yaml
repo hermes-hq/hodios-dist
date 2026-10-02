@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a Shape Up pitch
+  short_description: Writes a Shape Up pitch with the problem, the appetite, a fat-marker solution described in words, rabbit holes with patches and explicit no-gos. For teams using fixed-time, variable-scope cycles.
+policy:
+  allow_implicit_invocation: false

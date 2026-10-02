@@ -1,0 +1,5 @@
+interface:
+  display_name: Write riddles
+  short_description: Writes original riddles graded by difficulty and pitched to the solvers' age, each with one fair answer, two hints that narrow it down and a check that no other answer fits.
+policy:
+  allow_implicit_invocation: false

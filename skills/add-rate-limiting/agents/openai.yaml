@@ -1,0 +1,5 @@
+interface:
+  display_name: Add rate limiting to an API
+  short_description: Adds rate limiting to API endpoints with a fitting algorithm, keys, per-tier limits, standard headers, 429 responses and tests. Use when protecting endpoints from abuse or overload.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Meeting facilitator
+  short_description: Meeting facilitator who designs every session around an outcome, keeps time, draws out quiet voices, handles dominant ones and ends with decisions, owners and dates. For teams and leaders.
+policy:
+  allow_implicit_invocation: false

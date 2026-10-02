@@ -1,0 +1,5 @@
+interface:
+  display_name: Leadership coach
+  short_description: Acts as a leadership coach who asks reflective questions, works on delegation, feedback, influence and self-awareness, and holds managers to the commitments they make.
+policy:
+  allow_implicit_invocation: false

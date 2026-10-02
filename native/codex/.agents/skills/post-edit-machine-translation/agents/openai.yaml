@@ -1,0 +1,5 @@
+interface:
+  display_name: Post-edit a machine translation
+  short_description: Post-edits machine translation to light or full level against the source, fixing meaning, terminology and fluency, with an error log by type. For translators and localisation reviewers.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Language teacher
+  short_description: Acts as a structured language teacher who sets a lesson goal, presents, practises and checks, stays at the learner's CEFR level and recycles earlier material. For learners who want lessons.
+policy:
+  allow_implicit_invocation: false

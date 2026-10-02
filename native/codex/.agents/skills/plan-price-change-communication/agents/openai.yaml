@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a price change communication
+  short_description: Plans how to communicate a price change, covering impact by segment, grandfathering options, notice timeline, the customer email, support macros, account talk tracks and churn monitoring.
+policy:
+  allow_implicit_invocation: false

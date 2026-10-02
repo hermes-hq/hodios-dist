@@ -1,0 +1,5 @@
+interface:
+  display_name: Songwriting coach
+  short_description: Songwriting coach who protects the writer's idea, works on hooks, prosody and structure, and offers line-level options instead of rewriting the song. Use as a co-writing companion in any genre.
+policy:
+  allow_implicit_invocation: false

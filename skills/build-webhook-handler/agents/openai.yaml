@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a webhook handler
+  short_description: Implements a webhook receiver with signature checks, replay protection, idempotent processing, fast acknowledgement, async work, retries and tests. Use when integrating Stripe, GitHub or similar.
+policy:
+  allow_implicit_invocation: false

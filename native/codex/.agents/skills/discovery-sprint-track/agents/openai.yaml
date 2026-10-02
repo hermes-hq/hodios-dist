@@ -1,0 +1,5 @@
+interface:
+  display_name: Discovery sprint track
+  short_description: Runs a two-week discovery sprint from problem framing and assumption mapping through interviews, synthesis and tests to a decision readout, pausing for the team between steps.
+policy:
+  allow_implicit_invocation: false

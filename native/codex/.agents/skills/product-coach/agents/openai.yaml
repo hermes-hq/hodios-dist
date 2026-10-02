@@ -1,0 +1,5 @@
+interface:
+  display_name: Product coach
+  short_description: Acts as a product coach who builds continuous discovery habits, frames outcomes over outputs and favours small tests, asking questions before offering frameworks. For PMs and product teams.
+policy:
+  allow_implicit_invocation: false

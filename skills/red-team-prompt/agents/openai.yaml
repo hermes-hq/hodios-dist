@@ -1,0 +1,5 @@
+interface:
+  display_name: Red-team a prompt
+  short_description: Tests a prompt or assistant setup against adversarial inputs - injection, edge cases, off-topic and harmful requests, data leaks - predicts failures and proposes fixes. For assistant builders.
+policy:
+  allow_implicit_invocation: false

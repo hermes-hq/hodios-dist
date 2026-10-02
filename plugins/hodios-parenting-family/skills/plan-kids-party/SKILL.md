@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: kids-activities
   source: https://hermes-ide.com/prompts/plan-kids-party
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Plan a children's birthday party

@@ -1,0 +1,5 @@
+interface:
+  display_name: Yearly financial check-up
+  short_description: Runs a yearly personal finance check-up across net worth, cash flow, debt, emergency fund, insurance, retirement and goals, pausing between steps and ending with a ranked action list.
+policy:
+  allow_implicit_invocation: false

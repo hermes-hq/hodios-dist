@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a personal data breach response
+  short_description: Plans a small organisation's personal data breach response covering containment, risk assessment, notification thresholds and deadlines to verify, notice templates and a breach log.
+policy:
+  allow_implicit_invocation: false

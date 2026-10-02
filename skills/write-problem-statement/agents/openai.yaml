@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a problem statement
+  short_description: Writes a solution-free problem statement covering who has the problem, the evidence, current workarounds, the cost of not solving it and what success looks like. Use when starting discovery.
+policy:
+  allow_implicit_invocation: false

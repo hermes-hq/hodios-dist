@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a product review post
+  short_description: Writes an honest product review post with use context, testing notes, pros and cons, who it suits and who it does not, alternatives and a disclosure. Use for blog and affiliate reviews.
+policy:
+  allow_implicit_invocation: false

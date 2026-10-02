@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a monthly business review
+  short_description: Writes a monthly business review with headline results, performance against plan by area, drivers, outlook, risks and the decisions needed from leadership. Use as an analyst or operations leader.
+policy:
+  allow_implicit_invocation: false

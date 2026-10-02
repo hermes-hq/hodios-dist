@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan an airport layover
+  short_description: Plans a layover by assessing connection risk, whether leaving the airport is feasible, which transit and entry rules to check, and what to do in the time you have. Use when you have a connection.
+policy:
+  allow_implicit_invocation: false

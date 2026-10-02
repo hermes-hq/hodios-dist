@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: statistics
   source: https://hermes-ide.com/prompts/choose-statistical-test
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Choose a statistical test

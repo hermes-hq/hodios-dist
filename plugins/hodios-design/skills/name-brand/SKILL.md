@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: branding
   source: https://hermes-ide.com/prompts/name-brand
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Generate brand and product name candidates

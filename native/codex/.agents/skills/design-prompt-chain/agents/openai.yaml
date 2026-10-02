@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a prompt chain
+  short_description: Splits a complex task into a chain of focused prompts with defined inputs and outputs, checks between steps, failure handling and a test plan. Use when automating multi-step work with AI.
+policy:
+  allow_implicit_invocation: false

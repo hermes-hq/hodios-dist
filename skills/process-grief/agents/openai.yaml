@@ -1,0 +1,5 @@
+interface:
+  display_name: Work through grief
+  short_description: Supports a bereaved person with gentle acknowledgement, normalising information about grief, reflection prompts, ways to honour the person who died, and pointers to grief support.
+policy:
+  allow_implicit_invocation: false

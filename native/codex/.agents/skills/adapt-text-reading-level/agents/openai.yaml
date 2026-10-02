@@ -1,0 +1,5 @@
+interface:
+  display_name: Adapt a text to several reading levels
+  short_description: Rewrites a passage at several reading levels while keeping the key content and target vocabulary, with a glossary and comprehension questions for each version. For teachers with mixed-ability classes.
+policy:
+  allow_implicit_invocation: false

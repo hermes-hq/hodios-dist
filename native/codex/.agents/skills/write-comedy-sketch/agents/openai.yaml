@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a comedy sketch
+  short_description: Writes a comedy sketch with a clear game, a grounded base reality, escalating heightening beats, a button ending and staging notes. Use for sketch shows, improv troupes, videos and revues.
+policy:
+  allow_implicit_invocation: false

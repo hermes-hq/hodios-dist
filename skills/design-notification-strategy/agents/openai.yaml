@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a notification strategy
+  short_description: Designs notifications across email, push and in-app with triggers, user value per message, frequency caps, preference settings and copy. Use when adding or cleaning up product notifications.
+policy:
+  allow_implicit_invocation: false

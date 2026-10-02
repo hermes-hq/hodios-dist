@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a poem for an occasion
+  short_description: Writes a personal poem for a wedding, funeral, birthday or retirement from details about the people, sized and paced to be read aloud. Use when you need something to read at an event.
+policy:
+  allow_implicit_invocation: false

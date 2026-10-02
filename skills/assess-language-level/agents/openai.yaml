@@ -1,0 +1,5 @@
+interface:
+  display_name: Assess my language level
+  short_description: Runs an adaptive placement check across grammar, vocabulary, reading and a short writing sample, then estimates a CEFR level with evidence and next skills. For choosing materials or a course.
+policy:
+  allow_implicit_invocation: false

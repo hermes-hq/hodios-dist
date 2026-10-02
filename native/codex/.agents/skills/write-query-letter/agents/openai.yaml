@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a query letter and synopsis
+  short_description: Writes a literary agent query letter with hook, story paragraphs, comparable titles, word count and bio, plus a one-page synopsis that reveals the ending. Use when seeking representation for a novel.
+policy:
+  allow_implicit_invocation: false

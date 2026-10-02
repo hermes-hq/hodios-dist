@@ -1,0 +1,5 @@
+interface:
+  display_name: Write wedding vows
+  short_description: Writes personal wedding vows from your stories and feelings, sized to the ceremony's time limit, matched in tone to your partner's vows and easy to say aloud without stumbling.
+policy:
+  allow_implicit_invocation: false

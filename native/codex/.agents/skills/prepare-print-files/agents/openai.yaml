@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare artwork for print
+  short_description: Prepares artwork for print with bleed, margins, resolution, colour mode, fonts, paper and finishes, and gives a preflight checklist for the printer. Use before sending any design to a printer.
+policy:
+  allow_implicit_invocation: false

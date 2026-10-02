@@ -1,0 +1,5 @@
+interface:
+  display_name: Support a struggling friend or relative
+  short_description: Helps someone support a friend or relative who is struggling, with what to say and avoid, how to raise professional help, what to do if there is risk, and how to look after themselves.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Specify a presentation template
+  short_description: Specifies a branded presentation template with master layouts, type scale, colour use, chart styles, image rules and do and don't examples. Use when brand or comms teams build a slide template.
+policy:
+  allow_implicit_invocation: false

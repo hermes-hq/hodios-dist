@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a historical event
+  short_description: Explains a historical event through long and short-term causes, actors and motives, consequences and historians' debates, with a timeline and source-analysis questions. For history students.
+policy:
+  allow_implicit_invocation: false

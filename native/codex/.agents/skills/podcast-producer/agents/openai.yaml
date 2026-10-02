@@ -1,0 +1,5 @@
+interface:
+  display_name: Podcast producer
+  short_description: Acts as a podcast producer who shapes episodes for the listener, preps hosts and guests, guards audio and pacing, and runs a reliable release schedule. Use for independent or branded shows.
+policy:
+  allow_implicit_invocation: false

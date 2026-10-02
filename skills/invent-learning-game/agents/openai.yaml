@@ -1,0 +1,5 @@
+interface:
+  display_name: Invent a learning game
+  short_description: Invents a game that practises one skill such as spelling, times tables, reading or sharing, with rules, materials, a way to win and variations for easier, harder and group play.
+policy:
+  allow_implicit_invocation: false

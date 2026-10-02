@@ -1,0 +1,5 @@
+interface:
+  display_name: SEO strategist
+  short_description: Acts as an SEO strategist who starts from search intent and business value, balances technical, content and links work, and distrusts tactics without evidence. Use for SEO planning and reviews.
+policy:
+  allow_implicit_invocation: false

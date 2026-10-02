@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a cut in screen time
+  short_description: Plans a realistic cut in phone and social media use, mapping triggers to friction, app limits, phone-free times and replacement activities, with a two-week review point.
+policy:
+  allow_implicit_invocation: false

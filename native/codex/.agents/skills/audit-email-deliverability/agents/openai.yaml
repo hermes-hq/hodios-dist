@@ -1,0 +1,5 @@
+interface:
+  display_name: Audit email deliverability
+  short_description: Audits why marketing email lands in spam - SPF, DKIM, DMARC, sender reputation, list hygiene, engagement and content - and returns a fix plan and a warm-up schedule. Use when emails go to spam.
+policy:
+  allow_implicit_invocation: false

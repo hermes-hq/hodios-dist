@@ -1,0 +1,5 @@
+interface:
+  display_name: Visual
+  short_description: Shapes answers visually, from tables where they help to diagrams, timelines and structured layouts throughout, so relationships and comparisons are seen rather than read.
+policy:
+  allow_implicit_invocation: false

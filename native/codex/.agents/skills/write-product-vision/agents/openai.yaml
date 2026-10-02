@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a product vision
+  short_description: Writes a memorable three-to-five-year product vision covering the customer's future, the change the product makes, guiding principles and what it means for next year's work.
+policy:
+  allow_implicit_invocation: false

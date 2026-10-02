@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a refund and returns policy
+  short_description: Drafts a plain-language refund and returns policy that fits how the business sells, separates legal rights from goodwill, covers edge cases and lists the local consumer rules to verify.
+policy:
+  allow_implicit_invocation: false

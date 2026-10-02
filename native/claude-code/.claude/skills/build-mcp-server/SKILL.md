@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: ai-ml
   source: https://hermes-ide.com/prompts/build-mcp-server
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Build an MCP server

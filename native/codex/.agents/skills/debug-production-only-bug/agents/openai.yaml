@@ -1,0 +1,5 @@
+interface:
+  display_name: Debug a production-only bug
+  short_description: Debugs a bug that happens only in production by diffing environment, config, data, traffic, versions and timing, then plans safe instrumentation to confirm the cause. Use for works-on-my-machine bugs.
+policy:
+  allow_implicit_invocation: false

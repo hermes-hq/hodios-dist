@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for a system design interview
+  short_description: Coaches a system design interview with a framework, level-appropriate practice prompts, requirements, estimation and trade-offs, and interviewer-style feedback on your answer.
+policy:
+  allow_implicit_invocation: false

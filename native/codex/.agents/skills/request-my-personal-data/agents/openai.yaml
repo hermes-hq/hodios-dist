@@ -1,0 +1,5 @@
+interface:
+  display_name: Request my personal data
+  short_description: Drafts a data subject access request under GDPR, UK GDPR, CCPA or a similar law, with legal basis, scope and response deadline, plus a follow-up letter and complaint route if it is ignored.
+policy:
+  allow_implicit_invocation: false

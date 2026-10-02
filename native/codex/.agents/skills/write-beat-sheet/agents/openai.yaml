@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a beat sheet
+  short_description: Builds a beat sheet for a feature, TV episode or short in Save the Cat or another structure, with each beat's scene, purpose and page target. Use when outlining a script.
+policy:
+  allow_implicit_invocation: false

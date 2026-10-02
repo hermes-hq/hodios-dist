@@ -1,5 +1,5 @@
 interface:
   display_name: Remove dead code safely
-  short_description: Finds unused functions, files, flags and dependencies, proves each one is unreachable, including dynamic and external uses, and removes only what is proven dead. Use to shrink a codebase.
+  short_description: Finds unused code, flags, endpoints, jobs and dependencies, proves each dead with static and runtime evidence, and removes it or stages a reversible retirement. Use to shrink a codebase.
 policy:
   allow_implicit_invocation: false

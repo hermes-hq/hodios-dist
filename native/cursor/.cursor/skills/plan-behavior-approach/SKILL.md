@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: parenting
   source: https://hermes-ide.com/prompts/plan-behavior-approach
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Plan a positive-discipline approach

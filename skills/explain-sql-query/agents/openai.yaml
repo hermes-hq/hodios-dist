@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a SQL query
+  short_description: Explains a complex SQL query clause by clause in logical execution order, shows intermediate results on a tiny example, and points out bugs and performance traps. Use when inheriting a query.
+policy:
+  allow_implicit_invocation: false

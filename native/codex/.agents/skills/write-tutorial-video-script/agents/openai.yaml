@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a tutorial video script
+  short_description: Scripts a screen-recorded tutorial with the outcome first, click-level steps, on-screen callouts, viewer pauses and a recap, one task per video. Use when recording a software how-to.
+policy:
+  allow_implicit_invocation: false

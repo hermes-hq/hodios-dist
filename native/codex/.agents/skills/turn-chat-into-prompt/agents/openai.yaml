@@ -1,0 +1,5 @@
+interface:
+  display_name: Turn a chat into a reusable prompt
+  short_description: Turns a successful chat conversation into a reusable prompt with named variables, the rules learned from your corrections, an output format and a worked example. Use for tasks you repeat with AI.
+policy:
+  allow_implicit_invocation: false

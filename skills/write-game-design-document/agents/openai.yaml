@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a game design document
+  short_description: Writes a lean game design document with pillars, the core loop, mechanics, progression, content scope and a vertical slice plan, sized to the team and listing open questions to prototype.
+policy:
+  allow_implicit_invocation: false

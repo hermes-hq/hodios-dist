@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a workplace AI use policy
+  short_description: Drafts a workplace AI use policy covering approved tools, data rules, disclosure, human review of outputs, prohibited uses, training and ownership, with points flagged for legal and HR review.
+policy:
+  allow_implicit_invocation: false

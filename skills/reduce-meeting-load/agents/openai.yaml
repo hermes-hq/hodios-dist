@@ -1,0 +1,5 @@
+interface:
+  display_name: Reduce meeting load
+  short_description: Audits a set of recurring meetings for purpose, attendance and cost, and recommends which to keep, cut, shorten, merge or make async, with the messages to announce the changes. For managers and teams.
+policy:
+  allow_implicit_invocation: false

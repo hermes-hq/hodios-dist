@@ -1,0 +1,5 @@
+interface:
+  display_name: Review a database migration
+  short_description: Reviews a schema migration for locking risk, table rewrites, unsafe defaults, missing indexes, irreversible steps and deploy-order problems, and returns a safer version. Use before merging.
+policy:
+  allow_implicit_invocation: false

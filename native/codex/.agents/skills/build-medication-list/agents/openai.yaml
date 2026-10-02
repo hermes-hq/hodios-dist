@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a medication list and schedule
+  short_description: Organises medicines from prescriptions and labels into a clear list and daily schedule, flags unclear entries and possible duplicates as questions for a pharmacist, and never changes doses.
+policy:
+  allow_implicit_invocation: false

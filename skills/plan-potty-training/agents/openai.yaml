@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan potty training
+  short_description: Plans potty training from a toddler's readiness signs, with an approach, home setup, how to handle accidents and setbacks, and when to ask a health visitor or doctor.
+policy:
+  allow_implicit_invocation: false

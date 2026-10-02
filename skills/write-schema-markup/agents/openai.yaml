@@ -1,0 +1,5 @@
+interface:
+  display_name: Write schema markup
+  short_description: Writes JSON-LD structured data (Organization, Product, FAQ, Article, LocalBusiness, Event and more) that matches the visible page content, with rich-result eligibility notes and validation steps.
+policy:
+  allow_implicit_invocation: false

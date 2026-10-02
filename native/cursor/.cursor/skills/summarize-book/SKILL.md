@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: summarization
   source: https://hermes-ide.com/prompts/summarize-book
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Summarise a book

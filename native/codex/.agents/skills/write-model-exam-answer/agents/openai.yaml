@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an annotated model exam answer
+  short_description: Writes a model answer to a past exam question annotated against the mark scheme, showing where each mark is earned and how a weaker answer loses it. For students learning what examiners reward.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Songwriting track
+  short_description: Takes a song from concept and title to hook, verse lyrics, structure, a chord sketch and a final edit, pausing for the songwriter between steps. Use when writing a complete song.
+policy:
+  allow_implicit_invocation: false

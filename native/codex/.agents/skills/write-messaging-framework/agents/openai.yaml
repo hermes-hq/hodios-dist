@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a messaging framework
+  short_description: Builds a messaging framework with a core message, value pillars backed by proof, messages per persona, words to use and avoid, and worked examples. Use to align copy across teams and channels.
+policy:
+  allow_implicit_invocation: false

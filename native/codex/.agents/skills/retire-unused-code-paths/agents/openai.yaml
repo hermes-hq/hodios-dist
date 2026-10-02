@@ -1,5 +1,0 @@
-interface:
-  display_name: Retire unused code paths with runtime evidence
-  short_description: Retires endpoints, flags, jobs and dependencies that production evidence shows are unused, in staged, reversible steps. Use when static analysis alone cannot prove code is dead.
-policy:
-  allow_implicit_invocation: false

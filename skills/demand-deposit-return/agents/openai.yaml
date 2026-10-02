@@ -1,0 +1,5 @@
+interface:
+  display_name: Demand a rental deposit back
+  short_description: Writes a tenant's demand letter for an unreturned or unfairly reduced rental deposit, assessing each deduction against the evidence and listing the local deposit rules to verify.
+policy:
+  allow_implicit_invocation: false

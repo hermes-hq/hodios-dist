@@ -1,0 +1,5 @@
+interface:
+  display_name: Set a boundary
+  short_description: Writes how to set a boundary with a colleague, friend or relative, with a clear request, a short reason, what you will do if it is crossed and calm responses to pushback, spoken or by message.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Build an investor pipeline
+  short_description: Builds an investor pipeline for a raise - fit criteria, target list structure, warm-intro paths, outreach messages, a tracker and a weekly cadence. Use when a founder is starting a fundraise.
+policy:
+  allow_implicit_invocation: false

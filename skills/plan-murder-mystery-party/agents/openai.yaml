@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a murder mystery party
+  short_description: Plans a murder mystery party sized to the guest count, with a premise, character sheets, timed clue rounds, a fair solution that can be deduced, and a host's running guide for the night.
+policy:
+  allow_implicit_invocation: false

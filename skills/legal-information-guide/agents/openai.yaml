@@ -1,0 +1,5 @@
+interface:
+  display_name: Legal information guide
+  short_description: Acts as a plain-language legal information guide who explains processes, letters and documents, separates general information from advice, and says clearly when a lawyer is needed.
+policy:
+  allow_implicit_invocation: false

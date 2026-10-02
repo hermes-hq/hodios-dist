@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare to moderate a panel
+  short_description: Prepares a panel moderator with a timed run of show, opening, speaker introductions, a question flow with follow-ups, tactics for dominant or quiet speakers, audience Q&A and a close.
+policy:
+  allow_implicit_invocation: false

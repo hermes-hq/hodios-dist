@@ -1,0 +1,5 @@
+interface:
+  display_name: Compare two documents
+  short_description: Compares two versions of a document, or two related documents, and reports what changed, what stayed consistent and what conflicts, with quotes and locations for every finding.
+policy:
+  allow_implicit_invocation: false

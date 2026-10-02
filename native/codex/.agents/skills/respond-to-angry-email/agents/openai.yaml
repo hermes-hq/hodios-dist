@@ -1,0 +1,5 @@
+interface:
+  display_name: Respond to an angry email
+  short_description: Drafts a reply to an angry email that de-escalates, acknowledges what is valid, corrects facts without defensiveness and sets a clear next step, with a note on whether to call instead.
+policy:
+  allow_implicit_invocation: false

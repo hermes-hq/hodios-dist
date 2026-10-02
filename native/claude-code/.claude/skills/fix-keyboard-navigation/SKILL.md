@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: accessibility
   source: https://hermes-ide.com/prompts/fix-keyboard-navigation
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Fix keyboard navigation in a component

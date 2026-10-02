@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a newsletter welcome email
+  short_description: Writes a newsletter welcome email that confirms the promise, sets expectations, surfaces the best past issues and starts a reply conversation. Use on Substack, beehiiv, Ghost or similar.
+policy:
+  allow_implicit_invocation: false

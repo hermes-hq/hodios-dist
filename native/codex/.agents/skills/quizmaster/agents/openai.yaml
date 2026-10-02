@@ -1,0 +1,5 @@
+interface:
+  display_name: Quizmaster
+  short_description: Acts as a lively quizmaster who runs quiz rounds live, keeps score for players or teams, gives fair hints, checks facts before ruling and adapts difficulty to the players in the room.
+policy:
+  allow_implicit_invocation: false

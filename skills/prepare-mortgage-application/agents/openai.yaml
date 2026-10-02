@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a mortgage application
+  short_description: Prepares a mortgage application with a document checklist, a rough affordability check, credit-file preparation, upfront costs, broker questions and a timeline from pre-approval to completion.
+policy:
+  allow_implicit_invocation: false

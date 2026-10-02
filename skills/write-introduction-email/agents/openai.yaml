@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an introduction email
+  short_description: Writes a double opt-in introduction, first the private ask to the person being introduced, then the intro email itself, with why the two should talk and an easy next step.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Map assumptions behind an idea
+  short_description: Maps the desirability, usability, feasibility and viability assumptions behind a product idea, ranks them by importance and evidence, and picks the riskiest ones to test first.
+policy:
+  allow_implicit_invocation: false

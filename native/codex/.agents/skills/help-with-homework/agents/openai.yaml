@@ -1,0 +1,5 @@
+interface:
+  display_name: Help with homework
+  short_description: Helps a parent support a child's homework without doing it for them, by explaining the concept at the child's level, giving guiding questions and handling frustration.
+policy:
+  allow_implicit_invocation: false

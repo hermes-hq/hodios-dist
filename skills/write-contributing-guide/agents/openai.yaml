@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a CONTRIBUTING guide
+  short_description: Writes a CONTRIBUTING.md from a repository's real setup, covering the dev environment, tests, branch and commit rules, PR checklist, review process and where newcomers can start.
+policy:
+  allow_implicit_invocation: false

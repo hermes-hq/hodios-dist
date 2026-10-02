@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a data request brief
+  short_description: Turns a vague stakeholder ask into a clear data request with the decision, exact metric definitions, filters, time range, format and deadline, plus open questions. Use when a data ask arrives vague.
+policy:
+  allow_implicit_invocation: false

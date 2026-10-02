@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for a standardised test section
+  short_description: Builds a strategy for one section of a standardised test such as the SAT, ACT, GRE, GMAT or LSAT, covering question types, timing, traps, a diagnostic and a drill plan. For students with a test date.
+policy:
+  allow_implicit_invocation: false

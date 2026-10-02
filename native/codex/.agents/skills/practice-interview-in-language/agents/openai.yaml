@@ -1,0 +1,5 @@
+interface:
+  display_name: Practise a job interview in a foreign language
+  short_description: Runs a job interview in the target language one question at a time, then reviews accuracy, register and content separately with better phrasings. For learners applying for jobs abroad.
+policy:
+  allow_implicit_invocation: false

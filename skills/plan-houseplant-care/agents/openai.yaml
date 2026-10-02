@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan houseplant care
+  short_description: Builds a care plan for each of your houseplants by light, watering, humidity, feeding and season, with a weekly routine, signs of trouble and pet safety. Use for a new collection or a struggling one.
+policy:
+  allow_implicit_invocation: false

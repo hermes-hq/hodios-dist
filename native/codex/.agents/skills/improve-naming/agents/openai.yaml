@@ -1,0 +1,5 @@
+interface:
+  display_name: Improve naming in code
+  short_description: Proposes clearer names for variables, functions, types and modules, explains each rename and applies them without changing behaviour. Use when code reads poorly because of its names.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Split shared expenses fairly
+  short_description: Designs a fair way for couples or housemates to split shared costs, comparing equal, income-proportional and usage-based splits with the maths and a simple tracking routine.
+policy:
+  allow_implicit_invocation: false

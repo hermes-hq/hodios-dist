@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: implementation
   source: https://hermes-ide.com/prompts/frontend-engineer
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Frontend engineer

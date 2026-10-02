@@ -1,0 +1,5 @@
+interface:
+  display_name: Create a shadowing script
+  short_description: Creates a shadowing script at the learner's level with stress, linking and intonation marks, chunked for repetition, plus a self-check routine. For learners improving fluency and accent.
+policy:
+  allow_implicit_invocation: false

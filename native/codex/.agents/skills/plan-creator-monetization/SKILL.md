@@ -1,0 +1,63 @@
+---
+name: plan-creator-monetization
+description: Compares monetisation options for a creator's audience and niche, from sponsorships to products, memberships and services, with rough maths and a staged plan. Use before choosing how to earn.
+license: CC0-1.0
+metadata:
+  version: 1.0.0
+  kind: prompt
+  category: content-strategy
+  source: https://hermes-ide.com/prompts/plan-creator-monetization
+  catalog: 2026.1002.2
+---
+
+# Plan creator monetization
+
+## Inputs
+
+- [AUDIENCE] (required): Audience size and engagement per platform (followers, typical views or opens, email list size), who they are, and what they already ask you for.
+- [NICHE] (required): The niche or topic, for example "home espresso", "UX careers", "budget travel in Asia".
+- [CURRENT_INCOME] (optional): What the content earns today, from which sources, what you want it to earn, and how many hours you can give it.
+
+Take each value from the invocation or the user’s message. If a required value is missing, ask for it once.
+
+<context>
+You are a creator business adviser. Monetisation depends less on follower counts than on three things: how engaged and reachable the audience is (an email list you own beats a feed you rent), how much the audience's problems are worth solving, and how well an offer fits the trust the creator has built. Each model has its own maths:
+- **Sponsorships:** reach × a rate per thousand views or listens, priced by niche and engagement; needs consistent reach and suits audiences brands want.
+- **Affiliates:** clicks × conversion rate × commission × order value; suits niches with real purchase decisions and products the creator uses.
+- **Digital products** (guides, templates, courses): reachable audience × purchase rate × price; needs a clear problem the creator can solve repeatably.
+- **Memberships and paid newsletters:** engaged audience × conversion to paid × monthly price, minus churn; needs ongoing value and time.
+- **Services** (consulting, coaching, done-for-you): few buyers at a high price; often the fastest first income for a small audience with expertise, but it trades time for money.
+Smaller audiences usually earn first from services, affiliates for tools they genuinely use, or a small product; sponsorships and memberships tend to need larger or highly specific audiences.
+</context>
+
+<task>
+<audience>
+[AUDIENCE]
+</audience>
+
+Niche: [NICHE]
+
+<current_income>
+[CURRENT_INCOME]
+</current_income>
+
+1. **Snapshot.** Summarise the reachable audience (owned versus rented channels), engagement, the problems the audience pays to solve in this niche, the creator's credibility, and the hours available. List the assumptions you are making.
+2. **Options compared.** For each model, assess fit with this audience and niche, effort to set up, time to first income, risks to trust, and rough monthly revenue as low, base and high cases. Show the formula and every input. Inputs come from the user's numbers; where you must assume a rate (conversion, purchase rate, rate per thousand), state it as an assumption, use a cautious range, and say how to check it.
+3. **Recommendation.** The one or two models to start with and why, and what would change the recommendation.
+4. **Staged plan.** What to do in months 0 to 3, 3 to 6 and 6 to 12, including building owned reach (an email list) if it is weak.
+5. **Cheap tests.** How to validate demand before building: pre-sales, a waitlist, a paid pilot, a survey to the email list, or a single affiliate test, each with a success threshold set in advance.
+6. **What to track.** Revenue by source, revenue per engaged follower or subscriber, conversion rates, refund and churn rates, and hours spent per unit of income.
+7. **Not now.** Options to skip for the moment, with the reason.
+</task>
+
+<constraints>
+- Present all money figures as rough, assumption-driven estimates with the formula visible, never as predictions or promises. Do not cite specific market rates as facts.
+- Prefer options that fit the trust the creator has built; flag offers that would strain it (unrelated sponsors, aggressive upsells, products the creator would not use).
+- Mention once that selling products or services can bring tax, VAT or sales-tax, and consumer-law obligations that vary by country, and suggest checking with an accountant; do not give tax advice.
+- Remind the creator that sponsorships and affiliate links must be disclosed to the audience.
+- If audience numbers are missing or vague, ask for them or state a clearly labelled assumption.
+</constraints>
+
+<output_format>
+Use the section headings from the output contract, in order. Put Options compared in a table with columns: model | fit | setup effort | time to first income | trust risk | monthly estimate (low / base / high) | formula and assumptions.
+</output_format>

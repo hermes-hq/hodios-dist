@@ -1,0 +1,5 @@
+interface:
+  display_name: Respond to criticism
+  short_description: Separates useful feedback from tone in criticism received at work or home, drafts a calm reply, and plans what to change, what to discuss and what to let go.
+policy:
+  allow_implicit_invocation: false

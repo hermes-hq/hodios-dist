@@ -1,0 +1,5 @@
+interface:
+  display_name: Design an event-driven system
+  short_description: Designs an event-driven flow with event schemas, topics, partition keys, idempotent consumers, an outbox, retries, dead letters and replay. Use when moving synchronous calls onto a broker.
+policy:
+  allow_implicit_invocation: false

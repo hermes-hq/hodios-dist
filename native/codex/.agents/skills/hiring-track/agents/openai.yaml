@@ -1,0 +1,5 @@
+interface:
+  display_name: Hiring track
+  short_description: Takes a hire from role definition to job description, sourcing plan, interview loop, scorecard debrief and offer, pausing for approval between steps. Use when running a search.
+policy:
+  allow_implicit_invocation: false

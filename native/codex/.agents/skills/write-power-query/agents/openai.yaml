@@ -1,0 +1,5 @@
+interface:
+  display_name: Write Power Query (M) steps
+  short_description: Writes Power Query (M) steps that import, clean, combine and reshape data with refresh-safe logic, explaining each step. Use in Excel or Power BI to automate data prep you redo by hand.
+policy:
+  allow_implicit_invocation: false

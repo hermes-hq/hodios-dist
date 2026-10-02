@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an escalation email
+  short_description: Writes an escalation to a manager, vendor or another team that states the issue, its impact, what was already tried and the specific decision or help needed by a date, without blame.
+policy:
+  allow_implicit_invocation: false

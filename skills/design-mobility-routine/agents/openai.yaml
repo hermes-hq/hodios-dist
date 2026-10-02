@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a mobility routine
+  short_description: Designs a short, timed mobility and stretching routine for stated stiffness or a sport, with form cues, easier and harder options, progression and when to see a professional.
+policy:
+  allow_implicit_invocation: false

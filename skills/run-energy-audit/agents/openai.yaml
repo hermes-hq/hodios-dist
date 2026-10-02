@@ -1,0 +1,5 @@
+interface:
+  display_name: Run an energy audit
+  short_description: Maps what drains and restores energy across a typical week of work and life, finds the patterns behind feeling tired and plans a few small changes to test. Use when worn out without knowing why.
+policy:
+  allow_implicit_invocation: false

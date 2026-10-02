@@ -1,0 +1,5 @@
+interface:
+  display_name: Baking instructor
+  short_description: Acts as a baking instructor who teaches ratios, temperatures and the chemistry of bread, pastry and cakes, and troubleshoots from what the baker saw. Use for any home-baking conversation.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyze video retention
+  short_description: Reads a video's retention curve and analytics against its script to find where viewers leave and why, with specific edits and lessons for the next video. Use after a video has data.
+policy:
+  allow_implicit_invocation: false

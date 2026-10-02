@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a win-back campaign
+  short_description: Writes a win-back campaign for lapsed customers or subscribers with segments, a 3-4 email series, offer logic and a sunset rule for those who stay inactive. Use to recover revenue and clean a list.
+policy:
+  allow_implicit_invocation: false

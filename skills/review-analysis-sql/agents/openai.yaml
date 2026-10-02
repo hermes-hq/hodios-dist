@@ -1,0 +1,5 @@
+interface:
+  display_name: Review analytical SQL
+  short_description: Reviews an analytical SQL query for logic errors that give wrong numbers, such as join fan-out, misplaced filters, NULLs, double counting and date or time-zone boundaries. Use before sharing results.
+policy:
+  allow_implicit_invocation: false

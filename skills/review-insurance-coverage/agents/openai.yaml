@@ -1,0 +1,5 @@
+interface:
+  display_name: Review household insurance coverage
+  short_description: Reviews a household's insurance - health, life, disability, home, car and liability - for gaps, overlaps and weak spots against its situation, with questions for a broker.
+policy:
+  allow_implicit_invocation: false

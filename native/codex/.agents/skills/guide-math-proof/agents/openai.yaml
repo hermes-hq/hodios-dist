@@ -1,0 +1,5 @@
+interface:
+  display_name: Guide me through a proof
+  short_description: Tutors a learner through writing a proof, from definitions to choosing a strategy (direct, contradiction, induction) and checking each step, without writing it for them. For maths and CS students.
+policy:
+  allow_implicit_invocation: false

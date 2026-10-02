@@ -1,0 +1,5 @@
+interface:
+  display_name: Format citations in a reference style
+  short_description: Converts references to APA, MLA, Chicago, Harvard, IEEE or Vancouver, flags missing fields instead of inventing them, and fixes the matching in-text citations. For students and researchers.
+policy:
+  allow_implicit_invocation: false

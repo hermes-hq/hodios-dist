@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a conference talk proposal
+  short_description: Writes a CFP submission with title options, abstract, timed outline, takeaways and notes for reviewers, aimed at the event's audience and selection criteria. Use for engineers and developer advocates.
+policy:
+  allow_implicit_invocation: false

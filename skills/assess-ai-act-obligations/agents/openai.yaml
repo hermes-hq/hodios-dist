@@ -1,0 +1,5 @@
+interface:
+  display_name: Assess EU AI Act obligations
+  short_description: Maps an AI system to the EU AI Act's risk categories and roles such as provider or deployer, and lists the likely obligations and application dates to verify with counsel.
+policy:
+  allow_implicit_invocation: false

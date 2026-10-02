@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a survival budget
+  short_description: Builds a survival budget when income does not cover essentials, ranking priority bills, cuts, income options, help to check and how to contact creditors before arrears grow.
+policy:
+  allow_implicit_invocation: false

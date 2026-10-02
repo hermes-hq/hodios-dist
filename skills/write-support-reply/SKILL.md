@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: customer-support
   source: https://hermes-ide.com/prompts/write-support-reply
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Write a customer support reply

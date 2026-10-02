@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a plot twist
+  short_description: Designs plot twists that feel surprising yet inevitable, naming the reader's false assumption, the reveal, which clues to plant where and how to hide them. Use for novels and screenplays.
+policy:
+  allow_implicit_invocation: false

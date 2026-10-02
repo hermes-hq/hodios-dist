@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: sales
   source: https://hermes-ide.com/prompts/prepare-discovery-call
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Prepare a discovery call

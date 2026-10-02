@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a release
+  short_description: Builds a release plan with scope per release, dependencies, milestones, a feature-flag rollout strategy, go or no-go checks, a scope-cut order and a communications timeline.
+policy:
+  allow_implicit_invocation: false

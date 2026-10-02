@@ -1,0 +1,5 @@
+interface:
+  display_name: Write C4 architecture diagrams
+  short_description: Produces C4 context, container and optionally component diagrams as Mermaid, PlantUML or Structurizr DSL from a codebase or description, with a legend and stated assumptions.
+policy:
+  allow_implicit_invocation: false

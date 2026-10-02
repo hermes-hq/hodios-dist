@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: social-media
   source: https://hermes-ide.com/prompts/reply-to-comments
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Reply to comments and DMs

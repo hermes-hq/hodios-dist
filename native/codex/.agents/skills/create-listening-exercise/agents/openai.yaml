@@ -1,0 +1,5 @@
+interface:
+  display_name: Create a listening exercise
+  short_description: Writes a CEFR-levelled listening exercise with a natural dialogue script for text-to-speech or a partner, pre-listening vocabulary, questions, a dictation and an answer key.
+policy:
+  allow_implicit_invocation: false

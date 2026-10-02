@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: email
   source: https://hermes-ide.com/prompts/write-professional-email
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Write a professional email

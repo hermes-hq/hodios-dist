@@ -1,0 +1,5 @@
+interface:
+  display_name: Moving house track
+  short_description: Takes a household through a move step by step, from timeline and decluttering to movers, address changes, a packing plan and the first week, pausing for approval between steps.
+policy:
+  allow_implicit_invocation: false

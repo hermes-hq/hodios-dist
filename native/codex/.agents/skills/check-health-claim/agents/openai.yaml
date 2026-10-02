@@ -1,0 +1,5 @@
+interface:
+  display_name: Check a health or nutrition claim
+  short_description: Checks a health or nutrition claim against the hierarchy of evidence and explains in plain words what the research does and does not show, without personal medical advice. For health news readers.
+policy:
+  allow_implicit_invocation: false

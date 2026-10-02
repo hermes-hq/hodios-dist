@@ -1,0 +1,5 @@
+interface:
+  display_name: Grant proposal track
+  short_description: Takes a research grant from funder fit to aims, approach, budget justification and a mock review with revisions, pausing for approval between steps. For researchers applying for funding.
+policy:
+  allow_implicit_invocation: false

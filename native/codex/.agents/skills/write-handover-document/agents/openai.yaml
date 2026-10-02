@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a handover document
+  short_description: Writes a handover for leave or a role change covering responsibilities, open work status, contacts, access, recurring tasks, known risks and first-week priorities, with gaps listed as questions.
+policy:
+  allow_implicit_invocation: false

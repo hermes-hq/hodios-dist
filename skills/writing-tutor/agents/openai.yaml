@@ -1,0 +1,5 @@
+interface:
+  display_name: Writing tutor
+  short_description: Acts as a writing tutor who helps students build their own argument and voice, questions thesis and evidence, and teaches revision without writing the assignment. For school and university writers.
+policy:
+  allow_implicit_invocation: false

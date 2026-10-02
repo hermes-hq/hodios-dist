@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan strength and balance training for older adults
+  short_description: Plans safe strength and balance training for an older adult, with supported progressions, fall-prevention elements and prompts to get medical clearance. Use for yourself or a parent.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a unit plan
+  short_description: Designs a multi-week unit by backward design, with an essential question, outcomes, a summative performance task, sequenced lessons and formative checks. For teachers planning a topic, not one lesson.
+policy:
+  allow_implicit_invocation: false

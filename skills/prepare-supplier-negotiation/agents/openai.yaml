@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a supplier negotiation
+  short_description: Prepares a buyer-side negotiation with a supplier or landlord - benchmarks to check, leverage, asks and trades, BATNA, walk-away point and scripts. For small business owners and buyers.
+policy:
+  allow_implicit_invocation: false

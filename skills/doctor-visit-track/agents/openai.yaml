@@ -1,0 +1,5 @@
+interface:
+  display_name: Doctor visit track
+  short_description: Takes a patient or carer through one appointment, from symptom summary and questions to visit notes and an after-visit plan with follow-ups, pausing between steps. Use for any planned visit.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Bugfix track
+  short_description: Takes a bug from report to reproduction, root cause, regression test, minimal fix and a verified pull request, stopping for approval between steps. Use for any bug worth fixing properly.
+policy:
+  allow_implicit_invocation: false

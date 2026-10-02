@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a feature sunset
+  short_description: Plans retiring a feature with user and revenue impact, migration paths, a dated timeline, communications by segment, support preparation and data handling. Use when reducing product surface.
+policy:
+  allow_implicit_invocation: false

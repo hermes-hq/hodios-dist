@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a session recap
+  short_description: Turns a game master's rough notes into a read-aloud recap and catch-up bullets safe to share with players, plus a separate GM-only part with loose threads and hooks for the next session.
+policy:
+  allow_implicit_invocation: false

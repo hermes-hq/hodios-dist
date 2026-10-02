@@ -1,0 +1,5 @@
+interface:
+  display_name: Handle a social media backlash
+  short_description: Plans the response to a social media backlash with a severity assessment, facts to confirm, a holding statement, a full response, what not to do and monitoring. Use when criticism spreads.
+policy:
+  allow_implicit_invocation: false

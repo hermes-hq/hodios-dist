@@ -1,0 +1,5 @@
+interface:
+  display_name: Instrument a service for observability
+  short_description: Plans and adds logs, metrics and traces using OpenTelemetry conventions, golden signals, useful log fields, cardinality limits and first dashboards. Use when a service is hard to debug in production.
+policy:
+  allow_implicit_invocation: false

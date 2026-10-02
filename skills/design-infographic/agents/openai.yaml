@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan an infographic
+  short_description: Plans an infographic around one message, with the information hierarchy, chart and icon choices, a layout in zones, the copy and source notes. Use when turning data or a story into a single graphic.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Reduce LLM costs and latency
+  short_description: Cuts an LLM feature's cost and latency through prompt trimming, caching, model routing, batching and output limits, each paired with the quality check that proves nothing regressed.
+policy:
+  allow_implicit_invocation: false

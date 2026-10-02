@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a creator media kit
+  short_description: Writes a creator media kit with an audience snapshot, reach and engagement figures, formats, past partnerships, packages and rates. Use before approaching brands or answering their enquiries.
+policy:
+  allow_implicit_invocation: false

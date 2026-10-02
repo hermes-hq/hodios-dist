@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a donor appeal
+  short_description: Writes a donor appeal letter or email built on one person's story, the specific impact of a gift and a clear ask with amounts, plus subject lines and a follow-up. For nonprofits and charities.
+policy:
+  allow_implicit_invocation: false

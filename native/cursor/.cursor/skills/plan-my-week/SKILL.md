@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: task-management
   source: https://hermes-ide.com/prompts/plan-my-week
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Plan my week

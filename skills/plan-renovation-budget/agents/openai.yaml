@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a renovation budget
+  short_description: Builds a renovation budget with line items, price ranges to verify locally, contingency, often-missed costs and phasing options. Use before asking for quotes or committing money to a project.
+policy:
+  allow_implicit_invocation: false

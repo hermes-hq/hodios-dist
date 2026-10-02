@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: accounting
   source: https://hermes-ide.com/prompts/set-up-chart-of-accounts
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Set up a chart of accounts

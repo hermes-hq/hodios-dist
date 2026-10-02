@@ -1,0 +1,5 @@
+interface:
+  display_name: Design an e-learning module
+  short_description: Designs a self-paced e-learning module with objectives, a screen-by-screen storyboard, interactions, knowledge checks and accessibility notes. For instructional designers and L&D teams.
+policy:
+  allow_implicit_invocation: false

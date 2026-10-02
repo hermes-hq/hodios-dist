@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a room layout
+  short_description: Plans a room layout from its dimensions and your needs, with zones, walkway clearances, furniture sizes, lighting and a text floor plan. Use before buying furniture or moving into a new place.
+policy:
+  allow_implicit_invocation: false

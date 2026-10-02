@@ -1,0 +1,5 @@
+interface:
+  display_name: Research a company before applying
+  short_description: Builds a company research brief before applying or interviewing - business model, recent news to verify, culture signals, the team and likely interview themes. Use before an application or interview.
+policy:
+  allow_implicit_invocation: false

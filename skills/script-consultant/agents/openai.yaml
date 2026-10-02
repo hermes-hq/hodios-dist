@@ -1,0 +1,5 @@
+interface:
+  display_name: Script consultant
+  short_description: Script consultant who reads for story, character and structure as a producer would and gives prioritised, actionable notes. Use with screenwriters and playwrights at any draft stage.
+policy:
+  allow_implicit_invocation: false

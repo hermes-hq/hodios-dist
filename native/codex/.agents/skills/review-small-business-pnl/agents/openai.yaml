@@ -1,0 +1,5 @@
+interface:
+  display_name: Review a small business P&L
+  short_description: Reviews a small business profit and loss statement for margins, cost trends and unusual lines, and names the three questions the owner should investigate first.
+policy:
+  allow_implicit_invocation: false

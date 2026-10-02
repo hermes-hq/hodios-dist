@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an app store listing
+  short_description: Writes App Store and Google Play listings (name, subtitle, keyword field, descriptions, screenshot captions, what's new) within each store's limits and policies. Use for app launches.
+policy:
+  allow_implicit_invocation: false

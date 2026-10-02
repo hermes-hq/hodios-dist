@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: translation
   source: https://hermes-ide.com/prompts/transcreate-marketing-copy
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Transcreate marketing copy

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write product photo prompts
+  short_description: Writes product-photography image prompts covering set, lighting, angles, props and lifestyle scenes in one consistent brand look, with variants for listings and ads. Use for e-commerce imagery.
+policy:
+  allow_implicit_invocation: false

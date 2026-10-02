@@ -1,0 +1,5 @@
+interface:
+  display_name: Negotiate with a creditor
+  short_description: Prepares a negotiation with a creditor for a hardship plan, reduced payments or a settlement - budget summary, the ask, a call script and a letter - plus free debt-advice options.
+policy:
+  allow_implicit_invocation: false

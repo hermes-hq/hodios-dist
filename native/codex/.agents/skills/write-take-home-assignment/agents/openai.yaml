@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a take-home assignment
+  short_description: Designs a fair take-home or work-sample task with realistic scope, a time box, a scoring rubric, accommodations and what candidates receive afterwards. Use when adding a work sample to hiring.
+policy:
+  allow_implicit_invocation: false

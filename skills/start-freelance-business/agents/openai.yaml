@@ -1,0 +1,5 @@
+interface:
+  display_name: Start a freelance business
+  short_description: Sets up a freelance business - niche and offer, pricing model, portfolio, client acquisition, an admin and contract checklist, and a first-90-days plan. Use when going independent.
+policy:
+  allow_implicit_invocation: false

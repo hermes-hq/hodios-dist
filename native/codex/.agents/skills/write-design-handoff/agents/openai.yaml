@@ -1,0 +1,5 @@
+interface:
+  display_name: Write design handoff notes
+  short_description: Writes design handoff notes for engineers covering flows, states, interactions, responsive rules, tokens, edge cases, acceptance criteria and open questions. Use when passing a design to development.
+policy:
+  allow_implicit_invocation: false

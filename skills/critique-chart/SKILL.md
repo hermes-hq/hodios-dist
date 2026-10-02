@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data-visualization
   source: https://hermes-ide.com/prompts/critique-chart
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Critique a chart

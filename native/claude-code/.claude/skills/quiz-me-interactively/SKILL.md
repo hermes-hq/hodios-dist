@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: exam-prep
   source: https://hermes-ide.com/prompts/quiz-me-interactively
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Quiz me interactively

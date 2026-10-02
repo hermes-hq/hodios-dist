@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a customer business review
+  short_description: Prepares a customer quarterly business review - outcomes against their goals, usage insights, issues and fixes, relevant roadmap and agreed next steps. For account managers and CSMs.
+policy:
+  allow_implicit_invocation: false

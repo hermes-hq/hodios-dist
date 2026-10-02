@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an analytics tracking plan
+  short_description: Writes an analytics tracking plan with consistently named events and properties, when each fires, the question it answers, privacy notes and QA steps. Use when instrumenting a feature.
+policy:
+  allow_implicit_invocation: false

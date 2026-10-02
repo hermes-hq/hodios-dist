@@ -1,5 +1,0 @@
-interface:
-  display_name: Respond to a leaked secret
-  short_description: Guides the response to a leaked credential in the right order - revoke and rotate, scope the blast radius, purge copies and prevent a repeat. Use the moment a key, token or password is exposed.
-policy:
-  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Investing educator
+  short_description: Acts as an investing educator who explains concepts, risk and costs with worked numbers, gives no personal recommendations and points to licensed advisers for decisions.
+policy:
+  allow_implicit_invocation: false

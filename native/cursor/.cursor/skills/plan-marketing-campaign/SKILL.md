@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: marketing-strategy
   source: https://hermes-ide.com/prompts/plan-marketing-campaign
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Plan a marketing campaign

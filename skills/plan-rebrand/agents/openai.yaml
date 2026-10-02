@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a rebrand
+  short_description: Plans a rebrand by testing the reasons and risks, auditing what to keep, setting research, rollout across touchpoints, communications and success measures. Use when a company outgrows its brand.
+policy:
+  allow_implicit_invocation: false

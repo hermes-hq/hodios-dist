@@ -1,0 +1,5 @@
+interface:
+  display_name: Make a big life decision
+  short_description: Guides a big personal decision such as moving, a career change, a relationship or education through values, real options, regret, reversibility and a cheap test to run first.
+policy:
+  allow_implicit_invocation: false

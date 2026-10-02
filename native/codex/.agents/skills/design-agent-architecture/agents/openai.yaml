@@ -1,0 +1,5 @@
+interface:
+  display_name: Design an LLM agent architecture
+  short_description: Designs an LLM agent system, deciding first whether an agent is needed, then single or multi-agent, tools, memory, guardrails, human checkpoints, evals and cost limits.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Give feedback to your manager
+  short_description: Prepares feedback to a manager or senior colleague with what to say, framing around shared goals, when and where to raise it, and how to respond if they get defensive.
+policy:
+  allow_implicit_invocation: false

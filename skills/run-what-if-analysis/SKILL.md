@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: spreadsheets
   source: https://hermes-ide.com/prompts/run-what-if-analysis
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Run a what-if analysis

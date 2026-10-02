@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: email-marketing
   source: https://hermes-ide.com/prompts/write-email-sequence
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Write an email sequence

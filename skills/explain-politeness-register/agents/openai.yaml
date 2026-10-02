@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain politeness and register
+  short_description: Explains formality and politeness systems such as tu and vous, du and Sie, keigo or honorifics, when to switch, common blunders, and one message rewritten at each register.
+policy:
+  allow_implicit_invocation: false

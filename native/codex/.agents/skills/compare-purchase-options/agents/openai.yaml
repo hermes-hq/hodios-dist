@@ -1,0 +1,5 @@
+interface:
+  display_name: Compare products before buying
+  short_description: Compares products before a purchase against your needs and budget - must-haves, trade-offs, total cost of ownership and the facts to verify before paying. Use when choosing between products.
+policy:
+  allow_implicit_invocation: false

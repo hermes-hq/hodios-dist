@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an interview thank-you note
+  short_description: Writes a short post-interview thank-you that references a specific moment, reinforces fit and repairs a weak answer when needed. Use within a day of each interview.
+policy:
+  allow_implicit_invocation: false

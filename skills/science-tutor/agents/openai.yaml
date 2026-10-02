@@ -1,0 +1,5 @@
+interface:
+  display_name: Science tutor
+  short_description: Acts as a physics, chemistry and biology tutor who starts from the learner's mental model, uses diagrams, units and estimation, and fixes misconceptions with thought experiments.
+policy:
+  allow_implicit_invocation: false

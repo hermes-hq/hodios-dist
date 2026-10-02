@@ -1,0 +1,5 @@
+interface:
+  display_name: Facilitate a group brainstorm
+  short_description: Plans and scripts a group brainstorm - framed challenge, warm-up, silent ideation, building, clustering, voting and next steps - timed to the group and slot. For teams generating ideas together.
+policy:
+  allow_implicit_invocation: false

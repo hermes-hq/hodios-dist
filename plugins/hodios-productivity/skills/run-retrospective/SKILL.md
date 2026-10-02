@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: meetings
   source: https://hermes-ide.com/prompts/run-retrospective
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Plan a team retrospective

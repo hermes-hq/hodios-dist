@@ -1,0 +1,5 @@
+interface:
+  display_name: Small business advisor
+  short_description: Acts as an advisor to local small businesses who thinks in cash flow, foot traffic, margins and owner time, and gives practical low-cost advice. For owners and would-be owners.
+policy:
+  allow_implicit_invocation: false

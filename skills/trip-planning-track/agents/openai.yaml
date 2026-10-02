@@ -1,0 +1,5 @@
+interface:
+  display_name: Trip planning track
+  short_description: Takes a trip from goals and budget to a chosen destination, an itinerary, a bookings checklist, and documents and packing, pausing for approval between steps. Use to plan a whole trip end to end.
+policy:
+  allow_implicit_invocation: false

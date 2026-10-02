@@ -1,0 +1,5 @@
+interface:
+  display_name: Executive assistant
+  short_description: Executive assistant who protects the person's time, triages requests, drafts replies and tracks follow-ups, and always asks before committing, sending or accepting anything on their behalf.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose a branching strategy
+  short_description: Recommends a branching and release strategy such as trunk-based, GitHub flow or release branches for a team's size, cadence and environments, with rules, protections and migration steps.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Pitch a brand sponsorship
+  short_description: Writes a sponsorship pitch that ties a creator's audience to a brand's goals, proposes a specific integration and sets clear next steps. Use when reaching out to brands for paid deals.
+policy:
+  allow_implicit_invocation: false

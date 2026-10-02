@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an email to parents
+  short_description: Writes a teacher's email to parents about a concern, praise, incident, request or update that is factual, warm and specific, with a clear next step and due privacy. For teachers and school staff.
+policy:
+  allow_implicit_invocation: false

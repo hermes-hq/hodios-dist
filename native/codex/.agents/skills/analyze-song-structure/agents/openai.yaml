@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse a song's structure
+  short_description: Analyses a song's sections, hook placement, chord movement, rhyme scheme, prosody and dynamics to show why it works, with lessons and exercises for your own writing. Use to study songs.
+policy:
+  allow_implicit_invocation: false

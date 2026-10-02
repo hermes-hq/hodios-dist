@@ -1,0 +1,5 @@
+interface:
+  display_name: Detect anomalies in data
+  short_description: Finds anomalies in a metric or dataset with methods that fit its shape (thresholds, seasonality, robust z-scores), ranks them, and separates data errors from real events. Use when monitoring data.
+policy:
+  allow_implicit_invocation: false

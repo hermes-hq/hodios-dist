@@ -1,0 +1,5 @@
+interface:
+  display_name: Delegate a task well
+  short_description: Plans how to delegate a task - who should take it, the level of autonomy, a brief with outcome and constraints, and check-in points. Use when you are holding on to work someone else could own.
+policy:
+  allow_implicit_invocation: false

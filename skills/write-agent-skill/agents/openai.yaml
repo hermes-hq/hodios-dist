@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an agent skill
+  short_description: Writes a reusable agent skill (SKILL.md with frontmatter, steps, scripts and references) from a repeated task, with a trigger description models can match and a test plan. Use to package a workflow.
+policy:
+  allow_implicit_invocation: false

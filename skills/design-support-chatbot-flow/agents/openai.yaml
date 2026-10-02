@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a support chatbot flow
+  short_description: Designs a support chatbot or AI agent flow - intents, answers grounded in help content, escalation triggers, human handover and quality checks. Use when adding automation to a support team.
+policy:
+  allow_implicit_invocation: false

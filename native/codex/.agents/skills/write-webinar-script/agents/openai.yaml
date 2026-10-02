@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a webinar script
+  short_description: Writes a timed webinar script with opening, agenda, teaching segments, polls, demo transitions, Q&A handling and a call to action, built to keep a remote audience engaged to the end.
+policy:
+  allow_implicit_invocation: false

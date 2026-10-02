@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan sports fuelling and hydration
+  short_description: Explains general fuelling and hydration before, during and after training and events for a sport, with practical food examples, a race-day plan and signs it is time to see a sports dietitian.
+policy:
+  allow_implicit_invocation: false

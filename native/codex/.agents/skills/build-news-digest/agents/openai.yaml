@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a news digest
+  short_description: Turns several articles into a short briefing - key developments, where sources agree or disagree, what is genuinely new and what to watch next - with every point traced to its source.
+policy:
+  allow_implicit_invocation: false

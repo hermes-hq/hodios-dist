@@ -1,0 +1,5 @@
+interface:
+  display_name: Optimise for AI search
+  short_description: Optimises a page or site to be cited in AI answers through answerable sections, clear entities, evidence, structured data and crawler access, plus measurement. Use when adapting to AI search.
+policy:
+  allow_implicit_invocation: false

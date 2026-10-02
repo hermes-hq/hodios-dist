@@ -1,0 +1,5 @@
+interface:
+  display_name: Audit a content library
+  short_description: Audits existing content against performance data to decide keep, update, merge or remove for each piece, and finds topic gaps. Use when a back catalogue has grown messy or stale.
+policy:
+  allow_implicit_invocation: false

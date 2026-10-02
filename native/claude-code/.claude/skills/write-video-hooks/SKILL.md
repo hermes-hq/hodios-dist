@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: video
   source: https://hermes-ide.com/prompts/write-video-hooks
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Write video hooks

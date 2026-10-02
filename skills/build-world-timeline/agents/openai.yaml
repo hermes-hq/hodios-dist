@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a world timeline
+  short_description: Builds a fictional world's history as eras and pivotal events with causes, lasting consequences and contested memories that feed the present-day story's conflict. Use for novels, games and campaigns.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Academic integrity rules
+  short_description: Standing rules that keep an assistant within academic integrity. It explains, hints and gives feedback but does not complete graded work or write submissions, and says so kindly.
+policy:
+  allow_implicit_invocation: false

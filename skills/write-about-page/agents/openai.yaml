@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an About page
+  short_description: Writes an About page that starts with the customer's problem, then tells the origin story, values and proof, and ends in a clear next step. Use for small businesses, freelancers and startups.
+policy:
+  allow_implicit_invocation: false

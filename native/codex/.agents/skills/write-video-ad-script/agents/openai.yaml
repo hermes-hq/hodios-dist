@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a video ad script
+  short_description: Writes YouTube, TikTok or Meta video ad scripts with a scroll-stopping hook, problem and demo, proof and CTA, in several lengths with shot notes and on-screen text. Use for performance video ads.
+policy:
+  allow_implicit_invocation: false

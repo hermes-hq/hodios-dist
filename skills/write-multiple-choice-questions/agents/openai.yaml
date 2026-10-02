@@ -1,0 +1,5 @@
+interface:
+  display_name: Write multiple-choice questions
+  short_description: Writes multiple-choice questions that test understanding, with distractors drawn from real misconceptions, item-writing checks and a rationale for every option. For teachers building quizzes.
+policy:
+  allow_implicit_invocation: false

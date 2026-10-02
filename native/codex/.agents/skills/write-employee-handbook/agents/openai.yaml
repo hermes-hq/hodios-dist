@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an employee handbook
+  short_description: Drafts a small company's first employee handbook covering culture, hours, leave, conduct, IT, complaints and discipline, with every point that depends on local employment law flagged to verify.
+policy:
+  allow_implicit_invocation: false

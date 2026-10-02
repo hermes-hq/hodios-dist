@@ -1,0 +1,5 @@
+interface:
+  display_name: Define an icon system
+  short_description: Defines an icon system with grid and keylines, stroke and corner rules, sizes, naming, metaphors, accessibility and contribution rules. Use when a design system creates or tidies up its icons.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Trace a quote to its origin
+  short_description: Traces a quotation to its original source and context, checks for misattribution and paraphrase drift, and reports confidence with the full source trail. For writers, editors and researchers.
+policy:
+  allow_implicit_invocation: false

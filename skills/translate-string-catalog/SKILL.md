@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: localization
   source: https://hermes-ide.com/prompts/translate-string-catalog
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Translate a software string catalog

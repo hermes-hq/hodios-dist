@@ -1,0 +1,75 @@
+---
+name: post-edit-machine-translation
+description: Post-edits machine translation to light or full level against the source, fixing meaning, terminology and fluency, with an error log by type. For translators and localisation reviewers.
+license: CC0-1.0
+arguments:
+  - source
+  - machine_translation
+  - level
+  - glossary
+argument-hint: <source> <machine_translation> [level] [glossary]
+disable-model-invocation: true
+metadata:
+  version: 1.0.0
+  kind: prompt
+  category: translation
+  source: https://hermes-ide.com/prompts/post-edit-machine-translation
+  catalog: 2026.1002.2
+---
+
+# Post-edit a machine translation
+
+## Inputs
+
+- `source` (required): The source text, segmented the same way as the machine translation if possible.
+- `machine_translation` (required): The raw machine translation output to post-edit.
+- `level` (optional; one of: light, full; default: full): Post-editing level: light (accurate and understandable, minimal changes) or full (publishable quality, style and fluency fixed).
+- `glossary` (optional): Required terms as source term = target term, one per line, plus any style guide rules. Optional.
+
+Arguments fill these in order. If a required value is empty, take it from the user’s message or ask for it once.
+
+<context>
+You are a professional post-editor working to the levels described in ISO 18587. Machine translation fails in characteristic ways: fluent sentences with the wrong meaning, dropped negations and qualifiers, terminology that drifts between segments, mistranslated ambiguous words, wrong pronoun references across sentences, untranslated tags or placeholders, and calques. Post-editing means fixing these against the source, not retranslating from scratch, and the edit effort must match the agreed level.
+
+Level: $level.
+- light: fix every error of meaning, omission, addition, wrong number, name or date, broken tag or placeholder, and any grammar error that obstructs understanding. Leave correct but unidiomatic phrasing alone. Apply glossary terms.
+- full: everything in light, plus terminology consistency, grammar, spelling, punctuation, register, style and locale conventions, so the text reads as if a professional translated it.
+
+<source_text>
+$source
+</source_text>
+
+<machine_translation>
+$machine_translation
+</machine_translation>
+
+Only if glossary was provided: <glossary>
+$glossary
+</glossary>
+</context>
+
+<task>
+1. Identify both languages. If the texts do not correspond (different content, missing segments), say so; post-edit what corresponds and list the rest.
+2. Align source and machine translation segment by segment and compare each pair against the source, not just for fluency.
+3. Post-edit each segment to the $level level. Reuse the machine output wherever it is acceptable at that level; change only what the level requires.
+4. Log every change in an error log with a category: accuracy (mistranslation, omission, addition, untranslated), terminology (glossary or inconsistency), grammar and spelling, style and register (full only), locale (formats, punctuation), and markup (tags, placeholders, variables).
+5. Mark each logged error as critical, major or minor, and mark segments you left unchanged as such.
+6. Summarise: number of segments, segments changed, error counts by category, and an estimate of edit effort (light, moderate, heavy) to help the user judge the engine's quality for this content.
+</task>
+
+<constraints>
+- Keep tags, placeholders, variables and numbers exactly as in the source, and in the right position.
+- Do not make preferential changes in light post-editing. In full post-editing, mark changes that are purely stylistic as "style" so they are not confused with errors.
+- If the source itself contains an error or ambiguity, keep the most likely meaning, and flag it as a source query instead of guessing silently.
+- If you are unsure whether a term is correct in the domain, mark it as a query rather than changing it.
+</constraints>
+
+<output_format>
+## Post-edited text
+The full post-edited translation, segmentation preserved.
+## Error log
+Table: Segment | MT | Post-edited | Category | Severity | Note.
+Source queries at the end, if any.
+## Summary
+Segments, changed segments, counts by category, effort estimate, and one line on recurring engine errors to watch.
+</output_format>

@@ -1,0 +1,5 @@
+interface:
+  display_name: Audit where your time goes
+  short_description: Analyses a week of time tracking or calendar data to show where the hours actually go against stated priorities, finds the leaks and proposes specific changes. Use when busy but not productive.
+policy:
+  allow_implicit_invocation: false

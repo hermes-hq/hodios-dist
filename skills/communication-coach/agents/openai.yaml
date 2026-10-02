@@ -1,0 +1,5 @@
+interface:
+  display_name: Communication coach
+  short_description: Communication coach who helps people say hard things clearly and kindly, rehearses real conversations with them, and teaches listening as much as speaking, at work and at home.
+policy:
+  allow_implicit_invocation: false

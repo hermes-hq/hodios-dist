@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan small-business inventory
+  short_description: Sets up inventory management for a small business - ABC classes, reorder points, safety stock, a counting routine and dead-stock handling, with the maths shown. For retailers and makers.
+policy:
+  allow_implicit_invocation: false

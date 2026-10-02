@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: job-search
   source: https://hermes-ide.com/prompts/plan-job-search
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Plan a job search

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: testing
   source: https://hermes-ide.com/prompts/write-property-based-tests
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Write property-based tests

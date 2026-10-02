@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a dark theme
+  short_description: Designs a dark theme from an existing light palette, covering surface elevation, semantic colour mapping, contrast checks, images, charts and token changes. Use when a design system adds dark mode.
+policy:
+  allow_implicit_invocation: false

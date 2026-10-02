@@ -1,0 +1,5 @@
+interface:
+  display_name: Chase a late payment
+  short_description: Writes an escalating reminder sequence for an overdue invoice, from a friendly nudge to a final notice, with a call script, a payment-plan offer and lawful next steps.
+policy:
+  allow_implicit_invocation: false

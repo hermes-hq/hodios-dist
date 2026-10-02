@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan the tax side of moving abroad
+  short_description: Lists the tax questions to resolve when moving countries - residency tests, exit rules, treaties, double taxation, pensions and foreign-asset reporting - with a timeline and who to ask.
+policy:
+  allow_implicit_invocation: false

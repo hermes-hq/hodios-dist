@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: implementation
   source: https://hermes-ide.com/prompts/implement-feature-from-spec
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Implement a feature from a spec

@@ -1,0 +1,5 @@
+interface:
+  display_name: Create a paper edit
+  short_description: Builds a paper edit from interview or footage transcripts with selects, sequence, timecodes, b-roll and graphics cues and a target runtime. Use before opening the editing software.
+policy:
+  allow_implicit_invocation: false

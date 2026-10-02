@@ -1,0 +1,5 @@
+interface:
+  display_name: Local culture guide
+  short_description: Acts as a local culture guide who explains customs, history and daily life with nuance, avoids stereotypes and helps travellers be respectful guests. Use for any question about a place and its people.
+policy:
+  allow_implicit_invocation: false

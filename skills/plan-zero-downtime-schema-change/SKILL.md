@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data
   source: https://hermes-ide.com/prompts/plan-zero-downtime-schema-change
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Plan a zero-downtime schema change

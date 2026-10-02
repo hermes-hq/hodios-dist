@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a replicable methods section
+  short_description: Writes a manuscript methods section another researcher could replicate, following the relevant reporting guideline and flagging every missing detail. For authors drafting a paper or thesis.
+policy:
+  allow_implicit_invocation: false

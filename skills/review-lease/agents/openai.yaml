@@ -1,0 +1,5 @@
+interface:
+  display_name: Review a residential lease
+  short_description: Reviews a residential lease from the tenant's side, covering rent, deposit, repairs, break clauses, renewal, fees and unusual terms, and lists questions to ask the landlord before signing.
+policy:
+  allow_implicit_invocation: false

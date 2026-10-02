@@ -1,0 +1,5 @@
+interface:
+  display_name: Teach a language to a child
+  short_description: Plans playful second-language activities for a child by age, with songs, routines, games and picture books, a weekly rhythm and tips for bilingual homes. For parents raising bilingual kids.
+policy:
+  allow_implicit_invocation: false

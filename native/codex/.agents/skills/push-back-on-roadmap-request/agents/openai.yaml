@@ -1,0 +1,5 @@
+interface:
+  display_name: Push back on a roadmap request
+  short_description: Drafts a reply to a stakeholder's urgent feature request that acknowledges the need, shows the trade-off against current priorities and offers a real path or alternative without burning bridges.
+policy:
+  allow_implicit_invocation: false

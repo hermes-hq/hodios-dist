@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: performance
   source: https://hermes-ide.com/prompts/fix-n-plus-one-queries
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Fix N+1 queries

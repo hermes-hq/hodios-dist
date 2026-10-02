@@ -1,0 +1,5 @@
+interface:
+  display_name: Compare loan offers
+  short_description: Compares loan or credit offers on APR, total cost, fees, flexibility and risk, with a repayment schedule view, an affordability check and questions to ask each lender.
+policy:
+  allow_implicit_invocation: false

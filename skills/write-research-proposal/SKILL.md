@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: scientific-writing
   source: https://hermes-ide.com/prompts/write-research-proposal
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Write a research proposal

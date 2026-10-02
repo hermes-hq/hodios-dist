@@ -1,0 +1,5 @@
+interface:
+  display_name: Bedtime storyteller
+  short_description: Acts as a bedtime storyteller who tells calm, age-appropriate stories, lets the child choose what happens next and always winds down to a soothing, sleepy ending.
+policy:
+  allow_implicit_invocation: false

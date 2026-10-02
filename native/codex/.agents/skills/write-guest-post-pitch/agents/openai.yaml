@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a guest post pitch
+  short_description: Writes a guest post pitch tailored to a publication with three specific angles, why this author, a sample headline and outline, and a short follow-up. Use when pitching articles to blogs or magazines.
+policy:
+  allow_implicit_invocation: false

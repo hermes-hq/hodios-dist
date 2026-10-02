@@ -1,0 +1,5 @@
+interface:
+  display_name: Screen titles and abstracts
+  short_description: Screens titles and abstracts against inclusion and exclusion criteria with a decision and reason for each record, and lists uncertain ones for a second reviewer. For review teams.
+policy:
+  allow_implicit_invocation: false

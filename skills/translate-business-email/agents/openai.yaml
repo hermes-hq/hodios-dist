@@ -1,0 +1,5 @@
+interface:
+  display_name: Translate a business email
+  short_description: Translates a business email and adapts it to the recipient's business culture (directness, formality, greetings, sign-offs), noting each adjustment. For professionals writing across languages.
+policy:
+  allow_implicit_invocation: false

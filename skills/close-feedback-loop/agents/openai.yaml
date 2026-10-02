@@ -1,0 +1,5 @@
+interface:
+  display_name: Close the feedback loop
+  short_description: Writes personal replies to users whose feature request shipped, partly shipped or was declined, segmented by request, with honest reasons, how to use it or alternatives, and next steps.
+policy:
+  allow_implicit_invocation: false

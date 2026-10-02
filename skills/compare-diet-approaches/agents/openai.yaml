@@ -1,0 +1,5 @@
+interface:
+  display_name: Compare eating approaches
+  short_description: Compares eating approaches such as Mediterranean, low-carb, plant-based or intermittent fasting on evidence, practicality, nutrient gaps and who should avoid them, for a stated goal.
+policy:
+  allow_implicit_invocation: false

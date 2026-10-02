@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/classify-text-records
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Classify text records

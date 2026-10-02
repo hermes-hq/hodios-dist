@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: architecture
   source: https://hermes-ide.com/prompts/review-system-design
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Review a system design

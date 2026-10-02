@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a wedding
+  short_description: Builds a wedding plan with a budget split, a timeline from engagement to the day, a vendor checklist, guest list management and a run of show for the day itself, flagging what to book first.
+policy:
+  allow_implicit_invocation: false

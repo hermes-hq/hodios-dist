@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a classroom management plan
+  short_description: Designs a classroom management plan with expectations, routines, positive reinforcement, a consistent response ladder and family communication for the grade. For new teachers and class resets.
+policy:
+  allow_implicit_invocation: false

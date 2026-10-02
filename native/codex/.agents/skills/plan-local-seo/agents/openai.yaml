@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan local SEO
+  short_description: Builds a local SEO plan covering Google Business Profile, categories, a reviews strategy, location pages, citations and tracking, as a 90-day plan. Use for local businesses and agencies.
+policy:
+  allow_implicit_invocation: false

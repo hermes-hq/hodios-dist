@@ -1,0 +1,5 @@
+interface:
+  display_name: Triage feature requests
+  short_description: Triages a batch of feature requests by deduplicating them, finding the underlying jobs, linking customers and revenue, and sorting each into act, explore, park or decline with a reason.
+policy:
+  allow_implicit_invocation: false

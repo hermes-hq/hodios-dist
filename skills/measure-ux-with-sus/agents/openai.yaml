@@ -1,0 +1,5 @@
+interface:
+  display_name: Measure UX with SUS and task metrics
+  short_description: Plans a UX benchmark with SUS and task metrics, or scores supplied responses, compares them with norms and reports confidence intervals. Use to track UX across releases.
+policy:
+  allow_implicit_invocation: false

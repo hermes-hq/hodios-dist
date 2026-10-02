@@ -1,0 +1,5 @@
+interface:
+  display_name: Review test quality
+  short_description: Reviews a test suite or diff for weak assertions, over-mocking, hidden coupling, sleeps, nondeterminism and tests that cannot fail, with a concrete rewrite for each problem. Use when reviewing tests.
+policy:
+  allow_implicit_invocation: false

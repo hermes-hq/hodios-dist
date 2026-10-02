@@ -1,0 +1,5 @@
+interface:
+  display_name: Write code review guidelines
+  short_description: Writes a team's code review guidelines covering what blocks a merge, comment labels, size limits, response times, author and reviewer duties and how to disagree. Use when setting review norms.
+policy:
+  allow_implicit_invocation: false

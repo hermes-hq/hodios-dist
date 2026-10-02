@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan your first 90 days in a new job
+  short_description: Plans the first 90 days in a new job - learning priorities, key relationships, early wins, clarifying expectations and manager checkpoints. Use when you are about to start a role or just have.
+policy:
+  allow_implicit_invocation: false

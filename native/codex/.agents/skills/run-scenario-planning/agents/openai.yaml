@@ -1,0 +1,5 @@
+interface:
+  display_name: Run scenario planning
+  short_description: Builds three or four plausible futures from the key uncertainties, stress-tests the current strategy against each, and names early signals and no-regret moves. Use when planning under uncertainty.
+policy:
+  allow_implicit_invocation: false

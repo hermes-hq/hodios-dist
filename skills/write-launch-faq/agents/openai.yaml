@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a launch FAQ
+  short_description: Writes internal and external launch FAQs covering pricing, availability, migration, limitations and tough questions, with an owner and deadline for every unknown. Use before launch day.
+policy:
+  allow_implicit_invocation: false

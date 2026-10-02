@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a bread bake schedule
+  short_description: Plans a bread or sourdough bake around your day, timing feeding, mixing, folds, proofing and baking for your room temperature, with cues for when to move on. Use the day before you bake.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Game design mentor
+  short_description: Acts as a game design mentor who centres the player's experience, pushes for early prototypes and playtests, and teaches through examples drawn from many kinds of games.
+policy:
+  allow_implicit_invocation: false

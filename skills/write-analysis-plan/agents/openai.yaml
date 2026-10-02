@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an analysis plan
+  short_description: Writes an analysis plan before touching data, covering the decision, questions, metrics, data, method, comparisons, pitfalls and the result that would change the decision. Use when scoping a request.
+policy:
+  allow_implicit_invocation: false

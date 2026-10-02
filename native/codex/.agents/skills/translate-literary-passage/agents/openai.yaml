@@ -1,0 +1,5 @@
+interface:
+  display_name: Translate a literary passage
+  short_description: Translates a literary passage preserving voice, rhythm and imagery, offers alternatives for the hardest choices and writes a translator's note on what was gained and lost.
+policy:
+  allow_implicit_invocation: false

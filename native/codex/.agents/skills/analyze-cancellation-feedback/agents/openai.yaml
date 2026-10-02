@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse cancellation feedback
+  short_description: Analyses cancellation reasons and exit-survey comments into churn themes with counts and quotes, separates preventable from unavoidable churn, and proposes fair save offers and fixes to test.
+policy:
+  allow_implicit_invocation: false

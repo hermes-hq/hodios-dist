@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: budgeting
   source: https://hermes-ide.com/prompts/categorize-expenses
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Categorise expenses from a bank export

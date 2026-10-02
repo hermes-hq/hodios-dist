@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: product-discovery
   source: https://hermes-ide.com/prompts/define-jobs-to-be-done
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Define jobs to be done

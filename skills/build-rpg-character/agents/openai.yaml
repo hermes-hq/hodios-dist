@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a tabletop RPG character
+  short_description: Builds a tabletop player character from a concept, with a rules-legal build for the system and level, a personality to play, and backstory hooks written for the game master to use.
+policy:
+  allow_implicit_invocation: false

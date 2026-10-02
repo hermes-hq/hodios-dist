@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a flight search strategy
+  short_description: Plans how to search for a flight using flexible dates, nearby airports, open-jaw routes, true cost with baggage, fare alerts and booking timing, without inventing prices. Use before booking flights.
+policy:
+  allow_implicit_invocation: false

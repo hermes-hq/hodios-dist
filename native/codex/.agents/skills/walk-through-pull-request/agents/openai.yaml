@@ -1,0 +1,5 @@
+interface:
+  display_name: Walk a reviewer through a pull request
+  short_description: Explains a large or unfamiliar pull request to its reviewer with what changes and why, a reading order, the risky hunks and questions for the author. Use before reviewing a big diff.
+policy:
+  allow_implicit_invocation: false

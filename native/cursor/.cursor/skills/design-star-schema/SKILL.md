@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data
   source: https://hermes-ide.com/prompts/design-star-schema
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Design a star schema

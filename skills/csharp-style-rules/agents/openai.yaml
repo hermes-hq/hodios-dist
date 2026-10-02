@@ -1,0 +1,5 @@
+interface:
+  display_name: C# style rules
+  short_description: Standing rules for C# an assistant writes, covering nullable reference types, async all the way with cancellation tokens, records and pattern matching, dependency injection and xUnit tests.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: YouTube strategist
+  short_description: Acts as a YouTube strategist who thinks in packaging, retention and audience fit, reads analytics before opining, and plans series rather than one-offs. Use when growing a channel.
+policy:
+  allow_implicit_invocation: false

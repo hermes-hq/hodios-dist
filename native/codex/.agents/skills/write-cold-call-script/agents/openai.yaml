@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a cold call script
+  short_description: Writes a cold call framework with a permission opener, a relevant reason for calling, two discovery questions, answers to common brush-offs and a clear meeting ask. Use for reps who dread calls.
+policy:
+  allow_implicit_invocation: false

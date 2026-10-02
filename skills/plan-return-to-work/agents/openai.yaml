@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a return to work after a career break
+  short_description: Plans a return after a career break (caregiving, illness, study, travel) - how to explain the gap, refresh skills, use returnships and run a focused search. Use when restarting work.
+policy:
+  allow_implicit_invocation: false

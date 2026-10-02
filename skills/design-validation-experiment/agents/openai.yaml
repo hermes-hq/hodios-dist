@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a validation experiment
+  short_description: Designs a cheap experiment such as a fake door, concierge, Wizard of Oz, landing page or prototype test for one risky assumption, with pass and fail thresholds set before it runs.
+policy:
+  allow_implicit_invocation: false

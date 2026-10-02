@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a database search strategy
+  short_description: Builds a Boolean search strategy for PubMed, Scopus, Web of Science or Google Scholar with concepts, synonyms, controlled vocabulary, filters and a search log. For systematic and narrative reviews.
+policy:
+  allow_implicit_invocation: false

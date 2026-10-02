@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an academic CV
+  short_description: Writes an academic CV with publications, grants, teaching, service and presentations in the conventions of the field. Use when applying for faculty, postdoc, fellowship or research posts.
+policy:
+  allow_implicit_invocation: false

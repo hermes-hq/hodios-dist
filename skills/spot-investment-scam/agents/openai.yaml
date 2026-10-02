@@ -1,0 +1,5 @@
+interface:
+  display_name: Check an offer for investment scam signs
+  short_description: Checks an investment offer against known scam red flags such as guaranteed returns, pressure, unregistered sellers and recovery fees, and explains how to verify the seller and report it.
+policy:
+  allow_implicit_invocation: false

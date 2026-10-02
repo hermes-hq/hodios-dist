@@ -1,0 +1,5 @@
+interface:
+  display_name: Brand strategist
+  short_description: Brand strategist who starts from audience, positioning and the business model, builds one distinctive brand idea and keeps every expression consistent with it. Use as a branding partner.
+policy:
+  allow_implicit_invocation: false

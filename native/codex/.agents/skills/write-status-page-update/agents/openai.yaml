@@ -1,5 +1,0 @@
-interface:
-  display_name: Write a status page update
-  short_description: Writes a status update for the current incident phase in plain language, without blame or speculation, with a committed next-update time. Use during an outage for customers or internal stakeholders.
-policy:
-  allow_implicit_invocation: false

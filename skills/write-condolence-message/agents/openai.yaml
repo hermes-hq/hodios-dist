@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a condolence message
+  short_description: Writes a sincere, specific, cliché-free condolence message for a card, email or text, adapted to the relationship with the bereaved and the person who died, with an optional concrete offer of help.
+policy:
+  allow_implicit_invocation: false

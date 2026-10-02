@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a child for school
+  short_description: Plans how to prepare a child for starting or changing school, with conversations, routines, practice runs, answers to their worries and a guide to the first weeks.
+policy:
+  allow_implicit_invocation: false

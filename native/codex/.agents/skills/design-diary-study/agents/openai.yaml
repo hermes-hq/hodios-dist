@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a diary study
+  short_description: Designs a diary study with research questions, daily and event prompts, recruitment, incentives, tactics to keep people logging, and an analysis plan. Use to study behaviour over weeks.
+policy:
+  allow_implicit_invocation: false

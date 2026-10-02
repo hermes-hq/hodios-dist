@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an annotated bibliography
+  short_description: Writes an annotated bibliography with a summary, evaluation and relevance note per source in the chosen citation style, flagging missing details instead of inventing them. For students.
+policy:
+  allow_implicit_invocation: false

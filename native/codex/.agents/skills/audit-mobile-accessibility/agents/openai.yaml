@@ -1,0 +1,5 @@
+interface:
+  display_name: Audit a mobile screen for accessibility
+  short_description: Audits an iOS, Android, React Native or Flutter screen for labels, traits, focus order, text scaling, touch targets, contrast and gestures, with platform fixes and a VoiceOver or TalkBack test script.
+policy:
+  allow_implicit_invocation: false

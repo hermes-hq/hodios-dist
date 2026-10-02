@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: seo
   source: https://hermes-ide.com/prompts/write-meta-tags
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Write meta tags

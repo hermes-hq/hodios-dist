@@ -1,0 +1,5 @@
+interface:
+  display_name: Write crossword clues
+  short_description: Writes standard or cryptic crossword clues for a list of answers, with the enumeration, a difficulty rating and a fairness check for each clue, plus a parsing for every cryptic clue.
+policy:
+  allow_implicit_invocation: false

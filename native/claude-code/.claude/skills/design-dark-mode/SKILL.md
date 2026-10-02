@@ -1,0 +1,69 @@
+---
+name: design-dark-mode
+description: Designs a dark theme from an existing light palette, covering surface elevation, semantic colour mapping, contrast checks, images, charts and token changes. Use when a design system adds dark mode.
+license: CC0-1.0
+arguments:
+  - light_palette
+  - platforms
+argument-hint: <light_palette> [platforms]
+disable-model-invocation: true
+metadata:
+  version: 1.0.0
+  kind: prompt
+  category: design-systems
+  source: https://hermes-ide.com/prompts/design-dark-mode
+  catalog: 2026.1002.2
+---
+
+# Design a dark theme
+
+## Inputs
+
+- `light_palette` (required): The current palette with hex values - primitives (brand and neutral scales) and, if they exist, semantic tokens (background, surface, text, border, primary, status colours) and where each is used.
+- `platforms` (optional): Where the theme ships (web, iOS, Android, desktop, email) and whether users choose light, dark or follow the system. Optional.
+
+Arguments fill these in order. If a required value is empty, take it from the user’s message or ask for it once.
+
+<context>
+Dark themes made by inverting colours fail in familiar ways: pure black backgrounds with pure white text that glare and smear on OLED screens, saturated brand colours that vibrate against dark grey, shadows that vanish so cards lose their edges, logos that disappear, charts whose colours become indistinguishable, and contrast that nobody measured. A dark theme is a second mapping of the same semantic roles, built on surfaces that express elevation and checked pair by pair for contrast.
+</context>
+
+<task>
+Design a dark theme for this palette.
+
+<light_palette>
+$light_palette
+</light_palette>
+Only if platforms was provided: 
+<platforms>
+$platforms
+</platforms>
+
+If the palette has no colour values (hex or equivalent), ask for them and where each is used, and stop; do not guess the colours.
+
+1. **Approach.** If the palette has no semantic tokens, propose the semantic layer first (background, surface levels, text primary, secondary and disabled, border, primary and on-primary, focus, success, warning, danger, info, overlay) and map the light theme onto it, so both themes switch at the semantic level and components never reference primitives directly.
+2. **Surfaces and elevation.** Choose a dark base that is a very dark grey, not pure black, unless the user wants a true-black OLED option (offer it as a variant). Define 3 to 5 surface levels where higher elevation is lighter, because shadows are hard to see on dark backgrounds; add subtle borders where adjacent surfaces need separation. Tint the neutrals slightly with the brand hue only if the light theme does.
+3. **Semantic token mapping.** For every semantic token, give the light value, the dark value (reusing existing primitives where possible, or a new primitive marked "(new)"), and the reason. Text should not be pure white on large areas; use an off-white for primary text and lower-emphasis values for secondary text that still pass contrast.
+4. **Contrast checks.** Compute the WCAG 2 contrast ratio for every text and UI pair in the dark theme: text on each surface level, on primary buttons, links, placeholder and disabled text, borders of inputs, focus rings and status colours on surfaces. Use relative luminance (linearise each sRGB channel: c/12.92 if c is 0.04045 or less, otherwise ((c + 0.055) / 1.055) ^ 2.4; L = 0.2126 R + 0.7152 G + 0.0722 B; ratio = (L1 + 0.05) / (L2 + 0.05)). Targets: 4.5:1 for normal text, 3:1 for large text and for UI components and meaningful graphics. Show each ratio to one decimal place, mark pass or fail, and fix every failure. Recommend confirming the final values with a contrast checker.
+5. **Brand and status colours.** Use lighter, slightly less saturated tones of brand and status colours on dark surfaces so they keep contrast without vibrating. Check that on-primary text still passes on the adjusted primary. Keep the hue recognisable.
+6. **Images and illustrations.** Logo variants for dark backgrounds, transparent images and icons with dark strokes, screenshots and product shots, illustrations that need a dark version, and whether to reduce the brightness of large photos.
+7. **Data visualisation.** Re-check categorical and sequential chart palettes on the dark surface (distinguishability and 3:1 against the background), gridlines and axes at low emphasis, and that no chart relies on colour alone.
+8. **Platform notes.** For the platforms given: on web, a theme attribute plus the `prefers-color-scheme` media query and the `color-scheme` property, and avoiding a flash of the wrong theme on load; on iOS and Android, mapping to the system's semantic or dynamic colours where the product uses them; email clients that invert colours unpredictably. Offer the choice of light, dark or system in settings.
+9. **Rollout and QA.** Token changes to make, components most likely to break (anything with hard-coded colours, shadows or images), and a test checklist: each component in every state in both themes, dim and bright environments, OLED devices, increased-contrast settings and screenshots in documentation.
+</task>
+
+<constraints>
+- Do not claim a contrast ratio you did not compute from the hex values. If a value is unknown, write "to check".
+- Do not invert the light theme; map each role deliberately.
+- Keep the brand recognisable; do not introduce new hues without a reason.
+- Separate what you verified from what you inferred. Mark inferences as such.
+- When you do not know, say "I don't know" once and state what would settle it.
+</constraints>
+
+<output_format>
+Markdown with the contract's sections as `##` headings. The mapping as a table:
+| Semantic token | Light | Dark | Primitive | Note |
+The contrast checks as a table:
+| Foreground | Background | Ratio | Target | Pass/fail | Fix |
+End "Rollout and QA" with the token changes as a code block in the format the user's tokens use, or as JSON if unknown.
+</output_format>

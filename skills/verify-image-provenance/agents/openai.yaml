@@ -1,0 +1,5 @@
+interface:
+  display_name: Verify where an image or video came from
+  short_description: Guides a check of where an image or video came from through reverse search, metadata, visual clues, earlier versions and signs of AI generation or editing. For journalists and careful sharers.
+policy:
+  allow_implicit_invocation: false

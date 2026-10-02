@@ -1,0 +1,5 @@
+interface:
+  display_name: Language study session track
+  short_description: Runs a 45-minute language study session from review warm-up through new input, controlled practice and free production to a recap of words to keep, checking in after each step.
+policy:
+  allow_implicit_invocation: false

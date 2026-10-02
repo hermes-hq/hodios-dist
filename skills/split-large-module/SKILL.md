@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: refactoring
   source: https://hermes-ide.com/prompts/split-large-module
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Plan splitting a large module

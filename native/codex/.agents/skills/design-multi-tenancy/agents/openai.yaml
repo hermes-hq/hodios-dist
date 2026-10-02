@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a multi-tenant architecture
+  short_description: Chooses a silo, pool or bridge tenancy model for a SaaS product and specifies data isolation, tenant routing, noisy-neighbour limits, per-tenant config and the migration path.
+policy:
+  allow_implicit_invocation: false

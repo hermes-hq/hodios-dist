@@ -1,0 +1,5 @@
+interface:
+  display_name: Grow a newsletter
+  short_description: Builds a subscriber growth plan with signup placement, lead magnets, referrals and cross-promotion, social funnels, weekly actions and metrics to watch. Use when newsletter growth has stalled.
+policy:
+  allow_implicit_invocation: false

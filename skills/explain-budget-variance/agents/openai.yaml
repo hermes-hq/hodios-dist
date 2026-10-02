@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain budget variances
+  short_description: Writes budget-versus-actual variance commentary covering material variances, drivers, timing versus permanent effects and forecast impact. Use as an FP&A analyst or budget holder at month end.
+policy:
+  allow_implicit_invocation: false

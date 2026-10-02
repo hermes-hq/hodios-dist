@@ -1,5 +1,5 @@
 interface:
   display_name: Review an infrastructure plan before apply
-  short_description: Reviews a Terraform plan or other IaC preview for destructive changes, drift, cost surprises and security misconfigurations. Use before running apply, especially in production.
+  short_description: Reviews a Terraform, OpenTofu or other IaC plan for destructive changes, security exposure, cost surprises and changes outside the stated intent. Use before running apply, especially in production.
 policy:
   allow_implicit_invocation: false

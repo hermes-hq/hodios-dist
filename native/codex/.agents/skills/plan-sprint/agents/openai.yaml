@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a sprint
+  short_description: Builds a sprint plan from a backlog and real capacity, with a sprint goal, committed and stretch items, dependencies, risks and what it deliberately leaves out. Use before sprint planning.
+policy:
+  allow_implicit_invocation: false

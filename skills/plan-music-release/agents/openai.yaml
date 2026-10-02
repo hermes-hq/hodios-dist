@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a music release
+  short_description: Plans an independent single or EP release with a dated timeline, metadata checklist, playlist pitching, content plan, press outreach, budget and release-week checklist. Use before a release.
+policy:
+  allow_implicit_invocation: false

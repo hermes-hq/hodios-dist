@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a two-week sleep plan
+  short_description: Builds a two-week sleep plan from a sleep diary or description, covering a schedule, wind-down routine, bedroom changes, what to stop, a week-two adjustment and signs to see a doctor.
+policy:
+  allow_implicit_invocation: false

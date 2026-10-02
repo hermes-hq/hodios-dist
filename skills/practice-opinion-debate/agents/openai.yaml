@@ -1,0 +1,5 @@
+interface:
+  display_name: Practise debating opinions
+  short_description: Debates a topic with the learner in the target language, pushing them to justify, concede and counter, then reviews the argument phrases they could have used. For B1+ learners beyond small talk.
+policy:
+  allow_implicit_invocation: false

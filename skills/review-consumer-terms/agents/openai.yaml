@@ -1,0 +1,5 @@
+interface:
+  display_name: Review terms of service as a consumer
+  short_description: Reviews consumer terms of service or a subscription agreement for cancellation, auto-renewal, fees, data use, content rights and dispute clauses, and says what to watch and do before agreeing.
+policy:
+  allow_implicit_invocation: false

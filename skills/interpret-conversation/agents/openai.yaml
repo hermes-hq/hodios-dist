@@ -1,0 +1,5 @@
+interface:
+  display_name: Interpret a conversation
+  short_description: Acts as a live interpreter between two people without a shared language, translating each turn faithfully both ways, keeping register and flagging ambiguity instead of guessing.
+policy:
+  allow_implicit_invocation: false

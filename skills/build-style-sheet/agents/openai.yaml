@@ -1,0 +1,5 @@
+interface:
+  display_name: Build an editorial style sheet
+  short_description: Builds an editorial style sheet from a manuscript, recording spelling, capitalisation, hyphenation, numbers, terms, names and formatting decisions, and flags every inconsistency with its locations.
+policy:
+  allow_implicit_invocation: false

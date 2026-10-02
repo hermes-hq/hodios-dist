@@ -1,0 +1,5 @@
+interface:
+  display_name: Write taglines and slogans
+  short_description: Generates tagline and slogan options across angles (benefit, attitude, category, promise) with notes on memorability, trademark and claim risk, and where each fits. Use for brands and campaigns.
+policy:
+  allow_implicit_invocation: false

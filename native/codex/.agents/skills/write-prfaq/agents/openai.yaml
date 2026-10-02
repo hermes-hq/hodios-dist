@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a PR/FAQ
+  short_description: Writes a working-backwards press release and FAQ for a proposed product, with customer and internal FAQs that expose the hard questions. Use when pitching a new initiative.
+policy:
+  allow_implicit_invocation: false

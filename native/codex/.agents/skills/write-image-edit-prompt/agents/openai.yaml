@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an image-edit prompt
+  short_description: Writes precise AI image-edit instructions for inpainting, background changes, style transfer or object removal that state what must not change, with mask guidance and checks. Use before an edit.
+policy:
+  allow_implicit_invocation: false

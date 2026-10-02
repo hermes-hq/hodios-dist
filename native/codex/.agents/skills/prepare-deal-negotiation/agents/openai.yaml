@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a deal negotiation
+  short_description: Prepares the seller's side of a deal negotiation - walk-away, a trade for every ask, discount rules, the concession sequence and scripts for procurement tactics. Use for reps facing procurement.
+policy:
+  allow_implicit_invocation: false

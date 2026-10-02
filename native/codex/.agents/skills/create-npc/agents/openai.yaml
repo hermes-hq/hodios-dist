@@ -1,0 +1,5 @@
+interface:
+  display_name: Create an NPC
+  short_description: Creates a memorable non-player character with a want, a secret, a voice and mannerism, a stats sketch for the system, and how they react to the party depending on how they are treated.
+policy:
+  allow_implicit_invocation: false

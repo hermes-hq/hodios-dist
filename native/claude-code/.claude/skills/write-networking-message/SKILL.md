@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: job-search
   source: https://hermes-ide.com/prompts/write-networking-message
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Write a networking message

@@ -1,6 +1,6 @@
 # hodios-dist
 
-**Hodios — prompts by Hermes IDE.** This repository is the generated install tree for catalog `2026.1002.1`: 578 entries compiled into Agent Skills, Claude Code plugins and drop-in files for each tool. It is written only by the release bot.
+**Hodios — prompts by Hermes IDE.** This repository is the generated install tree for catalog `2026.1002.2`: 1,070 entries compiled into Agent Skills, Claude Code plugins and drop-in files for each tool. It is written only by the release bot.
 
 **Do not open pull requests here.** The source, issues and discussions live in [hermes-hq/hodios](https://github.com/hermes-hq/hodios).
 

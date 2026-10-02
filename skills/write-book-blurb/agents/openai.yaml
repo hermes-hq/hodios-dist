@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a book blurb
+  short_description: Writes back-cover and online store blurbs with a hook, stakes and the right genre tone, in several lengths from a one-line pitch to a full store description. Use when publishing or relaunching a book.
+policy:
+  allow_implicit_invocation: false

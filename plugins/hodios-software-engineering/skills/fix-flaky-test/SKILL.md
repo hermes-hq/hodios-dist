@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: testing
   source: https://hermes-ide.com/prompts/fix-flaky-test
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Fix a flaky test

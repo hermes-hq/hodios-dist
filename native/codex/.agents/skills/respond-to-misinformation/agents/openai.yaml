@@ -1,0 +1,5 @@
+interface:
+  display_name: Reply to someone sharing misinformation
+  short_description: Helps reply to a friend or relative who shared misinformation, with what is wrong, the core fact, a non-judgemental message and a credible source to share. For people in family group chats.
+policy:
+  allow_implicit_invocation: false

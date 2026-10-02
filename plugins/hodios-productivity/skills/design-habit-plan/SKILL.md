@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: habits
   source: https://hermes-ide.com/prompts/design-habit-plan
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Design a habit plan

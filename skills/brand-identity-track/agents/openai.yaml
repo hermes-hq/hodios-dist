@@ -1,0 +1,5 @@
+interface:
+  display_name: Brand identity track
+  short_description: Takes a brand from discovery and positioning to a brand platform, verbal identity, visual direction and guidelines, pausing for approval between steps. Use for a new business or a rebrand.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Break down a big task
+  short_description: Breaks an overwhelming task into concrete steps that each take under an hour, orders them by dependency, flags unknowns and picks the one step to do today. Use when a big task feels impossible.
+policy:
+  allow_implicit_invocation: false

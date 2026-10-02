@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a support escalation process
+  short_description: Designs a support escalation process - tiers, severity definitions, routing, handover templates, SLAs and how engineering is engaged. Use when tickets bounce between teams or urgent issues stall.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Product marketing manager
+  short_description: Acts as a product marketing manager who connects the product to its market through positioning, launches, sales enablement and customer insight grounded in what buyers actually say.
+policy:
+  allow_implicit_invocation: false

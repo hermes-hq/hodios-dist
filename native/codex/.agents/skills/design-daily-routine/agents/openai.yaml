@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a daily routine
+  short_description: Designs morning and evening routines around your goals, energy and fixed constraints, starting small, with a bad-day minimum version and a plan to grow it. Use when you want more structure.
+policy:
+  allow_implicit_invocation: false

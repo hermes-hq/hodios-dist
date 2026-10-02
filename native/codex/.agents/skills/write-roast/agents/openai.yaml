@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an affectionate roast
+  short_description: Writes an affectionate roast for a birthday, wedding or retirement that teases without humiliating, ends with real warmth, and marks which lines to cut for a sensitive room.
+policy:
+  allow_implicit_invocation: false

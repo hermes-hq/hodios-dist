@@ -1,0 +1,5 @@
+interface:
+  display_name: Build an annual operating plan
+  short_description: Builds an annual operating plan with priorities, targets, budget and headcount by function, quarterly milestones and a review cadence, tied to the strategy. Use for yearly planning.
+policy:
+  allow_implicit_invocation: false

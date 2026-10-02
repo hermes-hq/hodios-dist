@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: resumes
   source: https://hermes-ide.com/prompts/review-resume
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Review a resume

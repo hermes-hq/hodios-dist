@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a referral programme
+  short_description: Designs a referral programme with the incentive model, double-sided reward sizing from unit economics, fraud prevention, where to ask, copy and success metrics. Use for SaaS, e-commerce and services.
+policy:
+  allow_implicit_invocation: false

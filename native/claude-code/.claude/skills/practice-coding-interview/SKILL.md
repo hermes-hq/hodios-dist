@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: interview-prep
   source: https://hermes-ide.com/prompts/practice-coding-interview
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Practice a coding interview

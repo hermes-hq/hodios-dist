@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a data management plan
+  short_description: Writes a research data management plan covering data types, storage, security, metadata, sharing, retention and FAIR principles, matched to the funder's template. For grant applicants.
+policy:
+  allow_implicit_invocation: false

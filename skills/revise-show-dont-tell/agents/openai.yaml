@@ -1,0 +1,5 @@
+interface:
+  display_name: Revise telling into showing
+  short_description: Finds telling in a fiction passage (named emotions, filter words, summary where a scene belongs, explained subtext) and offers shown alternatives in the author's own voice. Use when revising a draft.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan event marketing
+  short_description: Plans marketing for a trade show, conference or webinar - goals, pre-event outreach, booth or session plan, lead capture, follow-up sequence and ROI tracking. Use for event and field marketers.
+policy:
+  allow_implicit_invocation: false

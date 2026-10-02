@@ -1,0 +1,5 @@
+interface:
+  display_name: Appeal a parking or traffic fine
+  short_description: Drafts an appeal against a parking or traffic fine from the ticket, the facts, signage and evidence, assessing which grounds are genuinely supported and never inventing grounds.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Adapt text to a regional variant
+  short_description: Adapts text between regional variants such as pt-PT and pt-BR, es-ES and es-MX, en-GB and en-US or fr-FR and fr-CA, covering vocabulary, spelling, grammar and conventions, listing every change.
+policy:
+  allow_implicit_invocation: false

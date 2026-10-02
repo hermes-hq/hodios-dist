@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a lesson for a substitute teacher
+  short_description: Writes substitute-teacher plans a stranger can run, with schedule, routines, a self-contained lesson and materials, behaviour notes and an end-of-day report form. For teachers planning an absence.
+policy:
+  allow_implicit_invocation: false

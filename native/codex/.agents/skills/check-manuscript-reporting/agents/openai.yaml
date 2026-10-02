@@ -1,0 +1,5 @@
+interface:
+  display_name: Check a manuscript against its reporting guideline
+  short_description: Checks a manuscript against its reporting guideline, such as CONSORT, PRISMA, STROBE, ARRIVE or COREQ, item by item, and lists what is missing and where to add it. For authors and reviewers.
+policy:
+  allow_implicit_invocation: false

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: business-strategy
   source: https://hermes-ide.com/prompts/set-okrs
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Set OKRs

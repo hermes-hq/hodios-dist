@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a DAX measure
+  short_description: Writes Power BI DAX measures from plain-language definitions, with filter-context explanations, time intelligence and expected test values. Use as a BI developer or analyst building a report.
+policy:
+  allow_implicit_invocation: false

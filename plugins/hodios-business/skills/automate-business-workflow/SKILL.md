@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: operations
   source: https://hermes-ide.com/prompts/automate-business-workflow
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Automate a business workflow

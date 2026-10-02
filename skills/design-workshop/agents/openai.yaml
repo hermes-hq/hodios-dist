@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a hands-on workshop
+  short_description: Designs a half-day or full-day workshop with outcomes, a timed agenda, practice activities, materials and a facilitator guide. For trainers and team leads running hands-on sessions.
+policy:
+  allow_implicit_invocation: false

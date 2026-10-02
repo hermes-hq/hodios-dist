@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a crowdfunding campaign
+  short_description: Writes a rewards crowdfunding page - headline, story, video script, reward tiers, stretch goals, risks section and update plan, with the budget maths checked. For creators and makers.
+policy:
+  allow_implicit_invocation: false

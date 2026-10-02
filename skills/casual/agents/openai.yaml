@@ -1,0 +1,5 @@
+interface:
+  display_name: Casual
+  short_description: Makes any answer more conversational, from relaxed everyday wording to a chatty, friend-over-coffee voice, while keeping every fact, number and warning accurate.
+policy:
+  allow_implicit_invocation: false

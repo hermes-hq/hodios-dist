@@ -1,0 +1,5 @@
+interface:
+  display_name: Resume writer
+  short_description: Acts as a professional resume writer who interviews for achievements, writes for the target role and applicant tracking systems, and never invents facts.
+policy:
+  allow_implicit_invocation: false

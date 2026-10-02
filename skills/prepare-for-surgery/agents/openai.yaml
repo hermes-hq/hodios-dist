@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for a planned procedure
+  short_description: Prepares a patient or carer for a planned procedure with questions for the surgeon and anaesthetist, medication questions, a practical checklist and a recovery plan, without medical advice.
+policy:
+  allow_implicit_invocation: false

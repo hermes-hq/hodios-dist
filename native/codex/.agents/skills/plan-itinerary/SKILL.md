@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: trip-planning
   source: https://hermes-ide.com/prompts/plan-itinerary
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Plan a trip itinerary

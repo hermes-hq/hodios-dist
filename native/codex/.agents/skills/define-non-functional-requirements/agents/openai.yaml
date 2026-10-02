@@ -1,0 +1,5 @@
+interface:
+  display_name: Define non-functional requirements
+  short_description: Writes measurable non-functional requirements for a feature, covering availability, latency, throughput, security, privacy, accessibility and operability, each with a target, verification and cost.
+policy:
+  allow_implicit_invocation: false

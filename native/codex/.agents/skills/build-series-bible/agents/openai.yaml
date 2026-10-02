@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a series bible
+  short_description: Compiles a series bible from drafts or notes (characters, places, world rules, timeline, terminology, open threads), citing sources and flagging every contradiction. Use for novel series and TV.
+policy:
+  allow_implicit_invocation: false

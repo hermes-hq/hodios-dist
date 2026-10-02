@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: security
   source: https://hermes-ide.com/prompts/harden-web-app-config
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Harden web app headers and cookies

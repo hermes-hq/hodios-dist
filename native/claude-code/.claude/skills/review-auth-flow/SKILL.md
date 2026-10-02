@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: security
   source: https://hermes-ide.com/prompts/review-auth-flow
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Review an authentication flow

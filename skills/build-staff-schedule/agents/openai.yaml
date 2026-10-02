@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a staff schedule
+  short_description: Builds a staff rota from hourly demand, availability, skills and labour rules, with coverage, cost and fairness checks and an absence-cover plan. For shops, restaurants, clinics and support teams.
+policy:
+  allow_implicit_invocation: false

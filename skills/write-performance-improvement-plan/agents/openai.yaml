@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a performance improvement plan
+  short_description: Writes a performance improvement plan with specific gaps, measurable expectations, support offered, check-ins and a timeline, in fair, clear language. Use when addressing sustained underperformance.
+policy:
+  allow_implicit_invocation: false

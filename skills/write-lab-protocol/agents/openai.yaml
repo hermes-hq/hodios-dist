@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a reproducible lab or field protocol
+  short_description: Turns rough procedure notes into a reproducible lab or field protocol with materials, numbered steps, timings, safety notes, controls and troubleshooting. For scientists and technicians.
+policy:
+  allow_implicit_invocation: false

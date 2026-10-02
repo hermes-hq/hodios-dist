@@ -1,0 +1,5 @@
+interface:
+  display_name: Write abandoned cart emails
+  short_description: Writes an abandoned-cart email series with send timing, subject lines, objection handling, incentive rules, exit conditions and plain-text versions. Use for e-commerce stores.
+policy:
+  allow_implicit_invocation: false

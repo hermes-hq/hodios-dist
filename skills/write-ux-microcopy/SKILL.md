@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: ui-design
   source: https://hermes-ide.com/prompts/write-ux-microcopy
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Write UX microcopy

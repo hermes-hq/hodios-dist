@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a brand platform
+  short_description: Defines a brand platform with purpose, mission, vision, values with behaviours, positioning, personality and promise, each tested for distinctiveness. Use when setting brand foundations.
+policy:
+  allow_implicit_invocation: false

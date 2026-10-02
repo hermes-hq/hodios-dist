@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain an imaging report
+  short_description: Explains the terms in a radiology or imaging report in plain language, section by section, and lists questions for the doctor, without judging what the findings mean for the patient.
+policy:
+  allow_implicit_invocation: false

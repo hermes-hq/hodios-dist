@@ -1,0 +1,5 @@
+interface:
+  display_name: API design track
+  short_description: Takes a new API from consumer needs to a resource model, a reviewed contract, error and versioning rules, and a mock with contract tests, pausing for approval between steps.
+policy:
+  allow_implicit_invocation: false

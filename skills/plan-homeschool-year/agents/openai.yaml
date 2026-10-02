@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a homeschool year
+  short_description: Plans a homeschool year for a child's age and interests across core subjects, with a weekly rhythm, resources, projects, checkpoints and record keeping. For homeschooling parents.
+policy:
+  allow_implicit_invocation: false

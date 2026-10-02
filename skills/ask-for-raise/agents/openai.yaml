@@ -1,0 +1,5 @@
+interface:
+  display_name: Ask for a raise
+  short_description: Prepares a raise conversation with evidence of impact, market data to check, the number, timing, a script and responses to common replies. Use before asking your manager for more pay.
+policy:
+  allow_implicit_invocation: false

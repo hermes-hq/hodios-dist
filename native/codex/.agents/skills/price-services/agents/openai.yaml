@@ -1,0 +1,5 @@
+interface:
+  display_name: Price your services
+  short_description: Prices services as hourly, day rate, project, retainer or value-based from costs, income target, utilisation and market anchors, with a quote template. For freelancers and agencies.
+policy:
+  allow_implicit_invocation: false

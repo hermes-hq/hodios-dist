@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a follow-up to an unanswered email
+  short_description: Writes a polite follow-up to an unanswered email that adds new context, makes the ask easier to answer and sets a gentle deadline, in three escalation levels from nudge to final note.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Review a vendor data processing agreement
+  short_description: Reviews a SaaS vendor's data processing agreement against core requirements such as instructions, security, subprocessors, transfers, breach notice, audits and deletion, and lists the gaps to raise.
+policy:
+  allow_implicit_invocation: false

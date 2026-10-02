@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: conventions
   source: https://hermes-ide.com/prompts/react-component-rules
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # React component rules

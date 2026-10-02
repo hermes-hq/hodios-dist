@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a thesis structure
+  short_description: Plans a thesis or dissertation structure with each chapter's purpose, the argument flow, word budgets and a writing timeline working back from the deadline. For graduate students.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Guide a breathing exercise
+  short_description: Guides a short breathing or grounding exercise step by step, paced in text, with a check-in before and after and a calmer alternative if breath focus feels worse. Use in a stressful moment.
+policy:
+  allow_implicit_invocation: false

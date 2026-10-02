@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a carousel post
+  short_description: Plans an Instagram or LinkedIn carousel slide by slide with a hook slide, one idea per slide, visual notes, a save-worthy payoff and the caption. Use when teaching something on social.
+policy:
+  allow_implicit_invocation: false

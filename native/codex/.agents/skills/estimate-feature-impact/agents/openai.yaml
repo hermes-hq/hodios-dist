@@ -1,0 +1,5 @@
+interface:
+  display_name: Estimate a feature's impact
+  short_description: Sizes a feature's expected impact before building it, with explicit reach, adoption, effect and value assumptions, a low-base-high range and the cheapest way to tighten the estimate.
+policy:
+  allow_implicit_invocation: false

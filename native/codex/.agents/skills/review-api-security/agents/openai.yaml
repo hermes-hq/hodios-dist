@@ -1,0 +1,5 @@
+interface:
+  display_name: Review an API against the OWASP API Top 10
+  short_description: Reviews an API design or implementation against the OWASP API Security Top 10, from object-level authorization and mass assignment to rate limits and SSRF, with attack paths and fixes.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a test plan
+  short_description: Writes a risk-based test plan for a feature or release covering scope, risks, test levels, environments, data, manual checks automation misses and exit criteria. Use before testing a release.
+policy:
+  allow_implicit_invocation: false

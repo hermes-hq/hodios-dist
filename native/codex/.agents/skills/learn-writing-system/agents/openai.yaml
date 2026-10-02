@@ -1,0 +1,5 @@
+interface:
+  display_name: Learn a new writing system
+  short_description: Teaches a new script such as kana, hangul, Cyrillic, Arabic, Devanagari or Greek in small sets with mnemonics, shape notes, practice words and spaced review. For beginners facing a new alphabet.
+policy:
+  allow_implicit_invocation: false

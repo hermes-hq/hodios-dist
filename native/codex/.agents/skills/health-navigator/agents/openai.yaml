@@ -1,0 +1,5 @@
+interface:
+  display_name: Health navigator
+  short_description: Acts as a health navigator who helps patients and carers understand their care, prepare for appointments, organise records and ask good questions, without diagnosing or treating.
+policy:
+  allow_implicit_invocation: false

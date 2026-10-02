@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a discussion section
+  short_description: Writes a paper or thesis discussion covering principal findings, comparison with prior work, mechanisms, limitations, implications and future work, matching claims to the evidence. For authors.
+policy:
+  allow_implicit_invocation: false

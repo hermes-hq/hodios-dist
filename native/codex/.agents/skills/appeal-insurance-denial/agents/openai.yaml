@@ -1,0 +1,5 @@
+interface:
+  display_name: Appeal a denied insurance claim
+  short_description: Drafts an appeal of a denied insurance claim by matching the insurer's stated reason to the policy wording and the evidence, with deadlines and escalation options to an ombudsman or regulator.
+policy:
+  allow_implicit_invocation: false

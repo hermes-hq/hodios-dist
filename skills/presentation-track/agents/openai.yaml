@@ -1,0 +1,5 @@
+interface:
+  display_name: Presentation track
+  short_description: Takes a presentation from audience and goal to storyline, slide content, speaker notes and a rehearsal with likely questions, pausing for approval between steps.
+policy:
+  allow_implicit_invocation: false

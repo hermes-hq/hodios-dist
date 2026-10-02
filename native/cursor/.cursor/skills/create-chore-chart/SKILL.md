@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: family-logistics
   source: https://hermes-ide.com/prompts/create-chore-chart
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Create a chore chart

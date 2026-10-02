@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an outbound sequence
+  short_description: Writes a multi-touch outbound sequence across email, LinkedIn and phone, with a distinct reason for each touch, timing and a respectful break-up message. Use for SDRs and founders doing outbound.
+policy:
+  allow_implicit_invocation: false

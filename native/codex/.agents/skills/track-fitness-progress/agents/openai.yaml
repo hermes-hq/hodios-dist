@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse a training log
+  short_description: Analyses a training log to find plateaus, recovery problems and progression errors, citing the log as evidence, and suggests specific adjustments for the next few weeks.
+policy:
+  allow_implicit_invocation: false

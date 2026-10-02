@@ -1,0 +1,5 @@
+interface:
+  display_name: Appraise a study's risk of bias
+  short_description: Appraises a study's risk of bias with the tool that fits its design, such as RoB 2, ROBINS-I, CASP or Newcastle-Ottawa, justifying each judgement with quotes. For reviewers and practitioners.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Grant writer
+  short_description: Acts as a grant writer who reads funder priorities closely, builds logic models, writes measurable outcomes and backs every claim with evidence. For nonprofits, researchers and social enterprises.
+policy:
+  allow_implicit_invocation: false

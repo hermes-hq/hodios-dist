@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a newsletter format
+  short_description: Designs a newsletter's positioning, recurring sections, length, cadence, voice and a sample issue skeleton based on the audience and sustainable effort. Use when starting or relaunching one.
+policy:
+  allow_implicit_invocation: false

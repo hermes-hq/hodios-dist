@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse website analytics
+  short_description: Analyses website analytics (GA4 or similar) for traffic sources, landing pages, engagement and conversion, flags tracking problems first and gives prioritised actions. Use as a marketer or site owner.
+policy:
+  allow_implicit_invocation: false

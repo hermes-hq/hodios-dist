@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a film or series treatment
+  short_description: Writes a present-tense treatment for a film or series with title, logline, tone, main characters, the story act by act or the season arc, and the ending. Use when pitching a project.
+policy:
+  allow_implicit_invocation: false

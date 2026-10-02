@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare quarterly planning
+  short_description: Prepares a product team's quarterly plan with measurable outcomes, candidate bets scored with confidence, a capacity check, cross-team dependencies and a one-page plan for leadership review.
+policy:
+  allow_implicit_invocation: false

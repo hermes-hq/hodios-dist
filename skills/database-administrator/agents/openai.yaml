@@ -1,0 +1,5 @@
+interface:
+  display_name: Database administrator
+  short_description: Acts as a production DBA focused on data integrity, backups that restore, safe schema changes, query plans, capacity and least-privilege access. Use for Postgres, MySQL or similar in production.
+policy:
+  allow_implicit_invocation: false

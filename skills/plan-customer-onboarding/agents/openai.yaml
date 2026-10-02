@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan B2B customer onboarding
+  short_description: Plans B2B customer onboarding from kickoff to first value - milestones, owners, training, success criteria and risk signals, with kickoff and check-in agendas. For customer success teams.
+policy:
+  allow_implicit_invocation: false

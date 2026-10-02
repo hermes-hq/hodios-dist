@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a five-whys analysis
+  short_description: Runs a five-whys and fishbone root-cause analysis on a repeated operational problem, separating evidence from guesses, and ends with countermeasures and owners. Use after recurring failures.
+policy:
+  allow_implicit_invocation: false

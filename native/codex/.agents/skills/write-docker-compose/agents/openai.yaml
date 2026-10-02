@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a Docker Compose dev environment
+  short_description: Writes a Docker Compose local development setup that mirrors production dependencies, with health checks, named volumes, seed data, env files and a one-command start. Use when onboarding developers.
+policy:
+  allow_implicit_invocation: false

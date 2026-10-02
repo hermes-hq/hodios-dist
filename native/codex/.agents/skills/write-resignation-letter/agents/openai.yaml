@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a resignation letter
+  short_description: Writes a resignation letter and a plan for the conversation with your manager, covering notice, a handover offer and tone, while keeping relationships intact. Use when you have decided to leave.
+policy:
+  allow_implicit_invocation: false

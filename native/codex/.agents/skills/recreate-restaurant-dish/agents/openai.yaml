@@ -1,0 +1,5 @@
+interface:
+  display_name: Recreate a restaurant dish at home
+  short_description: Reverse-engineers a restaurant or takeaway dish from your description into a home recipe, with the likely techniques, components and a plan to test it. Use when you want to cook a dish you ate out.
+policy:
+  allow_implicit_invocation: false

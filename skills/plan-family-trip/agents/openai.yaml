@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a trip with children
+  short_description: Plans a trip with children around naps, meals and attention spans, with kid-friendly activities, rest days, backup plans and the logistics parents forget. Use when travelling with kids.
+policy:
+  allow_implicit_invocation: false

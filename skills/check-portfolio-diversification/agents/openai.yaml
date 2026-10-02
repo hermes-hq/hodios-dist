@@ -1,0 +1,5 @@
+interface:
+  display_name: Check portfolio diversification
+  short_description: Describes a stated portfolio's diversification, concentration, fund overlap, fees and currency exposure in educational terms, with questions to take to an adviser.
+policy:
+  allow_implicit_invocation: false

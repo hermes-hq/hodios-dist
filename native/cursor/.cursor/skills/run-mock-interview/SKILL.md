@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: interview-prep
   source: https://hermes-ide.com/prompts/run-mock-interview
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Run a mock interview

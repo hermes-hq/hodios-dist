@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a competitive UX audit
+  short_description: Audits how competitors handle one key user task, comparing steps, patterns, friction and delighters, and recommends what to adopt or avoid. Use before redesigning a core flow.
+policy:
+  allow_implicit_invocation: false

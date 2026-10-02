@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: travel-logistics
   source: https://hermes-ide.com/prompts/build-packing-list
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Build a packing list

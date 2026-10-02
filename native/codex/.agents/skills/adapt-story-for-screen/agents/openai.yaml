@@ -1,0 +1,5 @@
+interface:
+  display_name: Adapt a story for the screen
+  short_description: Plans a screen adaptation of a story, book or real event, deciding what to keep, cut and externalise, the new structure and a sample scene, with a rights check. Use before adapting source material.
+policy:
+  allow_implicit_invocation: false

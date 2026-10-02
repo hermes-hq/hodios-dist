@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan money lessons for kids
+  short_description: Plans age-appropriate money lessons for each child - allowance systems, saving jars, spending choices, compound-interest games and family conversations - shaped by the family's values.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan an essay argument
+  short_description: Helps a student unpack an essay question, form a defensible thesis, order points with evidence and anticipate a counterargument, without drafting the essay. For coursework and exam essays.
+policy:
+  allow_implicit_invocation: false

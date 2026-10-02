@@ -1,0 +1,5 @@
+interface:
+  display_name: Design an information architecture
+  short_description: Designs an information architecture with a content inventory, groupings, navigation model, labels and a sitemap, plus a tree test to check it. Use when structuring a website or app.
+policy:
+  allow_implicit_invocation: false

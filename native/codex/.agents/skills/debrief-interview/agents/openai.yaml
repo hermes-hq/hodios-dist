@@ -1,0 +1,5 @@
+interface:
+  display_name: Debrief an interview
+  short_description: Debriefs an interview you just had - what went well, weak answers to improve, follow-up to send and lessons for the next round. Use between interview rounds while memory is fresh.
+policy:
+  allow_implicit_invocation: false

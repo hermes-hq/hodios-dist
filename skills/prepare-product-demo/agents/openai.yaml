@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a product demo
+  short_description: Writes a product demo script built around the audience's pains, with setup checklist, story arc, three wow moments, recovery plans for failures and a strong close, timed to the slot.
+policy:
+  allow_implicit_invocation: false

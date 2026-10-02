@@ -1,0 +1,5 @@
+interface:
+  display_name: Draft a research ethics application
+  short_description: Drafts a research ethics (IRB) application covering risks and benefits, consent, data protection, vulnerable groups and mitigation, mapped to the committee's form. For researchers working with people.
+policy:
+  allow_implicit_invocation: false

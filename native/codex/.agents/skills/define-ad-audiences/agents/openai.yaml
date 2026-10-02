@@ -1,0 +1,5 @@
+interface:
+  display_name: Define ad audiences
+  short_description: Defines paid-media audiences (prospecting segments, lookalikes, interests, retargeting windows and exclusions) with a budget split and test plan for one ad platform. Use when launching ads.
+policy:
+  allow_implicit_invocation: false

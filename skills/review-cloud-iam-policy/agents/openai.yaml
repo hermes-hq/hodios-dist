@@ -1,0 +1,5 @@
+interface:
+  display_name: Review a cloud IAM policy
+  short_description: Reviews AWS, GCP or Azure IAM policies for over-broad permissions, privilege-escalation paths, wildcard resources and missing conditions, and proposes least-privilege versions.
+policy:
+  allow_implicit_invocation: false

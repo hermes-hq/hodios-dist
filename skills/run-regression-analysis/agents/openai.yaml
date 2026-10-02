@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a regression analysis
+  short_description: Builds a regression analysis for a question, covering model choice, variables, diagnostics, interpretation and limits, with runnable code in Python, R or Excel. Use as an analyst or student.
+policy:
+  allow_implicit_invocation: false

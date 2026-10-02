@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a card sort
+  short_description: Plans an open, closed or hybrid card sort with the card set, participants, tool setup, analysis method and how the results feed navigation. Use when restructuring a site or app's information.
+policy:
+  allow_implicit_invocation: false

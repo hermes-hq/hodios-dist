@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: social-media
   source: https://hermes-ide.com/prompts/repurpose-video-into-posts
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Repurpose a video into posts

@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a visa application
+  short_description: Organises a visa or residence permit application into a requirement checklist to confirm on the official source, a document tracker, translations, a timeline and interview preparation.
+policy:
+  allow_implicit_invocation: false

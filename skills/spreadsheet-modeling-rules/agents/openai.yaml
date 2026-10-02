@@ -1,0 +1,5 @@
+interface:
+  display_name: Spreadsheet modelling rules
+  short_description: Rules for building or editing spreadsheets, covering separate inputs, calculations and outputs, no hard-coded numbers, consistent units, checks and a notes tab. Load for spreadsheet work.
+policy:
+  allow_implicit_invocation: true

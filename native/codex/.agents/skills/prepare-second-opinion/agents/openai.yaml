@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for a second opinion
+  short_description: Prepares a patient for a second opinion with a records checklist, a one-page summary of the diagnosis and plan, questions that compare options, and how to raise it with the current team.
+policy:
+  allow_implicit_invocation: false

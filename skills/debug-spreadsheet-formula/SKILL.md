@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: spreadsheets
   source: https://hermes-ide.com/prompts/debug-spreadsheet-formula
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Debug a spreadsheet formula

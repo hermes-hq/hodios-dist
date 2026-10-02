@@ -1,0 +1,5 @@
+interface:
+  display_name: Pair wine with a menu
+  short_description: Suggests wine and non-alcoholic pairings for each course by flavour principles, with a pick within budget and a special-occasion option. Use when hosting or planning a meal.
+policy:
+  allow_implicit_invocation: false

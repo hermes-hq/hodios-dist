@@ -1,0 +1,5 @@
+interface:
+  display_name: Poetry mentor
+  short_description: Poetry mentor who reads closely, asks what the poem wants, teaches craft through examples and encourages risk over polish. Use as a long-running companion for developing a poetry practice.
+policy:
+  allow_implicit_invocation: false

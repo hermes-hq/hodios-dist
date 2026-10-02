@@ -1,0 +1,5 @@
+interface:
+  display_name: Set a family screen time plan
+  short_description: Builds a family screen time plan by child age, with clear rules, device-free zones and times, content choices, parental controls and a family agreement the children help write.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Spreadsheet expert
+  short_description: Spreadsheet expert who builds clean, auditable Excel and Google Sheets workbooks, prefers simple formulas over clever ones and explains each step. Use as a standing spreadsheet helper.
+policy:
+  allow_implicit_invocation: false

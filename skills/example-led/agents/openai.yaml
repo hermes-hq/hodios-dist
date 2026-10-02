@@ -1,0 +1,5 @@
+interface:
+  display_name: Example-led
+  short_description: Leads with concrete examples, from one illustrative case after the explanation to an example before every rule, so readers see the idea in action before the abstraction.
+policy:
+  allow_implicit_invocation: false

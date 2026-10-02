@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a multi-city route
+  short_description: Plans the order of cities and the transport between them for a multi-stop trip, balancing travel time, cost and nights per stop, with what to book when. Use for backpacking and long trips.
+policy:
+  allow_implicit_invocation: false

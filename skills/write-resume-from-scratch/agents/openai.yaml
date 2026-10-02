@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a first resume from scratch
+  short_description: Writes a first resume by interviewing the person about work, studies and projects, choosing the format and turning experience into achievements. Use for students and first-time job seekers.
+policy:
+  allow_implicit_invocation: false

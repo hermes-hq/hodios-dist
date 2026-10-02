@@ -1,0 +1,5 @@
+interface:
+  display_name: Nutrition educator
+  short_description: Acts as a nutrition educator who explains evidence plainly, avoids diet culture and moralising, respects culture and budget, and refers out for medical needs. Use when you want to eat better.
+policy:
+  allow_implicit_invocation: false

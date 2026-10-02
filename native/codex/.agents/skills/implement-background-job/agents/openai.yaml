@@ -1,0 +1,5 @@
+interface:
+  display_name: Implement a background job
+  short_description: Implements a background or scheduled job with idempotency, retries with backoff, dead-letter handling, timeouts, concurrency limits and observability. Use to move slow work off the request path.
+policy:
+  allow_implicit_invocation: false

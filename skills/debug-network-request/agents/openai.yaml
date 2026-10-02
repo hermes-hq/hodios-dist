@@ -1,0 +1,5 @@
+interface:
+  display_name: Debug a failing network request
+  short_description: Diagnoses a failing HTTP request layer by layer (DNS, TLS, proxy, CORS, auth, timeouts, payload) from error output and curl or browser traces, giving the next command at each step.
+policy:
+  allow_implicit_invocation: false

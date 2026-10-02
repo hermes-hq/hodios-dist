@@ -1,0 +1,5 @@
+interface:
+  display_name: Idea validation track
+  short_description: Takes a business idea through problem interviews, a competitor scan, an offer test and a go, pivot or stop decision, pausing for real evidence between steps. Use before quitting a job.
+policy:
+  allow_implicit_invocation: false

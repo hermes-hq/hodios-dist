@@ -1,0 +1,106 @@
+---
+description: Takes a business idea through problem interviews, a competitor scan, an offer test and a go, pivot or stop decision, pausing for real evidence between steps. Use before quitting a job.
+---
+
+# Idea validation track
+
+## Inputs
+
+- [IDEA] (required): The idea in your own words - the problem, the offer, how it would make money, and any evidence you already have.
+- [TARGET_CUSTOMER] (required): Who you think has the problem, as specifically as you can (for example "independent physiotherapy clinics with 2-10 staff in the UK").
+- [BUDGET] (optional): Money and time you can spend on validation (for example "300 and 8 hours a week for 6 weeks"). If empty, the track assumes a few hundred and evenings.
+
+Read each value from the arguments below. If a required value is missing, ask for it once.
+
+Finds out, with evidence rather than opinions, whether this idea deserves the founder's savings and career: assumptions, real customer conversations, a scan of what customers use today, a test where people commit time or money, then a go, pivot or stop decision. Every step stops for approval, and steps 2 and 4 wait until the founder brings back real results.
+
+<idea>
+[IDEA]
+</idea>
+
+<target_customer>
+[TARGET_CUSTOMER]
+</target_customer>
+Only if [BUDGET] was provided: 
+Validation budget: [BUDGET]
+
+Rules for every step: opinions ("I would use that") are not evidence; commitments of time, money or reputation are. Set success thresholds before a test runs, never after. Never invent interview results, competitors, prices or market figures; when you are unsure whether something exists, say what to search for. If no budget is given, assume a few hundred in spend and evenings, and say so. Keep a running list of assumptions with their status: untested, supported, weakened or killed.
+
+## Steps
+
+Work through these steps in order. Do not skip a gate.
+
+1. assumptions (discover)
+2. interviews (discover)
+3. alternatives (discover)
+4. offer-test (verify)
+5. decision (plan)
+
+### Step 1: Assumptions and interview plan
+
+1. Restate the idea: "For <customer> who <struggle>, <offer> that <outcome>, unlike <current alternative>." Mark vague parts.
+2. Narrow the customer until the founder could list 20 real ones, and say where to find them.
+3. List desirability, viability and feasibility assumptions, ranked by how fatal each is if wrong and how little evidence exists.
+4. Write a problem-interview guide of 8-10 past-behaviour questions ("Tell me about the last time…"): what they did, what it cost, what they pay for today. No pitching, no "would you". Add an opening line and a referral ask.
+5. Set the target before any interview: how many (usually 10-15), with whom, by when, and the result that supports or weakens each top assumption (for example "6 of 10 raise the problem unprompted and have spent money on it").
+6. Give a one-page note template.
+
+Stop for approval. Ask the founder to run the interviews and bring back notes or transcripts.
+
+**Gate:** stop here and wait for the user's approval before step 2 (interviews).
+
+### Step 2: Synthesize the interviews
+
+If no notes or transcripts were provided, ask for them and stop. Never simulate interviews.
+
+1. Check the sample against the customer definition; weight friends, family and off-segment people lower.
+2. Per interview, extract facts: the problem in their words, frequency, cost, workaround, money or time already spent, short quotes.
+3. Group patterns with counts ("7 of 11…"), separating unprompted from prompted.
+4. Compare with the step 1 thresholds and update each assumption: supported, weakened, killed or untested.
+5. Note surprises: another problem, a keener customer, a price signal.
+6. Recommend: continue, narrow the customer, or reframe the problem.
+
+Output an interview table (Interview | Fit | Problem | Frequency | Cost | Workaround | Spend | Quote), the patterns, the updated assumptions and the recommendation.
+
+Stop for approval.
+
+**Gate:** stop here and wait for the user's approval before step 3 (alternatives).
+
+### Step 3: Alternatives scan
+
+1. List the alternatives customers mentioned, including non-products: spreadsheets, hiring someone, a general tool, living with it.
+2. Give a research checklist for direct and indirect competitors: search terms, marketplaces, review sites, communities, and what to note (who it serves, price, complaints). State facts about named companies only if the founder supplied them; mark the rest "verify".
+3. If the founder supplied research, build a table: Alternative | Users | Price | Strengths | Complaints | Switching cost.
+4. Name the gap from the customer's view and the "good enough" alternative that is the real competitor.
+5. Write a one-sentence positioning and a draft offer for step 4: what it is, for whom, the promise, the price, the delivery.
+
+Stop for approval of the offer.
+
+**Gate:** stop here and wait for the user's approval before step 4 (offer-test).
+
+### Step 4: Offer test
+
+1. Choose the test for the riskiest remaining assumption within the budget: a landing page with a real price and a pay, pre-order or deposit button; a pre-sale or letter of intent to interviewees; or a concierge version for 3-5 customers. Say why.
+2. Write what it needs: landing-page copy (headline, problem, offer, price, call to action, FAQ), the pre-sale message, or the concierge plan.
+3. Set success and failure thresholds and the minimum sample before launch, with reasoning.
+4. Give a tracking sheet and run time. If money is taken, say clearly what buyers get and refund promptly if it does not go ahead.
+
+Stop for approval, then ask the founder to run the test and bring back the numbers.
+
+With results: compare with the thresholds, check for flaws (too little traffic, wrong audience, broken page), update the assumptions and say what the results do and do not prove. Stop for approval.
+
+**Gate:** stop here and wait for the user's approval before step 5 (decision).
+
+### Step 5: Go, pivot or stop
+
+1. Summarise: Assumption | Status | Key evidence | Confidence.
+2. Recommend one:
+   - Go: the next 30 days: smallest sellable version, where the first 10 paying customers come from, numbers to track.
+   - Pivot: what changes (customer, problem, offer, price or channel), what stays, and the next test.
+   - Stop: say so plainly and kindly, and list what is reusable.
+3. Name the results that would reverse the decision.
+4. If the founder plans to leave a job: months of runway at their costs, a milestone to hit before resigning, and a suggestion to see an accountant before taking money.
+
+End with the single most important next action.
+
+Arguments: $ARGUMENTS

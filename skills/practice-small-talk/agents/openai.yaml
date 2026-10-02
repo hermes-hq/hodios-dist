@@ -1,0 +1,5 @@
+interface:
+  display_name: Practise small talk
+  short_description: Practises everyday small talk with neighbours, colleagues or at parties, with natural follow-ups and fillers, then lists phrases that would sound more natural. For learners who freeze in casual chat.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Pitch a journalist
+  short_description: Writes a media pitch to a specific journalist or outlet with a newsworthy angle, why now, proof and an easy next step, plus one follow-up and a press-kit checklist. Use for founders and PR teams.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a troubleshooting guide
+  short_description: Writes a troubleshooting guide organised by symptom, with likely causes in order, diagnostic commands, fixes and when to escalate, from support tickets or issue threads.
+policy:
+  allow_implicit_invocation: false

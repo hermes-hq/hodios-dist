@@ -1,0 +1,5 @@
+interface:
+  display_name: Reflect on burnout signs
+  short_description: Reflects a situation back across exhaustion, cynicism and reduced effectiveness, identifies work and life drivers, and plans small recovery steps and conversations, without diagnosing.
+policy:
+  allow_implicit_invocation: false

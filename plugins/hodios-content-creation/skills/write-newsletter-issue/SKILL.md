@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: newsletters
   source: https://hermes-ide.com/prompts/write-newsletter-issue
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Write a newsletter issue

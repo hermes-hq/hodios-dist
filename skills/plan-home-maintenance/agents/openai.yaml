@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan seasonal home maintenance
+  short_description: Builds a seasonal home maintenance calendar for your home type and climate, marking DIY tasks and when to call a professional. Use when you buy a home or want to stop problems before they start.
+policy:
+  allow_implicit_invocation: false

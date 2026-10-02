@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a student recommendation letter
+  short_description: Writes a recommendation letter for a student from the teacher's own observations, tied to what the programme values, with honest comparative statements. For teachers and professors.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Remove a stain safely
+  short_description: Gives a safe stain-removal method for a specific stain and material, gentlest option first, with what never to use or mix. Use as soon as something spills.
+policy:
+  allow_implicit_invocation: false

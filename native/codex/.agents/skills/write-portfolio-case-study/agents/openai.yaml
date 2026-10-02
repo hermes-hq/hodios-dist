@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a portfolio case study
+  short_description: Writes a portfolio case study covering context, role, process, decisions, results and learnings, honest about team contributions. Use for designers, engineers and marketers showing their work.
+policy:
+  allow_implicit_invocation: false

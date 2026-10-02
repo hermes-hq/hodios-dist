@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: learning
   source: https://hermes-ide.com/prompts/learn-new-programming-language
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Learn a new language from one you know

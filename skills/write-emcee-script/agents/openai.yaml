@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an emcee script
+  short_description: Writes an emcee script for an event with welcome, housekeeping, speaker introductions, transitions, ready-made filler for delays and a close, timed against the run of show.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Set up a personal task system
+  short_description: Designs a personal task system in the chosen app - one capture inbox, lists or projects, contexts, a review routine and the few rules that keep it trusted. Use when your to-dos live everywhere.
+policy:
+  allow_implicit_invocation: false

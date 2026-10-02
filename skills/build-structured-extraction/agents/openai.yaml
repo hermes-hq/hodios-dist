@@ -1,0 +1,5 @@
+interface:
+  display_name: Build an LLM structured extraction step
+  short_description: Builds an LLM step that turns documents into schema-valid JSON, with the schema, prompt, validation and repair loop, null handling and an eval set. Use when automating invoices, forms or emails.
+policy:
+  allow_implicit_invocation: false

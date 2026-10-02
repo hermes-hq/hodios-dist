@@ -1,0 +1,5 @@
+interface:
+  display_name: Refresh an old blog post
+  short_description: Updates an old blog post by checking facts and dates, improving intent match and structure, adding missing sections and internal links, and logging every change. Use on posts that have decayed.
+policy:
+  allow_implicit_invocation: false

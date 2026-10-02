@@ -1,0 +1,5 @@
+interface:
+  display_name: Adapt a desktop design for mobile
+  short_description: Adapts a desktop screen to mobile by ranking content, choosing layout changes, touch targets and a navigation pattern, and deciding what to drop or defer. Use for responsive products.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Audit technical SEO
+  short_description: Audits technical SEO from crawl data or site details (indexing, canonicals, redirects, sitemaps, robots, speed, mobile, structured data) with prioritised fixes. Use for site owners and developers.
+policy:
+  allow_implicit_invocation: false

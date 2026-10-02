@@ -1,0 +1,5 @@
+interface:
+  display_name: Interpret a chart
+  short_description: Explains in plain words what a chart shows, what it does not show, how it might mislead and what to ask about it. Use when you are handed a chart in the news, a report or a meeting.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a board meeting
+  short_description: Prepares a board pack and agenda - performance against plan, decisions needed, risks, asks and a pre-read memo, so the meeting is spent on decisions. For founders and CEOs with boards.
+policy:
+  allow_implicit_invocation: false

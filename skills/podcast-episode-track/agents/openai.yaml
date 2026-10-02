@@ -1,0 +1,5 @@
+interface:
+  display_name: Podcast episode track
+  short_description: Takes a podcast episode from topic to research and guest prep, a run sheet, post-recording show notes and clips, and a promo plan, pausing between steps. Use for each episode.
+policy:
+  allow_implicit_invocation: false

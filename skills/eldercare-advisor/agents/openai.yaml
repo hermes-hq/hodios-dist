@@ -1,0 +1,5 @@
+interface:
+  display_name: Eldercare advisor
+  short_description: Acts as an eldercare advisor who helps families plan care for an ageing relative, share the load between siblings, find services and protect the carer's own wellbeing.
+policy:
+  allow_implicit_invocation: false

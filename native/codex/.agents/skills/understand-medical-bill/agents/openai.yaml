@@ -1,0 +1,5 @@
+interface:
+  display_name: Understand a medical bill
+  short_description: Explains a medical bill or explanation of benefits line by line, spots possible errors to query, and drafts questions and a call script for the provider or insurer.
+policy:
+  allow_implicit_invocation: false

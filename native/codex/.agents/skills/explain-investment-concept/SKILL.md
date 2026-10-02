@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: investing
   source: https://hermes-ide.com/prompts/explain-investment-concept
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Explain an investment concept

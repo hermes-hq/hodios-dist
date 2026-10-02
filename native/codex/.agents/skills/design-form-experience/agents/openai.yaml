@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a form experience
+  short_description: Designs a form's UX by cutting questions, ordering them, choosing input types, inline validation, error messages and progress for multi-step forms. Use for checkout, signup and application forms.
+policy:
+  allow_implicit_invocation: false

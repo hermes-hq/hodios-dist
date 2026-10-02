@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan what to do with a windfall
+  short_description: Plans what to do with a bonus, inheritance or sale proceeds in priority order - pause, tax check, debts, emergency fund, goals and enjoyment - with questions for a professional.
+policy:
+  allow_implicit_invocation: false

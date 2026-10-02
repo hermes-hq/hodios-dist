@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: taxes
   source: https://hermes-ide.com/prompts/organize-tax-documents
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Organise tax documents for a preparer

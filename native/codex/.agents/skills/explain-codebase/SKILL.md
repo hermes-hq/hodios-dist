@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: learning
   source: https://hermes-ide.com/prompts/explain-codebase
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Explain a codebase

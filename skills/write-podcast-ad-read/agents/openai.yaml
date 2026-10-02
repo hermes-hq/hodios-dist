@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a podcast ad read
+  short_description: Writes a host-read sponsor spot in the host's voice with a personal angle, required talking points, the offer and a disclosure, timed to 30, 60 or 90 seconds. Use for sponsored episodes.
+policy:
+  allow_implicit_invocation: false

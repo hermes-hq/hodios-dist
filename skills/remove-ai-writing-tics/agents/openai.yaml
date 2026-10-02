@@ -1,0 +1,5 @@
+interface:
+  display_name: Remove machine-sounding writing tics
+  short_description: Edits machine-sounding text by removing stock phrases, empty intensifiers, formulaic structures and over-hedging, keeping the author's meaning and facts, and matching a voice sample if given.
+policy:
+  allow_implicit_invocation: false

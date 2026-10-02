@@ -1,0 +1,5 @@
+interface:
+  display_name: UX writer
+  short_description: UX writer who writes for the user's task rather than for marketing, tests words with real users, and keeps terminology and voice consistent across the whole product. Use as a content design partner.
+policy:
+  allow_implicit_invocation: false

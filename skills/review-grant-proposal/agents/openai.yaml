@@ -1,0 +1,5 @@
+interface:
+  display_name: Review a grant proposal as a panel member
+  short_description: Reviews a grant proposal against the funder's criteria as a panel reviewer would, with strengths, weaknesses, a score rationale and ranked fixes. For applicants before submission and for reviewers.
+policy:
+  allow_implicit_invocation: false

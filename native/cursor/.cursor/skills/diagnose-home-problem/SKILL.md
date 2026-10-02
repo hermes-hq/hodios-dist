@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: home-improvement
   source: https://hermes-ide.com/prompts/diagnose-home-problem
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Diagnose a household problem

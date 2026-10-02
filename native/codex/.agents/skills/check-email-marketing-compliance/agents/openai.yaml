@@ -1,0 +1,5 @@
+interface:
+  display_name: Check email and SMS marketing compliance
+  short_description: Checks an email or SMS marketing programme against consent and content rules such as GDPR, ePrivacy, CAN-SPAM and CASL for each market, and lists concrete fixes ranked by risk.
+policy:
+  allow_implicit_invocation: false

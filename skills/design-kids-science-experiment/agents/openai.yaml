@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a kids' science experiment
+  short_description: Designs a safe kitchen science experiment for a child's age, with household materials, numbered steps, a prediction, the science explained simply and questions that make them think.
+policy:
+  allow_implicit_invocation: false

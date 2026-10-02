@@ -1,0 +1,5 @@
+interface:
+  display_name: Design social media post templates
+  short_description: Designs a set of social post templates with formats per platform, a grid, type, colour, image treatment and rules for variety. Use when a brand or creator wants a consistent but flexible feed.
+policy:
+  allow_implicit_invocation: false

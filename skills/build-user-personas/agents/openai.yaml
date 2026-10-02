@@ -1,0 +1,5 @@
+interface:
+  display_name: Build evidence-based user personas
+  short_description: Builds UX personas from research notes, grouping participants by behaviour, with goals, pain points and scenarios traced to evidence and assumptions marked. Use after interviews or field research.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a fictional geography
+  short_description: Designs a world's geography from tectonics to climate, rivers, resources and settlements, how it shapes cultures and conflict, and a description to draw the map from. Use for fantasy settings.
+policy:
+  allow_implicit_invocation: false

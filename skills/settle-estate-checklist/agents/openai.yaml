@@ -1,0 +1,5 @@
+interface:
+  display_name: Settle a loved one's estate checklist
+  short_description: Builds a phased checklist for handling a loved one's affairs after death, covering registration, notifications, accounts, property, digital assets and executor duties to verify locally.
+policy:
+  allow_implicit_invocation: false

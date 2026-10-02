@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a market basket analysis
+  short_description: Runs market basket analysis on transactions to find products bought together, explains support, confidence and lift, and suggests bundles or placement to test. Use for retail and e-commerce.
+policy:
+  allow_implicit_invocation: false

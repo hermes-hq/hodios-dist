@@ -1,0 +1,5 @@
+interface:
+  display_name: Respond to a debt collector
+  short_description: Drafts a written response to a debt collector that requests validation, disputes errors or proposes payment, after checking the letter for red flags and listing the rights to verify locally.
+policy:
+  allow_implicit_invocation: false

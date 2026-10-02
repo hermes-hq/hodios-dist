@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a research interview protocol
+  short_description: Writes a semi-structured research interview protocol with a consent script, question themes, probes, timing and reflexivity notes, tied to the research question. For qualitative researchers.
+policy:
+  allow_implicit_invocation: false

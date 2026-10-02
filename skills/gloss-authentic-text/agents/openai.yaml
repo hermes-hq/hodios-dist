@@ -1,0 +1,5 @@
+interface:
+  display_name: Gloss an authentic text
+  short_description: Explains an authentic text such as news, a song or a letter sentence by sentence at the learner's level, covering vocabulary, grammar, idiom and cultural references, then checks comprehension.
+policy:
+  allow_implicit_invocation: false

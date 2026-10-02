@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a sales playbook
+  short_description: Builds a sales playbook with ICP, buyer personas, stages and exit criteria, discovery questions, an objection library, competitor cards and templates. Use for sales leaders and founders hiring reps.
+policy:
+  allow_implicit_invocation: false

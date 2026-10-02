@@ -1,0 +1,5 @@
+interface:
+  display_name: Review an employment contract
+  short_description: Reviews an employment contract for a new hire, covering pay, hours, probation, notice, restrictive covenants, IP and termination, and lists points to clarify or negotiate before signing.
+policy:
+  allow_implicit_invocation: false

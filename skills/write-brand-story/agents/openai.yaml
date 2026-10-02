@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a brand story
+  short_description: Writes the narrative a company retells everywhere, from the shift in the customer's world and the old way it breaks to the belief and proof, with spoken and audience cuts. Use to align pitches.
+policy:
+  allow_implicit_invocation: false

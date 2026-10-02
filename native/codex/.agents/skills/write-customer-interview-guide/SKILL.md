@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: product-discovery
   source: https://hermes-ide.com/prompts/write-customer-interview-guide
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Write a customer interview guide

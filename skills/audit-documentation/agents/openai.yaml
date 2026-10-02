@@ -1,0 +1,5 @@
+interface:
+  display_name: Audit a documentation set
+  short_description: Audits documentation for accuracy against the code, gaps in the user journey, stale pages, duplication and findability, and returns a prioritised fix list. Use before a docs overhaul or release.
+policy:
+  allow_implicit_invocation: false

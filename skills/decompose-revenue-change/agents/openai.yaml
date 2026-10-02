@@ -1,0 +1,5 @@
+interface:
+  display_name: Decompose a revenue change
+  short_description: Breaks a revenue or sales change into price, volume and mix effects, and into new, lost and retained customers, with the arithmetic shown and reconciled. Use to explain why revenue moved.
+policy:
+  allow_implicit_invocation: false

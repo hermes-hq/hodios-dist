@@ -1,0 +1,5 @@
+interface:
+  display_name: Compare two contract versions
+  short_description: Compares two versions of a contract clause by clause, lists every material change including silent ones, says which party each change favours, and gives the question to ask about it.
+policy:
+  allow_implicit_invocation: false

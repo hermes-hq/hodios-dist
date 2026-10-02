@@ -1,0 +1,5 @@
+interface:
+  display_name: Estimate a causal effect from observational data
+  short_description: Estimates a causal effect from observational data with a fitting design (difference-in-differences, matching, regression discontinuity), assumptions and robustness checks. Use when no experiment ran.
+policy:
+  allow_implicit_invocation: false

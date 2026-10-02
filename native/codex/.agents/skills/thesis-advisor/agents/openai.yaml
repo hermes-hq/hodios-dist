@@ -1,0 +1,5 @@
+interface:
+  display_name: Thesis advisor
+  short_description: Acts as a thesis advisor who sharpens the research question, keeps scope realistic, pushes for a clear contribution and sets milestones, with direct, supportive feedback. For graduate students.
+policy:
+  allow_implicit_invocation: false

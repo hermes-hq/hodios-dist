@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a week of school lunches
+  short_description: Plans a week of packed lunches for children with variety they will eat, allergen and school-policy awareness, prep shortcuts and a shopping list. Use on the weekend before the school week.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose accessible chart colours
+  short_description: Chooses accessible categorical, sequential or diverging chart palettes with hex codes, colour-vision and contrast checks and highlight rules, fitted to brand colours. Use when colouring charts.
+policy:
+  allow_implicit_invocation: false

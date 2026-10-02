@@ -1,0 +1,5 @@
+interface:
+  display_name: Write parody lyrics
+  short_description: Writes parody lyrics about a personal topic to a well-known tune, matching the original's syllable count, stress and rhyme scheme so it can be sung straight away at a party or celebration.
+policy:
+  allow_implicit_invocation: false

@@ -1,5 +1,5 @@
 ---
-description: Recovers lost commits, branches, stashes or staged files with reflog and fsck, backing up the repository first and explaining each command. Use after a bad reset, rebase or dropped stash.
+description: Recovers commits, branches, stashes and staged files lost to a reset, rebase or dropped stash, using reflog and fsck after a backup, explaining each command. Use right after a git mistake.
 agent: agent
 argument-hint: what_happened git_output
 ---
@@ -7,7 +7,7 @@ argument-hint: what_happened git_output
 # Recover lost Git work
 
 <context>
-Git rarely deletes committed work immediately. A reset, rebase, amend or deleted branch only moves references; the old commits stay in the object store and in the reflog until garbage collection removes them, typically after weeks. A dropped stash is a dangling commit. Staged but uncommitted files exist as blobs. Only changes that were never committed or staged are outside Git's reach. The danger during recovery is panic: more resets, `git gc`, or re-cloning can destroy what is still recoverable.
+Git rarely deletes committed work immediately. A reset, rebase, amend or deleted branch only moves references; the old commits stay in the object store and in the reflog until garbage collection removes them (by default reflog entries last 90 days, or 30 for commits no branch can reach). A dropped stash is a dangling commit. Staged but uncommitted files exist as blobs. Only changes that were never committed or staged are outside Git's reach. The danger during recovery is panic: more resets, `git gc`, or re-cloning can destroy what is still recoverable.
 </context>
 
 <task>
@@ -24,9 +24,11 @@ ${input:git_output:Output of `git status`, `git reflog -n 30`, `git stash list` 
    - `git reflog` and `git reflog show <branch>` for previous positions of HEAD and branches; `ORIG_HEAD` after a reset, rebase or merge;
    - `git fsck --lost-found` or `git fsck --unreachable --no-reflogs` for dangling commits and blobs, including dropped stashes (stash commits have messages starting "WIP on" or "On <branch>"); list them readably with `git fsck --unreachable --no-reflogs | grep commit | cut -d' ' -f3 | xargs git log --no-walk --format='%h %ci %s'`;
    - `git show <sha>` and `git log -p <sha>` to confirm a candidate is the lost work.
-4. Restore without overwriting anything: create a new branch at the found commit (`git branch recovered/<name> <sha>`), apply a stash commit with `git stash apply <sha>`, or write a blob to a new file with `git show <sha> > recovered-file`. Only then compare and merge into the working branch.
-5. If the lost changes were never committed or staged, say so plainly and list the places that might still hold them: editor or IDE local history, editor swap or backup files, OS snapshots or backups, a copy in another clone, CI artifacts, or an open pull request.
-6. If the remote branch was force-pushed, check other clones and the reflog of whoever pushed, and the hosting service's pull request or activity views for the old head commit.
+   If you can run commands in the repository yourself, run only these read-only ones and show their output; otherwise give them to the user and wait for the output.
+4. List the candidates with sha, date, subject and a `git show --stat <sha>` summary so the user can recognise their work, ranked by how well each matches the description.
+5. Restore without overwriting anything: create a new branch at the found commit (`git branch recovered/<name> <sha>`), apply a stash commit with `git stash apply <sha>`, or write a blob to a new file with `git show <sha> > recovered-file`. Only then compare and merge into the working branch.
+6. If the lost changes were never committed or staged, say so plainly and list the places that might still hold them: editor or IDE local history, editor swap or backup files, OS snapshots or backups, a copy in another clone, CI artifacts, or an open pull request.
+7. If the work was pushed before it was lost, the remote or a teammate's clone still has it: fetch it from there. If the remote branch was force-pushed, check other clones and the reflog of whoever pushed, and the hosting service's pull request or activity views for the old head commit.
 </task>
 
 <constraints>
@@ -34,6 +36,8 @@ ${input:git_output:Output of `git status`, `git reflog -n 30`, `git stash list` 
 - Never suggest `git reset --hard`, `git checkout -- .`, `git clean`, `git gc` or `git prune` during recovery.
 - Do not claim a commit is the lost work until its contents have been checked with `git show`.
 - If you need output you do not have, ask for it with the exact command, and wait.
+- Separate what you verified from what you inferred. Mark inferences as such.
+- When you do not know, say "I don't know" once and state what would settle it.
 </constraints>
 
 <output_format>
@@ -41,8 +45,8 @@ ${input:git_output:Output of `git status`, `git reflog -n 30`, `git stash list` 
 Two or three sentences, and the one question to ask if unsure.
 ## Stop and back up
 The backup command for the user's platform.
-## Find it
-Numbered read-only commands, each with what to look for in the output.
+## Candidates
+Numbered read-only commands, each with what to look for in the output, then a table: sha | date | subject | files changed | match (high, medium, low).
 ## Restore it
 Commands to restore onto a new branch or file, then how to bring it back into the working branch.
 ## If it is not there

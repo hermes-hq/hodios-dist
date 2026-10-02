@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse competitor reviews
+  short_description: Mines competitors' app store, G2 or marketplace reviews for loved features, recurring complaints, switching triggers and unmet needs, with counts and verbatim quotes. Use to find openings.
+policy:
+  allow_implicit_invocation: false

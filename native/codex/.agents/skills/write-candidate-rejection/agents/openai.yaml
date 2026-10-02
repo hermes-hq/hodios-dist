@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a candidate rejection
+  short_description: Writes respectful candidate rejection messages for each hiring stage, with optional specific feedback that is fair and legally careful. Use when closing the loop with applicants.
+policy:
+  allow_implicit_invocation: false

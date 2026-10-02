@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a mutual action plan
+  short_description: Writes a mutual action plan with the buyer - milestones to go-live, owners on both sides, dates, decision points and risks - working back from the buyer's own deadline. Use for complex B2B deals.
+policy:
+  allow_implicit_invocation: false

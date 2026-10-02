@@ -1,0 +1,5 @@
+interface:
+  display_name: Write community guidelines
+  short_description: Writes guidelines for a Discord server, forum, group or comment section with a purpose, clear rules with examples, moderation steps and an appeals route. Use when setting up or fixing a community.
+policy:
+  allow_implicit_invocation: false

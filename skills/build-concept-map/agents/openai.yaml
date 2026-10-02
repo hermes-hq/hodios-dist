@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a concept map
+  short_description: Turns a topic or chapter into a concept map with labelled links and cross-links, as Mermaid or an outline, then quizzes the learner on the links. For students who know facts but miss connections.
+policy:
+  allow_implicit_invocation: false

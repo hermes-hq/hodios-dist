@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a support QA scorecard
+  short_description: Builds a support quality scorecard with weighted criteria, scoring examples, auto-fail rules, calibration steps and coaching use. For support managers reviewing ticket and chat quality.
+policy:
+  allow_implicit_invocation: false

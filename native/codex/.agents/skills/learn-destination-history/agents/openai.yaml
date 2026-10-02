@@ -1,0 +1,5 @@
+interface:
+  display_name: Learn a destination's history
+  short_description: Gives a short, engaging history of a destination focused on the periods that explain what you will see there, with the sites, streets and dishes that connect to each. Use before or during a trip.
+policy:
+  allow_implicit_invocation: false

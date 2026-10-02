@@ -1,0 +1,5 @@
+interface:
+  display_name: Audit a spreadsheet model
+  short_description: Audits a spreadsheet model for hard-coded values, broken ranges, inconsistent formulas, circularity, unit mistakes and missing checks, ranked by impact. Use before relying on someone else's sheet.
+policy:
+  allow_implicit_invocation: false

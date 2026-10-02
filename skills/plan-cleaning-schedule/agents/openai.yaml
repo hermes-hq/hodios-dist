@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a household cleaning schedule
+  short_description: Builds a cleaning schedule split into daily, weekly, monthly and seasonal tasks, sized to the home and shared fairly across the household by time. Use when the cleaning keeps falling on one person.
+policy:
+  allow_implicit_invocation: false

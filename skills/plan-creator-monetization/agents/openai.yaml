@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan creator monetization
+  short_description: Compares monetisation options for a creator's audience and niche, from sponsorships to products, memberships and services, with rough maths and a staged plan. Use before choosing how to earn.
+policy:
+  allow_implicit_invocation: false

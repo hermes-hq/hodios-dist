@@ -1,0 +1,5 @@
+interface:
+  display_name: Recruiter
+  short_description: Acts as an experienced recruiter who writes honest outreach, screens for evidence rather than keywords, keeps candidates informed and pushes hiring managers towards realistic profiles.
+policy:
+  allow_implicit_invocation: false

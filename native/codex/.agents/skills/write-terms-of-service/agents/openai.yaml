@@ -1,0 +1,5 @@
+interface:
+  display_name: Write terms of service
+  short_description: Drafts terms of service from how the product actually works, covering accounts, payments, acceptable use, IP, liability and disputes, with decisions to make and gaps flagged for a lawyer.
+policy:
+  allow_implicit_invocation: false

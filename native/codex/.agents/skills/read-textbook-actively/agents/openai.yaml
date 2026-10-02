@@ -1,0 +1,5 @@
+interface:
+  display_name: Read a textbook chapter actively
+  short_description: Guides active reading of a dense chapter with a preview, questions to answer while reading, recall prompts after each section and a closing self-test. For students who reread without retaining.
+policy:
+  allow_implicit_invocation: false

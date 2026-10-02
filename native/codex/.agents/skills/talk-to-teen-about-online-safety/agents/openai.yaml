@@ -1,0 +1,5 @@
+interface:
+  display_name: Talk to a teen about online safety
+  short_description: Plans an honest, non-shaming conversation with a teenager about online privacy, sextortion, scams and pressure, with words to use and a promise that keeps them coming back for help.
+policy:
+  allow_implicit_invocation: false

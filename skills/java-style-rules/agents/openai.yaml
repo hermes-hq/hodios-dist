@@ -1,0 +1,5 @@
+interface:
+  display_name: Java style rules
+  short_description: Standing rules for Java an assistant writes, covering modern language features, immutability, Optional and null handling, exceptions, restrained streams, records and JUnit 5 tests.
+policy:
+  allow_implicit_invocation: false

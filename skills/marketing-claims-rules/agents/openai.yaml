@@ -1,0 +1,5 @@
+interface:
+  display_name: Marketing claims rules
+  short_description: Standing rules for marketing copy - no claim without proof, no fake urgency or scarcity, clear offer and price terms, honest testimonials and disclosures, and fair comparisons with competitors.
+policy:
+  allow_implicit_invocation: false

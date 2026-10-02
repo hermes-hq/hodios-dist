@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a game level
+  short_description: Designs a game level with a goal, pacing beats, a layout description, encounters, secrets and a clear plan for how it teaches one mechanic, ready to greybox and playtest.
+policy:
+  allow_implicit_invocation: false

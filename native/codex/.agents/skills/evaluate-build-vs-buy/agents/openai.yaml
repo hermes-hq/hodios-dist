@@ -1,0 +1,5 @@
+interface:
+  display_name: Evaluate build versus buy
+  short_description: Compares building, buying or adopting open source for a capability on total cost, time to value, strategic fit, lock-in and risk, then recommends one with triggers for revisiting the decision.
+policy:
+  allow_implicit_invocation: false

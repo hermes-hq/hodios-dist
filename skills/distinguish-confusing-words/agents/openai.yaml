@@ -1,0 +1,5 @@
+interface:
+  display_name: Distinguish confusing words
+  short_description: Explains the difference between words learners mix up, such as por and para, kennen and wissen or since and for, with a rule of thumb, contrasting examples and a short test.
+policy:
+  allow_implicit_invocation: false

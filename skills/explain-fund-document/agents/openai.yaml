@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a fund document
+  short_description: Explains a fund factsheet, key information document or prospectus in plain terms - objective, holdings, all costs, risk rating and performance in context - plus what to compare.
+policy:
+  allow_implicit_invocation: false

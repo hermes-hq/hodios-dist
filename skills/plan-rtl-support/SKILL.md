@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: localization
   source: https://hermes-ide.com/prompts/plan-rtl-support
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Plan and implement right-to-left support

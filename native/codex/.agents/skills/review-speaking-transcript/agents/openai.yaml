@@ -1,0 +1,5 @@
+interface:
+  display_name: Review a speaking transcript
+  short_description: Reviews a transcript of a learner speaking for errors, hesitation patterns, overused words and pronunciation hints, with a short drill on the top issues. For learners who record themselves.
+policy:
+  allow_implicit_invocation: false

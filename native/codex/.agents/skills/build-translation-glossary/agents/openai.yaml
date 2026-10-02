@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a translation glossary
+  short_description: Builds a bilingual glossary from a document such as a contract, manual or book chapter, with approved terms, definitions, do-not-translate items and client queries, so long jobs stay consistent.
+policy:
+  allow_implicit_invocation: false

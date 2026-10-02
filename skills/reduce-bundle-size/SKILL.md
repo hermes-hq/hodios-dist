@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: performance
   source: https://hermes-ide.com/prompts/reduce-bundle-size
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Reduce JavaScript bundle size

@@ -1,0 +1,5 @@
+interface:
+  display_name: Analysis project track
+  short_description: Takes a stakeholder request from question to analysis plan, data checks, analysis and a decision-ready report, pausing for review between steps. Use when an analyst takes on a request.
+policy:
+  allow_implicit_invocation: false

@@ -1,5 +1,5 @@
 interface:
   display_name: Recover lost Git work
-  short_description: Recovers lost commits, branches, stashes or staged files with reflog and fsck, backing up the repository first and explaining each command. Use after a bad reset, rebase or dropped stash.
+  short_description: Recovers commits, branches, stashes and staged files lost to a reset, rebase or dropped stash, using reflog and fsck after a backup, explaining each command. Use right after a git mistake.
 policy:
   allow_implicit_invocation: false

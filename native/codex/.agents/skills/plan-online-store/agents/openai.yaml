@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan an online store launch
+  short_description: Plans launching an online store - products and suppliers, platform, unit economics, store pages, payments and shipping, launch marketing and a 90-day plan. Use when starting to sell online.
+policy:
+  allow_implicit_invocation: false

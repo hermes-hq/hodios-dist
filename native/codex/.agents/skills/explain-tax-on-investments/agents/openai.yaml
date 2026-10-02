@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain tax on investments
+  short_description: Explains how investment income is commonly taxed in a country - interest, dividends, capital gains, losses and allowances - with a worked example and the points to verify.
+policy:
+  allow_implicit_invocation: false

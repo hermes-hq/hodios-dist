@@ -1,0 +1,5 @@
+interface:
+  display_name: PR strategist
+  short_description: Acts as a PR strategist who finds the real news angle, knows what journalists need, protects credibility and plans earned media around true stories. Use when seeking press coverage.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a caching strategy
+  short_description: Designs caching for a slow path, covering what to cache at which layer, keys, TTLs, invalidation, stampede protection and measuring hit rate and staleness. Use when fixing latency or database load.
+policy:
+  allow_implicit_invocation: false

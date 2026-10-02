@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: email
   source: https://hermes-ide.com/prompts/decline-request-gracefully
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Decline a request gracefully

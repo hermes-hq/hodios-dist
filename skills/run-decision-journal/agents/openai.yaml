@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a decision journal
+  short_description: Writes a decision journal entry at the moment of deciding - options, expectations, confidence and a review date - or reviews past entries against outcomes to find patterns in your judgement.
+policy:
+  allow_implicit_invocation: false

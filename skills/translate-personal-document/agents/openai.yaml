@@ -1,0 +1,5 @@
+interface:
+  display_name: Translate a personal document
+  short_description: Produces a faithful working translation of a personal document such as a certificate or transcript, keeping layout, names and numbers exact and flagging when a certified translation is needed.
+policy:
+  allow_implicit_invocation: false

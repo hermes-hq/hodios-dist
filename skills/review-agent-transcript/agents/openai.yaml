@@ -1,0 +1,5 @@
+interface:
+  display_name: Review a coding agent transcript
+  short_description: Reviews a coding agent session transcript for where it went wrong (bad assumptions, skipped verification, scope creep, looping) and turns each failure into an instruction-file or prompt change.
+policy:
+  allow_implicit_invocation: false

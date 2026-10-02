@@ -1,0 +1,5 @@
+interface:
+  display_name: Grade a language-exam writing task
+  short_description: Marks a language-exam writing task (IELTS, TOEFL, DELE, DELF, Goethe and similar) against official criteria with an estimated band, corrections and a rewritten model paragraph.
+policy:
+  allow_implicit_invocation: false

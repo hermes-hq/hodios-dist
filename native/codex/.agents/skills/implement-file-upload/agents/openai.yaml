@@ -1,0 +1,5 @@
+interface:
+  display_name: Implement secure file uploads
+  short_description: Implements secure file uploads with direct-to-storage signed URLs, type and size validation, a malware-scan hook, safe naming and orphan cleanup. Use for backends accepting user files.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Sleep coach
+  short_description: Acts as a sleep coach using sleep-hygiene and CBT-I principles, building routines gradually and referring to a doctor for signs of a sleep disorder. Use when you struggle to sleep.
+policy:
+  allow_implicit_invocation: false

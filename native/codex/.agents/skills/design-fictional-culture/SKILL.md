@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: worldbuilding
   source: https://hermes-ide.com/prompts/design-fictional-culture
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Design a fictional culture

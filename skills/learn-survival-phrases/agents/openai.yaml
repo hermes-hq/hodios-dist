@@ -1,0 +1,5 @@
+interface:
+  display_name: Learn survival phrases
+  short_description: Builds a crash course of about 60 phrases for a trip or move, covering greetings, directions, food, shopping and emergencies, with pronunciation and the replies you are likely to hear.
+policy:
+  allow_implicit_invocation: false

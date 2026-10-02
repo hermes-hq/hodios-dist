@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose a destination
+  short_description: Suggests and compares destinations for your dates, budget, interests and constraints, with honest trade-offs, seasonal notes and a recommendation. Use when you know when you can travel but not where.
+policy:
+  allow_implicit_invocation: false

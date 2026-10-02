@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a heartfelt personal letter
+  short_description: Writes a heartfelt personal letter to a parent, friend, child or partner from the writer's memories and feelings, in the writer's own voice, for milestones and things left unsaid.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Generate logo concept directions
+  short_description: Generates logo concept directions, each with the idea behind it, symbol and wordmark notes, typography, colour and scaling checks, plus a brief for a designer or image model. Use for new brands.
+policy:
+  allow_implicit_invocation: false

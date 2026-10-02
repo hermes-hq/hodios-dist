@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for a child's doctor visit
+  short_description: Prepares a parent or carer for a child's doctor visit with a symptom timeline, growth and development questions, vaccines to ask about, and age-appropriate ways to prepare the child.
+policy:
+  allow_implicit_invocation: false

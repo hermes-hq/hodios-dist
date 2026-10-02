@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a video-generation prompt
+  short_description: Writes prompts for AI video generators covering subject, action, camera movement, lighting, style, audio and consistency, with a shot-by-shot version for longer clips. Use with text-to-video tools.
+policy:
+  allow_implicit_invocation: false

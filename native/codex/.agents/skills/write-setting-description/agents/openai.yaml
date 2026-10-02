@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a setting description
+  short_description: Writes setting descriptions filtered through a point-of-view character's senses, history and mood, in three lengths from a passing line to a full arrival passage. Use when a place feels flat.
+policy:
+  allow_implicit_invocation: false

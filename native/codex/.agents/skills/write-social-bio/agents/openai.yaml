@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a social profile bio
+  short_description: Writes profile bios per platform within character limits that say who it is for, what people get and why to follow, in several voice options. Use for creators, freelancers and brands.
+policy:
+  allow_implicit_invocation: false

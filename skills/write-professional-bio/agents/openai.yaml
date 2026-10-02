@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a professional bio
+  short_description: Writes the bio others read or say about you on speaker pages, programmes, proposals, author notes and team pages, at one-line to long lengths, angled to that reader and built only from your facts.
+policy:
+  allow_implicit_invocation: false

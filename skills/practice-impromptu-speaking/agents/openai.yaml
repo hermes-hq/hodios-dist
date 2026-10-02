@@ -1,0 +1,5 @@
+interface:
+  display_name: Practise impromptu speaking
+  short_description: Runs impromptu speaking drills with random prompts and simple frameworks such as PREP and past-present-future, giving feedback on structure, filler and endings after each answer.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Yearly review track
+  short_description: Runs a yearly review in five paused steps - a look back by life area, lessons, a vision for next year, a few goals and a quarterly plan. Use at year end, a birthday or any fresh start.
+policy:
+  allow_implicit_invocation: false

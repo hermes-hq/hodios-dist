@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a memory profile for your assistant
+  short_description: Writes a concise profile of your standing preferences, context and facts for an AI assistant's memory, flags what to leave out for privacy and what goes stale, and gives a review routine.
+policy:
+  allow_implicit_invocation: false

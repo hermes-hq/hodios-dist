@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a white paper
+  short_description: Writes a B2B white paper that frames an industry problem with cited evidence and sets out a solution approach, citing a supplied source for every factual claim and flagging unsupported ones.
+policy:
+  allow_implicit_invocation: false

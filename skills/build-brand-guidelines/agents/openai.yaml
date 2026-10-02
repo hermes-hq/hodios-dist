@@ -1,0 +1,5 @@
+interface:
+  display_name: Write brand guidelines
+  short_description: Writes brand guidelines covering logo use, colour, typography, imagery, voice, applications and do and don't examples as a structured document. Use when a team formalises its brand.
+policy:
+  allow_implicit_invocation: false

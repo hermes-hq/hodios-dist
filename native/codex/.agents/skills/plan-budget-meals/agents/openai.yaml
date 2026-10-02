@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a week of meals on a tight budget
+  short_description: Plans a week of filling meals to a fixed food budget, using the cupboard first, pricing whole packs and checking the till total against the budget. Use when money is the main limit.
+policy:
+  allow_implicit_invocation: false

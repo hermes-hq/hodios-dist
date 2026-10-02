@@ -1,0 +1,5 @@
+interface:
+  display_name: Evaluate a supplement
+  short_description: Summarises the evidence on a dietary supplement, covering claimed benefits, what studies show, doses seen on labels, interactions and safety flags to raise with a pharmacist or doctor.
+policy:
+  allow_implicit_invocation: false

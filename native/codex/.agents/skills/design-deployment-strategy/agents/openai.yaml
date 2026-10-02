@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a deployment strategy
+  short_description: Chooses and specifies a deployment strategy (rolling, blue-green, canary or feature-flagged) with health gates, automated rollback triggers and database-change ordering. Use when deploys feel risky.
+policy:
+  allow_implicit_invocation: false

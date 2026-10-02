@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a running programme
+  short_description: Builds a running plan for a goal from first 5K to marathon, with gradual progression, easy and hard days, cross-training, deloads, a taper and injury warning signs. Use when training for a run.
+policy:
+  allow_implicit_invocation: false

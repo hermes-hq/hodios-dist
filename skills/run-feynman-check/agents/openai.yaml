@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a Feynman check
+  short_description: Reviews a learner's plain-language explanation of a concept, finds gaps, jargon used as a crutch and wrong steps, and asks targeted follow-up questions. Use to test real understanding.
+policy:
+  allow_implicit_invocation: false

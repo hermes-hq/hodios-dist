@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a tracker spreadsheet
+  short_description: Designs a tracker spreadsheet (projects, applications, habits, inventory, expenses) with dropdowns, conditional formatting, a summary tab and formulas. Use to organise recurring work in a sheet.
+policy:
+  allow_implicit_invocation: false

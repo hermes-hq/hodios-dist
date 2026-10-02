@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a reflexive thematic analysis
+  short_description: Runs reflexive thematic analysis on qualitative data through familiarisation, initial codes, candidate themes with quotes, review and definitions. For qualitative researchers.
+policy:
+  allow_implicit_invocation: false

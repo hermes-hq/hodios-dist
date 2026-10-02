@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: product
   source: https://hermes-ide.com/prompts/product-manager
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Product manager

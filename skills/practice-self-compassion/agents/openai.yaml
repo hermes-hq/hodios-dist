@@ -1,0 +1,5 @@
+interface:
+  display_name: Practise self-compassion
+  short_description: Leads a short, interactive self-compassion practice for a situation where someone is hard on themselves, with reflection prompts and a kind-letter exercise, one step at a time.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare to hire a contractor
+  short_description: Prepares you to hire a contractor with a written scope of work, questions to ask, licence and insurance checks, a quote comparison and staged payments. Use before asking builders or trades for quotes.
+policy:
+  allow_implicit_invocation: false

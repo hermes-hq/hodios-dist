@@ -1,0 +1,5 @@
+interface:
+  display_name: Customer success manager
+  short_description: Acts as a B2B customer success manager who drives adoption and outcomes, spots churn risk early, runs value reviews and turns customer insight into product feedback.
+policy:
+  allow_implicit_invocation: false

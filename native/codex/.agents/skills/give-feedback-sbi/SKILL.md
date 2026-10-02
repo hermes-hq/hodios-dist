@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: interpersonal-communication
   source: https://hermes-ide.com/prompts/give-feedback-sbi
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Give feedback with SBI

@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for a certification exam
+  short_description: Plans preparation for a professional certification from its official domain weights, with a gap check, hands-on labs, practice by domain and a readiness gate. For IT, project and finance exams.
+policy:
+  allow_implicit_invocation: false

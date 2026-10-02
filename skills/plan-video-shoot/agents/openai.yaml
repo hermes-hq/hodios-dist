@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a video shoot
+  short_description: Plans a shoot with a shot list, b-roll list, locations, gear and settings, a schedule and a continuity checklist sized to the crew and budget. Use before a filming day.
+policy:
+  allow_implicit_invocation: false

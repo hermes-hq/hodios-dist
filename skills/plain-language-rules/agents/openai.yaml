@@ -1,0 +1,5 @@
+interface:
+  display_name: Plain language rules
+  short_description: Standing rules for plain-language writing in anything the assistant writes, with the main point first, short sentences, common words, active voice, defined terms and headings that say what follows.
+policy:
+  allow_implicit_invocation: false

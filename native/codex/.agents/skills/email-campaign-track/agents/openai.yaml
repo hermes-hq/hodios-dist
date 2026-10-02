@@ -1,0 +1,5 @@
+interface:
+  display_name: Email campaign track
+  short_description: Takes an email campaign from goal and audience to segmentation, copy, a pre-send QA checklist and a results review, pausing for approval between steps. Use to run a campaign end to end.
+policy:
+  allow_implicit_invocation: false

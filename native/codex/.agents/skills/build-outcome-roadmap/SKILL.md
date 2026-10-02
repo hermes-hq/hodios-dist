@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: roadmapping
   source: https://hermes-ide.com/prompts/build-outcome-roadmap
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Build an outcome roadmap

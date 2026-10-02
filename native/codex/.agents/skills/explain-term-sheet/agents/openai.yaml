@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a startup term sheet
+  short_description: Explains a startup term sheet clause by clause - valuation, liquidation preference, board, vesting, protective provisions - what is common, what to question, and questions for your lawyer.
+policy:
+  allow_implicit_invocation: false

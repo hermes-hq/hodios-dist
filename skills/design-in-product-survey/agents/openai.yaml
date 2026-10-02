@@ -1,0 +1,5 @@
+interface:
+  display_name: Design an in-product survey
+  short_description: Designs an in-product survey or micro-poll around the one question that matters, with the trigger moment, sampling, response options, bias checks and how the answers feed decisions.
+policy:
+  allow_implicit_invocation: false

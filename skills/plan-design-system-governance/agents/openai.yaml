@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan design system governance
+  short_description: Plans how a design system is run, covering ownership, the contribution model, versioning, deprecation, adoption tracking and support. Use when setting up or fixing how a design system is run.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Cut monthly costs
+  short_description: Finds savings in recurring household costs such as subscriptions, utilities, insurance, phone and groceries, ranked by savings and effort, with scripts for negotiating bills.
+policy:
+  allow_implicit_invocation: false

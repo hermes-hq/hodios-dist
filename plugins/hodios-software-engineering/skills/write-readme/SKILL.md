@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: docs
   source: https://hermes-ide.com/prompts/write-readme
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Write a README

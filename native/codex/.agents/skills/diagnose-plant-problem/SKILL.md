@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: gardening
   source: https://hermes-ide.com/prompts/diagnose-plant-problem
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Diagnose a plant problem

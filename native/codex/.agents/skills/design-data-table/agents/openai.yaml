@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a readable data table
+  short_description: Designs a readable data table for a report or slide, covering what to include, ordering, number formats, alignment, highlighting and footnotes. Use when your tables get skipped or misread.
+policy:
+  allow_implicit_invocation: false

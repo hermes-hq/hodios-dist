@@ -1,0 +1,5 @@
+interface:
+  display_name: Recover from a layoff
+  short_description: Builds an action plan after a layoff - severance and benefits questions, finances to check, how to explain the layoff and a job search restart. Use in the first days after losing a job.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Compile a family cookbook
+  short_description: Turns family recipes, notes and stories into a consistent cookbook with standardised measurements, headnotes in the family's own words and an index. Use when preserving recipes for the family.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare to make a will
+  short_description: Prepares an adult to make a will with an inventory of assets and debts, choices on guardians and executors, wishes and gifts, and the questions to take to a lawyer or notary.
+policy:
+  allow_implicit_invocation: false

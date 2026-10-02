@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a car purchase
+  short_description: Compares buying a car new or used, leasing or financing on total cost of ownership, including depreciation, insurance, fuel or charging, maintenance and finance costs.
+policy:
+  allow_implicit_invocation: false

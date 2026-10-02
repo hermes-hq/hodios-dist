@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: career-growth
   source: https://hermes-ide.com/prompts/plan-career-path
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Plan a career path

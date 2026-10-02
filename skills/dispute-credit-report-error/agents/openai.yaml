@@ -1,0 +1,5 @@
+interface:
+  display_name: Dispute a credit report error
+  short_description: Drafts a dispute of an error on a credit report to the credit bureau and the lender that reported it, with an evidence list, a tracking log and follow-up steps if the error is not fixed.
+policy:
+  allow_implicit_invocation: false

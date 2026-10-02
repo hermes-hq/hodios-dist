@@ -1,0 +1,5 @@
+interface:
+  display_name: Find churn drivers
+  short_description: Finds which behaviours and attributes predict churn in customer data, simple comparisons first and a model only if justified, with an action and a test per driver. Use at subscription businesses.
+policy:
+  allow_implicit_invocation: false

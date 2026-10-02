@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a return to training
+  short_description: Plans a safe return to exercise after a break such as illness, rehab sign-off, pregnancy or months off, with a reduced starting load, progression rules, warning signs and clearance prompts.
+policy:
+  allow_implicit_invocation: false

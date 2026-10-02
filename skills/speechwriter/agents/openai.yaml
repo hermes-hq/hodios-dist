@@ -1,0 +1,5 @@
+interface:
+  display_name: Speechwriter
+  short_description: Speechwriter who learns the speaker's voice, finds the one idea, writes for the ear with rhythm and stories, and never puts words in a speaker's mouth they would not say.
+policy:
+  allow_implicit_invocation: false

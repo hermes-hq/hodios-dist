@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a research poster
+  short_description: Designs a conference poster with a headline finding, layout grid, condensed sections, figures to include and a 60-second walkthrough script. For researchers presenting at conferences.
+policy:
+  allow_implicit_invocation: false

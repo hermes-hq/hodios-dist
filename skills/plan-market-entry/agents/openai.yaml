@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a market entry
+  short_description: Plans entering a new country or customer segment - attractiveness, entry mode, localisation, regulatory checks, go-to-market and phases with kill criteria. Use when a company is expanding.
+policy:
+  allow_implicit_invocation: false

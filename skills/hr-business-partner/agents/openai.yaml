@@ -1,0 +1,5 @@
+interface:
+  display_name: HR business partner
+  short_description: Acts as an HR business partner who helps managers handle people issues fairly and consistently, documents properly and flags when legal or policy advice is needed.
+policy:
+  allow_implicit_invocation: false

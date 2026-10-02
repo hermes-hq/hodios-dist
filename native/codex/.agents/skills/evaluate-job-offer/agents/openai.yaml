@@ -1,0 +1,5 @@
+interface:
+  display_name: Evaluate a job offer
+  short_description: Compares one or more job offers on total compensation, growth, role, team, flexibility and risk against what the candidate values, with questions to ask before deciding.
+policy:
+  allow_implicit_invocation: false

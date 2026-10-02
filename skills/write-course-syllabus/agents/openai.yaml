@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a course syllabus
+  short_description: Writes a student-facing syllabus with description, outcomes, schedule, assessments and weights, policies and support resources. For instructors launching or revising a course.
+policy:
+  allow_implicit_invocation: false

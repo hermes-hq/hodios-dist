@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: podcasting
   source: https://hermes-ide.com/prompts/write-guest-interview-questions
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Write guest interview questions

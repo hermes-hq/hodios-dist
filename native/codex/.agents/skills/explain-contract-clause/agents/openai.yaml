@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a contract clause
+  short_description: Explains one contract clause such as an indemnity, liability cap, non-compete or auto-renewal in plain language, shows how it plays out in real scenarios and lists what to ask about it.
+policy:
+  allow_implicit_invocation: false

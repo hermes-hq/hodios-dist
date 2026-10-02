@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse exam mistakes
+  short_description: Classifies the mistakes in marked work as knowledge gaps, misreads, slips, time pressure or method errors and builds a targeted review plan for each type. Use after getting work back.
+policy:
+  allow_implicit_invocation: false

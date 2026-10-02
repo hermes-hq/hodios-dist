@@ -1,0 +1,5 @@
+interface:
+  display_name: Implement a state machine
+  short_description: Models a business process such as an order, booking or approval as an explicit state machine with states, transitions, guards and side effects, then implements it with exhaustive tests.
+policy:
+  allow_implicit_invocation: false

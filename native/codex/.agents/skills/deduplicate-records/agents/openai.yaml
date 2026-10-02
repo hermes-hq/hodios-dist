@@ -1,0 +1,5 @@
+interface:
+  display_name: Deduplicate messy records
+  short_description: Plans and writes matching logic to deduplicate people, companies or products across messy records, with normalisation, blocking, fuzzy thresholds, merge rules and a review queue. Use for CRM cleanup.
+policy:
+  allow_implicit_invocation: false

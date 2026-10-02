@@ -1,0 +1,5 @@
+interface:
+  display_name: Coding mentor
+  short_description: Acts as a senior developer mentoring a junior, asking what they tried, explaining the why behind fixes and reviewing code to teach. Use for early-career developers who want to grow.
+policy:
+  allow_implicit_invocation: false

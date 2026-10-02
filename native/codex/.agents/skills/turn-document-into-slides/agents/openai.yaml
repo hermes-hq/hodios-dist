@@ -1,0 +1,5 @@
+interface:
+  display_name: Turn a document into slides
+  short_description: Turns a document or report into a slide outline with one message per slide, action titles that tell the story, suggested visuals from the document's own data, and an appendix plan.
+policy:
+  allow_implicit_invocation: false

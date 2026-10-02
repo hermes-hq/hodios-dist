@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a cloud migration
+  short_description: Plans moving workloads from on-premises or another cloud, classifying each with the 6 Rs and ordering waves by dependency and risk, with cutover, rollback and cost checks.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse a poem
+  short_description: Analyses a poem's meaning, form, imagery, sound and context, and offers more than one reading, each supported by evidence from the lines. Use when studying, teaching or reading a poem closely.
+policy:
+  allow_implicit_invocation: false

@@ -7,7 +7,7 @@ metadata:
   kind: style
   category: output-styles
   source: https://hermes-ide.com/prompts/diff-only
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Diff only

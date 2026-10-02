@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a Bayesian A/B test analysis
+  short_description: Analyses an A/B test the Bayesian way, with priors, posteriors, probability to beat control, expected loss and a decision rule, explained for non-statisticians. Use as a product or growth analyst.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Compare retirement account types
+  short_description: Explains a country's retirement and tax-advantaged account types, their tax treatment, limits, access rules and trade-offs, without recommending any product or provider.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an invoice
+  short_description: Writes a professional invoice with the commonly required fields - numbering, tax IDs, VAT or sales-tax lines, payment terms and a late-fee clause - plus a short cover message.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Purge a file from git history
+  short_description: Removes a large file or committed secret from all git history with git filter-repo, with a backup first, exact commands, force-push coordination and what every collaborator must do.
+policy:
+  allow_implicit_invocation: false

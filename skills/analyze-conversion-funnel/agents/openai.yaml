@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse a conversion funnel
+  short_description: Analyses a conversion funnel step by step to find the biggest leak, the segments where it differs, likely causes and the experiments or fixes worth trying first. For PMs and growth teams.
+policy:
+  allow_implicit_invocation: false

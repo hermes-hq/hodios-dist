@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a decision memo
+  short_description: Writes a one-page decision memo with the decision needed and by when, context, options with honest trade-offs, a recommendation and next steps. Use when asking a manager to approve something.
+policy:
+  allow_implicit_invocation: false

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: family-logistics
   source: https://hermes-ide.com/prompts/coordinate-family-calendar
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Coordinate the family week

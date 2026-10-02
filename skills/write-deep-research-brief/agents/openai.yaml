@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a deep-research brief
+  short_description: Writes a brief for an AI deep-research run - precise question, scope, source rules, output format and how to judge the result - so a research agent investigates the right thing.
+policy:
+  allow_implicit_invocation: false

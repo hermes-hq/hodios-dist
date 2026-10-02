@@ -1,0 +1,5 @@
+interface:
+  display_name: Thorough
+  short_description: Increases the depth of any answer, from adding the key reasoning behind it to exhaustive coverage with alternatives, edge cases, trade-offs and sources. For readers who want the full picture.
+policy:
+  allow_implicit_invocation: false

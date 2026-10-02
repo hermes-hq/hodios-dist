@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: copywriting
   source: https://hermes-ide.com/prompts/write-press-release
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Write a press release

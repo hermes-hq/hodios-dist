@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an elevator pitch
+  short_description: Writes 10-second, 30-second and 2-minute pitches for different listeners, each with a hook, problem, solution, proof and ask. Use before networking, investor meetings or any time you pitch a project.
+policy:
+  allow_implicit_invocation: false

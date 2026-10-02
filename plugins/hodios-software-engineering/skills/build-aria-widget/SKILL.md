@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: accessibility
   source: https://hermes-ide.com/prompts/build-aria-widget
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Build an accessible ARIA widget

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: scientific-writing
   source: https://hermes-ide.com/prompts/respond-to-reviewers
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Respond to peer reviewers

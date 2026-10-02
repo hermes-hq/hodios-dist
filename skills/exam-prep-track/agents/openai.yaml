@@ -1,0 +1,5 @@
+interface:
+  display_name: Exam preparation track
+  short_description: Takes a learner from a syllabus to a diagnostic quiz, a weighted study plan, targeted practice and a final mock with review, pausing between steps. For students preparing for a specific exam.
+policy:
+  allow_implicit_invocation: false

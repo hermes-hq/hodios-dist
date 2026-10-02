@@ -1,0 +1,5 @@
+interface:
+  display_name: Refine a backlog ticket
+  short_description: Turns a vague ticket into a ready-for-development one with the user problem, scope and non-scope, open questions, acceptance criteria and a definition-of-ready check. Use in backlog refinement.
+policy:
+  allow_implicit_invocation: false

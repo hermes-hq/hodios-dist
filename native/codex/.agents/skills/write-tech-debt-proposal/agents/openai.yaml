@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a tech debt proposal
+  short_description: Turns a piece of technical debt into a business case with evidence, cost of delay, options, the smallest valuable paydown and success measures. Use when you need product or leadership buy-in.
+policy:
+  allow_implicit_invocation: false

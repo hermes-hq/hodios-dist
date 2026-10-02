@@ -1,0 +1,5 @@
+interface:
+  display_name: Tell a data story
+  short_description: Turns analysis findings into a data story with one message, a sequence of charts with action titles and annotations, and the narrative linking them. Use when presenting to non-analysts.
+policy:
+  allow_implicit_invocation: false

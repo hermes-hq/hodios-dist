@@ -1,0 +1,5 @@
+interface:
+  display_name: Start composting at home
+  short_description: Chooses a composting method for your space (bin, tumbler, worms or bokashi) and gives a start guide, the greens-to-browns balance and troubleshooting. Use when you want to stop binning food scraps.
+policy:
+  allow_implicit_invocation: false

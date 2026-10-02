@@ -1,0 +1,5 @@
+interface:
+  display_name: Practise a case interview
+  short_description: Runs a consulting-style case interview with structuring, maths and synthesis, then gives interviewer-style feedback. Use for consulting, strategy and product interview practice.
+policy:
+  allow_implicit_invocation: false

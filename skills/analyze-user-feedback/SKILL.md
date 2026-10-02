@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: user-feedback
   source: https://hermes-ide.com/prompts/analyze-user-feedback
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Analyze user feedback

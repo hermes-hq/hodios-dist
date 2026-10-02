@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain my payslip
+  short_description: Explains each payslip line (gross pay, tax, social contributions, pension, deductions), checks the arithmetic and drafts questions for payroll when something looks off.
+policy:
+  allow_implicit_invocation: false

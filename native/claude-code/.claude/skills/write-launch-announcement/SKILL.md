@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: product-launch
   source: https://hermes-ide.com/prompts/write-launch-announcement
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Write a launch announcement

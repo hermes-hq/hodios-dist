@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan date nights
+  short_description: Plans a set of date nights that fit a couple's budget, interests and childcare limits, including at-home dates after bedtime, with timings, costs and conversation prompts for each.
+policy:
+  allow_implicit_invocation: false

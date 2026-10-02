@@ -1,0 +1,5 @@
+interface:
+  display_name: Dispute resolution track
+  short_description: Takes a consumer or tenant dispute from facts and evidence to a complaint letter, an ombudsman or regulator escalation and small-claims preparation, pausing for approval between steps.
+policy:
+  allow_implicit_invocation: false

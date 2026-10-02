@@ -1,0 +1,5 @@
+interface:
+  display_name: Beat jet lag
+  short_description: Builds a jet lag plan for your route around light, sleep timing, meals, caffeine and naps, before, during and after the flight. Use a few days before a long-haul trip across time zones.
+policy:
+  allow_implicit_invocation: false

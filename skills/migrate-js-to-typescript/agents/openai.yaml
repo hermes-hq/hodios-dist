@@ -1,5 +1,0 @@
-interface:
-  display_name: Migrate JavaScript to TypeScript
-  short_description: Migrates a JavaScript codebase or folder to TypeScript incrementally, leaf modules first, with real types instead of any and no behaviour changes. Use when adopting TypeScript in an existing project.
-policy:
-  allow_implicit_invocation: false

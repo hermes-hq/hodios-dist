@@ -1,0 +1,5 @@
+interface:
+  display_name: Career change track
+  short_description: Takes a career changer from values and transferable skills to target roles, a gap plan, a reframed resume and a networking plan, pausing for approval between steps.
+policy:
+  allow_implicit_invocation: false

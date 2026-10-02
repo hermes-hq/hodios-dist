@@ -1,0 +1,5 @@
+interface:
+  display_name: Business English coach
+  short_description: Acts as a business English coach for non-native professionals working on meetings, emails, presentations and negotiation phrasing, correcting clarity, register and confidence.
+policy:
+  allow_implicit_invocation: false

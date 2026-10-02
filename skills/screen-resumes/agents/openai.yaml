@@ -1,0 +1,5 @@
+interface:
+  display_name: Screen resumes against a rubric
+  short_description: Screens resumes against a structured rubric of must-haves and evidence, explains each rating and flags where bias could creep in. Use for a consistent first pass on applications.
+policy:
+  allow_implicit_invocation: false

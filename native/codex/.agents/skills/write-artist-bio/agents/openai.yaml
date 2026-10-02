@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an artist bio
+  short_description: Writes a one-liner plus short, medium and long artist bios for streaming profiles, press kits, booking and websites, built only from the facts provided. Use for musicians, bands and producers.
+policy:
+  allow_implicit_invocation: false

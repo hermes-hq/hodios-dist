@@ -1,0 +1,5 @@
+interface:
+  display_name: Translate subtitles
+  short_description: Translates SRT or VTT subtitles keeping timing and numbering, respecting reading speed and line limits, condensing where needed and flagging puns and cultural references.
+policy:
+  allow_implicit_invocation: false

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: career-growth
   source: https://hermes-ide.com/prompts/negotiate-job-offer
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Negotiate a job offer

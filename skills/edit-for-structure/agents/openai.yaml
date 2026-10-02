@@ -1,0 +1,5 @@
+interface:
+  display_name: Edit a draft for structure
+  short_description: Edits a non-fiction draft at the structural level, covering argument, order, misplaced and missing sections, with a reverse outline and a prioritised revision plan instead of line edits.
+policy:
+  allow_implicit_invocation: false

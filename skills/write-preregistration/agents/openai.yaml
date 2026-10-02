@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a study preregistration
+  short_description: Writes a study preregistration with hypotheses, design, sampling plan, variables, exclusion rules and a pre-specified analysis plan, flagging open choices. For OSF or AsPredicted users.
+policy:
+  allow_implicit_invocation: false

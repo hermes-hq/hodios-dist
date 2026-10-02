@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a Reddit post
+  short_description: Writes a Reddit post that fits a subreddit's rules and culture, leads with value rather than promotion, and anticipates the top comments. Use before posting to a community.
+policy:
+  allow_implicit_invocation: false

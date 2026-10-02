@@ -1,0 +1,5 @@
+interface:
+  display_name: Calculate product margin and break-even
+  short_description: Calculates a product's full unit cost, margin and markup including fees, returns and overhead, the price needed for a target margin, and the break-even volume.
+policy:
+  allow_implicit_invocation: false

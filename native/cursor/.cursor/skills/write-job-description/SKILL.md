@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: hiring
   source: https://hermes-ide.com/prompts/write-job-description
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Write a job description

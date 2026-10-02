@@ -1,0 +1,5 @@
+interface:
+  display_name: Launch a podcast
+  short_description: Plans a new podcast with format, positioning, name options, episode structure, a trailer script, the first three episodes, gear basics and a launch week. Use when starting a show.
+policy:
+  allow_implicit_invocation: false

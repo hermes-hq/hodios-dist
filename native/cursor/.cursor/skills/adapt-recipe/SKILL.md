@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: cooking
   source: https://hermes-ide.com/prompts/adapt-recipe
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Adapt a recipe

@@ -1,0 +1,5 @@
+interface:
+  display_name: Review database indexes against the workload
+  short_description: Reviews a database's indexes against its real query workload to find missing, unused, duplicate and bloated indexes, with DDL and the write cost of each change. Use for periodic index hygiene.
+policy:
+  allow_implicit_invocation: false

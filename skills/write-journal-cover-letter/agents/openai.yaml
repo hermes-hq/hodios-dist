@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a journal submission cover letter
+  short_description: Writes a manuscript submission cover letter stating the contribution, the fit with the journal's scope and the required declarations, in one page an editor can act on. For authors submitting papers.
+policy:
+  allow_implicit_invocation: false

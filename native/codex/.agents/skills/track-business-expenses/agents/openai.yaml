@@ -1,0 +1,5 @@
+interface:
+  display_name: Set up business expense tracking
+  short_description: Sets up a deductible-expense tracking system for self-employed people with categories to verify locally, receipt and mileage records, home-office notes and a monthly routine.
+policy:
+  allow_implicit_invocation: false

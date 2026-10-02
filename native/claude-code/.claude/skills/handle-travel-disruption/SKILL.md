@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: travel-logistics
   source: https://hermes-ide.com/prompts/handle-travel-disruption
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Handle a travel disruption

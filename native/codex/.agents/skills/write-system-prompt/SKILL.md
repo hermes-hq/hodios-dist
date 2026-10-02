@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: prompt-engineering
   source: https://hermes-ide.com/prompts/write-system-prompt
-  catalog: 2026.1002.1
+  catalog: 2026.1002.2
 ---
 
 # Write a system prompt

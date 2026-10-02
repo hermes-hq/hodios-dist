@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan instrument practice
+  short_description: Builds an instrument practice plan for a level and goal, with warm-ups, technique, repertoire, ear training, timing work and progress checks sized to your daily time. Use to practise with purpose.
+policy:
+  allow_implicit_invocation: false
