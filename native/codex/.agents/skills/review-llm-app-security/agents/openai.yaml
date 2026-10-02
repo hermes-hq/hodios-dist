@@ -1,0 +1,5 @@
+interface:
+  display_name: Review an LLM app for security
+  short_description: Reviews an LLM app for prompt injection, data exfiltration through tools, excessive agency and unsafe output handling, mapped to the OWASP LLM Top 10. Use before shipping an agent or RAG feature.
+policy:
+  allow_implicit_invocation: false

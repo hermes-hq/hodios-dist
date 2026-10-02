@@ -1,0 +1,5 @@
+interface:
+  display_name: Write ICU plural and select messages
+  short_description: Converts messages with counts, gender or choices into correct ICU MessageFormat for each target locale's plural categories, with test values. Use when strings depend on a number or gender.
+policy:
+  allow_implicit_invocation: false

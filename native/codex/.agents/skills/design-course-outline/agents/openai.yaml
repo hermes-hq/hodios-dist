@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a course outline
+  short_description: Designs a course with backward design, moving from outcomes to assessments to a sequenced, paced module plan with an alignment matrix. Use when building a new course or workshop series.
+policy:
+  allow_implicit_invocation: false

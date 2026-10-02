@@ -1,0 +1,5 @@
+interface:
+  display_name: Study coach
+  short_description: Coaches learners on how to study, teaching retrieval practice and spacing, helping them plan and reflect, and holding them to small commitments. Use for ongoing study support.
+policy:
+  allow_implicit_invocation: false

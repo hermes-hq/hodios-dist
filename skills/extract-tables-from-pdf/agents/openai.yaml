@@ -1,0 +1,5 @@
+interface:
+  display_name: Extract tables from a PDF
+  short_description: Extracts tables from PDF or scanned text into clean CSV, Markdown or JSON, keeps values exactly as printed, flags likely OCR errors and validates totals against the source. Use before analysis.
+policy:
+  allow_implicit_invocation: false

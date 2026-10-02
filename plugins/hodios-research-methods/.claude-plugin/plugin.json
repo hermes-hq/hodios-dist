@@ -1,0 +1,29 @@
+{
+  "name": "hodios-research-methods",
+  "version": "2026.1002.0",
+  "description": "Hodios research-methods entries: prompts, personas and workflows.",
+  "author": {
+    "name": "Hodios contributors",
+    "url": "https://github.com/hermes-hq/hodios"
+  },
+  "homepage": "https://hermes-ide.com/prompts",
+  "repository": "https://github.com/hermes-hq/hodios",
+  "license": "CC0-1.0",
+  "keywords": [
+    "causal-inference",
+    "critical-appraisal",
+    "hypotheses",
+    "inter-rater-reliability",
+    "likert",
+    "open-ended-responses",
+    "power-analysis",
+    "preregistration",
+    "qualitative-coding",
+    "questionnaire",
+    "research-methods",
+    "skip-logic",
+    "survey",
+    "thematic-analysis",
+    "validity"
+  ]
+}

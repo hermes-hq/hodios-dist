@@ -1,0 +1,5 @@
+interface:
+  display_name: Build an accessible ARIA widget
+  short_description: Implements a combobox, tabs, dialog, menu, disclosure, tree or listbox per the ARIA Authoring Practices pattern, using native elements whenever they suffice. Use for custom interactive widgets.
+policy:
+  allow_implicit_invocation: false

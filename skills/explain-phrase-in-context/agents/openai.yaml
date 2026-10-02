@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a phrase in context
+  short_description: Explains a phrase, idiom or slang term as used in context, covering literal sense, meaning, register, regional use and natural alternatives. Use when a dictionary is not enough.
+policy:
+  allow_implicit_invocation: false

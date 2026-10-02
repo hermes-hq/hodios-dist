@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain research to the public
+  short_description: Turns a research paper into an accurate plain-language summary, press release, blog post or social thread without hype, keeping caveats, study type and effect sizes. Use for science communication.
+policy:
+  allow_implicit_invocation: false

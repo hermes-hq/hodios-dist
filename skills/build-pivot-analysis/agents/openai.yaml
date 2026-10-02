@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a pivot analysis
+  short_description: Designs a pivot table that answers one specific business question and gives exact click-by-click setup steps for Excel or Google Sheets. Use when you have a flat table and a question about it.
+policy:
+  allow_implicit_invocation: false

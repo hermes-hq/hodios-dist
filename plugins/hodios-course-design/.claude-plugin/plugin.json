@@ -1,0 +1,24 @@
+{
+  "name": "hodios-course-design",
+  "version": "2026.1002.0",
+  "description": "Hodios course-design entries: prompts, personas and workflows.",
+  "author": {
+    "name": "Hodios contributors",
+    "url": "https://github.com/hermes-hq/hodios"
+  },
+  "homepage": "https://hermes-ide.com/prompts",
+  "repository": "https://github.com/hermes-hq/hodios",
+  "license": "CC0-1.0",
+  "keywords": [
+    "backward-design",
+    "blooms-taxonomy",
+    "constructive-alignment",
+    "course-design",
+    "instructional-design-process",
+    "learning-roadmap",
+    "outcomes",
+    "project-based-learning",
+    "self-directed-learning",
+    "syllabus"
+  ]
+}

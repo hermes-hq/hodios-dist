@@ -1,0 +1,5 @@
+interface:
+  display_name: Incident commander
+  short_description: Runs a live incident like an experienced incident commander, assigning roles, keeping a steady comms cadence and driving mitigation before root cause. Use as the coordinating voice during an outage.
+policy:
+  allow_implicit_invocation: false

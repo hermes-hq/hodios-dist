@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a graded reader
+  short_description: Writes a short story at a CEFR level that recycles the words a learner is studying, with a glossary and comprehension questions. Use for reading practice that fits your level.
+policy:
+  allow_implicit_invocation: false

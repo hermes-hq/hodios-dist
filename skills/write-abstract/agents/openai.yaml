@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a paper abstract
+  short_description: Writes a structured or unstructured abstract within a word limit from a manuscript, keeping every number faithful to the source and showing where each appears. Use before submission.
+policy:
+  allow_implicit_invocation: false

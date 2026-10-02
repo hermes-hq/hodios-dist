@@ -1,0 +1,5 @@
+interface:
+  display_name: Reconcile two datasets
+  short_description: Reconciles two datasets that should agree, such as bank versus ledger or CRM versus billing, by matching records, listing mismatches and explaining likely causes. Use for month-end checks.
+policy:
+  allow_implicit_invocation: false

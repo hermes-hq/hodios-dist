@@ -1,0 +1,5 @@
+interface:
+  display_name: Explore a dataset
+  short_description: Runs a first-pass exploratory analysis of a dataset (column profiles, missingness, distributions, outliers) and lists the questions worth asking next. Use when you get new data.
+policy:
+  allow_implicit_invocation: false

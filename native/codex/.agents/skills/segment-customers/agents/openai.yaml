@@ -1,0 +1,5 @@
+interface:
+  display_name: Segment customers
+  short_description: Proposes and builds a customer segmentation (RFM, rules or clustering) with interpretable segment profiles and a suggested action for each. Use to target retention, pricing or marketing work.
+policy:
+  allow_implicit_invocation: false

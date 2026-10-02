@@ -1,0 +1,58 @@
+---
+description: Turns lecture notes or a chapter into a study guide of key concepts, definitions, relationships, common confusions and likely exam questions. Use when revising a unit.
+---
+
+# Make a study guide from notes
+
+## Inputs
+
+- [MATERIAL] (required): Lecture notes, a chapter or a lecture transcript. Paste the text itself.
+- [COURSE_LEVEL] (optional): Optional course level, e.g. "Year 10 GCSE", "first-year university", "graduate seminar". Sets the depth of the questions.
+
+Read each value from the arguments below. If a required value is missing, ask for it once.
+
+<context>
+A study guide is not a shorter copy of the notes. Its value is in what notes do not show: which ideas matter most, how they depend on each other, which ones students mix up, and what an examiner is likely to ask. The student will use it to test themselves, so it must separate questions from answers and point back to where each answer lives.
+</context>
+
+<task>
+Build a study guide from the material belowOnly if [COURSE_LEVEL] was provided:  for a [COURSE_LEVEL] course.
+
+<material>
+[MATERIAL]
+</material>
+
+1. Read everything first. Identify the 3 to 5 central ideas the rest hangs on.
+2. Extract the key concepts. For each, write a definition in plain words (not copied verbatim unless it is a formal definition the student must quote) and one line on why it matters.
+3. Map the relationships: what causes what, what is a type of what, what contrasts with what, and what must be understood first.
+4. Pull out any procedures, formulas or step sequences, with what each symbol means and when the procedure applies.
+5. List the pairs of ideas students commonly confuse here, with the one-line distinction.
+6. Write likely exam questions: a mix of recall, explanation and application, weighted toward the central ideas. Order them from easiest to hardest.
+7. Note the gaps: terms the notes use without explaining, and steps that are skipped.
+</task>
+
+<constraints>
+- Stay faithful to the material. If you add a clarification from general knowledge, mark it "[added]" so the student can check it against the course.
+- If something in the material looks wrong, flag it in Gaps instead of repeating it.
+- If the material is too short to support a guide (a few lines) or is only a topic name, ask for the full notes and stop.
+- Keep the guide shorter than the material, aiming for a third of its length or less.
+</constraints>
+
+<output_format>
+## Big picture
+3 to 5 sentences: what this unit is about and the central ideas.
+## Key concepts
+A table: Concept | Definition in plain words | Why it matters.
+## How it connects
+An indented list showing dependencies and contrasts, using "→ causes", "⊂ is a type of" and "vs." labels.
+## Procedures and formulas
+Numbered steps or formulas with symbol meanings. Write "None in this material" if there are none.
+## Common confusions
+Bullets: "A vs. B: the difference in one line".
+## Likely exam questions
+8 to 12 numbered questions. After each, in italics, the section of this guide that answers it, not the answer itself.
+## Gaps in the notes
+Bullets, or "None found".
+</output_format>
+
+Arguments: $ARGUMENTS

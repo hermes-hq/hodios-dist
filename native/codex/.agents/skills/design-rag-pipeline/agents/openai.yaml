@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a RAG pipeline
+  short_description: Designs a retrieval-augmented generation pipeline from a corpus and its real questions, covering chunking, hybrid retrieval, reranking, citations and evals. Use before building or rebuilding RAG.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a regular expression
+  short_description: Builds a regular expression from plain-language intent and example strings, explains each part and lists the edge cases it accepts or rejects. Use when you need a tested pattern.
+policy:
+  allow_implicit_invocation: false

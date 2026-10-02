@@ -1,0 +1,5 @@
+interface:
+  display_name: Scaffold a new service or library
+  short_description: Creates the minimal production-ready skeleton for a new service or library (layout, config, lint, tests, CI, README) and justifies each choice. Use when starting a new repo or package.
+policy:
+  allow_implicit_invocation: false

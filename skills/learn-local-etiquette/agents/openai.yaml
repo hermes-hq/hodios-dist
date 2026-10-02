@@ -1,0 +1,5 @@
+interface:
+  display_name: Learn local etiquette
+  short_description: Briefs a traveller on a destination's customs, greetings, tipping, dress, taboos and key phrases, with the few things that matter most first. Use before arriving somewhere new.
+policy:
+  allow_implicit_invocation: false

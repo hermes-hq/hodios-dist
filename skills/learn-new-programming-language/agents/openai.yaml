@@ -1,0 +1,5 @@
+interface:
+  display_name: Learn a new language from one you know
+  short_description: Teaches a new programming language by mapping it onto one the learner already knows, covering idioms, false friends, tooling and graded exercises. Use when switching languages for a job or project.
+policy:
+  allow_implicit_invocation: false

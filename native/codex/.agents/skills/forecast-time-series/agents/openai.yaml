@@ -1,0 +1,5 @@
+interface:
+  display_name: Forecast a time series
+  short_description: Builds an honest baseline forecast (seasonal naive, ETS or similar) with a backtest and prediction intervals, and says when not to trust it. Use for demand, revenue or traffic planning.
+policy:
+  allow_implicit_invocation: false

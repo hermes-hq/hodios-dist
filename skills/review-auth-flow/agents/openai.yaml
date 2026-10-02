@@ -1,0 +1,5 @@
+interface:
+  display_name: Review an authentication flow
+  short_description: Reviews an authentication or session design (OAuth or OIDC, tokens, cookies, MFA, password reset) for known flaws, with attack paths and fixes. Use before building or shipping login and session code.
+policy:
+  allow_implicit_invocation: false

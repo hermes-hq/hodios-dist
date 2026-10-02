@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a road trip
+  short_description: Plans a road trip route with daily driving times, stops, overnight options and fuel or charging notes, plus tolls and road rules to check. Use for any multi-day drive or ride.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Review code for internationalization bugs
+  short_description: Reviews code for internationalization bugs such as concatenated strings, hard-coded date, number and currency formats, naive plurals, text expansion and RTL breakage. Use before adding new locales.
+policy:
+  allow_implicit_invocation: false

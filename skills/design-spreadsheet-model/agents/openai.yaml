@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a spreadsheet model
+  short_description: Designs a spreadsheet model for a business calculation with separate inputs, calculations, outputs, checks and named ranges. Use before building a pricing, capacity or unit-economics model.
+policy:
+  allow_implicit_invocation: false

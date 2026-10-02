@@ -1,0 +1,5 @@
+interface:
+  display_name: Check the statistics in an article
+  short_description: Checks an article's numbers for misleading percentages, missing base rates, cherry-picked windows and correlation sold as causation, recomputing what it can. Use before quoting it.
+policy:
+  allow_implicit_invocation: false

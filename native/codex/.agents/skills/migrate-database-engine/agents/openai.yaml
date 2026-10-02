@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a database engine migration
+  short_description: Plans a move between database engines, such as MySQL to Postgres, covering incompatibilities, data copy, cutover, verification and rollback. Use before committing to a migration date.
+policy:
+  allow_implicit_invocation: false

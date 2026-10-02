@@ -1,0 +1,5 @@
+interface:
+  display_name: Give feedback on an essay
+  short_description: Gives rubric-based feedback on a student essay covering thesis, evidence, structure and style, with prioritized revisions, without rewriting it. Use before a draft is submitted.
+policy:
+  allow_implicit_invocation: false

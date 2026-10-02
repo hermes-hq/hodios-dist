@@ -1,0 +1,5 @@
+interface:
+  display_name: Source and citation rules
+  short_description: Standing rules for research answers that require sources for factual claims, separate evidence from inference, and forbid invented citations, links or quotes. Use in any research or writing setup.
+policy:
+  allow_implicit_invocation: false

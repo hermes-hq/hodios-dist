@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse A/B test results
+  short_description: Analyses A/B test results with a sample-ratio-mismatch check, effect sizes, confidence intervals and guardrail metrics, ending in a ship, iterate or stop call. Use when an experiment ends.
+policy:
+  allow_implicit_invocation: false

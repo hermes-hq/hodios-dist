@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a trip itinerary
+  short_description: Plans a day-by-day itinerary matched to interests, pace and budget, grouped by area, with realistic travel times, rest and what to book ahead. Use once you know where and when.
+policy:
+  allow_implicit_invocation: false

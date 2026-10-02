@@ -1,0 +1,5 @@
+interface:
+  display_name: Fact-check claims in a text
+  short_description: Checks each factual claim in a text against sources it actually retrieves, rates it with evidence and links, and says plainly when a claim cannot be verified. Use before publishing or sharing.
+policy:
+  allow_implicit_invocation: false

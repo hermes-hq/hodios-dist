@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a peer review
+  short_description: Writes a constructive manuscript review with a summary, major and minor issues, methodological and reporting concerns, and a reasoned recommendation. Use when refereeing a paper.
+policy:
+  allow_implicit_invocation: false

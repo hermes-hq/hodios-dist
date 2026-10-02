@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a machine-learning experiment
+  short_description: "Plans a machine-learning experiment before any training code exists: framing, baselines, leak-proof splits, metrics, ablations and a stop rule. Use when starting a new model or modelling spike."
+policy:
+  allow_implicit_invocation: false

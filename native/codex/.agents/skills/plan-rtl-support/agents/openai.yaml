@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan and implement right-to-left support
+  short_description: Plans and implements right-to-left layout support (logical properties, mirroring rules, bidi text, icons) for a web or mobile UI. Use when adding Arabic, Hebrew, Persian or Urdu.
+policy:
+  allow_implicit_invocation: false

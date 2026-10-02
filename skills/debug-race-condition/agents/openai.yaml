@@ -1,0 +1,5 @@
+interface:
+  display_name: Debug a race condition
+  short_description: Diagnoses intermittent concurrency bugs by mapping shared state and the interleavings that break it, adds targeted instrumentation and proposes a fix. Use for bugs seen only under load.
+policy:
+  allow_implicit_invocation: false

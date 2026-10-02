@@ -1,0 +1,5 @@
+interface:
+  display_name: Implement a feature from a spec
+  short_description: Turns a written spec or ticket into working code that follows the codebase's patterns, with tests and a list of decisions. Use when handing a well-scoped ticket to an agent.
+policy:
+  allow_implicit_invocation: false

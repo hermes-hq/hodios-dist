@@ -1,0 +1,5 @@
+interface:
+  display_name: Generate realistic seed data
+  short_description: Generates realistic, referentially consistent fixture data for a database schema, with labelled edge cases and no real personal data. Use for local development, demos and integration tests.
+policy:
+  allow_implicit_invocation: false

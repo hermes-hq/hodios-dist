@@ -1,0 +1,33 @@
+{
+  "name": "hodios-accessibility",
+  "version": "2026.1002.0",
+  "description": "Hodios accessibility entries: prompts, personas and workflows.",
+  "author": {
+    "name": "Hodios contributors",
+    "url": "https://github.com/hermes-hq/hodios"
+  },
+  "homepage": "https://hermes-ide.com/prompts",
+  "repository": "https://github.com/hermes-hq/hodios",
+  "license": "CC0-1.0",
+  "keywords": [
+    "accessibility",
+    "alt-text",
+    "apca",
+    "aria",
+    "aria-apg",
+    "assistive-technology",
+    "audit",
+    "autocomplete",
+    "color-contrast",
+    "design-tokens",
+    "focus-management",
+    "form-validation",
+    "images",
+    "inclusive-design",
+    "keyboard",
+    "manual-testing",
+    "screen-reader",
+    "wcag",
+    "web-forms"
+  ]
+}

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a command-line tool
+  short_description: Designs and implements a small command-line tool with subcommands, help text, exit codes, config precedence and tests. Use when turning a manual workflow into a reusable command.
+policy:
+  allow_implicit_invocation: false

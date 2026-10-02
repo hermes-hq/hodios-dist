@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a star schema
+  short_description: "Designs a dimensional model from the questions analysts need answered: business processes, grain, facts, dimensions, slowly changing dimension types and DDL. Use when building a warehouse layer."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan backups and disaster recovery
+  short_description: Writes a backup and disaster-recovery plan with RPO and RTO targets, dependency order, restore drills and owner checklists. Use when a system has backups nobody has restored, or no plan at all.
+policy:
+  allow_implicit_invocation: false

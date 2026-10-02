@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a zero-downtime schema change from DDL
+  short_description: Turns the current table DDL and a desired change into expand and contract steps, each with lock-safe SQL, the app change, backfill, verification and rollback. Use before altering a live table.
+policy:
+  allow_implicit_invocation: false

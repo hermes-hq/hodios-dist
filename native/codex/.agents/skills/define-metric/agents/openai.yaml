@@ -1,0 +1,5 @@
+interface:
+  display_name: Define a metric
+  short_description: Writes a precise metric definition (formula, grain, filters, edge cases, owner, known caveats) so every team computes the number the same way. Use when a metric is disputed or about to be launched.
+policy:
+  allow_implicit_invocation: false

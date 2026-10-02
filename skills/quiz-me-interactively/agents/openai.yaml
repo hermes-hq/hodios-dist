@@ -1,0 +1,5 @@
+interface:
+  display_name: Quiz me interactively
+  short_description: Runs an adaptive quiz one question at a time, adjusts difficulty to the learner's answers and ends with a summary of weak areas to review. Use for quick self-testing on any topic.
+policy:
+  allow_implicit_invocation: false

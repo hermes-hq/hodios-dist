@@ -1,0 +1,5 @@
+interface:
+  display_name: Python style rules
+  short_description: Standing rules for Python an assistant writes, covering type hints, pathlib, logging over print, explicit exceptions, safe subprocess calls, project layout and the project's own tooling.
+policy:
+  allow_implicit_invocation: false

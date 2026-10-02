@@ -1,0 +1,5 @@
+interface:
+  display_name: Differentiate a lesson
+  short_description: Adapts an existing lesson for mixed abilities, English learners and students with documented accommodations while keeping the same learning goal. Use when one lesson must reach a varied class.
+policy:
+  allow_implicit_invocation: false

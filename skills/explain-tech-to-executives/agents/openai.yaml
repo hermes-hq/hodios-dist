@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a technical issue to executives
+  short_description: Translates a technical issue or decision into a one-page executive brief with business impact, options, cost, risk and the specific ask. Use when leadership must decide or fund something technical.
+policy:
+  allow_implicit_invocation: false

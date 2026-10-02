@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a reusable UI component
+  short_description: Builds a typed, accessible UI component from a description or screenshot, with loading, empty and error states and a usage example. Use when adding a component to a frontend.
+policy:
+  allow_implicit_invocation: false

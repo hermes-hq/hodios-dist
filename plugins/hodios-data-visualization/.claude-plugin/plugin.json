@@ -1,0 +1,29 @@
+{
+  "name": "hodios-data-visualization",
+  "version": "2026.1002.0",
+  "description": "Hodios data-visualization entries: prompts, personas and workflows.",
+  "author": {
+    "name": "Hodios contributors",
+    "url": "https://github.com/hermes-hq/hodios"
+  },
+  "homepage": "https://hermes-ide.com/prompts",
+  "repository": "https://github.com/hermes-hq/hodios",
+  "license": "CC0-1.0",
+  "keywords": [
+    "annotation",
+    "bi",
+    "chart-review",
+    "chart-selection",
+    "colour-blind-safe",
+    "colour-blindness",
+    "data-storytelling",
+    "data-visualization",
+    "encodings",
+    "ggplot2",
+    "kpi",
+    "matplotlib",
+    "metric-definitions",
+    "misleading-charts",
+    "wireframe"
+  ]
+}

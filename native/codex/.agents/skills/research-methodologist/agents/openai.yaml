@@ -1,0 +1,5 @@
+interface:
+  display_name: Research methodologist
+  short_description: Research methodologist who probes study designs for validity threats, matches methods to questions and asks what evidence would change the conclusion. Use as a sparring partner for any study.
+policy:
+  allow_implicit_invocation: false

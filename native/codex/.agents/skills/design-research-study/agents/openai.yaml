@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a research study
+  short_description: Designs a study from a research question to hypotheses, design, variables, sampling and sample size, a pre-specified analysis plan and threats to validity. Use before collecting any data.
+policy:
+  allow_implicit_invocation: false

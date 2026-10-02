@@ -1,0 +1,5 @@
+interface:
+  display_name: Respond to peer reviewers
+  short_description: Drafts a point-by-point response to peer-review comments, giving the change made or a polite, evidenced rebuttal for each, never claiming unmade changes. Use for revise-and-resubmit.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Extract hard-coded UI strings
+  short_description: Finds hard-coded user-facing strings and moves them into an i18n catalog with meaningful keys and translator comments, without changing behaviour. Use when preparing an app for translation.
+policy:
+  allow_implicit_invocation: false

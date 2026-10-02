@@ -1,0 +1,5 @@
+interface:
+  display_name: Evaluate a source's credibility
+  short_description: Assesses how far a source can be trusted for a specific claim using lateral reading (author, evidence, funding, corroboration) and gives a reasoned verdict. Use before citing a source.
+policy:
+  allow_implicit_invocation: false

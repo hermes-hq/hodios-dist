@@ -1,0 +1,5 @@
+interface:
+  display_name: Translate a software string catalog
+  short_description: Translates a software string file (JSON, PO, XLIFF, ARB, .strings) while preserving keys, placeholders, plural forms and length limits, and flags ambiguous strings for review.
+policy:
+  allow_implicit_invocation: false

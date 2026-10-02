@@ -1,0 +1,5 @@
+interface:
+  display_name: Optimise a slow SQL query
+  short_description: Speeds up a slow SQL query from its execution plan, proposing rewrites and indexes with expected gains and their write-cost trade-offs. Use when one query dominates latency or database load.
+policy:
+  allow_implicit_invocation: false

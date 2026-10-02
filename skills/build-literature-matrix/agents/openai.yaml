@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a literature matrix
+  short_description: Extracts a comparison matrix across several papers (question, design, sample, findings, limitations) with every cell traceable to its source. Use when organising sources for a literature review.
+policy:
+  allow_implicit_invocation: false

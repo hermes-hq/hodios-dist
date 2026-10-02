@@ -1,0 +1,5 @@
+interface:
+  display_name: Correct my sentences
+  short_description: Corrects a learner's sentences in a target language, explains each error briefly at their CEFR level and gives a natural version. Use for writing practice and homework checks.
+policy:
+  allow_implicit_invocation: false

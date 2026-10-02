@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a cohort retention analysis
+  short_description: Builds a cohort retention analysis from event data (cohort definition, query or code, the retention triangle) and explains how to read it. Use to see whether newer customers stick around better.
+policy:
+  allow_implicit_invocation: false

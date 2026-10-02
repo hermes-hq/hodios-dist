@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a dataframe transformation
+  short_description: Writes pandas or polars code for a described transformation with built-in checks on row counts, nulls, key uniqueness and join cardinality. Use when reshaping, joining or aggregating data.
+policy:
+  allow_implicit_invocation: false

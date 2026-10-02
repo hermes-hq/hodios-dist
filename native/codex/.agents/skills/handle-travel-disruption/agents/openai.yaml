@@ -1,0 +1,5 @@
+interface:
+  display_name: Handle a travel disruption
+  short_description: Guides a traveller through a cancellation or delay with rebooking options, passenger rights to check, evidence to keep and a claim letter draft. Use when a flight, train or ferry goes wrong.
+policy:
+  allow_implicit_invocation: false

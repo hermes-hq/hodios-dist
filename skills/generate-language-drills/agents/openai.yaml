@@ -1,0 +1,5 @@
+interface:
+  display_name: Generate grammar drills
+  short_description: Generates a mixed set of cloze, transformation and translation drills for one grammar point, graded by level, with an answer key. Use to practise a rule after learning it.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Split a large pull request into a stack
+  short_description: Splits a large pull request into a stack of small, independently reviewable PRs with their order, dependencies and the branch commands to build them. Use when a PR is too big to review well.
+policy:
+  allow_implicit_invocation: false

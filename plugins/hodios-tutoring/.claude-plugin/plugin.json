@@ -1,0 +1,28 @@
+{
+  "name": "hodios-tutoring",
+  "version": "2026.1002.0",
+  "description": "Hodios tutoring entries: prompts, personas and workflows.",
+  "author": {
+    "name": "Hodios contributors",
+    "url": "https://github.com/hermes-hq/hodios"
+  },
+  "homepage": "https://hermes-ide.com/prompts",
+  "repository": "https://github.com/hermes-hq/hodios",
+  "license": "CC0-1.0",
+  "keywords": [
+    "analogies",
+    "drafting",
+    "eli5",
+    "error-analysis",
+    "essay-writing",
+    "formative-feedback",
+    "hint-ladder",
+    "homework",
+    "misconceptions",
+    "multiple-representations",
+    "productive-struggle",
+    "tutoring",
+    "worked-examples",
+    "worked-solutions"
+  ]
+}

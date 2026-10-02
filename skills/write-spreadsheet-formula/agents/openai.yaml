@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a spreadsheet formula
+  short_description: Builds an Excel or Google Sheets formula from a plain-language goal and the sheet layout, explains how it works and flags edge cases. Use when you know the result you want but not the formula.
+policy:
+  allow_implicit_invocation: false

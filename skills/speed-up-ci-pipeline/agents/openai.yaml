@@ -1,0 +1,5 @@
+interface:
+  display_name: Speed up a CI pipeline
+  short_description: Analyses a slow CI configuration and its job timings, then proposes caching, parallelism and test splitting with the minutes each change saves. Use when builds are slowing the team down.
+policy:
+  allow_implicit_invocation: false

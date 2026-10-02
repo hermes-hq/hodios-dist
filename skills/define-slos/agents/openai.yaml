@@ -1,0 +1,5 @@
+interface:
+  display_name: Define SLOs and burn-rate alerts
+  short_description: Defines SLIs, SLOs and an error-budget policy from a service's user journeys, with multi-window burn-rate alert rules. Use when alerting is noisy or reliability targets are vague.
+policy:
+  allow_implicit_invocation: false

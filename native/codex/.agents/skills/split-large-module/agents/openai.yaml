@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan splitting a large module
+  short_description: Maps the responsibilities and internal dependencies of an oversized file or class and plans its split into cohesive modules, in small steps that keep tests green. Use before breaking up a god class.
+policy:
+  allow_implicit_invocation: false

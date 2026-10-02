@@ -1,0 +1,5 @@
+interface:
+  display_name: Practise a speaking exam
+  short_description: Simulates the speaking part of a language exam such as Goethe, DELE, DELF or IELTS as the examiner, then scores the answers against the official criteria. Use before the exam day.
+policy:
+  allow_implicit_invocation: false

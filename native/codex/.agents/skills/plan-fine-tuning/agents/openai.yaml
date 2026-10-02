@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a fine-tuning project
+  short_description: Decides whether fine-tuning beats prompting or retrieval for a task and, if it does, plans the data, splits, training settings, evaluation against a prompt baseline, and cost.
+policy:
+  allow_implicit_invocation: false

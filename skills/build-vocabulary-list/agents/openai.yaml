@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a vocabulary list
+  short_description: Builds a themed vocabulary list for a CEFR level with gender, collocations and example sentences, plus an Anki-ready import block. Use when starting a new topic.
+policy:
+  allow_implicit_invocation: false

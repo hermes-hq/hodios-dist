@@ -1,0 +1,27 @@
+{
+  "name": "hodios-reporting",
+  "version": "2026.1002.0",
+  "description": "Hodios reporting entries: prompts, personas and workflows.",
+  "author": {
+    "name": "Hodios contributors",
+    "url": "https://github.com/hermes-hq/hodios"
+  },
+  "homepage": "https://hermes-ide.com/prompts",
+  "repository": "https://github.com/hermes-hq/hodios",
+  "license": "CC0-1.0",
+  "keywords": [
+    "business-reviews",
+    "data-governance",
+    "data-storytelling",
+    "driver-tree",
+    "executive-summary",
+    "kpi",
+    "metric-definitions",
+    "metric-design",
+    "recommendations",
+    "reporting",
+    "semantic-layer",
+    "variance-analysis",
+    "weekly-update"
+  ]
+}

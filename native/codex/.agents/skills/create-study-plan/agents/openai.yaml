@@ -1,0 +1,5 @@
+interface:
+  display_name: Create a study plan for an exam
+  short_description: Builds a dated study schedule toward an exam, weighting topics by importance and weakness, with spaced reviews, practice tests and buffer days. Use when an exam date is set.
+policy:
+  allow_implicit_invocation: false

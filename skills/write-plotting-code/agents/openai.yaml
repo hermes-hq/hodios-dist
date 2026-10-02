@@ -1,0 +1,5 @@
+interface:
+  display_name: Write plotting code
+  short_description: Writes publication-quality plotting code from data and intent, with labelled axes, accessible colours and an annotation on the key point. Use for matplotlib, seaborn, plotly, ggplot2 or Vega-Lite.
+policy:
+  allow_implicit_invocation: false

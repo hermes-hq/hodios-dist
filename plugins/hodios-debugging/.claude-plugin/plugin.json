@@ -1,0 +1,23 @@
+{
+  "name": "hodios-debugging",
+  "version": "2026.1002.0",
+  "description": "Hodios debugging entries: prompts, personas and workflows.",
+  "author": {
+    "name": "Hodios contributors",
+    "url": "https://github.com/hermes-hq/hodios"
+  },
+  "homepage": "https://hermes-ide.com/prompts",
+  "repository": "https://github.com/hermes-hq/hodios",
+  "license": "CC0-1.0",
+  "keywords": [
+    "async",
+    "concurrency",
+    "deadlock",
+    "debugging",
+    "delta-debugging",
+    "git-bisect",
+    "race-condition",
+    "regression",
+    "thread-safety"
+  ]
+}

@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a what-if analysis
+  short_description: Builds a scenario and sensitivity analysis for a decision (best, base and worst cases, a tornado chart and breakevens) as a spreadsheet layout with exact formulas. Use before committing to a plan.
+policy:
+  allow_implicit_invocation: false

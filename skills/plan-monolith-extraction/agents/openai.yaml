@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan extracting a service from a monolith
+  short_description: Plans extracting one capability from a monolith with the strangler-fig pattern, covering seams, data ownership, traffic shifting and rollback at every step. Use before splitting a service out.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an insight report
+  short_description: Turns analysis results into a decision-oriented report with a headline finding, evidence, caveats and a recommendation. Use when you need to share an analysis with people who will act on it.
+policy:
+  allow_implicit_invocation: false

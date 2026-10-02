@@ -1,0 +1,5 @@
+interface:
+  display_name: Test-writing rules
+  short_description: Standing rules for tests an assistant writes, covering behaviour over implementation, no sleeps, deterministic data, mocks only at boundaries and one reason to fail per test.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse survey results
+  short_description: Analyses quantitative survey responses with cleaning, tabulation, cross-tabs and optional weighting, and states the caveats about sample and response bias. Use before reporting survey numbers.
+policy:
+  allow_implicit_invocation: false

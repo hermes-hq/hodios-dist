@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a data pipeline
+  short_description: Designs a batch or streaming data pipeline sized to stated volumes, covering sources, schedule, idempotency, late data, backfills and monitoring. Use before building or replacing a pipeline.
+policy:
+  allow_implicit_invocation: false

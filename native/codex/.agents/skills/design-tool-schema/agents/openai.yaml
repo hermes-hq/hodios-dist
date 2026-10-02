@@ -1,0 +1,5 @@
+interface:
+  display_name: Design tool definitions for an LLM agent
+  short_description: Designs tool or function definitions for an LLM agent, with names, descriptions, JSON Schema parameters and error returns that models call reliably. Use when exposing an API or capability to an agent.
+policy:
+  allow_implicit_invocation: false

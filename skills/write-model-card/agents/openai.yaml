@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a model card
+  short_description: Writes a model card with intended use, training data, metrics by slice, limitations and ethical considerations from training notes and eval results, flagging gaps. Use before releasing a model.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a concept at a chosen level
+  short_description: Explains a concept at a chosen level, from child to expert, with an analogy, a worked example and one check-for-understanding question. Use when a textbook explanation is not landing.
+policy:
+  allow_implicit_invocation: false

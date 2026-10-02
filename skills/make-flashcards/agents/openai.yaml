@@ -1,0 +1,5 @@
+interface:
+  display_name: Make flashcards from notes
+  short_description: Turns notes or a chapter into atomic flashcards, one fact per card with cloze deletions where they help, ready to import into Anki. Use when studying from your own material.
+policy:
+  allow_implicit_invocation: false

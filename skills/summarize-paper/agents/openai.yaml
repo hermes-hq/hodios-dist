@@ -1,0 +1,5 @@
+interface:
+  display_name: Summarise a research paper
+  short_description: Summarises a research paper into its question, method, key results with exact numbers, limitations and what it means for the reader's purpose. Use before citing, relying on or reading a paper in full.
+policy:
+  allow_implicit_invocation: false

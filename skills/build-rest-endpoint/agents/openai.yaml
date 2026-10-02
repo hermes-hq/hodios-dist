@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a REST endpoint end to end
+  short_description: Implements one HTTP endpoint with route, input validation, handler, error mapping and tests in the project's own framework and conventions. Use when adding an API route.
+policy:
+  allow_implicit_invocation: false

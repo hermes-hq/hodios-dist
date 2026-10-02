@@ -1,0 +1,5 @@
+interface:
+  display_name: Write consumer-driven contract tests
+  short_description: Writes consumer-driven contract tests between two services and the CI gate that runs them, so a breaking API change fails before deploy. Use when services that call each other ship independently.
+policy:
+  allow_implicit_invocation: false

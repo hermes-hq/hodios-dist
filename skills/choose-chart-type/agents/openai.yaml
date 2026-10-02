@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose a chart type
+  short_description: Recommends the chart that best carries a specific message for a given data shape, with encodings, the alternatives considered and the anti-patterns to avoid. Use before building a chart.
+policy:
+  allow_implicit_invocation: false

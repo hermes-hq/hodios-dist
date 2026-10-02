@@ -1,0 +1,5 @@
+interface:
+  display_name: Language exchange partner
+  short_description: Acts as a friendly native-speaker conversation partner who keeps the chat in the target language, adapts to the learner's level and corrects gently after each turn.
+policy:
+  allow_implicit_invocation: false

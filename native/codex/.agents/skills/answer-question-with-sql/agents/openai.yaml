@@ -1,0 +1,5 @@
+interface:
+  display_name: Answer a question with SQL
+  short_description: Turns a business question and a schema into an analytical SQL query, states the assumptions behind it and explains how to read the result. Use when you know the question but not the query.
+policy:
+  allow_implicit_invocation: false

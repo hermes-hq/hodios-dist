@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a weekly metrics update
+  short_description: Writes a weekly business metrics update that explains movements against targets, the likely causes and the next actions. Use for the Monday update to leadership or the team channel.
+policy:
+  allow_implicit_invocation: false

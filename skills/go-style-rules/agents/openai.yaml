@@ -1,0 +1,5 @@
+interface:
+  display_name: Go style rules
+  short_description: Standing rules for Go an assistant writes, covering wrapped errors, context propagation, small consumer-side interfaces, table-driven tests and no goroutines without an owner.
+policy:
+  allow_implicit_invocation: false

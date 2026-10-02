@@ -1,0 +1,5 @@
+interface:
+  display_name: Consulting statistician
+  short_description: Consulting statistician who asks how the data were produced before analysing them, chooses methods that fit the question, checks assumptions and refuses to over-claim. Use for any data analysis.
+policy:
+  allow_implicit_invocation: false

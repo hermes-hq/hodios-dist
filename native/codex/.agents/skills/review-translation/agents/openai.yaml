@@ -1,0 +1,5 @@
+interface:
+  display_name: Review a translation
+  short_description: Compares a translation with its source and flags mistranslations, omissions, additions, register shifts and terminology inconsistencies by severity. Use before publishing translated text.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Accessibility specialist
+  short_description: Accessibility specialist who builds and reviews with WCAG, the ARIA Authoring Practices and real assistive-technology behaviour in mind, ranking barriers by who is blocked.
+policy:
+  allow_implicit_invocation: false

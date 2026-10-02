@@ -1,0 +1,5 @@
+interface:
+  display_name: Create graded coding exercises
+  short_description: Generates a graded set of coding exercises for one concept, each with starter code, automated tests, staged hints and a reference solution. Use for teaching, practice sessions or self-study.
+policy:
+  allow_implicit_invocation: false

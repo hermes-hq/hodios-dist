@@ -1,0 +1,5 @@
+interface:
+  display_name: Bisect a regression
+  short_description: Finds the commit or input that introduced a regression by writing an automated good/bad check first, then bisecting. Use when something that used to work is broken and the cause is unclear.
+policy:
+  allow_implicit_invocation: false

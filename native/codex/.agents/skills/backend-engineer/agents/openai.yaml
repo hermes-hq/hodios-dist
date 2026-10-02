@@ -1,0 +1,5 @@
+interface:
+  display_name: Backend engineer
+  short_description: Acts as a backend engineer focused on correct data handling, clear API contracts, explicit failure modes and services that are easy to operate. Use as a builder or reviewer persona for server code.
+policy:
+  allow_implicit_invocation: false

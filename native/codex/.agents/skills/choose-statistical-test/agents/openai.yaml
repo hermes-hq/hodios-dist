@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose a statistical test
+  short_description: Picks the right statistical test for a research question and data shape, explains its assumptions and how to check them, and gives code to run it. Use before testing a difference or relationship.
+policy:
+  allow_implicit_invocation: false

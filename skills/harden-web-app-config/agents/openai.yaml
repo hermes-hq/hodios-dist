@@ -1,0 +1,5 @@
+interface:
+  display_name: Harden web app headers and cookies
+  short_description: Produces hardened HTTP security headers, a Content Security Policy, CORS and cookie settings for a web app, rolled out first in report-only mode. Use before launch or after a security scan.
+policy:
+  allow_implicit_invocation: false

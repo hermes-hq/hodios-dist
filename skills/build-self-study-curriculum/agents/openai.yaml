@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a self-study curriculum
+  short_description: Builds a self-directed curriculum for learning a new field, with milestones, resource types, projects and checkpoints sized to the hours available. Use when teaching yourself a field.
+policy:
+  allow_implicit_invocation: false

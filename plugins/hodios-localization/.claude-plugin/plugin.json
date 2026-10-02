@@ -1,0 +1,35 @@
+{
+  "name": "hodios-localization",
+  "version": "2026.1002.0",
+  "description": "Hodios localization entries: prompts, personas and workflows.",
+  "author": {
+    "name": "Hodios contributors",
+    "url": "https://github.com/hermes-hq/hodios"
+  },
+  "homepage": "https://hermes-ide.com/prompts",
+  "repository": "https://github.com/hermes-hq/hodios",
+  "license": "CC0-1.0",
+  "keywords": [
+    "bidi",
+    "cldr",
+    "do-not-translate",
+    "icu-messageformat",
+    "locale-formatting",
+    "localization",
+    "logical-properties",
+    "message-catalog",
+    "mirroring",
+    "placeholders",
+    "plural-forms",
+    "pluralization",
+    "rtl",
+    "string-extraction",
+    "term-base",
+    "terminology",
+    "translation-files",
+    "translation-keys",
+    "translation-qa",
+    "unicode",
+    "xliff"
+  ]
+}

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write data-quality checks for a table
+  short_description: Writes data-quality checks for a table (freshness, volume, schema, validity, uniqueness, referential integrity, distribution) with severities, thresholds and owners. Use when a table feeds decisions.
+policy:
+  allow_implicit_invocation: false

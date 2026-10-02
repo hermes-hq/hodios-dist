@@ -1,0 +1,5 @@
+interface:
+  display_name: Rehearse an oral exam or viva
+  short_description: Simulates an oral exam or viva as a probing examiner, one question at a time with follow-ups, then gives feedback on accuracy, depth and clarity. Use to rehearse before an oral assessment.
+policy:
+  allow_implicit_invocation: false

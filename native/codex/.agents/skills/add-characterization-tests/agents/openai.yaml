@@ -1,0 +1,5 @@
+interface:
+  display_name: Add characterization tests to legacy code
+  short_description: Pins down what untested legacy code does today with characterization and golden-master tests, bugs included, so it can be changed safely. Use before refactoring or modifying code with no tests.
+policy:
+  allow_implicit_invocation: false

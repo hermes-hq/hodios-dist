@@ -1,0 +1,5 @@
+interface:
+  display_name: Machine-learning engineer
+  short_description: Acts as a machine-learning engineer who starts from the data and a baseline, insists on evals and reproducibility, and distrusts any gain a simpler model explains.
+policy:
+  allow_implicit_invocation: false

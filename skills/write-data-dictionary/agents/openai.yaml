@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a data dictionary
+  short_description: Writes a data dictionary for database tables with each column's meaning, units, nullability, allowed values, owner and lineage, and flags every column it cannot infer. Use when documenting a schema.
+policy:
+  allow_implicit_invocation: false

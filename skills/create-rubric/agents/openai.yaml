@@ -1,0 +1,5 @@
+interface:
+  display_name: Create an analytic rubric
+  short_description: Builds an analytic rubric with distinct criteria, performance levels and observable descriptors aligned to learning objectives, plus scoring notes. Use when setting or marking an assignment.
+policy:
+  allow_implicit_invocation: false

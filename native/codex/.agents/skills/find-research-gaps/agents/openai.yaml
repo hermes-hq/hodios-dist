@@ -1,0 +1,5 @@
+interface:
+  display_name: Find research gaps
+  short_description: Identifies gaps, contradictions and open questions across a set of abstracts or notes, ties each to its sources and turns it into a researchable question. Use when scoping a thesis, grant or review.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Make a study guide from notes
+  short_description: Turns lecture notes or a chapter into a study guide of key concepts, definitions, relationships, common confusions and likely exam questions. Use when revising a unit.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Rust style rules
+  short_description: Standing rules for Rust an assistant writes, covering ownership-first APIs, Result over panic, clippy-clean code, typed errors, async hygiene and minimal, justified unsafe.
+policy:
+  allow_implicit_invocation: false

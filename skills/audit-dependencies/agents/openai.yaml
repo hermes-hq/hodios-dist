@@ -1,0 +1,5 @@
+interface:
+  display_name: Triage dependency vulnerabilities
+  short_description: Triages dependency scan findings by reachability and exploitability, gives the upgrade path, and justifies anything safe to defer. Use when a scanner reports more than the team can fix at once.
+policy:
+  allow_implicit_invocation: false

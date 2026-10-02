@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a survey questionnaire
+  short_description: Writes an unbiased questionnaire for a stated research aim, with construct mapping, appropriate response scales, skip logic and a pilot checklist. Use before fielding any survey.
+policy:
+  allow_implicit_invocation: false

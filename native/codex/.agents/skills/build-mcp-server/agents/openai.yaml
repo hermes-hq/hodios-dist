@@ -1,0 +1,5 @@
+interface:
+  display_name: Build an MCP server
+  short_description: Implements a Model Context Protocol server exposing the given tools and resources, with input validation, least privilege and error messages a model can act on. Use to connect a system to AI clients.
+policy:
+  allow_implicit_invocation: false

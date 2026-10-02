@@ -1,0 +1,5 @@
+interface:
+  display_name: Put a change behind a feature flag
+  short_description: Wraps new behaviour behind a feature flag with a safe default, a kill switch, tests for both paths and a cleanup ticket. Use when shipping a risky change incrementally.
+policy:
+  allow_implicit_invocation: false

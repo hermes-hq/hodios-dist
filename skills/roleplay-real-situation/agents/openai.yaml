@@ -1,0 +1,5 @@
+interface:
+  display_name: Role-play a real-life situation
+  short_description: Role-plays a real-life scenario such as a doctor visit, landlord call or government office in the target language, then reviews the learner's mistakes. Use to rehearse before the real thing.
+policy:
+  allow_implicit_invocation: false

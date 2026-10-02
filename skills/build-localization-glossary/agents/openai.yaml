@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a localization glossary
+  short_description: Builds a product term base from UI strings, with definitions, do-not-translate terms and proposed translations per locale, so localization stays consistent. Use before the first translation round.
+policy:
+  allow_implicit_invocation: false

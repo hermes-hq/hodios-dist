@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a load test
+  short_description: Designs a load test with a workload model, scenarios, ramp profile and pass or fail thresholds, then writes the script for the chosen tool. Use before a launch, a traffic event or a capacity decision.
+policy:
+  allow_implicit_invocation: false

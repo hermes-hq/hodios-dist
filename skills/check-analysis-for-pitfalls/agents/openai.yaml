@@ -1,0 +1,5 @@
+interface:
+  display_name: Check an analysis for pitfalls
+  short_description: Reviews an analysis for statistical pitfalls such as Simpson's paradox, p-hacking, survivorship, base rates and causal over-claims before it is shared. Use as a pre-publication review.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Build an incident timeline
+  short_description: Builds a timestamped incident timeline from chat logs, alerts and deploy records, marking detection, escalation, mitigation and the gaps between them. Use when preparing a postmortem.
+policy:
+  allow_implicit_invocation: false

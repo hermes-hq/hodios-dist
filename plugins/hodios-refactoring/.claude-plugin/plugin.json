@@ -1,0 +1,23 @@
+{
+  "name": "hodios-refactoring",
+  "version": "2026.1002.0",
+  "description": "Hodios refactoring entries: prompts, personas and workflows.",
+  "author": {
+    "name": "Hodios contributors",
+    "url": "https://github.com/hermes-hq/hodios"
+  },
+  "homepage": "https://hermes-ide.com/prompts",
+  "repository": "https://github.com/hermes-hq/hodios",
+  "license": "CC0-1.0",
+  "keywords": [
+    "code-coverage",
+    "cohesion",
+    "dead-code",
+    "dependency-map",
+    "deprecation",
+    "feature-flags",
+    "god-class",
+    "modularity",
+    "refactoring"
+  ]
+}

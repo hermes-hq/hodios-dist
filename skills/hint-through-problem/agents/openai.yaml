@@ -1,0 +1,5 @@
+interface:
+  display_name: Hint me through a problem
+  short_description: Tutors a learner through a maths or science problem with progressive hints, one at a time, and reveals the full solution only on request. Use when stuck on homework or practice.
+policy:
+  allow_implicit_invocation: false

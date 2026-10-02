@@ -1,0 +1,5 @@
+interface:
+  display_name: Design an active-learning activity
+  short_description: Designs an active-learning activity such as a jigsaw, think-pair-share or gallery walk, with timing, grouping, materials, teacher script and individual accountability.
+policy:
+  allow_implicit_invocation: false

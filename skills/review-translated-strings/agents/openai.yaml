@@ -1,0 +1,5 @@
+interface:
+  display_name: QA a translated string catalog
+  short_description: QA-checks a translated catalog against its source for placeholder mismatches, broken syntax, truncation risk, terminology drift and untranslated strings. Use before merging translations.
+policy:
+  allow_implicit_invocation: false

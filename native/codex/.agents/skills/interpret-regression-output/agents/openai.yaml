@@ -1,0 +1,5 @@
+interface:
+  display_name: Interpret regression output
+  short_description: Explains regression output in plain language (coefficients, intervals, p-values, fit) and what it does and does not let you conclude. Use when you have a model summary and need to explain it.
+policy:
+  allow_implicit_invocation: false

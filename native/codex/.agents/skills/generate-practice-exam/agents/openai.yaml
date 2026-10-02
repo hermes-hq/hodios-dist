@@ -1,0 +1,5 @@
+interface:
+  display_name: Generate a practice exam
+  short_description: Generates a practice exam from course material with mixed question types, a blueprint, an answer key and marking notes for open answers. Use to rehearse before a test.
+policy:
+  allow_implicit_invocation: false

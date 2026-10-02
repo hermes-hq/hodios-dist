@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a robust shell script
+  short_description: Writes a portable shell script with strict mode, argument parsing, a dry-run flag, clear errors and idempotent steps. Use when automating a chore you will run more than once.
+policy:
+  allow_implicit_invocation: false

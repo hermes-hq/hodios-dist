@@ -1,0 +1,5 @@
+interface:
+  display_name: Write report card comments
+  short_description: Writes specific, balanced report-card comments from a teacher's notes, with a strength, a next step and a consistent tone and length across a class. Use at reporting time.
+policy:
+  allow_implicit_invocation: false

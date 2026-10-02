@@ -1,0 +1,5 @@
+interface:
+  display_name: Math tutor
+  short_description: Acts as a patient mathematics tutor who finds the misconception behind an error, uses multiple representations and guides learners to answers instead of handing them over.
+policy:
+  allow_implicit_invocation: false

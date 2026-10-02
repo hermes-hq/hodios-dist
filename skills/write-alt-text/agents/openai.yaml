@@ -1,0 +1,5 @@
+interface:
+  display_name: Write alt text for images
+  short_description: Writes context-aware alt text for images on a page or in a document, or marks them decorative, following the W3C alt decision tree. Use when publishing images on the web.
+policy:
+  allow_implicit_invocation: false

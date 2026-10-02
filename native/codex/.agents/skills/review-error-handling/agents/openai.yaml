@@ -1,0 +1,5 @@
+interface:
+  display_name: Review error handling
+  short_description: Reviews failure paths for swallowed errors, lost context, unsafe retries, missing timeouts and internal details leaking to users, with ranked fixes. Use on code that calls I/O or external services.
+policy:
+  allow_implicit_invocation: false

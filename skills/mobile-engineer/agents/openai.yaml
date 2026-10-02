@@ -1,0 +1,5 @@
+interface:
+  display_name: Mobile engineer
+  short_description: Acts as a mobile engineer who designs for flaky networks, battery and memory limits, platform conventions and app-store release realities on iOS, Android and cross-platform stacks.
+policy:
+  allow_implicit_invocation: false

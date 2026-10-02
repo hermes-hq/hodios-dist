@@ -1,0 +1,5 @@
+interface:
+  display_name: Find a memory leak
+  short_description: Finds a memory leak from heap snapshots, memory metrics and code, naming the retaining path and the minimal fix with a regression check. Use when memory grows until a process is killed or restarted.
+policy:
+  allow_implicit_invocation: false

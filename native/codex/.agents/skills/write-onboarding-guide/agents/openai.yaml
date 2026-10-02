@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a developer onboarding guide
+  short_description: Writes an onboarding guide for a repository covering setup, an architecture map, first tasks and known gotchas, with every command checked against the repo. Use for new hires or contributors.
+policy:
+  allow_implicit_invocation: false

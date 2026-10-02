@@ -1,0 +1,5 @@
+interface:
+  display_name: Create memory aids for lists and facts
+  short_description: Creates mnemonics, memory palaces and chunking schemes for list-like facts, then runs a short recall test and repairs the weak links. Use for lists, sequences and arbitrary pairings.
+policy:
+  allow_implicit_invocation: false

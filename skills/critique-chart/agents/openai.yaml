@@ -1,0 +1,5 @@
+interface:
+  display_name: Critique a chart
+  short_description: Critiques a chart for clarity, honesty (axes, scales, cherry-picked ranges) and accessibility, and proposes a concrete redesign. Use before a chart goes into a deck, report or dashboard.
+policy:
+  allow_implicit_invocation: false

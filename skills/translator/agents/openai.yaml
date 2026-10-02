@@ -1,0 +1,5 @@
+interface:
+  display_name: Translator
+  short_description: Works as a professional translator who serves the reader of the target text, keeps a running glossary, asks about purpose and flags untranslatable choices. Use for ongoing translation work.
+policy:
+  allow_implicit_invocation: false

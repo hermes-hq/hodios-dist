@@ -1,0 +1,28 @@
+{
+  "name": "hodios-literature-review",
+  "version": "2026.1002.0",
+  "description": "Hodios literature-review entries: prompts, personas and workflows.",
+  "author": {
+    "name": "Hodios contributors",
+    "url": "https://github.com/hermes-hq/hodios"
+  },
+  "homepage": "https://hermes-ide.com/prompts",
+  "repository": "https://github.com/hermes-hq/hodios",
+  "license": "CC0-1.0",
+  "keywords": [
+    "citations",
+    "critical-appraisal",
+    "data-extraction",
+    "evidence",
+    "evidence-table",
+    "literature-review",
+    "papers",
+    "prisma",
+    "research-gaps",
+    "research-questions",
+    "screening",
+    "search-strategy",
+    "synthesis",
+    "thesis"
+  ]
+}

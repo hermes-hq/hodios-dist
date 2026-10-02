@@ -1,0 +1,5 @@
+interface:
+  display_name: Audit web accessibility against WCAG 2.2
+  short_description: Audits markup or components against WCAG 2.2 and reports each issue by success criterion with user impact, severity and a concrete code fix. Use before a release or a compliance review.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Estimate work as a range
+  short_description: Breaks engineering work into tasks and produces a range estimate with a confidence level, stated assumptions and the unknowns that need a spike. Use when asked "how long will this take?".
+policy:
+  allow_implicit_invocation: false

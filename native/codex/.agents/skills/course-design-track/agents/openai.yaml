@@ -1,0 +1,5 @@
+interface:
+  display_name: Course design track
+  short_description: Takes a course from audience and outcomes to an outline, assessments, lesson materials and a review pass, pausing for approval between steps. Use when building a whole course.
+policy:
+  allow_implicit_invocation: false

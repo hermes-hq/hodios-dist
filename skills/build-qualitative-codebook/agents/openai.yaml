@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a qualitative codebook
+  short_description: Builds a codebook and coding procedure for qualitative data, with definitions, inclusion and exclusion rules, verbatim examples and an inter-rater check. Use before coding interviews or open text.
+policy:
+  allow_implicit_invocation: false

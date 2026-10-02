@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a lesson plan
+  short_description: Writes a lesson plan with measurable objectives, timed activities, checks for understanding, differentiation, materials and an exit ticket. Use when planning a single lesson.
+policy:
+  allow_implicit_invocation: false

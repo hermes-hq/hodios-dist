@@ -1,0 +1,5 @@
+interface:
+  display_name: React component rules
+  short_description: Standing rules for React code an assistant writes, covering function components, the rules of hooks, colocated state, stable list keys, accessible markup and no effect-driven derived state.
+policy:
+  allow_implicit_invocation: false

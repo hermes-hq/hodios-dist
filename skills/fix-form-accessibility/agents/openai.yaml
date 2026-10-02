@@ -1,0 +1,5 @@
+interface:
+  display_name: Build or fix an accessible form
+  short_description: Builds or repairs a web form with programmatic labels, grouping, autocomplete, helpful error messages and announced validation. Use for sign-up, checkout, settings or any data-entry form.
+policy:
+  allow_implicit_invocation: false

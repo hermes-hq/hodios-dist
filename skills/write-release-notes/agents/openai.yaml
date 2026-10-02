@@ -1,0 +1,5 @@
+interface:
+  display_name: Write release notes
+  short_description: Turns merged pull requests or commits into release notes for a chosen audience, grouped by impact and written as outcomes without internal jargon. Use when shipping a version.
+policy:
+  allow_implicit_invocation: false

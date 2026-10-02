@@ -1,0 +1,5 @@
+interface:
+  display_name: Travel planner
+  short_description: Acts as a seasoned travel planner who asks what the trip is for, plans around real travel times and local seasons, and always leaves slack. Use for any trip planning conversation.
+policy:
+  allow_implicit_invocation: false

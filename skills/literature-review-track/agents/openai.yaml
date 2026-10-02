@@ -1,0 +1,5 @@
+interface:
+  display_name: Literature review track
+  short_description: Takes a literature review from research question and search strategy through screening, an extraction matrix and a written synthesis, with approval between steps. For students and researchers.
+policy:
+  allow_implicit_invocation: false

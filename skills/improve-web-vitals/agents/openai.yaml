@@ -1,0 +1,5 @@
+interface:
+  display_name: Improve Core Web Vitals
+  short_description: Diagnoses poor Core Web Vitals (LCP, INP, CLS) from a Lighthouse, field-data or trace report and ranks fixes by expected improvement. Use when a page fails the vitals thresholds.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a Terraform module
+  short_description: Writes a reusable Terraform module with typed, validated variables, secure defaults, documented outputs and an example. Use when wrapping cloud resources for other teams to consume.
+policy:
+  allow_implicit_invocation: false

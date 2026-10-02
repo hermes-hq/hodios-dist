@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a streaming file parser
+  short_description: Writes a streaming parser and validator for CSV, log, fixed-width or custom text files that reports malformed records with line numbers instead of crashing. Use for messy input files.
+policy:
+  allow_implicit_invocation: false

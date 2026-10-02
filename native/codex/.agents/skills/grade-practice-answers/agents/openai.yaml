@@ -1,0 +1,5 @@
+interface:
+  display_name: Grade practice answers like a strict examiner
+  short_description: Marks practice answers against a mark scheme or rubric, giving per-question feedback and the marks a strict examiner would award. Use after attempting past papers or practice questions.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Review a training dataset sample
+  short_description: Audits a sample of a labelled dataset for label noise, leakage, duplicates, class imbalance and representation gaps, and gives a concrete fix for each problem. Use before training or fine-tuning.
+policy:
+  allow_implicit_invocation: false

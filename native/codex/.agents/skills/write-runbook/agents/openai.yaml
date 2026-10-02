@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an operational runbook
+  short_description: Writes a runbook for an alert or routine procedure with symptoms, diagnosis commands, ordered mitigations, verification and escalation. Use so on-call engineers can act without tribal knowledge.
+policy:
+  allow_implicit_invocation: false

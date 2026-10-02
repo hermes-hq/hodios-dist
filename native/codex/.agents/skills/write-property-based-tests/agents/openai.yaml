@@ -1,0 +1,5 @@
+interface:
+  display_name: Write property-based tests
+  short_description: Finds the invariants a function must keep and writes property-based tests with generators that shrink well. Use when example-based tests miss edge cases in parsers, encoders or pure logic.
+policy:
+  allow_implicit_invocation: false

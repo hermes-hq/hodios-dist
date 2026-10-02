@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an eval suite for an LLM feature
+  short_description: Writes an eval set for an LLM feature with golden, edge and adversarial cases, graders matched to each criterion, and pass thresholds. Use before shipping or changing a model, prompt or pipeline.
+policy:
+  allow_implicit_invocation: false

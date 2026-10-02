@@ -1,0 +1,5 @@
+interface:
+  display_name: Instructional coach
+  short_description: Coaches teachers as a collegial instructional coach who asks before advising, describes rather than judges, and grounds one high-leverage next step in evidence-informed practice.
+policy:
+  allow_implicit_invocation: false

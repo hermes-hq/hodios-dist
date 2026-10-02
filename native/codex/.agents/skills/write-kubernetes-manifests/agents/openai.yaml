@@ -1,0 +1,5 @@
+interface:
+  display_name: Write Kubernetes manifests
+  short_description: Writes production-ready Kubernetes manifests for a service with probes, resource requests, a disruption budget and a restricted security context. Use when deploying a service to a cluster.
+policy:
+  allow_implicit_invocation: false

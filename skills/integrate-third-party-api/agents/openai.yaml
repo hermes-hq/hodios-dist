@@ -1,0 +1,5 @@
+interface:
+  display_name: Integrate a third-party API
+  short_description: Implements a typed client for a third-party HTTP API from its docs, with auth, pagination, retries, rate limits and a test fake. Use when wiring an external service into your code.
+policy:
+  allow_implicit_invocation: false

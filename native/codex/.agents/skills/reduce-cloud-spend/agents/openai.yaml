@@ -1,0 +1,5 @@
+interface:
+  display_name: Reduce cloud spend
+  short_description: Analyses a cloud bill or cost export alongside the architecture and ranks savings by monthly impact, effort and risk. Use when the cloud bill grows faster than usage.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a resilient end-to-end test
+  short_description: Writes an end-to-end browser test for a user flow with role-based locators, auto-waiting assertions and isolated test data, never fixed sleeps. Use when adding UI coverage for a critical path.
+policy:
+  allow_implicit_invocation: false

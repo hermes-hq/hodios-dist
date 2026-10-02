@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an engineering design doc
+  short_description: Writes an engineering design doc or RFC with context, goals and non-goals, options and trade-offs, the decision, risks and a rollout plan. Use before building a change that needs review or buy-in.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Review colour contrast and fix the palette
+  short_description: Checks colour pairs or design tokens against contrast requirements and proposes the nearest passing alternatives that keep the brand hue. Use when defining or auditing a palette or theme.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a breaking API version change
+  short_description: Plans a breaking API version change with a deprecation timeline, compatibility shims, a client migration guide and adoption telemetry. Use before changing anything clients rely on.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Calculate sample size
+  short_description: Computes the sample size or statistical power for an experiment or survey, shows the formula and assumptions, and gives a sensitivity table. Use before launching an A/B test, study or survey.
+policy:
+  allow_implicit_invocation: false

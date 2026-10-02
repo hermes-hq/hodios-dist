@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a packing list
+  short_description: Builds a packing checklist for the destination's climate, the activities, luggage limits and trip length, with quantities and what to buy there instead. Use a few days before you pack.
+policy:
+  allow_implicit_invocation: false

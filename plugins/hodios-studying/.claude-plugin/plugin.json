@@ -1,0 +1,27 @@
+{
+  "name": "hodios-studying",
+  "version": "2026.1002.0",
+  "description": "Hodios studying entries: prompts, personas and workflows.",
+  "author": {
+    "name": "Hodios contributors",
+    "url": "https://github.com/hermes-hq/hodios"
+  },
+  "homepage": "https://hermes-ide.com/prompts",
+  "repository": "https://github.com/hermes-hq/hodios",
+  "license": "CC0-1.0",
+  "keywords": [
+    "accountability",
+    "active-recall",
+    "chunking",
+    "cloze",
+    "concept-map",
+    "memory-palace",
+    "metacognition",
+    "mnemonics",
+    "retrieval-practice",
+    "revision-notes",
+    "schedule",
+    "spaced-repetition",
+    "studying"
+  ]
+}

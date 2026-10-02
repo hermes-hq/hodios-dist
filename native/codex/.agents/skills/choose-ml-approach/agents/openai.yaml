@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose between rules, ML and an LLM
+  short_description: Recommends rules, classical ML, a hosted LLM or a fine-tuned model for a problem, comparing accuracy, cost, latency and maintenance with the reasoning shown. Use before committing to an approach.
+policy:
+  allow_implicit_invocation: false

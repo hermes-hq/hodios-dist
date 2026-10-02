@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a trip budget
+  short_description: Estimates a trip budget by category with low and high ranges, states every assumption and suggests where to save. Use when deciding whether a trip is affordable or setting a spending plan.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Transcreate marketing copy
+  short_description: Transcreates marketing copy for a target market, adapting idioms, cultural references and claims rather than translating literally, with back-translations. Use before launching in a new market.
+policy:
+  allow_implicit_invocation: false

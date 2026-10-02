@@ -1,0 +1,5 @@
+interface:
+  display_name: Coach pronunciation
+  short_description: Coaches the pronunciation of words or sounds with IPA, mouth-position tips, minimal pairs and a practice ladder from sound to sentence. Use when a sound keeps coming out wrong.
+policy:
+  allow_implicit_invocation: false

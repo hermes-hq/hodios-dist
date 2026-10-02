@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a grammar point
+  short_description: Explains one grammar point of a language by contrast with the learner's native language, with common errors and a short exercise. Use when a rule keeps tripping you up.
+policy:
+  allow_implicit_invocation: false

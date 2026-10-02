@@ -1,0 +1,5 @@
+interface:
+  display_name: Clean up a branch's commit history
+  short_description: Plans an interactive rebase that turns a messy branch into logical, reviewable commits, with a backup, the exact todo list and a check that the code is unchanged. Use before merging a WIP branch.
+policy:
+  allow_implicit_invocation: false

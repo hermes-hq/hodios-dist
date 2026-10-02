@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan food exploration
+  short_description: Builds a food guide for a destination with dishes to try, how to order, where locals eat and dietary workarounds, plus a translated diet card. Use to eat well on a trip.
+policy:
+  allow_implicit_invocation: false

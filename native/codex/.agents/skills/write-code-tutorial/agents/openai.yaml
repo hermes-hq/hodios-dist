@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a step-by-step code tutorial
+  short_description: Writes a technical tutorial a reader can follow end to end, with pinned prerequisites, complete runnable snippets and a checkpoint after every step. Use for docs, blog tutorials or workshop material.
+policy:
+  allow_implicit_invocation: false

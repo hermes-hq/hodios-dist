@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a group trip
+  short_description: Coordinates a group trip with a preference survey, a compromise destination and itinerary, a fair cost split and decision deadlines. Use when friends or family travel together.
+policy:
+  allow_implicit_invocation: false

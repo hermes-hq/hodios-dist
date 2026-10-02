@@ -1,0 +1,5 @@
+interface:
+  display_name: Classify text records
+  short_description: Classifies free-text records such as tickets, feedback or expenses into a given set of categories, with a confidence level and an explicit Other bucket, and returns a table.
+policy:
+  allow_implicit_invocation: false

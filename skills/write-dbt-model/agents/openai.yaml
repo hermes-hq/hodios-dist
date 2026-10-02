@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a dbt model
+  short_description: Writes a dbt model from business logic, with declared sources, a stated grain, unique, not_null and relationships tests, column docs and a safe incremental strategy. Use when adding a dbt model.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Check travel entry requirements
+  short_description: Builds a checklist of entry requirements to verify for a trip, covering visa, passport validity, health and transit rules, with the official source to confirm each. Use weeks before travel.
+policy:
+  allow_implicit_invocation: false

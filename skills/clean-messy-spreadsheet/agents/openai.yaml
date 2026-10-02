@@ -1,0 +1,5 @@
+interface:
+  display_name: Clean a messy spreadsheet
+  short_description: Cleans messy tabular data (headers, types, duplicates, inconsistent categories, stray totals) and logs every change it makes. Use before analysing an export or a hand-maintained sheet.
+policy:
+  allow_implicit_invocation: false

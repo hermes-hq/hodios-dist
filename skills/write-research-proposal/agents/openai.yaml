@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a research proposal
+  short_description: Writes a research or grant proposal section (aims, significance, approach, timeline) mapped to the funder's criteria, with placeholders instead of invented data. Use for grant or thesis proposals.
+policy:
+  allow_implicit_invocation: false

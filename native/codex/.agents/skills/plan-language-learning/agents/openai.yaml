@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan language learning to a CEFR goal
+  short_description: Creates a weekly study routine to reach a CEFR goal by a date, balancing input, speaking, writing and review, and says plainly if the goal is unrealistic. Use when starting or resetting.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Translate preserving tone
+  short_description: Translates text while keeping its tone, register and intent, adapts idioms instead of copying them, and notes the choices a reviewer should check. Use for anything a person will read.
+policy:
+  allow_implicit_invocation: false

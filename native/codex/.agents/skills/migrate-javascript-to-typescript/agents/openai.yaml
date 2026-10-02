@@ -1,0 +1,5 @@
+interface:
+  display_name: Migrate JavaScript to TypeScript
+  short_description: Plans and carries out an incremental JavaScript-to-TypeScript migration with config, file order, typed boundaries and a strictness ratchet. Use to move a JS codebase without a freeze.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: SQL style rules
+  short_description: Standing rules for SQL an assistant writes, covering formatting, naming, explicit column lists, parameterised queries, NULL handling, data types and safe migrations.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a literature review section
+  short_description: Synthesises sources into a thematic literature review section with in-text citations and a reference list, organised by idea rather than paper by paper. Use for theses, articles and proposals.
+policy:
+  allow_implicit_invocation: false

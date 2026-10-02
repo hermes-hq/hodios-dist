@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a KPI driver tree
+  short_description: Decomposes a top-line metric into a driver tree with exact formulas, definitions and owners, so a change in the metric can be traced to the input that moved. Use for metric design and reviews.
+policy:
+  allow_implicit_invocation: false

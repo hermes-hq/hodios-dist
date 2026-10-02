@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a KPI dashboard
+  short_description: Designs a KPI dashboard from the decisions it must support, covering audience, questions, metric definitions, one chart per question, filters and layout. Use before building it in a BI tool.
+policy:
+  allow_implicit_invocation: false

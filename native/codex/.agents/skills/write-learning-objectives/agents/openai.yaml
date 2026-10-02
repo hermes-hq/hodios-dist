@@ -1,0 +1,5 @@
+interface:
+  display_name: Write measurable learning objectives
+  short_description: Writes measurable learning objectives with Bloom verbs, conditions and criteria, each aligned to an assessment method that would show mastery. Use when planning a lesson, module or course.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a spreadsheet automation
+  short_description: Writes a VBA macro or Google Apps Script that automates a repetitive spreadsheet task, with a backup step, clear comments and a safe test run. Use when you repeat the same clicks every week.
+policy:
+  allow_implicit_invocation: false

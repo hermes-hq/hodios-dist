@@ -1,0 +1,5 @@
+interface:
+  display_name: Check my reasoning
+  short_description: Reviews a learner's worked solution or argument step by step, locates the first wrong step and asks a guiding question instead of giving the answer. Use to find your own mistake.
+policy:
+  allow_implicit_invocation: false

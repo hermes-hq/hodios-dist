@@ -1,0 +1,29 @@
+{
+  "name": "hodios-travel-logistics",
+  "version": "2026.1002.0",
+  "description": "Hodios travel-logistics entries: prompts, personas and workflows.",
+  "author": {
+    "name": "Hodios contributors",
+    "url": "https://github.com/hermes-hq/hodios"
+  },
+  "homepage": "https://hermes-ide.com/prompts",
+  "repository": "https://github.com/hermes-hq/hodios",
+  "license": "CC0-1.0",
+  "keywords": [
+    "cancellation",
+    "carry-on",
+    "climate",
+    "compensation",
+    "cost-estimate",
+    "entry-requirements",
+    "eu261",
+    "flight-delay",
+    "luggage",
+    "passenger-rights",
+    "passport",
+    "transit",
+    "travel-costs",
+    "travel-logistics",
+    "visa"
+  ]
+}
