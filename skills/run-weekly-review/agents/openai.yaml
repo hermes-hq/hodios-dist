@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a weekly review
+  short_description: Guides a weekly review - clears inboxes and open loops, checks every project has a next action, reviews the calendar back and ahead, and picks next week's priorities against real capacity.
+policy:
+  allow_implicit_invocation: false

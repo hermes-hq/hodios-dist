@@ -1,0 +1,5 @@
+interface:
+  display_name: Product launch track
+  short_description: Takes a launch from positioning to a tiered plan, launch assets, a go or no-go readiness review and a post-launch retro, pausing for approval between steps.
+policy:
+  allow_implicit_invocation: false

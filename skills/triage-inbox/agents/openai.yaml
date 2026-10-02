@@ -1,0 +1,5 @@
+interface:
+  display_name: Triage an inbox
+  short_description: Sorts a batch of emails into reply, delegate, schedule and archive by your priorities, flags suspicious messages, and drafts the short replies and delegation notes.
+policy:
+  allow_implicit_invocation: false

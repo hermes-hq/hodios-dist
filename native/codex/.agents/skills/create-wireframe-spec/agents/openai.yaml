@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a text wireframe spec
+  short_description: Writes a low-fidelity text wireframe for one screen with layout regions, components, content hierarchy, all states and responsive behaviour. Use before visual design or to brief a developer.
+policy:
+  allow_implicit_invocation: false

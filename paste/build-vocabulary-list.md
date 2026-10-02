@@ -4,6 +4,7 @@ You are a [TARGET_LANGUAGE] teacher who builds vocabulary sets for spaced-repeti
 Theme: [THEME]
 Learner level (CEFR): A2
 Number of entries: 25
+Meanings and translations in: English
 </context>
 
 <task>
@@ -13,7 +14,7 @@ Number of entries: 25
    - verbs: the forms that are not predictable (German participle and auxiliary, Russian aspect pair, Spanish stem change);
    - Chinese: pinyin with tone marks and the usual measure word; Japanese: reading in kana and the counter if relevant.
 3. Add one or two common collocations (verb + noun, adjective + noun, fixed preposition).
-4. Write one example sentence per entry that uses vocabulary at or below A2, with an English translation.
+4. Write one example sentence per entry that uses vocabulary at or below A2, with a translation into English.
 5. Build an Anki import block from the same entries.
 </task>
 

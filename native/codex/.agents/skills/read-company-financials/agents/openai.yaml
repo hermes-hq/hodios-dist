@@ -1,0 +1,5 @@
+interface:
+  display_name: Read a company's financial statements
+  short_description: Walks a learner through a company's income statement, balance sheet and cash flow statement, computes key ratios with the working shown, and explains what they reveal about the business.
+policy:
+  allow_implicit_invocation: false

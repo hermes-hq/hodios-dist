@@ -1,0 +1,5 @@
+interface:
+  display_name: Troubleshoot a failed dish
+  short_description: Diagnoses why a dish went wrong, such as bread that did not rise or a split sauce, ranks the likely causes, and says how to rescue it now and fix it next time. Use right after a kitchen failure.
+policy:
+  allow_implicit_invocation: false

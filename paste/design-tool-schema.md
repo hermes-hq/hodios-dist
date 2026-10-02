@@ -3,7 +3,7 @@ A model decides which tool to call, and with what arguments, from the tool's nam
 </context>
 
 <task>
-Design the tools for these capabilities:
+Design the tools for these capabilities, for target any:
 [CAPABILITIES]
 
 1. List the user goals the agent must reach. Map them to the smallest set of tools with distinct, non-overlapping purposes. Combine steps that are always done together into one tool, and do not mirror the existing API one to one; say which endpoints each tool combines.
@@ -20,6 +20,7 @@ Design the tools for these capabilities:
 
 <constraints>
 - Use a portable JSON Schema subset: `type`, `properties`, `required`, `enum`, `items`, `description`, `default`, `minimum`, `maximum`, `maxLength`. Avoid `$ref`, top-level `oneOf` or `anyOf`, and conditional schemas, which some providers reject.
+- If the target enforces strict schemas (for example OpenAI's strict function calling), list every property in `required` and express optional ones as nullable, and say that you did. For `any`, say what changes per target.
 - Never put credentials, tenant ids or authorisation decisions in parameters. The host application supplies identity and enforces permissions.
 - Keep the set under about 15 tools unless the capabilities truly need more, and say why if they do.
 - Do not invent endpoints or fields of the existing API. Mark anything you assumed.
@@ -30,7 +31,7 @@ Design the tools for these capabilities:
 Table: name | purpose | side effects | wraps.
 
 ## Definitions
-One fenced JSON array of tool objects with `name`, `description` and `input_schema`, followed by each tool's output shape.
+One fenced JSON array of tool objects with `name`, `description` and the schema under the target's key: `input_schema` (anthropic, and for `any`), `parameters` (openai, gemini) or `inputSchema` (mcp). Follow it with each tool's output shape.
 
 ## Error catalogue
 Table: tool | condition | message returned to the model.

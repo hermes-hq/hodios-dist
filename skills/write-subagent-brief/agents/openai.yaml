@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a subagent brief
+  short_description: Turns a task into a self-contained brief for a subagent or parallel agent, with the goal, context, scope, constraints, return format and definition of done. Use before delegating to another agent.
+policy:
+  allow_implicit_invocation: false

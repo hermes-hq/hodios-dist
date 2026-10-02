@@ -1,0 +1,5 @@
+interface:
+  display_name: Define content pillars
+  short_description: Defines a creator's or brand's audience, positioning and three to five content pillars, with formats and example topics for each. Use when starting or resetting a content strategy.
+policy:
+  allow_implicit_invocation: false

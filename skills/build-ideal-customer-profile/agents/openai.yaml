@@ -1,0 +1,5 @@
+interface:
+  display_name: Build an ideal customer profile
+  short_description: Builds an ideal customer profile and buyer personas from customer data or interviews, with buying triggers, disqualifiers and a fit score. Use to focus targeting, outbound and messaging.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Outline a story
+  short_description: Outlines a story in a chosen structure with beats, subplots and turning points, and flags every link where events follow by coincidence instead of cause. Use before drafting.
+policy:
+  allow_implicit_invocation: false

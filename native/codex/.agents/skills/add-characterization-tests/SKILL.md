@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: testing
   source: https://hermes-ide.com/prompts/add-characterization-tests
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Add characterization tests to legacy code

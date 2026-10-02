@@ -1,0 +1,5 @@
+interface:
+  display_name: Compare options with a decision matrix
+  short_description: Builds a weighted decision matrix for your options and criteria, with must-have filters and anchored scores, then tests how sensitive the winner is to the weights before recommending.
+policy:
+  allow_implicit_invocation: false

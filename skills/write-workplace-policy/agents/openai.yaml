@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a workplace policy
+  short_description: Drafts an internal workplace policy such as remote work, expenses or leave, with purpose, scope, clear rules, exceptions, approval paths and the points that need HR and employment-law review.
+policy:
+  allow_implicit_invocation: false

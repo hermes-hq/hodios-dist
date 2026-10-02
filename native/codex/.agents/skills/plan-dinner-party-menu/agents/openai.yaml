@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a dinner party menu
+  short_description: Plans a balanced dinner party menu for the guest count and dietary needs, with a countdown timeline, make-ahead steps, an oven and hob plan, and a shopping list. Use a few days before hosting.
+policy:
+  allow_implicit_invocation: false

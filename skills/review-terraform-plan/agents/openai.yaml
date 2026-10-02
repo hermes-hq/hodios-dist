@@ -1,0 +1,5 @@
+interface:
+  display_name: Review a Terraform plan before apply
+  short_description: Reads a Terraform or OpenTofu plan and flags destroys, replacements, security exposure and changes outside the stated intent. Use before running apply, especially in production.
+policy:
+  allow_implicit_invocation: false

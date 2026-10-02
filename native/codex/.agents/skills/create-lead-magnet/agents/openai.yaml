@@ -1,0 +1,5 @@
+interface:
+  display_name: Create a lead magnet
+  short_description: Designs a lead magnet that solves one painful, specific problem for an audience and bridges to the product, with its full contents, landing page copy and follow-up emails.
+policy:
+  allow_implicit_invocation: false

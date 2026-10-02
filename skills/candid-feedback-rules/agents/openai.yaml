@@ -1,0 +1,5 @@
+interface:
+  display_name: Candid feedback rules
+  short_description: Standing rules that make an assistant candid - no flattery, real disagreement when warranted, stated confidence, admitted uncertainty, and position changes only for good reasons.
+policy:
+  allow_implicit_invocation: false

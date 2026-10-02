@@ -1,0 +1,5 @@
+interface:
+  display_name: Project retirement scenarios
+  short_description: Projects retirement savings under low, middle and high return assumptions after inflation and fees, translates each into sustainable annual income, and lists the questions to take to an adviser.
+policy:
+  allow_implicit_invocation: false

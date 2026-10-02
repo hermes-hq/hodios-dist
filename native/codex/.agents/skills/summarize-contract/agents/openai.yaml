@@ -1,0 +1,5 @@
+interface:
+  display_name: Summarise a contract
+  short_description: Summarises a contract in plain language from the reader's side, covering obligations, money, dates, renewal and termination, clauses that shift risk, and questions to take to a lawyer before signing.
+policy:
+  allow_implicit_invocation: false

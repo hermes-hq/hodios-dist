@@ -1,0 +1,5 @@
+interface:
+  display_name: Write podcast show notes
+  short_description: Writes podcast show notes from an episode transcript with a summary, timestamps, key takeaways, guest links and verbatim quotable lines. Use when publishing an episode.
+policy:
+  allow_implicit_invocation: false

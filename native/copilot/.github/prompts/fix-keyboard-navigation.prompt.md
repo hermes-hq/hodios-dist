@@ -1,5 +1,5 @@
 ---
-description: Finds and fixes keyboard barriers in a UI component, such as broken focus order, traps, invisible focus and mouse-only controls, and adds a keyboard test checklist.
+description: Finds and fixes keyboard barriers in a UI component (focus order, traps, invisible focus, mouse-only controls) and adds a keyboard test checklist. Use when a widget fails without a mouse.
 agent: agent
 argument-hint: component_code widget_type
 ---

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a project proposal or business case
+  short_description: Writes an internal project proposal or business case covering the problem, options, recommendation, cost, benefits and risks, and marks every missing number instead of inventing it.
+policy:
+  allow_implicit_invocation: false

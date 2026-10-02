@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a short-form video script
+  short_description: Scripts a 30 to 60 second vertical video with timed beats, shots, on-screen text, a caption and a loopable ending. Use for TikTok, Reels or YouTube Shorts.
+policy:
+  allow_implicit_invocation: false

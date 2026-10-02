@@ -1,0 +1,5 @@
+interface:
+  display_name: Organise digital files
+  short_description: Designs a folder structure and file naming convention that fits how you work, plus a safe step-by-step cleanup plan and a short routine to keep files tidy. Use when finding files takes too long.
+policy:
+  allow_implicit_invocation: false

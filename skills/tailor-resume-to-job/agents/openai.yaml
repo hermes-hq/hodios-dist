@@ -1,0 +1,5 @@
+interface:
+  display_name: Tailor a resume to a job
+  short_description: Tailors a whole resume to one posting by reordering, selecting and rewording experience honestly, then checks keyword coverage for applicant tracking systems. Use before each important application.
+policy:
+  allow_implicit_invocation: false

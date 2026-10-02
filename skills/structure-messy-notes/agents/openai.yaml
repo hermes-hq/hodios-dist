@@ -1,0 +1,5 @@
+interface:
+  display_name: Structure messy notes
+  short_description: Turns messy notes into a clean document with headings, decisions, open questions and action items, keeping every fact faithful and flagging anything unclear. Use after a call, lecture or brainstorm.
+policy:
+  allow_implicit_invocation: false

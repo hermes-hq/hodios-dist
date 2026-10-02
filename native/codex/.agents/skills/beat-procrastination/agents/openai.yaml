@@ -1,0 +1,5 @@
+interface:
+  display_name: Beat procrastination on a task
+  short_description: Diagnoses why a specific task is being avoided, then gives a concrete two-minute first step, a plan for the next 25 minutes and a way to keep going. Use when you keep putting something off.
+policy:
+  allow_implicit_invocation: false

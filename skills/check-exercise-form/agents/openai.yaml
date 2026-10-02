@@ -1,0 +1,5 @@
+interface:
+  display_name: Check exercise form
+  short_description: Explains form cues and common mistakes for an exercise, troubleshoots a described problem, and says when pain means stop and see a professional. Use before or after a session.
+policy:
+  allow_implicit_invocation: false

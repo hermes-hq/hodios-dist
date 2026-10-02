@@ -1,0 +1,5 @@
+interface:
+  display_name: Map personal data processing
+  short_description: Drafts a record of personal-data processing activities from business processes, listing purposes, data categories, recipients, transfers, retention and open questions for privacy review.
+policy:
+  allow_implicit_invocation: false

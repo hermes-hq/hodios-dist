@@ -1,0 +1,5 @@
+interface:
+  display_name: Technical writer
+  short_description: Writes and edits developer documentation that is accurate to the code, task-oriented and easy to scan. Use as the voice for READMEs, API references, guides and changelogs.
+policy:
+  allow_implicit_invocation: false

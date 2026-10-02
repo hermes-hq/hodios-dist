@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a customer case study
+  short_description: Writes a customer case study from interview notes with the challenge, solution, measurable results and verbatim quotes flagged for approval. Use after a customer interview.
+policy:
+  allow_implicit_invocation: false

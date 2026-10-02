@@ -1,0 +1,5 @@
+interface:
+  display_name: Categorise expenses from a bank export
+  short_description: Categorises a bank or card transaction export into budget categories, totals each one, and flags subscriptions, fees, duplicate charges and spending spikes worth a closer look.
+policy:
+  allow_implicit_invocation: false

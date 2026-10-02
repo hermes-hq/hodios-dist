@@ -1,0 +1,5 @@
+interface:
+  display_name: Model unit economics
+  short_description: Computes CAC, LTV, payback and contribution margin from your inputs, sanity-checks them for common errors and shows which lever matters most. Use before scaling spend or pitching investors.
+policy:
+  allow_implicit_invocation: false

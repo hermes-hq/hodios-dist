@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a system prompt
+  short_description: Writes a system prompt for a custom assistant from its purpose, audience, boundaries and tone, with handling for missing information and off-topic requests, plus a set of test questions.
+policy:
+  allow_implicit_invocation: false

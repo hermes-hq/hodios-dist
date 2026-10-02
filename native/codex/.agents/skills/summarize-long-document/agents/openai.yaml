@@ -1,0 +1,5 @@
+interface:
+  display_name: Summarise a long document
+  short_description: Produces a layered summary of a long document, from one line to key points to section detail, keeping numbers, hedges and nuance faithful and pointing to where each point comes from.
+policy:
+  allow_implicit_invocation: false

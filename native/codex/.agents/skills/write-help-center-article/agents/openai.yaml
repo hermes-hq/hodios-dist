@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a help-centre article
+  short_description: Writes a task-based help-centre article from a feature description or a support ticket, with numbered steps, screenshot placeholders and troubleshooting. Use to answer a common question once, well.
+policy:
+  allow_implicit_invocation: false

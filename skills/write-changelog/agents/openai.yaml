@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a changelog entry
+  short_description: Turns the commits and pull requests in a release range into a user-facing changelog entry in Keep a Changelog format, with breaking changes first. Use when cutting a release.
+policy:
+  allow_implicit_invocation: false

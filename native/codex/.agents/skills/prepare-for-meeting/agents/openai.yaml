@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for a meeting
+  short_description: Writes a one-page pre-meeting brief with your goal and fallback, each attendee's likely position, questions to ask, objections to expect and what a good outcome looks like.
+policy:
+  allow_implicit_invocation: false

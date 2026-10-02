@@ -1,0 +1,5 @@
+interface:
+  display_name: Write social ad variations
+  short_description: Writes paid social ad copy and creative concepts by angle for Meta, LinkedIn, TikTok or X, with hooks, platform-fit formats and a testing plan. Use to launch or refresh a paid social campaign.
+policy:
+  allow_implicit_invocation: false

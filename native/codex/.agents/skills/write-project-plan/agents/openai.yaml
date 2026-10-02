@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a project plan
+  short_description: Writes a lightweight plan for a non-software project such as an event, move, renovation or campaign, with milestones, owners, dependencies, risks and a check-in rhythm, worked back from the deadline.
+policy:
+  allow_implicit_invocation: false

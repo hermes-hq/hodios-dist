@@ -1,0 +1,5 @@
+interface:
+  display_name: Map an opportunity solution tree
+  short_description: Builds an opportunity solution tree from a desired outcome and research, choosing a target opportunity and pairing each candidate solution with its riskiest assumptions and a quick test.
+policy:
+  allow_implicit_invocation: false

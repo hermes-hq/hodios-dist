@@ -1,0 +1,5 @@
+interface:
+  display_name: Write guest interview questions
+  short_description: Writes researched interview questions for a podcast guest from their bio and work, with follow-ups, a question path and topics to avoid. Use when preparing to interview a guest.
+policy:
+  allow_implicit_invocation: false

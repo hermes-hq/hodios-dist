@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a cover letter
+  short_description: Writes a tailored cover letter under 350 words that connects two or three specific achievements to the role's most important needs. Use for any job application that asks for one.
+policy:
+  allow_implicit_invocation: false

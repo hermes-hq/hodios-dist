@@ -1,0 +1,5 @@
+interface:
+  display_name: Diagnose a plant problem
+  short_description: Diagnoses a sick plant from symptoms or a photo, ranks the likely causes with checks to confirm them, and suggests the least invasive treatment first. Use when leaves yellow, spot, wilt or get eaten.
+policy:
+  allow_implicit_invocation: false

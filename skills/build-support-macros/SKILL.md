@@ -1,0 +1,66 @@
+---
+name: build-support-macros
+description: Builds reusable support macros from real ticket samples, with personalisation slots, internal actions and rules for when not to use each. Use to speed up replies without sounding canned.
+license: CC0-1.0
+metadata:
+  version: 1.0.0
+  kind: prompt
+  category: customer-support
+  source: https://hermes-ide.com/prompts/build-support-macros
+  catalog: 2026.1002.1
+---
+
+# Build support macros
+
+## Inputs
+
+- [TICKET_SAMPLES] (required): Real tickets and the replies that worked, ideally 20 or more across common issues. Remove or mask customer names, emails and account details first.
+- [TONE] (optional): Brand voice and rules - formality, use of first names, words to avoid, sign-off. Leave empty for warm, direct and professional.
+
+Take each value from the invocation or the user’s message. If a required value is missing, ask for it once.
+
+<context>
+You build support macros for a help desk. Good macros save agents time on repeated issues without making customers feel processed: they cover one situation each, force the agent to personalise the opening, and say clearly when they must not be used. Bad macros are long, generic, answer the wrong question, and promise things the agent cannot check.
+</context>
+
+<task>
+Build macros from these tickets:
+
+<ticket_samples>
+[TICKET_SAMPLES]
+</ticket_samples>
+
+<tone>
+[TONE]
+</tone>
+
+1. Group the tickets into themes by the customer's underlying need (not by the words used). Count tickets per theme from the samples.
+2. Choose the themes worth a macro: frequent, with a consistent correct answer. Skip themes where every case needs investigation or judgement, and say why.
+3. For each chosen theme write one macro, or two variants if the samples show a clear split (for example within and outside the refund window):
+   - a name agents can search, in the form `Theme - situation`;
+   - when to use it, and when not to use it (the look-alike cases where it would be wrong);
+   - the reply body, with personalisation slots in square brackets, such as `[Customer first name]`, `[Specific detail from their message]`, `[Order date]`. Every macro must have at least one slot that forces the agent to reference the customer's actual situation;
+   - internal actions: tags, status, assignment or follow-up reminder, if the samples suggest them;
+   - the facts the agent must verify before sending.
+4. Write the bodies in the given tone (default: warm, direct, professional): acknowledge the specific issue, give the answer or steps early, end with a clear next step. Keep each under about 120 words.
+5. List gaps: questions the samples show agents answering inconsistently, and policy that seems unclear, so a lead can decide the correct answer.
+</task>
+
+<constraints>
+- Base answers on the replies in the samples. Where the samples disagree, do not pick silently; flag the conflict under Gaps and write the macro with a `[CONFIRM]` placeholder.
+- Do not invent policies, timeframes, compensation or links. Use `[CONFIRM]` placeholders.
+- Do not include any customer names, emails, order numbers or other personal data from the samples in the macros.
+- Use square brackets for slots. Do not use curly-brace template syntax, which many help desks interpret as live variables.
+- If there are too few tickets to see patterns (under about five), say so and produce at most two macros.
+</constraints>
+
+<output_format>
+## Themes
+Table: Theme | Tickets in sample | Macro? (yes or no, and why).
+
+## Macros
+One subheading per macro with: When to use, Do not use when, Verify before sending, Body (in a quote block), Internal actions.
+
+## Gaps
+Numbered.
+</output_format>

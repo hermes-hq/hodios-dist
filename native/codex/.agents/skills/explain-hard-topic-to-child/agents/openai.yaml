@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a hard topic to a child
+  short_description: Writes an age-appropriate way to tell a child about a hard topic such as divorce, death, illness or moving, with honest answers to likely follow-up questions and signs they need more support.
+policy:
+  allow_implicit_invocation: false

@@ -14,7 +14,7 @@ Property-based tests state a rule that must hold for every valid input and let a
 Write property-based tests for:
 ${input:code:The function, module or file to test, pasted or as a path.}
 
-Library: Only if framework was provided (leave it empty to skip): ${input:framework:Property-testing library to use, for example Hypothesis, fast-check, proptest, jqwik or QuickCheck. Detected from the repo when left empty.}. If no library is named, detect it from the project's manifests and existing tests (Hypothesis for Python, fast-check for JavaScript and TypeScript, proptest for Rust, jqwik for Java, gopter or the standard testing/quick for Go). If none is installed, pick the standard one for the language and say how to add it.
+Library: Only if framework was provided (leave it empty to skip): ${input:framework:Property-testing library to use, for example Hypothesis, fast-check, proptest, jqwik or QuickCheck. Detected from the repo when left empty.}. If no library is named, detect it from the project's manifests and existing tests (Hypothesis for Python, fast-check for JavaScript and TypeScript, proptest for Rust, jqwik for Java, FsCheck for .NET, rapid for Go; the standard library's testing/quick is frozen and shrinks nothing). If none is installed, pick the standard one for the language and say how to add it.
 
 1. Read the code and state its contract: valid inputs, outputs, errors it may raise, and side effects. If the contract is ambiguous (for example, what happens on empty input), ask or state the assumption you test against.
 2. Find candidate properties, preferring these patterns:

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a relationship check-in
+  short_description: Guides a couple through a structured, low-pressure weekly or monthly relationship check-in with a timed agenda, questions tailored to their focus and ways to pause when it gets tense.
+policy:
+  allow_implicit_invocation: false

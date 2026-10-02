@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a grant application
+  short_description: Writes grant application sections for a nonprofit or small business, mapped to the funder's criteria, word limits and budget rules, with a compliance checklist. Use when applying for a grant.
+policy:
+  allow_implicit_invocation: false

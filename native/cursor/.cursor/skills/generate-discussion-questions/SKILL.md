@@ -1,13 +1,13 @@
 ---
 name: generate-discussion-questions
-description: Writes discussion questions for a text or topic across Bloom's levels, sequenced from entry to deep, with follow-up prompts and likely student responses for the teacher.
+description: Writes sequenced discussion questions for a text or topic across Bloom's levels, with probes and likely student responses. Use when preparing a seminar or class discussion.
 license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/generate-discussion-questions
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Generate discussion questions

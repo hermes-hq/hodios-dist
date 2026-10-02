@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a commit message
+  short_description: Writes a commit message that states what changed and why, in the repo's own convention, and flags staged changes that should be split. Use before committing.
+policy:
+  allow_implicit_invocation: false

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: ai-ml
   source: https://hermes-ide.com/prompts/design-tool-schema
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Design tool definitions for an LLM agent
@@ -16,6 +16,7 @@ metadata:
 
 - [CAPABILITIES] (required): What the agent must be able to do, in user terms, including actions that change data or cost money.
 - [EXISTING_API] (optional): The API, SDK or database the tools will wrap, such as an OpenAPI spec, endpoint list or function signatures.
+- [TARGET] (optional; one of: any, anthropic, openai, gemini, mcp; default: any): Where the definitions will be used. It decides the wrapper key for the schema (input_schema, parameters or inputSchema) and whether strict schema rules apply.
 
 Take each value from the invocation or the user’s message. If a required value is missing, ask for it once.
 
@@ -24,7 +25,7 @@ A model decides which tool to call, and with what arguments, from the tool's nam
 </context>
 
 <task>
-Design the tools for these capabilities:
+Design the tools for these capabilities, for target [TARGET]:
 [CAPABILITIES]
 Only if [EXISTING_API] was provided: 
 
@@ -45,6 +46,7 @@ Existing API to wrap:
 
 <constraints>
 - Use a portable JSON Schema subset: `type`, `properties`, `required`, `enum`, `items`, `description`, `default`, `minimum`, `maximum`, `maxLength`. Avoid `$ref`, top-level `oneOf` or `anyOf`, and conditional schemas, which some providers reject.
+- If the target enforces strict schemas (for example OpenAI's strict function calling), list every property in `required` and express optional ones as nullable, and say that you did. For `any`, say what changes per target.
 - Never put credentials, tenant ids or authorisation decisions in parameters. The host application supplies identity and enforces permissions.
 - Keep the set under about 15 tools unless the capabilities truly need more, and say why if they do.
 - Do not invent endpoints or fields of the existing API. Mark anything you assumed.
@@ -55,7 +57,7 @@ Existing API to wrap:
 Table: name | purpose | side effects | wraps.
 
 ## Definitions
-One fenced JSON array of tool objects with `name`, `description` and `input_schema`, followed by each tool's output shape.
+One fenced JSON array of tool objects with `name`, `description` and the schema under the target's key: `input_schema` (anthropic, and for `any`), `parameters` (openai, gemini) or `inputSchema` (mcp). Follow it with each tool's output shape.
 
 ## Error catalogue
 Table: tool | condition | message returned to the model.

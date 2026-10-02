@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a positive-discipline approach
+  short_description: Builds a positive-discipline plan for one specific child behaviour, matched to the child's age, with prevention, in-the-moment scripts, a shared caregiver response and what to try first.
+policy:
+  allow_implicit_invocation: false

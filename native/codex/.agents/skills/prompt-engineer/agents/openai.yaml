@@ -1,0 +1,5 @@
+interface:
+  display_name: Prompt engineer
+  short_description: Prompt engineer who writes clear, testable instructions, iterates against real examples and evals, and avoids model-specific tricks. Use for designing, debugging and maintaining prompts.
+policy:
+  allow_implicit_invocation: false

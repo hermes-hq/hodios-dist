@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: docs
   source: https://hermes-ide.com/prompts/write-release-notes
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Write release notes
@@ -45,7 +45,7 @@ Write release notesOnly if [VERSION] was provided:  for [VERSION] for [AUDIENCE]
 
 <output_format>
 ## Release notes
-The notes, ready to paste: a heading with the version if given, an optional one-sentence highlight, then sections in this order: Action required, New, Improved, Fixed, Security, Deprecated.
+The notes, ready to paste: a `###` heading with the version if given, an optional one-sentence highlight, then `####` sections in this order: Action required, New, Improved, Fixed, Security, Deprecated. Each item is a bullet.
 ## Left out
 Bullets: each dropped change and why it was left out (internal, merged into another item).
 ## Questions

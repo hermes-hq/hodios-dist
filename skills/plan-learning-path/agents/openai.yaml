@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a learning path for a technology
+  short_description: Builds a week-by-week plan to get productive in a new language, framework or tool, built around hands-on milestones and skipping what the learner already knows. Use when picking up a new stack.
+policy:
+  allow_implicit_invocation: false

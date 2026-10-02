@@ -1,0 +1,5 @@
+interface:
+  display_name: Prioritize features
+  short_description: Prioritises a backlog with RICE, ICE, Kano or MoSCoW, shows every score and assumption, and tests how sensitive the ranking is to uncertain estimates. Use before roadmap planning.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Software architect
+  short_description: Acts as a pragmatic software architect who designs from requirements and constraints, names trade-offs and failure modes, and keeps designs as simple as the problem allows.
+policy:
+  allow_implicit_invocation: false

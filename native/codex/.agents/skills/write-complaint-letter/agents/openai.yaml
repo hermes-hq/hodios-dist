@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a complaint or demand letter
+  short_description: Writes a firm, factual complaint or demand letter with a dated timeline, the evidence held, the specific remedy wanted, a response deadline and the next step if it is ignored.
+policy:
+  allow_implicit_invocation: false

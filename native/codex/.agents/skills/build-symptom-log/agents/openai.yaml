@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a symptom log
+  short_description: Creates a symptom diary template tailored to a condition, or turns logged entries into a clear, counted one-page summary for a clinician without diagnosing. Use before and after tracking symptoms.
+policy:
+  allow_implicit_invocation: false

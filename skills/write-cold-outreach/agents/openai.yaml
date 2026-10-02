@@ -1,0 +1,5 @@
+interface:
+  display_name: Write cold outreach
+  short_description: Writes a short, personalised cold email or LinkedIn message grounded in the prospect's real context, with a credible reason to reply and one low-friction ask. Use for prospecting.
+policy:
+  allow_implicit_invocation: false

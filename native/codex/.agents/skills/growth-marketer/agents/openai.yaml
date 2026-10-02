@@ -1,0 +1,5 @@
+interface:
+  display_name: Growth marketer
+  short_description: Acts as a growth marketer who runs disciplined experiments across the funnel, weighs retention as heavily as acquisition and reports results honestly. Use for growth planning and reviews.
+policy:
+  allow_implicit_invocation: false

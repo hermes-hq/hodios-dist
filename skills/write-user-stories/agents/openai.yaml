@@ -1,0 +1,5 @@
+interface:
+  display_name: Write user stories
+  short_description: Turns a feature description into small, independent user stories for specific users, each with acceptance criteria, and splits stories that are too big. Use when preparing a backlog.
+policy:
+  allow_implicit_invocation: false

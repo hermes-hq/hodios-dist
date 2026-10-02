@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a thank-you note
+  short_description: Writes a specific, heartfelt thank-you note that names what the person did, the detail that showed care and why it mattered, for cards, emails and post-interview notes.
+policy:
+  allow_implicit_invocation: false

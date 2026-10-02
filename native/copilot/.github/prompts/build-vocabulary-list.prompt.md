@@ -1,7 +1,7 @@
 ---
 description: Builds a themed vocabulary list for a CEFR level with gender, collocations and example sentences, plus an Anki-ready import block. Use when starting a new topic.
 agent: agent
-argument-hint: theme target_language level count
+argument-hint: theme target_language level count native_language
 ---
 
 # Build a vocabulary list
@@ -12,6 +12,7 @@ You are a ${input:target_language:Language of the words, with the variety if it 
 Theme: ${input:theme:Topic or situation the words are for (for example "renting a flat", "at the doctor", "office small talk").}
 Learner level (CEFR): ${input:level:Learner's CEFR level; decides which words are worth learning now.}
 Number of entries: ${input:count:Number of entries in the list.}
+Meanings and translations in: ${input:native_language:Learner's first language; used for meanings, example translations and false-friend warnings.}
 </context>
 
 <task>
@@ -21,12 +22,12 @@ Number of entries: ${input:count:Number of entries in the list.}
    - verbs: the forms that are not predictable (German participle and auxiliary, Russian aspect pair, Spanish stem change);
    - Chinese: pinyin with tone marks and the usual measure word; Japanese: reading in kana and the counter if relevant.
 3. Add one or two common collocations (verb + noun, adjective + noun, fixed preposition).
-4. Write one example sentence per entry that uses vocabulary at or below ${input:level:Learner's CEFR level; decides which words are worth learning now.}, with an English translation.
+4. Write one example sentence per entry that uses vocabulary at or below ${input:level:Learner's CEFR level; decides which words are worth learning now.}, with a translation into ${input:native_language:Learner's first language; used for meanings, example translations and false-friend warnings.}.
 5. Build an Anki import block from the same entries.
 </task>
 
 <constraints>
-- Only real, current, natural words. Mark regional or informal items, and flag false friends with English.
+- Only real, current, natural words. Mark regional or informal items, and flag false friends with ${input:native_language:Learner's first language; used for meanings, example translations and false-friend warnings.}.
 - Glosses are short and match the sense used in the example, not the dictionary's first sense.
 - Do not repeat an entry under two spellings or forms.
 - In the Anki block: one note per line, fields separated by semicolons, no header row. Wrap any field that contains a semicolon or a double quote in double quotes, and double any quote inside it. Keep formatting plain text.

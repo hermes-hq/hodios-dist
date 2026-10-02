@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for investor questions
+  short_description: Anticipates the tough questions investors will ask a company at its stage, ranks them by likelihood and weakness, and drafts honest, evidence-backed answers. Use before pitch meetings.
+policy:
+  allow_implicit_invocation: false

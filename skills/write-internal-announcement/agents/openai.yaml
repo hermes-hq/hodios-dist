@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an internal announcement
+  short_description: Writes an internal announcement of a reorg, policy change or launch that explains what is changing, why, the impact on each group and where to ask, plus an FAQ and a pre-send check.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Create escape-room puzzles
+  short_description: Designs a themed chain of escape-room puzzles with a flow map, solutions, props, reset steps and three-step hint ladders, timed to the session. Use for home games, parties and classrooms.
+policy:
+  allow_implicit_invocation: false

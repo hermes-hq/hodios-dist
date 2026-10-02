@@ -8,23 +8,25 @@ Current schema (postgres):
 
 Desired change: [DESIRED_CHANGE]
 
-1. Read the DDL and list what affects safety: table size and write rate if given, column types, defaults, NOT NULL and CHECK constraints, unique indexes, foreign keys in both directions, triggers, generated columns, and replication. Say what is missing and what you assume about it.
-2. Break the change into ordered steps. For each step give:
-   - the SQL, using the engine's lock-safe forms (see the notes below), with a lock timeout and a retry instruction for any statement that takes a strong lock;
+1. If you can read the repository, find the current table definition and recent migrations, the migration tool's conventions, and every code path that reads or writes the affected columns (queries, ORM models, reports, other services). List what you found. If you cannot, say which of these you are assuming.
+2. Read the DDL and list what affects safety: table size and write rate, column types, defaults, NOT NULL and CHECK constraints, unique indexes, foreign keys in both directions, triggers, generated columns and replication. Say what is missing and what you assume about it. If the engine version is unknown and changes the answer, give both paths.
+3. Break the change into ordered steps. For each step give:
+   - the SQL, in the project's migration tool format if known, using the engine's lock-safe forms (see the notes below), with a lock timeout and a retry instruction for any statement that takes a strong lock;
    - the lock it takes, whether it rewrites or scans the table, and the expected duration class (instant, proportional to table size, or batched);
    - the application change that ships with it (write both, read new behind a flag, stop writing old);
    - the verification query that must pass before the next step;
    - the rollback for that step.
-3. For backfills: batch by primary key range, keep each batch in a short transaction, make it idempotent so it can resume, throttle by replication lag or load, and give the query that proves completeness.
-4. For dual writes, choose application-level writes or a temporary trigger, say why, and say how drift between old and new columns is detected and repaired.
-5. Mark the point of no return: the first step after which rolling back means restoring data, not just redeploying.
+4. Before the application stops writing the old structure, relax what would reject rows without it: drop its NOT NULL, give it a default, or disable the trigger that requires it.
+5. For backfills: batch by primary key range, keep each batch in a short transaction outside the migration, make it idempotent so it can resume, throttle by replication lag or load, and give the query that proves completeness.
+6. For dual writes, choose application-level writes or a temporary trigger, say why, and say how drift between old and new columns is detected and repaired.
+7. Mark the point of no return: the first step after which rolling back means restoring data, not just redeploying.
 
 Engine notes. Check each against the stated version:
 - postgres: use `CREATE INDEX CONCURRENTLY` (outside a transaction; drop the invalid index if it fails), add constraints `NOT VALID` and then `VALIDATE CONSTRAINT`, enforce NOT NULL through a validated `CHECK (col IS NOT NULL)` before `SET NOT NULL`, and know that most type changes rewrite the table. Set `lock_timeout` on every DDL session.
 - mysql: say which `ALGORITHM` (INSTANT, INPLACE or COPY) and `LOCK=NONE` apply, watch metadata locks, and use an online schema change tool (gh-ost or pt-online-schema-change) when the operation would copy the table.
 - sqlite: most changes need the documented create-copy-rename table rebuild. There is one writer at a time, so plan for a short write pause rather than true zero downtime, and say so.
 - sql-server: say which operations are metadata-only and which need `ONLINE = ON`, and note that online index operations depend on the edition.
-- other: ask which engine and version before giving SQL.
+- other: ask which engine and version before giving engine-specific SQL. Until then, use a new column plus batched backfill rather than an in-place change, and give a way to measure the lock behaviour on a staging copy under load.
 </task>
 
 <constraints>
@@ -32,6 +34,7 @@ Engine notes. Check each against the stated version:
 - Every step must leave the currently deployed application version working.
 - Do not claim an operation is instant or online unless that is true for the engine and version. If it depends on the version, say so.
 - Do not drop or rename anything still read by any deployed code. Say how to confirm that nothing reads it.
+- Do not run any migration or query. The plan is for the team to execute.
 - Separate what you verified from what you inferred. Mark inferences as such.
 - When you do not know, say "I don't know" once and state what would settle it.
 </constraints>
@@ -47,8 +50,8 @@ Table: step | schema state | app version that must work | reads from | writes to
 Numbered. Each: SQL in a fenced block, lock and duration, app change, verification query, rollback.
 
 ## Point of no return
-The step, and what rollback means after it.
+The step, what rollback means after it, and what to confirm before taking it.
 
 ## Risks
-Bullets: the risk, how to detect it, and the mitigation.
+Bullets: the risk (for example replication lag, long transactions holding locks, an ORM caching the old schema), how to detect it, and the mitigation.
 </output_format>

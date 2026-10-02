@@ -1,0 +1,5 @@
+interface:
+  display_name: Review a pull request for security
+  short_description: Reviews a diff for exploitable vulnerabilities and reports only findings with a concrete attack path. Use before merging changes to input handling, auth, data access or dependencies.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a spike
+  short_description: Turns a technical unknown into a time-boxed spike with a sharp question, exit criteria, cheapest-first experiments and a clear deliverable. Use when an unknown blocks a decision or an estimate.
+policy:
+  allow_implicit_invocation: false

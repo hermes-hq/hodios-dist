@@ -1,0 +1,5 @@
+interface:
+  display_name: Review a resume
+  short_description: Reviews a resume the way a recruiter skims it, scores clarity, impact, relevance and format, and returns the top fixes ranked by effect. Use before sending a resume out.
+policy:
+  allow_implicit_invocation: false

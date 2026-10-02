@@ -1,0 +1,5 @@
+interface:
+  display_name: Recover lost git work
+  short_description: Recovers commits, branches and stashes lost to a reset, rebase, deleted branch or dropped stash, using the reflog and unreachable objects. Use right after a git mistake.
+policy:
+  allow_implicit_invocation: false

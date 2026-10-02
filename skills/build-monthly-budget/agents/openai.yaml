@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a monthly budget
+  short_description: Builds a monthly budget from stated income and expenses using zero-based, 50/30/20 or envelope rules, with savings targets, a buffer for irregular costs and a monthly review routine.
+policy:
+  allow_implicit_invocation: false

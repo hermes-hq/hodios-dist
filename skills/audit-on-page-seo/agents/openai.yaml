@@ -1,0 +1,5 @@
+interface:
+  display_name: Audit on-page SEO
+  short_description: Audits a page's content and HTML for on-page SEO issues (intent match, title, headings, internal links, images, structured data) with prioritised fixes. Use before publishing a page.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Concise
+  short_description: Shortens answers by leading with the result and cutting preamble, recaps and filler, from light trimming to bare answers. Use when you want less reading and the same substance.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Turn an article into a thread
+  short_description: Turns an article or blog post into a native thread for X, Threads or Bluesky with a standalone hook, one idea per post and a closing link. Use when promoting long-form writing.
+policy:
+  allow_implicit_invocation: false

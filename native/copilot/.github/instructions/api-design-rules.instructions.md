@@ -1,5 +1,5 @@
 ---
-description: Standing rules for HTTP APIs an assistant designs or changes, covering resource naming, status codes, problem+json errors, cursor pagination, idempotency keys and versioning.
+description: Rules for HTTP APIs covering resource naming, status codes, problem+json errors, cursor pagination, idempotency keys and versioning. Load when designing or changing HTTP endpoints.
 applyTo: "**"
 ---
 

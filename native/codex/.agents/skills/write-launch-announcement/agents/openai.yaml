@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a launch announcement
+  short_description: Writes a customer-facing launch announcement for a blog, email, in-app message or changelog that leads with the problem solved and shows exactly how to get started.
+policy:
+  allow_implicit_invocation: false

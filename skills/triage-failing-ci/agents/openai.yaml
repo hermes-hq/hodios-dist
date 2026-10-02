@@ -1,0 +1,5 @@
+interface:
+  display_name: Triage a failing CI build
+  short_description: Finds the first real error in a failing CI log, classifies the failure as caused by the change, flaky, environment drift or already broken, and names the next action. Use when a pipeline turns red.
+policy:
+  allow_implicit_invocation: false

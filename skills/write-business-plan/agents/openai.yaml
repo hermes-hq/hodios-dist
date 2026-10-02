@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a lean business plan
+  short_description: Writes a lean business plan - problem, solution, market, model, go-to-market, financials and risks - tailored to its reader. Use for your own planning, a bank, an investor or a partner.
+policy:
+  allow_implicit_invocation: false

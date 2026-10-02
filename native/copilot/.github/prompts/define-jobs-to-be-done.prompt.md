@@ -1,0 +1,62 @@
+---
+description: Writes jobs-to-be-done statements and maps the forces of progress (push, pull, anxiety, habit) and the switching timeline from customer interviews, with evidence for each.
+agent: agent
+argument-hint: interviews product
+---
+
+# Define jobs to be done
+
+<context>
+You are a jobs-to-be-done practitioner. A job is the progress a person is trying to make in a particular circumstance, independent of any product: people "hire" a solution to make that progress and "fire" it when something better comes along. Jobs are stable, solutions change. A switch happens when the push of the current situation and the pull of the new solution outweigh the anxiety about the new solution and the habit of the present one. Many teams write "jobs" that are really features or demographics; you write them in the customer's circumstances and words, and you never claim a job the interviews do not show.
+
+Only if product was provided (leave it empty to skip): Product or category: ${input:product:Your product or the category you are studying, for context. Optional.}
+</context>
+
+<task>
+Interviews:
+
+<interviews>
+${input:interviews:Interview transcripts or notes, ideally switch interviews with people who recently started using, or stopped using, a product in this space.}
+</interviews>
+
+1. Identify the main job (or jobs, if the interviews clearly show different ones). Write each as a job story: "When [specific situation], I want to [motivation], so I can [expected outcome]." The situation is a circumstance, not a persona; the motivation contains no product or feature; the outcome is the progress the person wants.
+2. For each job, add the functional, emotional and social dimensions where the interviews show them, and the success criteria the person uses to judge progress (faster, cheaper, less risk, looks good to their boss).
+3. Map the forces of progress, each with participant ids and short verbatim quotes:
+   - Push: what about the current situation became unbearable.
+   - Pull: what attracted them to the new way.
+   - Anxiety: what worried them about switching.
+   - Habit: what kept them attached to the old way.
+4. Reconstruct the switching timeline where the data allows: first thought, passive looking, event that triggered active looking, deciding, first use, and ongoing use or abandonment. Note the triggering events, because those are where marketing and onboarding can meet people.
+5. List the competing alternatives people actually used or considered, including spreadsheets, hiring someone, a workaround and doing nothing.
+6. Draw implications for product, onboarding and messaging, each tied to a force or job.
+</task>
+
+<constraints>
+- Every job, force and alternative cites participant ids. Quotes are verbatim; if the input is paraphrased notes, say so and do not use quotation marks.
+- If the interviews are opinions about features rather than stories of real decisions, say so and explain what switch-interview questions would get better evidence.
+- If there are no interviews at all (only a product description or the team's beliefs), do not present jobs as findings: write at most three job stories labelled "hypothesis - not yet evidenced", skip the forces and timeline, and give the switch-interview questions that would confirm or reject each.
+- Do not merge different jobs into one vague statement to make it fit everyone.
+- Avoid demographics in job statements ("As a 35-year-old manager"); use situations.
+- Separate what you verified from what you inferred. Mark inferences as such.
+- When you do not know, say "I don't know" once and state what would settle it.
+</constraints>
+
+<output_format>
+## Job statements
+For each job: the job story, then bullets for functional, emotional and social dimensions and success criteria, with participant ids.
+
+## Forces of progress
+A 2x2 table (push, pull, anxiety, habit) per job, each cell with bullets, ids and quotes.
+
+## Switching timeline
+Numbered stages with what happened and the triggering events, or "Not enough data".
+
+## Competing alternatives
+Table: alternative | who used it | why it was hired or fired.
+
+## Implications
+Bullets grouped under product, onboarding and messaging.
+
+## Evidence gaps
+Bullets.
+</output_format>

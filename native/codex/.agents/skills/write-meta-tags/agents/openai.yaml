@@ -1,0 +1,5 @@
+interface:
+  display_name: Write meta tags
+  short_description: Writes title tags and meta descriptions for a set of pages that match search intent, stay within display limits and are unique across the site. Use for new pages or a site-wide metadata cleanup.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,75 @@
+---
+description: Drafts a first version of a simple agreement such as freelance services, an NDA, a roommate deal or a loan between friends, with drafting notes for a lawyer to review before signing.
+---
+
+# Draft a simple agreement
+
+## Inputs
+
+- [AGREEMENT_TYPE] (required; one of: freelance, nda, roommate, loan-between-friends, other): Kind of agreement - freelance (services), nda (confidentiality), roommate (shared household), loan-between-friends, or other (describe it in terms).
+- [TERMS] (required): What the parties have agreed - who they are (roles, not ID numbers), what is exchanged, money and timing, duration, what happens if things go wrong, and anything either side cares about.
+- [JURISDICTION] (optional): Country (and state or region) whose law should apply, usually where the parties live or work. Optional, but some terms depend on it.
+
+Read each value from the arguments below. If a required value is missing, ask for it once.
+
+<context>
+You draft a clear first version of a simple agreement so the parties can see their deal in writing, notice what they have not decided, and take a concrete draft to a lawyer instead of a blank page. Plain-language agreements prevent most disputes simply by forcing decisions on the questions people avoid: what exactly is delivered, when money moves, what happens if someone wants out, and who owns what. A draft is not legal advice, and some rules (consumer protection, tenancy, lending, employment, formalities like witnessing) can override or invalidate terms depending on the jurisdiction.
+
+Agreement type: [AGREEMENT_TYPE]
+Only if [JURISDICTION] was provided: Jurisdiction: [JURISDICTION]
+</context>
+
+<task>
+Agreed terms:
+
+<terms>
+[TERMS]
+</terms>
+
+1. Check the terms against what this type of agreement normally needs:
+   - freelance: scope and deliverables, acceptance, fees and payment terms, late payment, expenses, change requests, intellectual property and licence, confidentiality, independent contractor status, liability, termination, governing law.
+   - nda: mutual or one-way, definition of confidential information, exclusions, permitted use, duration, return or destruction, remedies.
+   - roommate: rent and deposit shares, bills, chores and shared costs, guests, quiet hours, moving out and finding replacements, how disputes are handled. Note that it sits alongside, and cannot override, the lease with the landlord.
+   - loan-between-friends: amount, repayment schedule, interest (or none), what happens on missed payments, early repayment, and what happens if either person dies or moves abroad.
+   - other: infer the essential terms from the description and list them.
+2. Draft the agreement in plain language with numbered clauses, defined terms where they reduce ambiguity, and placeholders in [BRACKETS] for names, addresses, dates and anything the parties have not decided. Use only the terms given; do not invent commercial terms.
+3. Add drafting notes explaining each clause's purpose and the choices behind it.
+4. List gaps: important decisions the terms do not cover, each with the options and their trade-offs.
+5. List questions for a lawyer, including jurisdiction-specific points (for example, whether interest on private loans has legal limits or tax effects, whether a roommate arrangement affects tenancy rights, whether a freelancer might be treated as an employee).
+</task>
+
+<constraints>
+- You give general information, not professional advice. You are not a doctor, therapist, lawyer, accountant or financial adviser, and you do not replace one.
+- Say so once, briefly, near the start: what you can help with here and what needs a qualified professional.
+- Do not diagnose, prescribe, give dosages, predict a legal outcome, or recommend a specific investment, tax position or legal action for this person.
+- When the situation is serious, urgent, high-stakes or specific to their circumstances, say which kind of professional to see and what to bring to that appointment.
+- If anything suggests immediate danger to health or safety, tell them to contact local emergency services now, before anything else.
+- Rules, prices and laws differ by country and change over time. Name the assumption you are making and tell them to check it locally.
+- Label the draft clearly at the top as a draft for review, not a finished legal document.
+- Never fill commercial terms the parties did not state (price, interest rate, deadlines, penalties); use [BRACKETS] and list them under gaps.
+- Keep it balanced unless the terms say otherwise; avoid one-sided clauses that could backfire on either party.
+- Do not include signature formalities (witnesses, notarisation, stamp duty) as settled; list them as questions, since they depend on the jurisdiction and document type.
+- If the request is for something that is not a simple agreement (employment contract, property sale, shareholder or partnership agreement, will, anything involving a minor), say it needs a lawyer to draft and offer only a list of points to discuss.
+- If the jurisdiction is missing, draft a neutral version and flag where local law is likely to matter.
+- Separate what you verified from what you inferred. Mark inferences as such.
+- When you do not know, say "I don't know" once and state what would settle it.
+</constraints>
+
+<output_format>
+## Before you use this
+Three lines: draft status, what to review, when a lawyer is most worth it for this agreement.
+
+## Agreement
+The full draft with a title, parties block with placeholders, numbered clauses and a signature block.
+
+## Drafting notes
+Bullets keyed to clause numbers.
+
+## Gaps to decide
+Table: gap | options | trade-off.
+
+## Questions for a lawyer
+Numbered.
+</output_format>
+
+Arguments: $ARGUMENTS

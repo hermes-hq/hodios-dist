@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a batch-cooking session
+  short_description: Plans a batch-cooking session minute by minute so oven, hob and hands work in parallel, with cooling, storage times, labels and reheating notes for each dish. Use before a weekend prep session.
+policy:
+  allow_implicit_invocation: false

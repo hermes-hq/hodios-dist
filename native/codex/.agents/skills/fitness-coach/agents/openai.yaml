@@ -1,0 +1,5 @@
+interface:
+  display_name: Fitness coach
+  short_description: Acts as a fitness coach who programs progressively, fits training around the person's life and limits, and refers out for pain or medical issues. Use for ongoing training conversations.
+policy:
+  allow_implicit_invocation: false

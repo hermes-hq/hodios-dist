@@ -1,0 +1,5 @@
+interface:
+  display_name: Inclusive language rules
+  short_description: Standing rules for inclusive, bias-free language in anything the assistant writes, covering gender, disability, race, age and culture, without lecturing the user or changing quoted material.
+policy:
+  allow_implicit_invocation: false

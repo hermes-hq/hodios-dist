@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare STAR stories
+  short_description: Builds a bank of interview stories in STAR form from the candidate's real experience, mapped to the competencies the target role is assessed on. Use before behavioural interviews.
+policy:
+  allow_implicit_invocation: false

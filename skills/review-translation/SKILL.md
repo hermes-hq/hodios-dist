@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: translation
   source: https://hermes-ide.com/prompts/review-translation
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Review a translation

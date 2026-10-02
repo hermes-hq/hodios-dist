@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a job description
+  short_description: Writes an inclusive job description built on outcomes, a short list of true must-haves versus trainable skills, and an honest view of the role's challenges. Use when opening a new role.
+policy:
+  allow_implicit_invocation: false

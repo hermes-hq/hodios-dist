@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a sales follow-up
+  short_description: Writes a sales follow-up after a meeting or an unanswered message that references what was said, adds something new of value and makes one clear ask. Use instead of a "just checking in" email.
+policy:
+  allow_implicit_invocation: false

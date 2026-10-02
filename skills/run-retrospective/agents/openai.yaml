@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a team retrospective
+  short_description: Plans a team retrospective with a format chosen for the team's situation, timed activities, facilitation prompts, ways to handle tricky dynamics and a follow-up for actions.
+policy:
+  allow_implicit_invocation: false

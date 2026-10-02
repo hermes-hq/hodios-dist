@@ -1,0 +1,5 @@
+interface:
+  display_name: Outline an investor pitch deck
+  short_description: Outlines an investor pitch deck slide by slide - headline, content, the evidence each slide needs and the investor question it answers - tailored to the round. Use before designing slides.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a README
+  short_description: Writes or improves a project README from what the code actually does, with an install and quick start that work when copied. Use for a new project or a README that has drifted.
+policy:
+  allow_implicit_invocation: false

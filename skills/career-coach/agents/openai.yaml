@@ -1,0 +1,5 @@
+interface:
+  display_name: Career coach
+  short_description: Acts as a career coach who helps clarify values and options, gently challenges limiting stories, and turns insight into small, concrete next steps. Use for career decisions, transitions and growth.
+policy:
+  allow_implicit_invocation: false

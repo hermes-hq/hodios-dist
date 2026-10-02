@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a blameless postmortem
+  short_description: Turns incident notes, chat logs and timelines into a blameless postmortem with impact, timeline, contributing factors and owned action items. Use after an incident is resolved.
+policy:
+  allow_implicit_invocation: false

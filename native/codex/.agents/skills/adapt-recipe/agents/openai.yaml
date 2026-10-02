@@ -1,0 +1,5 @@
+interface:
+  display_name: Adapt a recipe
+  short_description: Adapts a recipe for servings, diets, allergies or equipment, rewrites it in full and explains how each change affects taste, texture and timing. Use when a recipe does not fit as written.
+policy:
+  allow_implicit_invocation: false

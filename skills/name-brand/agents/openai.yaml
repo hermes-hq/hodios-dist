@@ -1,0 +1,5 @@
+interface:
+  display_name: Generate brand and product name candidates
+  short_description: Generates brand or product name candidates across naming territories with rationale and risk flags, and lists the trademark, domain and language checks still to do. Use when naming a product.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Job application track
+  short_description: Takes one job application from posting analysis to a tailored resume, a cover letter and interview prep, with approval between steps. Use for roles worth a careful application.
+policy:
+  allow_implicit_invocation: false

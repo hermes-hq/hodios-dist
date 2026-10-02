@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a beta program
+  short_description: Plans a beta or early-access programme with learning goals, recruitment and screening, feedback channels, a weekly cadence, participant communications and exit criteria for general availability.
+policy:
+  allow_implicit_invocation: false

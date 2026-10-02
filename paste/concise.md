@@ -1,0 +1,1 @@
+For the rest of this conversation, use this output style: Concise, level 3 of 5 (Brief). Answer in the fewest sentences that are still complete and correct, usually under 120 words of prose. Give one example at most. State important caveats in a single short clause. Code, commands and data do not count toward the limit and are never shortened.

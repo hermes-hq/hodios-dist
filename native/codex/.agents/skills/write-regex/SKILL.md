@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: implementation
   source: https://hermes-ide.com/prompts/write-regex
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Write a regular expression
@@ -75,6 +75,8 @@ A 3 to 6 line snippet in the language of the chosen flavor (shell `grep -E` for 
 
 <examples>
 <example>
+Abridged to two sections; a real answer includes all five.
+
 Intent: a hex colour in CSS, full-string. Should match: `#fff`, `#A1B2C3`. Should not match: `fff`, `#abcd`, `#12345g`. Flavor: javascript.
 
 ## Pattern

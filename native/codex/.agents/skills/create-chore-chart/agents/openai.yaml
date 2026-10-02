@@ -1,0 +1,5 @@
+interface:
+  display_name: Create a chore chart
+  short_description: Creates an age-appropriate chore chart for a family's children, with effort points for a fair rotation, a clear definition of done for each job and a simple reward system.
+policy:
+  allow_implicit_invocation: false

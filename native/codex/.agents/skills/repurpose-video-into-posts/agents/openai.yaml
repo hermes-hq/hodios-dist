@@ -1,0 +1,5 @@
+interface:
+  display_name: Repurpose a video into posts
+  short_description: Turns a long video or podcast transcript into timestamped clip picks and a platform-native post for each clip. Use when cutting a long recording into social content.
+policy:
+  allow_implicit_invocation: false

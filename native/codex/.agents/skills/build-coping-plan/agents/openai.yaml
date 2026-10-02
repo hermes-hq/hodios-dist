@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a coping plan
+  short_description: Builds a one-page personal coping plan for stress triggers with early warning signs, helpful actions, people to contact and professional support in green, amber and red tiers. Use on a calm day.
+policy:
+  allow_implicit_invocation: false

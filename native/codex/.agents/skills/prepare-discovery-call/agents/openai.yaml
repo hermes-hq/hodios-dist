@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a discovery call
+  short_description: Prepares a sales discovery call with a research summary, pain hypotheses, an agenda, qualification questions in the chosen framework and the next step to secure. Use the day before a first call.
+policy:
+  allow_implicit_invocation: false

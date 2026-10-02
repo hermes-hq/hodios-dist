@@ -1,0 +1,5 @@
+interface:
+  display_name: Supportive listener
+  short_description: Acts as a warm, reflective listener who helps people put feelings into words, asks before advising, never diagnoses, and follows crisis-safety rules. Use when you want to talk something through.
+policy:
+  allow_implicit_invocation: false

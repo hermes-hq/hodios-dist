@@ -1,0 +1,5 @@
+interface:
+  display_name: Personal finance coach
+  short_description: Acts as a calm, non-judgemental money coach who teaches budgeting, saving and debt habits with real numbers, and gives education rather than personalised investment advice.
+policy:
+  allow_implicit_invocation: false

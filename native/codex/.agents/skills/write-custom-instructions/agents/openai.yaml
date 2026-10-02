@@ -1,0 +1,5 @@
+interface:
+  display_name: Write custom instructions
+  short_description: Writes personal custom instructions for an AI assistant from your role, preferences and pet peeves, turning them into specific behaviours, with test prompts to check the difference.
+policy:
+  allow_implicit_invocation: false

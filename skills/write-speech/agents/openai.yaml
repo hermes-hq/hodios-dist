@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a speech
+  short_description: Writes a speech for an occasion such as a toast, keynote, eulogy or graduation to a target length, written for the ear and built only from the stories and facts the user provides.
+policy:
+  allow_implicit_invocation: false

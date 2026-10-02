@@ -25,7 +25,7 @@ ${input:text:The text to translate.}
 3. Translate meaning for meaning:
    - Render idioms with an idiom of the same force in ${input:target_language:Language to translate into, with the locale if it matters (for example "Portuguese (Portugal)", "French (Canada)").}, or plain language if none exists.
    - Choose the address form deliberately (for example tu/vous, du/Sie, tú/usted) according to the register and reader, and keep it consistent.
-   - Keep names, brands, product names, quotations, numbers and links unchanged. Adapt date, number and currency formats to the target locale only if the reader is local.
+   - Keep names, brands, product names, quotations, numbers and links unchanged. Adapt date, number and currency formats to the target locale only if the reader is local, and never convert amounts or units.
    - Preserve formatting: paragraphs, lists, emphasis, Markdown.
 4. Note the choices a reviewer should check.
 </task>

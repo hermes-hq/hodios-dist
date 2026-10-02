@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a usability test plan
+  short_description: Writes a usability test plan with scenario tasks, success metrics, participant criteria, a screener and a moderator script, tied to the research questions. Use before running a usability study.
+policy:
+  allow_implicit_invocation: false

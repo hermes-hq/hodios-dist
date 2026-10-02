@@ -1,0 +1,5 @@
+interface:
+  display_name: Check story continuity
+  short_description: Finds continuity errors across chapters (names, timelines, physical details, objects, who knows what, world rules) and lists them by location with quotes. Use before beta readers or submission.
+policy:
+  allow_implicit_invocation: false

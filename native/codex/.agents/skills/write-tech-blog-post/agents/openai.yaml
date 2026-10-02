@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a technical blog post
+  short_description: Turns engineering notes, code and results into a technical blog post with one clear takeaway, real numbers and working code, and no hype. Use for engineering blogs and write-ups of a project.
+policy:
+  allow_implicit_invocation: false

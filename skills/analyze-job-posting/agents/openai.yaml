@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyze a job posting
+  short_description: Decodes a job posting into must-haves, nice-to-haves, hidden requirements, red flags and the candidate's fit gaps. Use before deciding to apply or tailoring an application.
+policy:
+  allow_implicit_invocation: false

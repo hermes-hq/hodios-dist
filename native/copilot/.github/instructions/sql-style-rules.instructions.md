@@ -1,9 +1,9 @@
 ---
 description: Standing rules for SQL an assistant writes, covering formatting, naming, explicit column lists, parameterised queries, NULL handling, data types and safe migrations.
-applyTo: "**/*.sql"
+applyTo: "**/*.sql,**/migrations/**,**/migrate/**"
 ---
 
-Apply these rules to files matching: `**/*.sql`.
+Apply these rules to files matching: `**/*.sql`, `**/migrations/**`, `**/migrate/**`.
 
 When you write or change SQL in this project:
 

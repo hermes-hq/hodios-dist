@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a relational database schema
+  short_description: Designs a relational schema from requirements and access patterns, with keys, constraints, types, indexes and DDL. Use when starting a new service or feature that stores data.
+policy:
+  allow_implicit_invocation: false

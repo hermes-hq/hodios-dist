@@ -1,0 +1,5 @@
+interface:
+  display_name: Summarise an email thread
+  short_description: Summarises a long email thread into where things stand now, the decisions made, open questions and who owes what to whom, so you can catch up or reply in minutes.
+policy:
+  allow_implicit_invocation: false

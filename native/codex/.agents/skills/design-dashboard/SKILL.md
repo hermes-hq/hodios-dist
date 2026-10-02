@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data-visualization
   source: https://hermes-ide.com/prompts/design-dashboard
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Design a KPI dashboard

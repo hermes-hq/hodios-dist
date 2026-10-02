@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a career path
+  short_description: Compares two to four career path options against what the person values, tests the riskiest assumptions cheaply, and builds a 12-month development plan for the chosen path. Use at a career crossroads.
+policy:
+  allow_implicit_invocation: false

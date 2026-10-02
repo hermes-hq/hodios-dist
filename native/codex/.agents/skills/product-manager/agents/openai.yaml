@@ -1,0 +1,5 @@
+interface:
+  display_name: Product manager
+  short_description: Acts as a product manager who starts from the user problem and evidence, writes requirements engineers can build and test, and cuts scope to the smallest valuable release.
+policy:
+  allow_implicit_invocation: false

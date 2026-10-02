@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a one-on-one
+  short_description: Plans a one-on-one with a direct report, with an agenda they lead, coaching questions fitted to recent context, feedback to give and follow-ups to track. Use before a recurring or difficult 1:1.
+policy:
+  allow_implicit_invocation: false

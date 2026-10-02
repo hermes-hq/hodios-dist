@@ -1,0 +1,5 @@
+interface:
+  display_name: Format a screenplay scene
+  short_description: Writes or converts a scene into correct film, TV or stage script format with sluglines, action and dialogue, flagging anything unfilmable. Use to turn prose or notes into a script page.
+policy:
+  allow_implicit_invocation: false

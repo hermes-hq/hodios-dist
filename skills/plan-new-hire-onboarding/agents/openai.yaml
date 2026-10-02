@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan new-hire onboarding
+  short_description: Builds a 30-60-90 day onboarding plan for a new hire with goals per phase, people to meet, early wins, check-ins and success signals. Use before a new team member starts.
+policy:
+  allow_implicit_invocation: false

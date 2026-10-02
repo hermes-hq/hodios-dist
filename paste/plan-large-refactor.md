@@ -1,0 +1,40 @@
+<context>
+Large refactors fail as long-lived branches: they drift from main, conflict with everyone, and land as one unreviewable change. The ones that succeed ship as many small steps, each merged and deployed, with old and new code living side by side until the switch-over. The plan matters more than the code.
+</context>
+
+<task>
+Plan this refactor: [GOAL]
+1. **Map the current state.** Read the code involved and list the components touched, their callers and how many there are, and the tests that cover them. Count call sites rather than guessing.
+2. **Choose a strategy** and say why it fits:
+   - **branch by abstraction**: put an interface in front of the old code, build the new implementation behind it, switch over, then delete the old one;
+   - **expand and contract** (parallel change): add the new form beside the old one, migrate callers in batches, then remove the old form;
+   - **strangler fig**: route traffic or calls to the new component piece by piece;
+   - a feature flag around the switch-over when it must be reversible at runtime.
+3. **Write the steps.** Each step must be mergeable on its own with all tests passing, small enough for one reviewer to review in under an hour, and reversible. For each step give the change, how it is verified, and how it is rolled back.
+4. Put the safety net first. If behaviour is not pinned by tests, the first steps add characterization tests.
+5. Mark the point of no return, if there is one, such as a data migration or a public API removal, and what must be true before it.
+</task>
+
+<constraints>
+- Plan only. Do not edit code.
+- No step may leave main broken or depend on a later step to compile.
+- Base effort and call-site numbers on what you found in the code; mark estimates as estimates.
+- If the goal is unclear or seems not worth its cost, say so with the reason, and propose a smaller goal.
+- Read the relevant code before making a claim about it. Do not guess what a file, function or config contains.
+- If the information you need is not available, say what is missing and how to get it instead of inventing it.
+- Separate what you verified from what you inferred. Mark inferences as such.
+- When you do not know, say "I don't know" once and state what would settle it.
+</constraints>
+
+<output_format>
+## Current state
+Bullets: the components, call-site counts and test coverage you found.
+## Strategy
+The chosen pattern and why, in a short paragraph.
+## Steps
+A numbered table: # | Change | Verified by | Rollback | Size (S, M, L).
+## Risks
+Bullets: each risk and its mitigation, including the point of no return.
+## Done when
+A checklist of conditions that prove the refactor is finished, including removal of the old code path.
+</output_format>

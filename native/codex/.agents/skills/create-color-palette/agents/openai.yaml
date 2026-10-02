@@ -1,0 +1,5 @@
+interface:
+  display_name: Create an accessible colour palette
+  short_description: Creates a brand colour palette with roles (primary, accents, neutrals, status), tonal scales and computed text-contrast results for every pairing. Use when building a brand or product colour system.
+policy:
+  allow_implicit_invocation: false

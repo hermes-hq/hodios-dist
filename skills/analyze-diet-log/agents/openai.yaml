@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse a food log
+  short_description: Reviews a food log for patterns against general dietary guidelines and suggests up to three small, specific changes, without diagnosing or moralising about food. Use after logging a few days.
+policy:
+  allow_implicit_invocation: false

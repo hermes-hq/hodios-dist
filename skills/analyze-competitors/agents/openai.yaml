@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse competitors
+  short_description: Builds a competitor comparison of target customer, messaging, pricing, strengths and gaps, and finds openings for differentiation and how to win against each. Use for strategy or battlecards.
+policy:
+  allow_implicit_invocation: false

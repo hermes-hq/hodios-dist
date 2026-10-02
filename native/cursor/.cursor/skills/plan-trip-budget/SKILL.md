@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: travel-logistics
   source: https://hermes-ide.com/prompts/plan-trip-budget
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Plan a trip budget

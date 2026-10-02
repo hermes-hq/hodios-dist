@@ -1,0 +1,5 @@
+interface:
+  display_name: Video production track
+  short_description: Takes a video from idea to hook, script, title and thumbnail, and description, pausing for approval between steps. Use when producing a YouTube video end to end.
+policy:
+  allow_implicit_invocation: false

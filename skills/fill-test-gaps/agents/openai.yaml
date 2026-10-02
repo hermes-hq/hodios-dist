@@ -1,0 +1,5 @@
+interface:
+  display_name: Find and fill the riskiest test gaps
+  short_description: Finds untested behaviour that matters most, ranked by risk rather than coverage percentage, and writes tests for the top gaps. Use when a module feels under-tested or before a risky change.
+policy:
+  allow_implicit_invocation: false

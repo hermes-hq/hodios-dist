@@ -1,0 +1,5 @@
+interface:
+  display_name: Curate a link roundup
+  short_description: Turns a list of links and notes into a curated roundup with a theme, a one-line why-it-matters for each link and a clear cut list. Use when writing a weekly links newsletter section.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Critique a graphic design
+  short_description: Gives structured, prioritised feedback on a poster, social graphic, slide or layout covering purpose, hierarchy, typography, colour, composition and production. Use before finalising a design.
+policy:
+  allow_implicit_invocation: false

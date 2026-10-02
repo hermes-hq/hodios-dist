@@ -1,0 +1,5 @@
+interface:
+  display_name: Build an outcome roadmap
+  short_description: Builds a now, next, later roadmap organised by outcomes rather than features, showing the bets, evidence and confidence behind each and what is deliberately left off.
+policy:
+  allow_implicit_invocation: false

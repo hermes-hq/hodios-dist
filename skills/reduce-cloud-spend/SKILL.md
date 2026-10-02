@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: devops
   source: https://hermes-ide.com/prompts/reduce-cloud-spend
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Reduce cloud spend

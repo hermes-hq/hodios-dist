@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a job search
+  short_description: Builds a weekly job-search plan with target companies, channel mix, a pipeline tracker and weekly targets sized to the hours available. Use at the start of a search or when one has stalled.
+policy:
+  allow_implicit_invocation: false

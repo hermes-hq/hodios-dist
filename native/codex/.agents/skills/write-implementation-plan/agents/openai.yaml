@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an implementation plan
+  short_description: Reads the codebase and writes an ordered implementation plan in small verifiable steps, with files to touch, tests, rollout and risks. Use before coding any change that spans several files.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Skimmable
+  short_description: Shapes any answer for skimming, from bolded key sentences and short paragraphs to headed sections, bullets first, and a strict table-first layout.
+policy:
+  allow_implicit_invocation: false

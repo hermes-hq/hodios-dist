@@ -1,0 +1,5 @@
+interface:
+  display_name: Conventional Commits rules
+  short_description: Makes the assistant write every commit in Conventional Commits 1.0.0 format, one logical change per commit, with honest breaking-change footers. Use in repos that release from commits.
+policy:
+  allow_implicit_invocation: false

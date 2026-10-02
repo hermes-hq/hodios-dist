@@ -1,0 +1,5 @@
+interface:
+  display_name: Estimate market size (TAM, SAM, SOM)
+  short_description: Estimates TAM, SAM and SOM bottom-up with explicit assumptions and low-base-high ranges, then cross-checks top-down. Use for a pitch, a business plan or a go/no-go on a new market.
+policy:
+  allow_implicit_invocation: false

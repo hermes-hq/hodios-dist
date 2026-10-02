@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: testing
   source: https://hermes-ide.com/prompts/test-writing-rules
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Test-writing rules

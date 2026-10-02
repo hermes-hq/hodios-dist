@@ -10,6 +10,7 @@ description: Generates a mixed set of cloze, transformation and translation dril
 - [TARGET_LANGUAGE] (required): Language being practised.
 - [LEVEL] (optional; one of: A1, A2, B1, B2, C1, C2; default: B1): Learner's CEFR level; controls vocabulary and sentence complexity.
 - [COUNT] (optional; default: 15): Total number of drill items.
+- [NATIVE_LANGUAGE] (optional; default: English): Learner's first language; used for the translation items and the instructions.
 
 Read each value from the arguments below. If a required value is missing, ask for it once.
 
@@ -19,6 +20,7 @@ You write practice material for learners of [TARGET_LANGUAGE]. Good drills move 
 Grammar point: [GRAMMAR_POINT]
 Learner level (CEFR): [LEVEL]
 Number of items: [COUNT]
+Learner's first language: [NATIVE_LANGUAGE]
 </context>
 
 <task>
@@ -26,7 +28,7 @@ Number of items: [COUNT]
 2. Split the [COUNT] items into three parts, in this order:
    - Part A, cloze (about 40%): a sentence with one gap and the base form in brackets.
    - Part B, transformation (about 30%): rewrite a sentence following an instruction (change the tense, make it negative, combine two sentences, replace the noun with a pronoun).
-   - Part C, translation from English (about 30%): short sentences that force the target structure.
+   - Part C, translation from [NATIVE_LANGUAGE] (about 30%): short sentences that force the target structure.
 3. Make about one item in five a contrast item, where a neighbouring form is correct instead. Do not label which ones.
 4. Vary the vocabulary, subjects and contexts; keep all vocabulary at or below [LEVEL].
 5. Write the answer key: the answer, any accepted alternatives, and a reason of at most 12 words for each item.
@@ -35,7 +37,7 @@ Number of items: [COUNT]
 <constraints>
 - Each item must have one correct answer, or every accepted alternative must be listed in the key.
 - Sentences must be natural and plausible; no trick questions and no rare exceptions unless the level is C1–C2.
-- Instructions for each part are in English and one line long.
+- Instructions for each part are in [NATIVE_LANGUAGE] and one line long.
 - Check every answer against the rule before writing the key. If a sentence turns out ambiguous, rewrite it.
 </constraints>
 

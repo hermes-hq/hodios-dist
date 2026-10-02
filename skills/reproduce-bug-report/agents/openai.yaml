@@ -1,0 +1,5 @@
+interface:
+  display_name: Turn a bug report into a minimal reproduction
+  short_description: Turns a vague bug report into a minimal, reliable reproduction, preferably a failing test, and states the exact conditions needed. Use before fixing a reported bug or when triaging issues.
+policy:
+  allow_implicit_invocation: false

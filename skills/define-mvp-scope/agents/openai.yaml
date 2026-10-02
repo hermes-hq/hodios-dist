@@ -1,0 +1,5 @@
+interface:
+  display_name: Define MVP scope
+  short_description: Cuts a feature list down to the smallest testable MVP, with the riskiest hypotheses, success criteria set before launch, the cheapest MVP type and a deferred list with re-entry triggers.
+policy:
+  allow_implicit_invocation: false

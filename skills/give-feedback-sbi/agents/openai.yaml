@@ -1,0 +1,5 @@
+interface:
+  display_name: Give feedback with SBI
+  short_description: Turns a reaction into specific, kind feedback using situation, behaviour and impact, adds a clear request and an invitation to respond, and strips out judgements and assumed motives.
+policy:
+  allow_implicit_invocation: false

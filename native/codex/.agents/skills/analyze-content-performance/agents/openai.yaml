@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyze content performance
+  short_description: Analyses a content metrics export to find what is working against a stated goal, with fair comparisons and caveats, and proposes the next three experiments. Use for a monthly content review.
+policy:
+  allow_implicit_invocation: false

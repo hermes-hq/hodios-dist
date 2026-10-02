@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a customer support reply
+  short_description: Writes a customer support reply that resolves the issue or sets a clear next step and timeline, using only the facts and policy you give it, in the brand's tone. Use for email, chat or ticket replies.
+policy:
+  allow_implicit_invocation: false

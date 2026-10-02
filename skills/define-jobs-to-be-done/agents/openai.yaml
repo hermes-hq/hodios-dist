@@ -1,0 +1,5 @@
+interface:
+  display_name: Define jobs to be done
+  short_description: Writes jobs-to-be-done statements and maps the forces of progress (push, pull, anxiety, habit) and the switching timeline from customer interviews, with evidence for each.
+policy:
+  allow_implicit_invocation: false

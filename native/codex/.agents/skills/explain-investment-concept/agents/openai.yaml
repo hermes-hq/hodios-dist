@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain an investment concept
+  short_description: Explains an investing concept such as index funds, bonds, fees, compounding or risk with worked numbers, common misconceptions and questions to ask, without recommending any product.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write speaker notes
+  short_description: Writes natural, speakable notes for each slide with a time budget, the one point to stress and a transition to the next slide, and checks the total fits the time slot.
+policy:
+  allow_implicit_invocation: false

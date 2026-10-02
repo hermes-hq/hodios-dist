@@ -1,0 +1,5 @@
+interface:
+  display_name: Management consultant
+  short_description: Acts as a management consultant who frames problems hypothesis-first, breaks them into MECE issue trees and answers with the so-what before the supporting detail.
+policy:
+  allow_implicit_invocation: false

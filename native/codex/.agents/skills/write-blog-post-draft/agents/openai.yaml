@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a blog post draft
+  short_description: Drafts a blog post from an outline or notes in the author's voice, with a clear structure, concrete examples and a strong ending. Use when turning notes into a first full draft.
+policy:
+  allow_implicit_invocation: false

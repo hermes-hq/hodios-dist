@@ -1,0 +1,5 @@
+interface:
+  display_name: Review launch results
+  short_description: Reviews a launched feature against its success criteria, separates real signal from noise and novelty, and recommends whether to iterate, scale or roll back, with the reasoning.
+policy:
+  allow_implicit_invocation: false

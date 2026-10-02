@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a decluttering project
+  short_description: Plans decluttering a room or home in short sessions, with the order to tackle spaces, clear keep, donate, sell and bin rules, and habits that stop the clutter coming back.
+policy:
+  allow_implicit_invocation: false

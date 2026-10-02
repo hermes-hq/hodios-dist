@@ -1,0 +1,5 @@
+interface:
+  display_name: Compress a prompt
+  short_description: Shortens a long prompt while preserving its behaviour, maps every original instruction to where it now lives, reports the real size reduction and lists test inputs to check nothing changed.
+policy:
+  allow_implicit_invocation: false

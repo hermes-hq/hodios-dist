@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for a new baby
+  short_description: Builds a preparation plan for a new baby from the due date, with a checklist by trimester, home setup, parental leave and paperwork, a support roster and warning signs that need a call.
+policy:
+  allow_implicit_invocation: false

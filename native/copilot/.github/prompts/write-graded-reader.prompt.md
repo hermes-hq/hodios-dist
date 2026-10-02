@@ -1,7 +1,7 @@
 ---
 description: Writes a short story at a CEFR level that recycles the words a learner is studying, with a glossary and comprehension questions. Use for reading practice that fits your level.
 agent: agent
-argument-hint: target_language level interests target_words
+argument-hint: target_language level interests target_words native_language
 ---
 
 # Write a graded reader
@@ -25,8 +25,9 @@ ${input:target_words:Words or phrases the learner is studying, one per line or c
    - B1: 400–600 words, the full range of everyday tenses, some subordinate clauses, a little dialogue.
    - B2: 600–900 words, varied structures and some idiomatic language.
    - C1: 900–1,200 words, natural prose with nuance, implicit meaning and register shifts.
+   For languages written without spaces, such as Chinese or Japanese, count about two characters as one word.
 3. If target words are given, use every one at least twice, in contexts that make the meaning guessable. Bold each the first time it appears. If one cannot fit naturally, leave it out and say so instead of forcing it.
-4. Build a glossary of the target words plus any word likely to be above ${input:level:Learner's CEFR level; controls length, grammar and vocabulary.}, glossed in English with the meaning used in this story.
+4. Build a glossary of the target words plus any word likely to be above ${input:level:Learner's CEFR level; controls length, grammar and vocabulary.}, glossed in ${input:native_language:Language for the glossary meanings.} with the meaning used in this story.
 5. Write 6 comprehension questions in ${input:target_language:Language of the story, with the variety if it matters.}, worded at the level: two literal, two inference, two about a word or phrase in context. Put the answers after the questions.
 </task>
 

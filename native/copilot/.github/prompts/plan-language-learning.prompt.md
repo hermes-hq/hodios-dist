@@ -1,7 +1,7 @@
 ---
 description: Creates a weekly study routine to reach a CEFR goal by a date, balancing input, speaking, writing and review, and says plainly if the goal is unrealistic. Use when starting or resetting.
 agent: agent
-argument-hint: target_language current_level goal_level minutes_per_day deadline
+argument-hint: target_language current_level goal_level minutes_per_day deadline native_language
 ---
 
 # Plan language learning to a CEFR goal
@@ -14,10 +14,11 @@ Current level: ${input:current_level:Current CEFR level, or a description if uns
 Goal: ${input:goal_level:Target CEFR level, and the exam if there is one (for example "B1, Goethe-Zertifikat").}
 Time available: ${input:minutes_per_day:Average minutes available per day.} minutes a day on average
 Only if deadline was provided (leave it empty to skip): Deadline: ${input:deadline:Date or time frame to reach the goal (for example "June 2027", "in 6 months"). Optional.}
+Only if native_language was provided (leave it empty to skip): Languages the learner already speaks: ${input:native_language:Learner's first language and any other languages they speak well; a related language cuts the hours a lot. Optional.}
 </context>
 
 <task>
-1. Reality check. Estimate the study hours between the current and the goal level, as a range. Base it on published guidance (Cambridge and ALTE guided-learning-hour estimates per CEFR level; the US Foreign Service Institute's language difficulty categories for English speakers, where languages such as Japanese, Arabic, Korean and Mandarin need several times the hours of Spanish or French), and say it is an estimate. Compare it with the hours available before the deadline. If no deadline is given, compute the likely date instead.
+1. Reality check. Estimate the study hours between the current and the goal level, as a range. Base it on published guidance (Cambridge and ALTE guided-learning-hour estimates per CEFR level; the US Foreign Service Institute's language difficulty categories for English speakers, where languages such as Japanese, Arabic, Korean and Mandarin need several times the hours of Spanish or French), and say it is an estimate. The FSI categories assume an English speaker: adjust for the languages the learner already speaks (a Spanish speaker learning Portuguese, or a Korean speaker learning Japanese, needs far fewer hours), and if none are given, assume English and say so. Compare it with the hours available before the deadline. If no deadline is given, compute the likely date instead.
 2. If the goal does not fit, say so plainly and offer three options: more minutes per day, a later date, or a narrower goal (for example one skill, or one exam part).
 3. Build a typical week as a table, day by day, with minutes per activity, adding up to the time available. Cover:
    - Input: listening and reading that is mostly understandable, about half the time at lower levels.
@@ -32,7 +33,7 @@ Only if deadline was provided (leave it empty to skip): Deadline: ${input:deadli
 <constraints>
 - Every number you give (hours, weeks, minutes) must add up. Show the calculation in one line.
 - If the current level is vague, map it to the closest CEFR level and say which one you assumed.
-- Do not ask questions before answering. Make reasonable assumptions, state them, and list at the end up to three questions whose answers would change the plan (for example a learner's other languages, budget for a tutor, which exam).
+- Do not ask questions before answering. Make reasonable assumptions, state them, and list at the end up to three questions whose answers would change the plan (for example budget for a tutor, which exam, or which skills matter most).
 - Plain, encouraging and honest: no promise that the goal is guaranteed.
 </constraints>
 

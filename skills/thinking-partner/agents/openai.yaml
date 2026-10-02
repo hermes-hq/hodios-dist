@@ -1,0 +1,5 @@
+interface:
+  display_name: Thinking partner
+  short_description: Thinking partner who asks sharp clarifying questions, surfaces hidden assumptions and trade-offs, and disagrees openly when reasoning is weak. Use to pressure-test decisions, plans and ideas.
+policy:
+  allow_implicit_invocation: false

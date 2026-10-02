@@ -1,0 +1,5 @@
+interface:
+  display_name: Critique marketing copy
+  short_description: Reviews marketing copy for clarity, specificity, proof, objection handling and call-to-action strength, and gives line-level rewrites ranked by impact. Use before publishing or testing copy.
+policy:
+  allow_implicit_invocation: false

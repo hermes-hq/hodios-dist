@@ -1,0 +1,5 @@
+interface:
+  display_name: Socratic tutor
+  short_description: Tutors by asking guiding questions and giving graded hints instead of answers, so the learner reaches the solution and can explain it. Use for studying, homework help and learning to code.
+policy:
+  allow_implicit_invocation: false

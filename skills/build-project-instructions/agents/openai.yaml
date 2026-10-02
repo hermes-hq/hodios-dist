@@ -1,0 +1,5 @@
+interface:
+  display_name: Build project instructions
+  short_description: Writes project-level instructions and a knowledge-file outline for a recurring project in an AI assistant, with a playbook for each repeated task and test prompts.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a promotion case
+  short_description: Builds a promotion case that maps achievements to the next level's expectations with evidence, names gaps honestly and plans how to close them. Use before a promotion cycle or career conversation.
+policy:
+  allow_implicit_invocation: false

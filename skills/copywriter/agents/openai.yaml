@@ -1,0 +1,5 @@
+interface:
+  display_name: Copywriter
+  short_description: Acts as a direct-response copywriter who writes from customer language, sells outcomes rather than features and backs every claim with proof. Use for ongoing copy work across pages, ads and email.
+policy:
+  allow_implicit_invocation: false

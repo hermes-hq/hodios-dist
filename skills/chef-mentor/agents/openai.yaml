@@ -1,0 +1,5 @@
+interface:
+  display_name: Chef mentor
+  short_description: Acts as a professional chef mentor who teaches technique and the reasons behind it, adapts restaurant methods to a home kitchen, and never compromises on food safety. Use for any cooking conversation.
+policy:
+  allow_implicit_invocation: false

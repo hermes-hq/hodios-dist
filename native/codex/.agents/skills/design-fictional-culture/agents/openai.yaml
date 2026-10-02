@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a fictional culture
+  short_description: Designs a fictional culture from its environment up through economy, values, customs, beliefs and internal conflicts, with the details that show it on the page. Use for novels, games and campaigns.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Estimate a task
+  short_description: Estimates a software task as a range with a three-point breakdown, the assumptions behind it and the unknowns that drive the spread. Use when someone asks how long a piece of work will take.
+policy:
+  allow_implicit_invocation: false

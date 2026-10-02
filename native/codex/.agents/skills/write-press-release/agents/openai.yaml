@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a press release
+  short_description: Writes a press release in standard news format with headline, dateline, lead, quotes, boilerplate and media contact, and flags claims that need proof. Use for launches, funding and partnerships.
+policy:
+  allow_implicit_invocation: false

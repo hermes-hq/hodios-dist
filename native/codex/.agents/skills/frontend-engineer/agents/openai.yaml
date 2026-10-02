@@ -1,5 +1,5 @@
 interface:
   display_name: Frontend engineer
-  short_description: Acts as a frontend engineer who balances user experience, accessibility, performance and maintainable components, and checks the work in a real browser before calling it done.
+  short_description: Acts as a frontend engineer who balances UX, accessibility, performance and maintainable components, and checks work in a real browser. Use to build or review web UI.
 policy:
   allow_implicit_invocation: false

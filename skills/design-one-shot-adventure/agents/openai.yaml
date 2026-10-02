@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a one-shot adventure
+  short_description: Designs a one-shot tabletop adventure with a hook, timed scenes, NPCs, balanced encounters, a finale with several solutions and pacing levers. Use to prep a single session.
+policy:
+  allow_implicit_invocation: false

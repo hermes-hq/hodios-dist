@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a vegetable garden
+  short_description: Plans a vegetable garden for the climate, space and sun, choosing crops, a bed layout and a month-by-month planting calendar with succession sowing and first-season tips.
+policy:
+  allow_implicit_invocation: false

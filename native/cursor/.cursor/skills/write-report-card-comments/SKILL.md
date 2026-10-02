@@ -7,14 +7,14 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/write-report-card-comments
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Write report card comments
 
 ## Inputs
 
-- [STUDENT_NOTES] (required): Notes per student, one block each, starting with the name and pronouns, e.g. "Sam (he): strong reader, rushes maths, kind to peers, missed 2 homework".
+- [STUDENT_NOTES] (required): Notes per student, one block each, starting with a first name and pronouns, e.g. "Sam (he): strong reader, rushes maths, kind to peers, missed 2 homework". Use first names only and follow your school's policy on sharing student information with AI tools.
 - [TONE] (optional; one of: formal, warm; default: warm): formal for school-standard reporting language, warm for a friendlier register.
 - [MAX_WORDS] (optional; default: 80): Maximum words per comment.
 

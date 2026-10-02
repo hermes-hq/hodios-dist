@@ -1,0 +1,5 @@
+interface:
+  display_name: Compare vendors
+  short_description: Builds a weighted vendor comparison with must-have gates, scored criteria, questions to ask each vendor and red flags, using only evidence you provide. Use when choosing a supplier or software tool.
+policy:
+  allow_implicit_invocation: false

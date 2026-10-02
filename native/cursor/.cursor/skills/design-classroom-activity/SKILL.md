@@ -1,13 +1,13 @@
 ---
 name: design-classroom-activity
-description: Designs an active-learning activity such as a jigsaw, think-pair-share or gallery walk, with timing, grouping, materials, teacher script and individual accountability.
+description: Designs an active-learning activity such as a jigsaw or gallery walk, with timing, grouping, materials, a teacher script and accountability. Use when lecture alone will not reach an objective.
 license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/design-classroom-activity
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Design an active-learning activity

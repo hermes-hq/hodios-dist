@@ -1,0 +1,5 @@
+interface:
+  display_name: Make a logic grid puzzle
+  short_description: Creates a themed logic grid puzzle, proves its solution is unique by solving it from the clues alone, and supplies the grid, answer and step-by-step worked solution. Use for puzzle books and classes.
+policy:
+  allow_implicit_invocation: false

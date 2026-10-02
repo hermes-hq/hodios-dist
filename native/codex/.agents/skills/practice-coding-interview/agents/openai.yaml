@@ -1,0 +1,5 @@
+interface:
+  display_name: Practice a coding interview
+  short_description: Simulates a live coding interview with a level-appropriate problem, graded hints on request, and feedback on approach, correctness, complexity and communication. Use to rehearse technical rounds.
+policy:
+  allow_implicit_invocation: false

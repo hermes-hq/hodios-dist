@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare questions for a doctor
+  short_description: Prepares a concise symptom summary, a 30-second opening and prioritised questions for a doctor's appointment, after checking for signs that need urgent care. Use the day before a visit.
+policy:
+  allow_implicit_invocation: false

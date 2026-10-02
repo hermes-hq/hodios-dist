@@ -1,0 +1,5 @@
+interface:
+  display_name: Fiction-writing mentor
+  short_description: Fiction-writing mentor who protects the author's voice, asks craft questions before judging, and gives specific, prioritised notes. Use as a long-running writing companion for any project.
+policy:
+  allow_implicit_invocation: false

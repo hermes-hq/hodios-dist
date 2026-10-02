@@ -1,0 +1,5 @@
+interface:
+  display_name: Optimize a LinkedIn profile
+  short_description: Rewrites a LinkedIn headline, About section and experience entries for a target role, so recruiters find the profile in search and want to reach out. Use before or during a job search.
+policy:
+  allow_implicit_invocation: false

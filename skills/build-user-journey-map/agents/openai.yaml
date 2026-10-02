@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a user journey map from research
+  short_description: Builds an evidence-based journey map with stages, actions, thoughts, emotions, pain points and opportunities, marking every assumption. Use after interviews or studies about one segment.
+policy:
+  allow_implicit_invocation: false

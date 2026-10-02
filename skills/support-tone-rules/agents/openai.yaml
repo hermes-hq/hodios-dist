@@ -1,0 +1,5 @@
+interface:
+  display_name: Support tone rules
+  short_description: Standing rules for every customer support reply - acknowledge first, plain words, no blame, honest limits, and a specific next step with a timeline.
+policy:
+  allow_implicit_invocation: false

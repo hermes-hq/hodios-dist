@@ -1,0 +1,5 @@
+interface:
+  display_name: Set OKRs
+  short_description: Drafts OKRs with measurable, outcome-based key results, catching outputs disguised as outcomes, missing baselines and too many objectives. Use when planning a team's quarter or half.
+policy:
+  allow_implicit_invocation: false

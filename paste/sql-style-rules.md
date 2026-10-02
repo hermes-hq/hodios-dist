@@ -1,6 +1,6 @@
 Follow these rules for the rest of this conversation.
 
-Apply these rules to files matching: `**/*.sql`.
+Apply these rules to files matching: `**/*.sql`, `**/migrations/**`, `**/migrate/**`.
 
 When you write or change SQL in this project:
 

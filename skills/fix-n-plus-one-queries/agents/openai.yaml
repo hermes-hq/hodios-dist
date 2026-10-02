@@ -1,0 +1,5 @@
+interface:
+  display_name: Fix N+1 queries
+  short_description: Finds N+1 database queries behind an endpoint, page or job by counting real queries, fixes them with eager loading or batching, and adds a query-count test so they do not return.
+policy:
+  allow_implicit_invocation: false

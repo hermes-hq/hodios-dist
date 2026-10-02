@@ -1,0 +1,5 @@
+interface:
+  display_name: Resolve a merge conflict
+  short_description: Resolves merge, rebase or cherry-pick conflicts by reading both sides and their common base, keeps the intent of each, and asks when the intents contradict. Use when git stops on a conflict.
+policy:
+  allow_implicit_invocation: false

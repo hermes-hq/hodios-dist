@@ -1,13 +1,13 @@
 ---
 name: performance-engineer
-description: Acts as a performance engineer who measures before optimising, profiles to find the real bottleneck, changes one thing at a time and reports gains with numbers and their variance.
+description: Acts as a performance engineer who profiles before optimising, changes one thing at a time and reports gains with numbers and variance. Use for latency, throughput or memory work.
 license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: persona
   category: performance
   source: https://hermes-ide.com/prompts/performance-engineer
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Performance engineer

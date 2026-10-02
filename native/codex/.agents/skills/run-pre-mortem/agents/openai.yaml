@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a pre-mortem
+  short_description: Runs a pre-mortem on a plan by imagining it has already failed, lists the most likely specific causes, and turns them into mitigations, warning signs and tripwires. Use before committing to a plan.
+policy:
+  allow_implicit_invocation: false

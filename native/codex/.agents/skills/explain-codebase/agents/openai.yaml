@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a codebase
+  short_description: Explains an unfamiliar codebase. Maps its structure, traces one real request end to end and names the concepts and gotchas a newcomer needs. Use when joining a project or reading an unknown repo.
+policy:
+  allow_implicit_invocation: false

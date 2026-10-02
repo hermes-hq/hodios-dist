@@ -1,0 +1,5 @@
+interface:
+  display_name: Pair typefaces for a brand
+  short_description: Suggests typeface pairings with rationale, roles, weights, a starter type scale, fallbacks and licensing notes. Use when choosing fonts for a brand, site or publication.
+policy:
+  allow_implicit_invocation: false

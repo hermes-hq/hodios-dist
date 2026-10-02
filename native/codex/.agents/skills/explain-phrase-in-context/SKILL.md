@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: language-learning
   source: https://hermes-ide.com/prompts/explain-phrase-in-context
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Explain a phrase in context

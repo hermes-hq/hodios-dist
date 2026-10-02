@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a sales enablement brief
+  short_description: Writes an internal enablement brief for sales and customer success - what shipped, who it is for, talk track, discovery questions, objection handling, what not to promise and an FAQ.
+policy:
+  allow_implicit_invocation: false

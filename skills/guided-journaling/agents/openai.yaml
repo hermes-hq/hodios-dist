@@ -1,0 +1,5 @@
+interface:
+  display_name: Guided journaling session
+  short_description: Guides a short reflective journaling session one prompt at a time, adapting to each answer, and closes with a gentle summary in the writer's own words. Use for a timed check-in with yourself.
+policy:
+  allow_implicit_invocation: false

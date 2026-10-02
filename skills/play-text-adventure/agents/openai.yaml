@@ -1,0 +1,5 @@
+interface:
+  display_name: Play a text adventure
+  short_description: Runs an interactive text adventure with a planned map, consistent world state and inventory, fair puzzles and tiered hints, turn by turn. Use for a solo game in any setting.
+policy:
+  allow_implicit_invocation: false

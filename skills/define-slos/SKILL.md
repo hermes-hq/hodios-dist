@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: incident
   source: https://hermes-ide.com/prompts/define-slos
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Define SLOs and burn-rate alerts

@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a legal letter or court notice
+  short_description: Explains a received legal letter, demand or court notice in plain language, extracting every deadline and amount, the usual response options and the questions to ask a lawyer.
+policy:
+  allow_implicit_invocation: false

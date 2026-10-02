@@ -1,0 +1,5 @@
+interface:
+  display_name: Critique a slide deck
+  short_description: Critiques a slide deck for storyline, one idea per slide, text density and visual clarity, and returns ranked slide-level fixes with rewritten titles. Use before presenting or sending a deck.
+policy:
+  allow_implicit_invocation: false

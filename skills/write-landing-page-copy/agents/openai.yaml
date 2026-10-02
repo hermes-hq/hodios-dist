@@ -1,0 +1,5 @@
+interface:
+  display_name: Write landing page copy
+  short_description: Writes landing page copy (headline, subhead, benefits, proof, objections and CTA) from a product brief and audience, built around one conversion goal. Use for a new page or a rewrite.
+policy:
+  allow_implicit_invocation: false

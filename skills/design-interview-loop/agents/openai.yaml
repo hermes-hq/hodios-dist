@@ -1,0 +1,5 @@
+interface:
+  display_name: Design an interview loop
+  short_description: Designs a structured interview loop with competencies assigned to stages, questions and work samples, anchored scorecards and calibration notes for the debrief. Use when setting up hiring for a role.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Add a regression test for a bug
+  short_description: Writes the smallest test that fails on the buggy code and passes with the fix, and proves both by running it. Use after fixing a bug, or before fixing one, so it cannot return.
+policy:
+  allow_implicit_invocation: false

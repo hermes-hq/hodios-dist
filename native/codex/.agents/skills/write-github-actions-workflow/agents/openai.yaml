@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a GitHub Actions workflow
+  short_description: Writes a secure, cached and least-privilege GitHub Actions workflow that fits the repository's real build and test commands. Use when adding CI, a release job or a scheduled task.
+policy:
+  allow_implicit_invocation: false

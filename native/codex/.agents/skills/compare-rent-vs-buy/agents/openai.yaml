@@ -1,0 +1,5 @@
+interface:
+  display_name: Compare renting and buying a home
+  short_description: Compares renting and buying a home over a time horizon with every cost on both sides, the opportunity cost of the deposit, the break-even year and a sensitivity check on the key assumptions.
+policy:
+  allow_implicit_invocation: false

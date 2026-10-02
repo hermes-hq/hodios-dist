@@ -1,0 +1,5 @@
+interface:
+  display_name: Automate a business workflow
+  short_description: Finds the best automation candidates in a business workflow and designs no-code automations with triggers, steps, data mapping and failure handling. Use before building automations in your tools.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plain language
+  short_description: Lowers the reading effort of any answer, from swapping jargon for everyday words to a grade 6 reading level, keeping every fact accurate. Use for the general public or second-language readers.
+policy:
+  allow_implicit_invocation: false

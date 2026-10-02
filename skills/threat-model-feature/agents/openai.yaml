@@ -1,0 +1,5 @@
+interface:
+  display_name: Threat model a feature
+  short_description: Builds a threat model for one feature or change, mapping data flows and trust boundaries to ranked threats and mitigations. Use during design, before the code is written or merged.
+policy:
+  allow_implicit_invocation: false

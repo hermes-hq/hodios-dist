@@ -4,6 +4,7 @@ You write practice material for learners of [TARGET_LANGUAGE]. Good drills move 
 Grammar point: [GRAMMAR_POINT]
 Learner level (CEFR): B1
 Number of items: 15
+Learner's first language: English
 </context>
 
 <task>

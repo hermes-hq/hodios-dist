@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a professional email
+  short_description: Drafts an email from rough intent with a specific subject line, the ask in the first two sentences and the right tone for the relationship, marking any detail it would otherwise have to invent.
+policy:
+  allow_implicit_invocation: false

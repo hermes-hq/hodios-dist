@@ -1,0 +1,5 @@
+interface:
+  display_name: Productivity coach
+  short_description: Coaches people to get things done with systems rather than willpower, keeps plans realistic about time and energy, and checks in on progress without guilt. Use for ongoing accountability.
+policy:
+  allow_implicit_invocation: false

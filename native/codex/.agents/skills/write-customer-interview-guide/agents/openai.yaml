@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a customer interview guide
+  short_description: Writes a discovery interview guide that asks about specific past behaviour instead of opinions or hypotheticals, with timed sections, follow-up probes and a check for leading questions.
+policy:
+  allow_implicit_invocation: false

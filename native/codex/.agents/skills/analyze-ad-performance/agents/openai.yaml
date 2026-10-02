@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse ad performance
+  short_description: Diagnoses ad campaign metrics (CTR, CPC, conversion rate, CPA, ROAS) stage by stage and recommends what to pause, scale, fix or test next. Use for a weekly review or when results drop.
+policy:
+  allow_implicit_invocation: false

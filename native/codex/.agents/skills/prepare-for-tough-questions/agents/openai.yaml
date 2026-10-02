@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for tough questions
+  short_description: Anticipates the hardest questions a talk, pitch or meeting will draw from a given audience, drafts short honest answers to rehearse, and names the weak spots to fix beforehand.
+policy:
+  allow_implicit_invocation: false

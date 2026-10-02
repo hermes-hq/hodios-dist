@@ -1,0 +1,5 @@
+interface:
+  display_name: Package a video title and thumbnail
+  short_description: Pairs video title options with thumbnail concepts that work together, optimised for clicks without misleading viewers. Use before publishing a video or when one is under-performing.
+policy:
+  allow_implicit_invocation: false

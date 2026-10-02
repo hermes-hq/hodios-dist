@@ -1,0 +1,5 @@
+interface:
+  display_name: Compare design options
+  short_description: Compares two to four technical options against the criteria that matter, weighs reversibility and risk, and recommends one. Use when a team is stuck choosing between approaches or tools.
+policy:
+  allow_implicit_invocation: false

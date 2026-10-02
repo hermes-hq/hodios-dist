@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a personal knowledge system
+  short_description: Designs a personal knowledge system using PARA, Zettelkasten or a hybrid in your chosen notes app, with the structure, ready-to-use templates, a capture flow and a weekly review routine.
+policy:
+  allow_implicit_invocation: false

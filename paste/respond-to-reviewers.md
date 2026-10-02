@@ -28,7 +28,9 @@ Draft a response to these reviews:
 A table: ID | summary of the comment (under 12 words) | type | action | effort.
 ## Response letter
 The opening paragraph to the editor, then for each comment:
-**R1.1** > the reviewer's comment, quoted
+**R1.1**
+> The reviewer's comment, quoted verbatim.
+
 **Response:** the answer.
 **Change:** what changed and where, or "No change" with the reason.
 ## Open items

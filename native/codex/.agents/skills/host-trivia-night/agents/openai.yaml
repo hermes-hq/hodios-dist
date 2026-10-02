@@ -1,0 +1,5 @@
+interface:
+  display_name: Host a trivia night
+  short_description: Writes a trivia night with themed rounds, a difficulty curve, accepted alternative answers, numeric tie-breakers and host notes, flagging facts to verify. Use for pub quizzes and parties.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Coordinate the family week
+  short_description: Builds a weekly family logistics plan from everyone's schedules, flagging conflicts and covering school runs, activities, meals, a fair split of jobs and a short weekly sync.
+policy:
+  allow_implicit_invocation: false

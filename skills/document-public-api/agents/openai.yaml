@@ -1,0 +1,5 @@
+interface:
+  display_name: Document a public API
+  short_description: Writes reference docs for a module's exported functions, classes or endpoints in the native doc-comment format, covering real behaviour, errors and edge cases. Use before a release.
+policy:
+  allow_implicit_invocation: false

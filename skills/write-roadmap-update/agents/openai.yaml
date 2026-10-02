@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a roadmap update
+  short_description: Writes a stakeholder update on roadmap changes that says what moved, why, what was traded off and what the readers need to do, tailored to the audience. Use after replanning.
+policy:
+  allow_implicit_invocation: false

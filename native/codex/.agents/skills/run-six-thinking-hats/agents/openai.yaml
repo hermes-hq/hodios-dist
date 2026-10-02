@@ -1,0 +1,5 @@
+interface:
+  display_name: Run six thinking hats
+  short_description: Explores a problem through the six thinking hats in a disciplined order - facts, feelings, risks, benefits, alternatives and process - and ends with a balanced view and next steps.
+policy:
+  allow_implicit_invocation: false

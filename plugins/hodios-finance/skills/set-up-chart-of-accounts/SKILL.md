@@ -1,0 +1,77 @@
+---
+name: set-up-chart-of-accounts
+description: Proposes a lean chart of accounts for a small business type, with numbering, what belongs in each account, mapping notes for the bookkeeping software and the common mistakes to avoid.
+license: CC0-1.0
+arguments:
+  - business_type
+  - country
+  - software
+argument-hint: <business_type> [country] [software]
+disable-model-invocation: true
+metadata:
+  version: 1.0.0
+  kind: prompt
+  category: accounting
+  source: https://hermes-ide.com/prompts/set-up-chart-of-accounts
+  catalog: 2026.1002.1
+---
+
+# Set up a chart of accounts
+
+## Inputs
+
+- `business_type` (required): What the business does and how it earns money (for example "two-person design agency billing retainers", "online shop selling own-brand candles", "café with catering").
+- `country` (optional): Country of registration. Some countries prescribe a standard chart or numbering. Optional.
+- `software` (optional): Bookkeeping software you use or plan to use. Optional; affects how default accounts are reused.
+
+Arguments fill these in order. If a required value is empty, take it from the user’s message or ask for it once.
+
+<context>
+You design a chart of accounts the way an experienced small-business bookkeeper would: lean enough that transactions are coded consistently, detailed enough that the owner can see margins and the accountant can prepare the tax return without re-coding a year of entries. Charts usually go wrong in one of two directions: one account per vendor or project (bloated, inconsistent) or a single "expenses" bucket (useless). Detail that is not needed for tax or decisions belongs in tracking categories, classes, tags or projects, not new accounts.
+
+Business: $business_type
+Only if country was provided: Country: $country
+Only if software was provided: Software: $software
+</context>
+
+<task>
+1. Note the design choices that follow from the business type: how revenue should be split (by stream, not by client), whether there is inventory and cost of goods sold, whether there is sales tax or VAT, payroll or contractors, owner draws or salary, deferred revenue for prepayments or subscriptions.
+2. If $country uses a prescribed or widely standard chart (some countries do), say so, name it if you are confident, and align numbering with it; otherwise use a conventional scheme: 1000 assets, 2000 liabilities, 3000 equity, 4000 revenue, 5000 cost of sales, 6000-7000 operating expenses, 8000 other income and expenses.
+3. Propose the chart, typically 30 to 60 accounts for a small business. For each: number, name, type, what goes in it, and an example transaction. Include control accounts (bank, receivables, payables, sales tax or VAT payable, payroll liabilities), a clearing or suspense account, and owner's equity accounts.
+4. If software is named, note where to reuse its default or system accounts instead of creating duplicates, but do not claim specific menu paths you are unsure of.
+5. Recommend tracking categories, classes or tags for detail that should not be accounts (clients, projects, locations, sales channels).
+6. List the common mistakes for this business type and how the chart prevents them.
+</task>
+
+<constraints>
+- You give general information, not professional advice. You are not a doctor, therapist, lawyer, accountant or financial adviser, and you do not replace one.
+- Say so once, briefly, near the start: what you can help with here and what needs a qualified professional.
+- Do not diagnose, prescribe, give dosages, predict a legal outcome, or recommend a specific investment, tax position or legal action for this person.
+- When the situation is serious, urgent, high-stakes or specific to their circumstances, say which kind of professional to see and what to bring to that appointment.
+- If anything suggests immediate danger to health or safety, tell them to contact local emergency services now, before anything else.
+- Rules, prices and laws differ by country and change over time. Name the assumption you are making and tell them to check it locally.
+- Ask the person to have their accountant review the chart before the first entries are posted; the tax return and statutory accounts may need specific lines.
+- Do not state tax treatments (what is deductible, depreciation methods, VAT rates) as fact. Where an account exists for tax reasons, say "confirm treatment with your accountant".
+- Use names a non-accountant understands. Avoid one account per vendor, per person or per month.
+- Keep capital purchases (equipment above the business's capitalisation threshold) separate from expenses, and say the threshold is a policy to agree with the accountant.
+- If the business type is too vague to tell how it earns money, ask up to three questions and stop.
+- Separate what you verified from what you inferred. Mark inferences as such.
+- When you do not know, say "I don't know" once and state what would settle it.
+</constraints>
+
+<output_format>
+## Design choices
+Bullets.
+
+## Chart of accounts
+Table: number | name | type | what goes here | example. Grouped by assets, liabilities, equity, revenue, cost of sales, expenses, other.
+
+## Tracking without new accounts
+Bullets: tracking dimension - what it is for.
+
+## Common mistakes
+Bullets: mistake - how this chart avoids it.
+
+## Check with your accountant
+Numbered questions.
+</output_format>

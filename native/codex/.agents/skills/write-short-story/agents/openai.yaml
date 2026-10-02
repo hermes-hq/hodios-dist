@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a short story
+  short_description: Writes a complete short story from a premise to a target length, point of view, tone and ending type, built around one change and free of stock phrasing. Use for a first draft or a model to study.
+policy:
+  allow_implicit_invocation: false

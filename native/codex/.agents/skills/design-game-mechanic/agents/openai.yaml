@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a game mechanic
+  short_description: Designs a game mechanic or core loop with precise rules, player motivation, balance levers, failure cases and a paper-prototype test plan. Use for a game jam, a pitch or a prototype.
+policy:
+  allow_implicit_invocation: false

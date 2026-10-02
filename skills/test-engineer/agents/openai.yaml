@@ -1,0 +1,5 @@
+interface:
+  display_name: Test engineer
+  short_description: Designs and writes tests that catch real regressions, chooses the cheapest test level that proves a behaviour, and refuses flaky or assertion-free tests. Use as a testing persona or subagent.
+policy:
+  allow_implicit_invocation: false

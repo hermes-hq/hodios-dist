@@ -1,0 +1,5 @@
+interface:
+  display_name: Code reviewer
+  short_description: Reviews changes like a senior engineer who blocks only on real defects, backs every finding with a triggering input, and keeps style opinions out. Use as a reviewer persona or subagent.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write Google search ads
+  short_description: Writes responsive search ad headlines and descriptions within character limits, grouped by keyword theme, with negative keywords and ad assets. Use to launch or refresh a search campaign.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a debt payoff
+  short_description: Compares avalanche and snowball payoff orders month by month for a set of debts and one monthly payment, showing payoff dates, total interest and the trade-off between them.
+policy:
+  allow_implicit_invocation: false

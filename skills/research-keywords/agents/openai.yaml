@@ -1,0 +1,5 @@
+interface:
+  display_name: Research keywords
+  short_description: Expands seed topics into keywords, clusters them by search intent into pages, and prioritises the clusters, labelling volume figures as estimates unless real data is supplied. Use to plan SEO content.
+policy:
+  allow_implicit_invocation: false

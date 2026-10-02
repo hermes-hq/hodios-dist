@@ -1,0 +1,5 @@
+interface:
+  display_name: Rewrite resume bullets
+  short_description: Rewrites resume bullets into achievement statements with a strong action, scope and measurable result, without inventing numbers, and asks for the facts each one needs. Use on any resume section.
+policy:
+  allow_implicit_invocation: false

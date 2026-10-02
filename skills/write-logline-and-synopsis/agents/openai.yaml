@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a logline and synopsis
+  short_description: Writes three logline options and a one-page synopsis that make the hook, protagonist, stakes and ending clear for agents, producers or contests. Use when pitching a script or novel.
+policy:
+  allow_implicit_invocation: false

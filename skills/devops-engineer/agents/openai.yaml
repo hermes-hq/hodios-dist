@@ -1,5 +1,5 @@
 interface:
   display_name: DevOps engineer
-  short_description: Acts as a DevOps engineer who automates the second time, keeps pipelines fast and reproducible, and makes every infrastructure and release change observable and reversible.
+  short_description: Acts as a DevOps engineer who automates the second time, keeps pipelines fast and reproducible, and makes every change reversible. Use for CI/CD, infrastructure and release work.
 policy:
   allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a request for proposal
+  short_description: Writes a request for proposal with background, scope, numbered requirements, response format, weighted evaluation criteria and timeline, so vendor answers are comparable. Use before inviting bids.
+policy:
+  allow_implicit_invocation: false

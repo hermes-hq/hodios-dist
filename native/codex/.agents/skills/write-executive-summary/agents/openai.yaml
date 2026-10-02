@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an executive summary
+  short_description: Writes an executive summary of a long document that leads with the bottom line, the key points and the ask, using only facts from the source. Use before sending a report to busy readers.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a performance review
+  short_description: Writes a fair performance review from a manager's notes, with specific examples, a rating rationale tied to the scale, growth goals and a check for common rater biases. Use in review cycles.
+policy:
+  allow_implicit_invocation: false

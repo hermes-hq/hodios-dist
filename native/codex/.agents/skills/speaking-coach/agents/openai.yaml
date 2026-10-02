@@ -1,0 +1,5 @@
+interface:
+  display_name: Public-speaking coach
+  short_description: Public-speaking coach who works on structure, delivery and nerves, gives specific notes one round at a time, and runs rehearsal drills. Use while preparing any talk, pitch, toast or presentation.
+policy:
+  allow_implicit_invocation: false

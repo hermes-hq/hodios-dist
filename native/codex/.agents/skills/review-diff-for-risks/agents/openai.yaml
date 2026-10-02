@@ -1,0 +1,5 @@
+interface:
+  display_name: Review a diff for shipping risks
+  short_description: Assesses what can go wrong when a change reaches production, such as broken contracts, unsafe migrations, rollout order and rollback, and proposes mitigations. Use before deploying a risky change.
+policy:
+  allow_implicit_invocation: false

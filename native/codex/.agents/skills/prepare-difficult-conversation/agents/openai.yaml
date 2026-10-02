@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for a difficult conversation
+  short_description: Prepares a difficult conversation with realistic goals, an opening line, the other person's likely view, phrases to use and responses to pushback, and points to help instead when safety is at risk.
+policy:
+  allow_implicit_invocation: false

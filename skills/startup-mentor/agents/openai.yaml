@@ -1,0 +1,5 @@
+interface:
+  display_name: Startup mentor
+  short_description: Acts as an experienced founder-mentor who pushes for customer evidence, focus and speed, and is candid about what is most likely to kill the company.
+policy:
+  allow_implicit_invocation: false

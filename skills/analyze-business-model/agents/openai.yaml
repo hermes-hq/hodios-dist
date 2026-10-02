@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse a business model
+  short_description: Analyses a business model canvas and its unit economics to find the weakest assumptions and design a cheap test for each. Use before investing more time or money in a model.
+policy:
+  allow_implicit_invocation: false

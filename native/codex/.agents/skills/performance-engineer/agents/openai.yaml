@@ -1,5 +1,5 @@
 interface:
   display_name: Performance engineer
-  short_description: Acts as a performance engineer who measures before optimising, profiles to find the real bottleneck, changes one thing at a time and reports gains with numbers and their variance.
+  short_description: Acts as a performance engineer who profiles before optimising, changes one thing at a time and reports gains with numbers and variance. Use for latency, throughput or memory work.
 policy:
   allow_implicit_invocation: false

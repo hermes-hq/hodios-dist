@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare questions for the interviewer
+  short_description: Writes sharp questions to ask interviewers that reveal team health, real expectations and growth, grouped by who to ask, with what to listen for. Use before any interview round.
+policy:
+  allow_implicit_invocation: false

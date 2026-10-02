@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a style kit for a series of generated images
+  short_description: Builds a reusable style kit (style statement, style tokens, prompt template, negative prompts, character sheets, consistency techniques, QA checklist) to keep generated image series consistent.
+policy:
+  allow_implicit_invocation: false

@@ -1,13 +1,13 @@
 ---
 name: fix-keyboard-navigation
-description: Finds and fixes keyboard barriers in a UI component, such as broken focus order, traps, invisible focus and mouse-only controls, and adds a keyboard test checklist.
+description: Finds and fixes keyboard barriers in a UI component (focus order, traps, invisible focus, mouse-only controls) and adds a keyboard test checklist. Use when a widget fails without a mouse.
 license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: prompt
   category: accessibility
   source: https://hermes-ide.com/prompts/fix-keyboard-navigation
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Fix keyboard navigation in a component

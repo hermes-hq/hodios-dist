@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a sales proposal
+  short_description: Writes a sales proposal tied to the prospect's stated pains and goals, with scope, pricing options, success measures and next steps. Use after discovery, before sending a quote.
+policy:
+  allow_implicit_invocation: false

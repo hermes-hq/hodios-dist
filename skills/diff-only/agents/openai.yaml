@@ -1,0 +1,5 @@
+interface:
+  display_name: Diff only
+  short_description: Shapes code answers as minimal changes to existing code instead of whole rewritten files, from a diff with a short note to a bare unified diff. Use when reviewing or applying code edits.
+policy:
+  allow_implicit_invocation: false

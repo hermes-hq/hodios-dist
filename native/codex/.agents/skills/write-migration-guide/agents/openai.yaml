@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a migration guide
+  short_description: Writes an upgrade guide for a breaking release that lists each breaking change with how to find affected code, before-and-after examples and a way to verify. Use when shipping a major version.
+policy:
+  allow_implicit_invocation: false

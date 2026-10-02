@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a creator brief
+  short_description: Writes a brief for UGC creators or influencers covering deliverables, key messages, creative direction, dos and don'ts, ad disclosure and usage rights. Use before contacting creators.
+policy:
+  allow_implicit_invocation: false

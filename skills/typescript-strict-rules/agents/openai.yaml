@@ -1,0 +1,5 @@
+interface:
+  display_name: TypeScript strict rules
+  short_description: Keeps TypeScript code fully type-safe under strict mode, with no any, no unchecked casts, validated external data and exhaustive unions. Use in any TypeScript project.
+policy:
+  allow_implicit_invocation: false

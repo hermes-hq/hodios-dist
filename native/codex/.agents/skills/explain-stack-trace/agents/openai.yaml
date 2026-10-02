@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a stack trace
+  short_description: Explains an error and its stack trace in plain words, finds the frame that matters, and ranks the likely causes with the next checks to run. Use when an exception or crash is hard to read.
+policy:
+  allow_implicit_invocation: false

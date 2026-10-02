@@ -1,0 +1,5 @@
+interface:
+  display_name: Write UX microcopy
+  short_description: Writes interface microcopy (buttons, labels, empty states, errors, confirmations, success messages) that is clear, consistent and in the product's voice. Use when designing or reviewing screens.
+policy:
+  allow_implicit_invocation: false

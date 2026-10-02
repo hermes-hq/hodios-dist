@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a prompt for an AI music generator
+  short_description: Writes AI music generator prompts with genre, instrumentation, tempo, vocal and production details, plus lyrics marked up with structure tags. Use before generating a song in Suno, Udio or similar.
+policy:
+  allow_implicit_invocation: false

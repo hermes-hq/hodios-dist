@@ -1,0 +1,5 @@
+interface:
+  display_name: Upgrade a major dependency
+  short_description: Upgrades a library or framework across major versions using the official migration notes, fixes what breaks, and proves the result with before-and-after checks. Use for any breaking upgrade.
+policy:
+  allow_implicit_invocation: false

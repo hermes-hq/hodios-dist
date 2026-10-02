@@ -1,0 +1,5 @@
+interface:
+  display_name: Prioritise a to-do list
+  short_description: Prioritises a to-do list by impact, urgency and effort against your goals and hours, picks today's top three, and says what to schedule, delegate or drop. Use when the list outgrows the day.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Step by step
+  short_description: Structures answers as ordered, numbered steps the reader can follow and check, from a short numbered list to detailed steps with expected results. Use for procedures, setups and how-to answers.
+policy:
+  allow_implicit_invocation: false

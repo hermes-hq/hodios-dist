@@ -1,0 +1,5 @@
+interface:
+  display_name: Reply to an email
+  short_description: Drafts a reply that answers every question and request in a received email from your stated position, matches its formality, proposes next steps and flags points you have not decided.
+policy:
+  allow_implicit_invocation: false

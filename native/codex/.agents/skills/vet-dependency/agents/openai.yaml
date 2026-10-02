@@ -1,0 +1,5 @@
+interface:
+  display_name: Vet a dependency before adding it
+  short_description: Checks a third-party package for supply-chain risk, maintenance health, license fit and real need before it is added or upgraded. Use when a PR adds a new dependency or bumps one.
+policy:
+  allow_implicit_invocation: false

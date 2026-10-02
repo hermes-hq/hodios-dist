@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain lab results
+  short_description: Explains lab results in plain language, covering what each test measures, how the value sits against the report's own range and what to ask the doctor, without diagnosing. Use before a follow-up.
+policy:
+  allow_implicit_invocation: false

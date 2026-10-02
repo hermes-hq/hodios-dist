@@ -1,0 +1,5 @@
+interface:
+  display_name: Summarise a book
+  short_description: Summarises a non-fiction book's argument, key ideas, evidence and critiques, and turns it into actions for your purpose. Says when it does not know the book instead of inventing content.
+policy:
+  allow_implicit_invocation: false

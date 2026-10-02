@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a YouTube script
+  short_description: Writes a timed YouTube script with a hook, retention beats, pattern interrupts and a call to action in the channel's voice. Use when turning a video topic into a script to record.
+policy:
+  allow_implicit_invocation: false

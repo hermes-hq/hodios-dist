@@ -1,13 +1,13 @@
 ---
 name: api-design-rules
-description: Standing rules for HTTP APIs an assistant designs or changes, covering resource naming, status codes, problem+json errors, cursor pagination, idempotency keys and versioning.
+description: Rules for HTTP APIs covering resource naming, status codes, problem+json errors, cursor pagination, idempotency keys and versioning. Load when designing or changing HTTP endpoints.
 license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: rule
   category: conventions
   source: https://hermes-ide.com/prompts/api-design-rules
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # HTTP API design rules

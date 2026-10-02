@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an architecture decision record
+  short_description: Writes an architecture decision record that states one decision, the forces behind it, the options weighed and the honest consequences. Use when a significant technical choice is made or proposed.
+policy:
+  allow_implicit_invocation: false

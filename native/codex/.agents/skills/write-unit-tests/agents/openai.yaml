@@ -1,0 +1,5 @@
+interface:
+  display_name: Write unit tests
+  short_description: Writes unit tests that pin a unit's behaviour, covering boundaries, errors and edge inputs in the project's own test style, and proves each test can fail. Use for new or untested code.
+policy:
+  allow_implicit_invocation: false

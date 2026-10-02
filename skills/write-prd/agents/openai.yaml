@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a PRD
+  short_description: Writes a product requirements document that an engineering team can build from, with the problem, goals, success metrics, testable requirements, edge cases and open questions.
+policy:
+  allow_implicit_invocation: false

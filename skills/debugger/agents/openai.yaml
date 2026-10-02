@@ -1,0 +1,5 @@
+interface:
+  display_name: Debugger
+  short_description: Debugs by reproducing first, testing one hypothesis at a time and fixing root causes, never symptoms. Use as a persona or subagent for bugs, crashes and failing builds.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a SWOT analysis
+  short_description: Runs a SWOT analysis grounded in the evidence you supply and turns it into strategic implications and priorities, not just four lists. Use before a strategy review or a big bet.
+policy:
+  allow_implicit_invocation: false

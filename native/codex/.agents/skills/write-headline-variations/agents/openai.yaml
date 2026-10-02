@@ -1,0 +1,5 @@
+interface:
+  display_name: Write headline variations
+  short_description: Writes headline variations for an offer, each labelled by angle (benefit, curiosity, social proof, objection and more) with the hypothesis it tests. Use to set up an A/B or ad test.
+policy:
+  allow_implicit_invocation: false

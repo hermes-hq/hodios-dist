@@ -1,0 +1,5 @@
+interface:
+  display_name: Respond to a leaked secret
+  short_description: Produces an ordered response plan for an exposed API key, token or password, from revocation and rotation to usage audit and prevention. Use right after a secret is committed, logged or shared.
+policy:
+  allow_implicit_invocation: false

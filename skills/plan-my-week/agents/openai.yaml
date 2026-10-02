@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan my week
+  short_description: Builds a realistic weekly plan with time blocks from your tasks, fixed commitments and energy patterns, with buffers, a capacity check and a list of what will not fit. Use at the start of a week.
+policy:
+  allow_implicit_invocation: false

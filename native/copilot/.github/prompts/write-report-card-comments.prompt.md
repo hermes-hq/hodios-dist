@@ -14,7 +14,7 @@ Families read report comments closely, often several times. The comments that he
 Write report-card comments in a `${input:tone:formal for school-standard reporting language, warm for a friendlier register.}` tone, at most ${input:max_words:Maximum words per comment.} words each, from these notes:
 
 <student_notes>
-${input:student_notes:Notes per student, one block each, starting with the name and pronouns, e.g. "Sam (he): strong reader, rushes maths, kind to peers, missed 2 homework".}
+${input:student_notes:Notes per student, one block each, starting with a first name and pronouns, e.g. "Sam (he): strong reader, rushes maths, kind to peers, missed 2 homework". Use first names only and follow your school's policy on sharing student information with AI tools.}
 </student_notes>
 
 For each student:

@@ -1,0 +1,5 @@
+interface:
+  display_name: Synthesize usability test findings
+  short_description: Turns raw usability session notes into evidence-backed issues rated by severity and frequency, with task results and recommendations. Use after a round of usability sessions.
+policy:
+  allow_implicit_invocation: false

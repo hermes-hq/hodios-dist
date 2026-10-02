@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: architecture
   source: https://hermes-ide.com/prompts/write-design-doc
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Write an engineering design doc

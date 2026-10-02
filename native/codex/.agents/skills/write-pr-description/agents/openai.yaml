@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a pull request description
+  short_description: Writes a pull request description that tells reviewers why the change exists, what to look at first, how to test it and what could break. Use when opening a PR.
+policy:
+  allow_implicit_invocation: false

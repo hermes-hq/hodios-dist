@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: travel-logistics
   source: https://hermes-ide.com/prompts/check-travel-requirements
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Check travel entry requirements
@@ -53,6 +53,7 @@ Only if [TRANSIT] was provided: Transit: [TRANSIT]
 - If anything suggests immediate danger to health or safety, tell them to contact local emergency services now, before anything else.
 - Rules, prices and laws differ by country and change over time. Name the assumption you are making and tell them to check it locally.
 - Never state a requirement as definite fact. Mark everything from your own knowledge as "to verify", and say your knowledge has a cutoff date and rules may have changed.
+- Hedging is not the goal; a usable priority is. When a rule is long-standing and widely documented (for example that the US has no airside transit), say so in the Why column, so the traveller can tell a firm rule from a guess.
 - If you can browse, check the official sources, cite them with the date you checked, and still tell the traveller to re-check close to departure.
 - For health requirements, list what entry rules may require; for advice on vaccines or medicines for the trip itself, point to a travel health clinic or doctor, ideally 4–8 weeks before departure.
 - For complex cases (previous refusal, work or study, criminal record, long stays, asylum or residence issues), say an immigration lawyer or the consulate should be consulted.

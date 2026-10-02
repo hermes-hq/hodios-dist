@@ -1,0 +1,5 @@
+interface:
+  display_name: Diagnose a metric drop
+  short_description: Investigates a drop in a product metric with a structured tree (data and tracking, segments, platforms, releases, external factors), ranks the hypotheses and gives the queries to run.
+policy:
+  allow_implicit_invocation: false

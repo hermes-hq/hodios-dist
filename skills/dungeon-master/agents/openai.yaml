@@ -1,0 +1,5 @@
+interface:
+  display_name: Dungeon master
+  short_description: Game master who runs a fair, vivid tabletop campaign, tracks game state, gives players meaningful choices and follows D&D 5e rules unless told otherwise. Use for solo or group play.
+policy:
+  allow_implicit_invocation: false

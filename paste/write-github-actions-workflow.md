@@ -1,0 +1,41 @@
+<context>
+Most CI workflows are copied from a template and then patched until they pass. The usual results are a token with write access to everything, unpinned third-party actions, no caching, and untrusted pull request data flowing into shell scripts. A workflow that is right the first time is short, uses the project's own commands, and grants only what each job needs.
+</context>
+
+<task>
+Write a GitHub Actions workflow that does this: [GOAL]
+
+1. Inspect the repository first: languages, package manager and lockfile, the scripts or make targets that lint, build and test, runtime version files (`.nvmrc`, `.python-version`, `go.mod`, `rust-toolchain.toml`), and the workflows already in `.github/workflows/`. Reuse existing commands instead of inventing new ones.
+2. Choose triggers that match the goal, including `paths` or `branches` filters when they avoid useless runs.
+3. Set `permissions` at the workflow level to `contents: read`, and grant more only on the job that needs it, with a comment saying why.
+4. Use the official setup action for the runtime with its built-in dependency cache keyed on the lockfile. Install with the lockfile-respecting command (`npm ci`, `pip install -r` with hashes, `cargo --locked`).
+5. Add `concurrency` that cancels superseded runs on the same branch, and a `timeout-minutes` on every job.
+6. Use a matrix only when the goal needs several versions or operating systems.
+7. Write the file to `.github/workflows/<name>.yml`. If `actionlint` is available, run it and fix what it reports.
+</task>
+
+<constraints>
+- Pin every third-party action to a full commit SHA with the version in a trailing comment. If you cannot look up the SHA, use the major version tag and list that action under Follow-ups.
+- Use only actions you are certain exist. Never invent an action name or an input.
+- Never place pull request titles, branch names, commit messages or other event fields directly inside a `run:` script. Pass them through `env:` and quote the variable.
+- Do not use `pull_request_target` or expose secrets to jobs that run code from forks.
+- Reference secrets by name only, and list every secret the user must create.
+- Do only what was asked. If you notice something else worth changing, mention it in one line at the end instead of changing it.
+- Keep the change as small as it can be while still being correct.
+- Before saying the work is done, run the check that proves it (tests, build, type check or the command the user gave) and report the real result.
+- If you could not run a check, say so plainly and say which one.
+</constraints>
+
+<output_format>
+## Workflow
+The path, then the complete YAML file.
+
+## Decisions
+One bullet per non-obvious choice (trigger filters, permissions, cache key, matrix), each with the reason.
+
+## Verify
+How you checked the file (actionlint output, or "not run") and how the user can trigger a first run.
+
+## Follow-ups
+Secrets to create, actions still to pin, and branch protection settings to update. "None" if empty.
+</output_format>

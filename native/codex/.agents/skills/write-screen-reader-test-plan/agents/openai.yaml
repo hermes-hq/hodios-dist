@@ -1,5 +1,5 @@
 interface:
   display_name: Write a screen-reader test plan
-  short_description: Produces a manual screen-reader test script for a user flow on NVDA, JAWS, VoiceOver or TalkBack, with the keystrokes or gestures and expected announcements for each step.
+  short_description: Writes a manual screen-reader test script for a user flow on NVDA, JAWS, VoiceOver or TalkBack, with keystrokes and expected announcements per step. Use before releasing a key flow.
 policy:
   allow_implicit_invocation: false

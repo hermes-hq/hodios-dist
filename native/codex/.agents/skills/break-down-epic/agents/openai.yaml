@@ -1,0 +1,5 @@
+interface:
+  display_name: Break down an epic
+  short_description: Splits an epic into small, ordered vertical slices that each deliver testable value, with acceptance checks, dependencies and spikes. Use when an epic or large feature is too big to start.
+policy:
+  allow_implicit_invocation: false

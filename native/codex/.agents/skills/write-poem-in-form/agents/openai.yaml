@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a poem in a fixed form
+  short_description: Writes a poem in a fixed form (sonnet, villanelle, ghazal, pantoum, sestina, haiku sequence, limerick), keeping its meter, rhyme and repetition rules, with a form check. Use for a model or a gift.
+policy:
+  allow_implicit_invocation: false

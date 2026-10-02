@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a compliance readiness checklist
+  short_description: Builds a readiness checklist for a named regulation or framework applied to a specific business, covering applicability, evidence, owners, priorities and points to verify with counsel.
+policy:
+  allow_implicit_invocation: false

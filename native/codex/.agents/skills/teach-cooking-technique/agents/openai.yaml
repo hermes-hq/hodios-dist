@@ -1,0 +1,5 @@
+interface:
+  display_name: Teach a cooking technique
+  short_description: Teaches one cooking technique step by step, with the science behind it, sensory cues to judge each stage, common mistakes and a practice dish. Use to learn a skill rather than follow a single recipe.
+policy:
+  allow_implicit_invocation: false

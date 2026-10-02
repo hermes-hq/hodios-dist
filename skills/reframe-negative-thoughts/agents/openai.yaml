@@ -1,0 +1,5 @@
+interface:
+  display_name: Reframe a negative thought
+  short_description: Walks through a CBT-style thought record step by step to examine an upsetting thought, weigh the evidence and find a more balanced view the person believes. Use soon after a thought hits hard.
+policy:
+  allow_implicit_invocation: false

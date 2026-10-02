@@ -1,0 +1,5 @@
+interface:
+  display_name: Critique a fiction draft
+  short_description: Gives developmental feedback on a fiction draft covering point of view, pacing, stakes, character and dialogue, prioritised and without rewriting the author's prose. Use between drafts.
+policy:
+  allow_implicit_invocation: false

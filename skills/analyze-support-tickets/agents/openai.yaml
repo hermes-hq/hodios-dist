@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse support tickets
+  short_description: Finds the top contact drivers in a ticket export and ranks deflection opportunities by volume and effort, with root cause and owner. Use for a monthly or quarterly support review.
+policy:
+  allow_implicit_invocation: false

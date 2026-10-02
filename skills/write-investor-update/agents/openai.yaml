@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a monthly investor update
+  short_description: Writes a concise monthly investor update with a TL;DR, metrics against plan, highlights, honest lowlights, cash and runway, and specific asks. Use each month to keep investors informed.
+policy:
+  allow_implicit_invocation: false

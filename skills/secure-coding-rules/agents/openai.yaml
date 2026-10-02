@@ -1,0 +1,5 @@
+interface:
+  display_name: Secure coding rules
+  short_description: Makes the assistant write code that validates untrusted input, avoids injection, protects secrets and checks authorization by default. Use as always-on rules in any codebase.
+policy:
+  allow_implicit_invocation: false

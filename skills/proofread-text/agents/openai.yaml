@@ -1,0 +1,5 @@
+interface:
+  display_name: Proofread a text
+  short_description: Corrects grammar, spelling, punctuation and consistency errors in the chosen English variety, preserving the author's voice, and lists each change with the rule behind it.
+policy:
+  allow_implicit_invocation: false

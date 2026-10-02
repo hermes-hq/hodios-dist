@@ -1,0 +1,5 @@
+interface:
+  display_name: Organise tax documents for a preparer
+  short_description: Builds a checklist of documents to gather and questions to raise with a tax preparer, tailored to the person's income sources, life events and country, before filing a tax return.
+policy:
+  allow_implicit_invocation: false

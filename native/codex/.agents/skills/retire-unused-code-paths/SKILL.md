@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: refactoring
   source: https://hermes-ide.com/prompts/retire-unused-code-paths
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Retire unused code paths with runtime evidence

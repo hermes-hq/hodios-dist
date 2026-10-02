@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a habit plan
+  short_description: Designs a habit plan around a tiny starting behaviour anchored to an existing routine, with a reward, simple tracking, a missed-day rule and a path to grow it. Use when starting a new habit.
+policy:
+  allow_implicit_invocation: false

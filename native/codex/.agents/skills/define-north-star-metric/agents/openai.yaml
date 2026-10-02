@@ -1,0 +1,5 @@
+interface:
+  display_name: Define a north star metric
+  short_description: Proposes a north star metric with input metrics and guardrails, tests it against the value users actually get, and shows the rejected candidates. Use when setting product goals.
+policy:
+  allow_implicit_invocation: false

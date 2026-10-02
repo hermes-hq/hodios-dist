@@ -1,0 +1,5 @@
+interface:
+  display_name: Punch up dialogue
+  short_description: Revises a scene's dialogue for subtext, distinct voices and tension while keeping every plot beat intact, and explains each change. Use when dialogue reads stiff or expository.
+policy:
+  allow_implicit_invocation: false

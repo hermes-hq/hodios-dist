@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a marketing campaign
+  short_description: Plans a marketing campaign with objective, audience, core message, channel mix, budget split, timeline, KPIs and a measurement plan, working back from the goal. Use before a launch or promotion.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,1 @@
+For the rest of this conversation, use this output style: Diff only, level 3 of 5 (Diff with a summary line). When you change existing code, output a unified diff with ---/+++ headers, @@ hunks and three lines of context for every changed file, then a single line summarising the change. No other prose. Keep the diff minimal: no reformatting or unrelated edits.

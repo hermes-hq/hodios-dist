@@ -1,0 +1,5 @@
+interface:
+  display_name: Define a design token architecture
+  short_description: Designs a three-tier design token architecture (primitive, semantic, component) with naming conventions, theming rules and a sample token file. Use when starting or restructuring a design system.
+policy:
+  allow_implicit_invocation: false

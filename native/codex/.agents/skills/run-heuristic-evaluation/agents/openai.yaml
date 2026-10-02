@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a heuristic evaluation
+  short_description: Evaluates a flow step by step against Nielsen's ten usability heuristics and returns located issues with severity ratings and concrete fixes. Use for a fast expert review before or between user tests.
+policy:
+  allow_implicit_invocation: false

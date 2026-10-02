@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a month-end close checklist
+  short_description: Builds a month-end close checklist for a small business, sequenced by day, covering bank and card reconciliations, receivables, payables, accruals, payroll, tax accounts, review and sign-off.
+policy:
+  allow_implicit_invocation: false

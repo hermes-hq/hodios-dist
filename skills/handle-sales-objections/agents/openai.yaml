@@ -1,0 +1,5 @@
+interface:
+  display_name: Handle sales objections
+  short_description: Prepares responses to likely sales objections, with discovery questions that uncover the real concern behind each one and proof to use. Use before calls, for battlecards or for rep training.
+policy:
+  allow_implicit_invocation: false

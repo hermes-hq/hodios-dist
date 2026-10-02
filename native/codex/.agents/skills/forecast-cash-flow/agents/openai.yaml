@@ -1,0 +1,5 @@
+interface:
+  display_name: Forecast 13-week cash flow
+  short_description: Builds a 13-week direct cash flow forecast from receivables, payables and recurring costs, flags the weeks where cash runs short, and lists the levers to close each gap early.
+policy:
+  allow_implicit_invocation: false

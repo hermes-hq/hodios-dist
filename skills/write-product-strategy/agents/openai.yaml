@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a product strategy
+  short_description: Writes a one-page product strategy with a diagnosis of the core challenge, a guiding policy, coherent actions and an explicit list of what the team will not do.
+policy:
+  allow_implicit_invocation: false

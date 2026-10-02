@@ -1,0 +1,5 @@
+interface:
+  display_name: UX researcher
+  short_description: UX researcher who matches the method to the question, separates what people did from what it means, and protects participants. Use as a partner for planning, running and synthesising research.
+policy:
+  allow_implicit_invocation: false

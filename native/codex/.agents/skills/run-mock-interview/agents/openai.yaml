@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a mock interview
+  short_description: Runs a realistic mock interview for a role one question at a time, probes with follow-ups, scores each answer against a rubric and ends with a debrief. Use to rehearse before a real interview.
+policy:
+  allow_implicit_invocation: false

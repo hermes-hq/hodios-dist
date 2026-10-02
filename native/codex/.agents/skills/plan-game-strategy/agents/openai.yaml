@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a game strategy
+  short_description: Plans a strategy for a specific video game situation such as a build, boss, deck or run, diagnoses what is going wrong, and marks advice that depends on the patch. Use when stuck.
+policy:
+  allow_implicit_invocation: false

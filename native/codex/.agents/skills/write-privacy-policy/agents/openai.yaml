@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a privacy policy
+  short_description: Drafts a plain-language privacy policy strictly from a product's actual data practices, structured for the stated jurisdictions, and flags every gap or risky practice for legal review.
+policy:
+  allow_implicit_invocation: false

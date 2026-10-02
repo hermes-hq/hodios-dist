@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a podcast guest pitch
+  short_description: Writes a short pitch to appear as a guest on a podcast, tailored to the show's audience with three concrete episode angles and a follow-up. Use when pitching yourself to a show.
+policy:
+  allow_implicit_invocation: false

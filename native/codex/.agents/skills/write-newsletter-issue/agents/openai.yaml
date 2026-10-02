@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a newsletter issue
+  short_description: Writes a newsletter issue from notes and links in the author's voice, with subject lines, preview text, an intro, sections and a sign-off. Use when turning rough notes into an issue.
+policy:
+  allow_implicit_invocation: false

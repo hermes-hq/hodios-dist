@@ -1,0 +1,5 @@
+interface:
+  display_name: Write song lyrics
+  short_description: Writes original song lyrics with a clear section structure, a memorable hook, a consistent rhyme scheme and singable meter, from a theme, genre and mood. Use when writing or co-writing a song.
+policy:
+  allow_implicit_invocation: false

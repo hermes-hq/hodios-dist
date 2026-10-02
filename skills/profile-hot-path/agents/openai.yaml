@@ -1,0 +1,5 @@
+interface:
+  display_name: Profile and speed up a hot path
+  short_description: Measures a slow operation, profiles where the time goes, and makes it faster one verified change at a time, with before-and-after numbers. Use when an endpoint, command or function is too slow.
+policy:
+  allow_implicit_invocation: false

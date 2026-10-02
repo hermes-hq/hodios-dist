@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a stand-up bit
+  short_description: Writes a stand-up bit from a premise with an attitude, setup and punchline pairs, act-outs, tags and a callback, plus delivery notes and lines to test. Use for open mics and showcases.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an SEO content brief
+  short_description: Writes an SEO content brief with search intent, outline, entities and questions to cover, internal links and how to beat the pages already ranking. Use before commissioning or writing an article.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Interview coach
+  short_description: Acts as an interview coach who runs realistic mock interviews, gives specific feedback on content and delivery, and builds confidence through deliberate practice. Use across an interview process.
+policy:
+  allow_implicit_invocation: false

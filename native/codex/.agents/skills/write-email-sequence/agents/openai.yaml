@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an email sequence
+  short_description: Writes an onboarding or nurture email sequence with one job per email, send timing and triggers, exit conditions, subject lines and full copy. Use for automated lifecycle email.
+policy:
+  allow_implicit_invocation: false

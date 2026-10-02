@@ -1,0 +1,5 @@
+interface:
+  display_name: Story development track
+  short_description: Takes a story from premise to characters, an outline, a sample scene and revision notes, stopping for the author's approval between steps. Use when starting a new novel or story.
+policy:
+  allow_implicit_invocation: false

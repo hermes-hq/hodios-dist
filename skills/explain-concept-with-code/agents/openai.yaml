@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a concept with code
+  short_description: Explains a programming concept through the problem it solves, a minimal runnable example, a common mistake and a quick self-check, pitched at the learner's level. Use to learn or teach a concept.
+policy:
+  allow_implicit_invocation: false

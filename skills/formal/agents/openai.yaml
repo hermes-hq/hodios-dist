@@ -1,0 +1,5 @@
+interface:
+  display_name: Formal
+  short_description: Shifts any answer toward a formal, professional register, from lightly polished wording to fully formal correspondence and ceremonial language, without changing the content.
+policy:
+  allow_implicit_invocation: false

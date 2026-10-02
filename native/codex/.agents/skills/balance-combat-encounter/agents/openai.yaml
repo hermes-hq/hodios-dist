@@ -1,0 +1,5 @@
+interface:
+  display_name: Balance a combat encounter
+  short_description: Balances a combat encounter for a specific party with the system's own budget math, then adds terrain, monster tactics and knobs to scale it up or down at the table. Use when prepping a fight.
+policy:
+  allow_implicit_invocation: false

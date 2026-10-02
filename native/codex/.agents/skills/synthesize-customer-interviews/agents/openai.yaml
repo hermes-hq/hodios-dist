@@ -1,0 +1,5 @@
+interface:
+  display_name: Synthesize customer interviews
+  short_description: Synthesises customer interview transcripts into themes, needs, pains and verbatim quotes, with how many participants support each and a confidence level. Use after a round of interviews.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Reframe a resume for a career change
+  short_description: Maps transferable skills from a previous career to a new field, names the real gaps, and rewrites the resume summary and bullets around the overlap. Use when changing fields or functions.
+policy:
+  allow_implicit_invocation: false

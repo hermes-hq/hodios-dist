@@ -1,0 +1,5 @@
+interface:
+  display_name: Triage a production alert
+  short_description: Turns a firing production alert into a severity call, the safest mitigation to try first, ranked hypotheses and the next checks. Use in the first minutes of an incident or page.
+policy:
+  allow_implicit_invocation: false

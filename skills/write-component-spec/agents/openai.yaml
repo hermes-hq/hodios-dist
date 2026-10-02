@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a design-system component spec
+  short_description: Writes a design-system component spec covering anatomy, variants, states, behaviour, tokens, content rules, dos and don'ts, and accessibility. Use when adding or documenting a component.
+policy:
+  allow_implicit_invocation: false

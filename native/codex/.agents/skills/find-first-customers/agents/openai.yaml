@@ -1,0 +1,5 @@
+interface:
+  display_name: Find your first ten customers
+  short_description: Plans how to land the first ten paying customers - where they gather, a named prospect list, outreach scripts and weekly experiments with targets. Use right after validating an idea or launching.
+policy:
+  allow_implicit_invocation: false

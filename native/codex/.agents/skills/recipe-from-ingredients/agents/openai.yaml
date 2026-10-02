@@ -1,0 +1,5 @@
+interface:
+  display_name: Suggest recipes from what you have
+  short_description: Suggests recipes that use the ingredients on hand, with substitutions, a time breakdown and a short list of what to buy to complete each one. Use when the fridge is full of odds and ends.
+policy:
+  allow_implicit_invocation: false

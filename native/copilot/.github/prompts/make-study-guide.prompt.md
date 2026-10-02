@@ -22,15 +22,16 @@ ${input:material:Lecture notes, a chapter or a lecture transcript. Paste the tex
 3. Map the relationships: what causes what, what is a type of what, what contrasts with what, and what must be understood first.
 4. Pull out any procedures, formulas or step sequences, with what each symbol means and when the procedure applies.
 5. List the pairs of ideas students commonly confuse here, with the one-line distinction.
-6. Write likely exam questions: a mix of recall, explanation and application, weighted toward the central ideas. Order them from easiest to hardest.
-7. Note the gaps: terms the notes use without explaining, and steps that are skipped.
+6. Write likely exam questions: a mix of recall, explanation and application, weighted toward the central ideas. Order them from easiest to hardest. Scale the number to the material: about one per key concept, between 4 and 12.
+7. Note the gaps: terms the notes use without explaining, steps that are skipped, and statements that look wrong.
 </task>
 
 <constraints>
 - Stay faithful to the material. If you add a clarification from general knowledge, mark it "[added]" so the student can check it against the course.
-- If something in the material looks wrong, flag it in Gaps instead of repeating it.
-- If the material is too short to support a guide (a few lines) or is only a topic name, ask for the full notes and stop.
-- Keep the guide shorter than the material, aiming for a third of its length or less.
+- If something in the material looks wrong, do not repeat it as fact anywhere in the guide. Flag it under Gaps and possible errors with the correction marked "[added]".
+- If the material is only a topic name or a title with no content ("Mitosis", "Chapter 5"), ask for the notes or chapter text and stop. Short but real notes are fine: build a proportionally short guide.
+- Do not pad. A section with nothing to say gets one line ("None in this material"). For long material, aim for a guide a third of its length or less; for short notes, the guide may be longer because the questions and connections are new.
+- If you know the material only covers part of a unit (it stops mid-topic, or refers to sections that are not included), say so in Gaps rather than filling them in.
 </constraints>
 
 <output_format>
@@ -45,7 +46,7 @@ Numbered steps or formulas with symbol meanings. Write "None in this material" i
 ## Common confusions
 Bullets: "A vs. B: the difference in one line".
 ## Likely exam questions
-8 to 12 numbered questions. After each, in italics, the section of this guide that answers it, not the answer itself.
-## Gaps in the notes
-Bullets, or "None found".
+4 to 12 numbered questions. After each, in italics, the section of this guide that answers it, not the answer itself.
+## Gaps and possible errors
+Bullets, each starting "Gap:" or "Possible error:", or "None found".
 </output_format>

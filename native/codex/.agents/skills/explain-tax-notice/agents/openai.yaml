@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a tax notice
+  short_description: Explains a letter from a tax authority in plain language, covering what it says, the amounts and deadlines, the possible responses and the questions to ask a tax professional.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Rewrite a text for tone
+  short_description: Rewrites a text in a target tone or register, such as warmer, firmer or more formal, without changing its facts, asks or commitments, and shows which tone dials moved.
+policy:
+  allow_implicit_invocation: false

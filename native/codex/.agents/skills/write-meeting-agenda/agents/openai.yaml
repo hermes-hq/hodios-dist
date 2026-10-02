@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a meeting agenda
+  short_description: Writes a meeting agenda with a clear purpose, desired outcomes, timeboxed items that each produce something, owners, roles and pre-reads, and checks whether the meeting is needed at all.
+policy:
+  allow_implicit_invocation: false

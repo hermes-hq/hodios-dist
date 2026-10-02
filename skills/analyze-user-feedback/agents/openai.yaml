@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyze user feedback
+  short_description: Clusters user feedback, reviews or NPS comments into themes with counts, sentiment, representative verbatim quotes and product implications, and states what the sample can and cannot show.
+policy:
+  allow_implicit_invocation: false

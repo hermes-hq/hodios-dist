@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a LinkedIn post
+  short_description: Writes a LinkedIn post from an idea or experience with a hook, a specific story and a takeaway, in the author's voice and without engagement bait. Use when posting on LinkedIn.
+policy:
+  allow_implicit_invocation: false

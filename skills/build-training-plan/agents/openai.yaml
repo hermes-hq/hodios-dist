@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a progressive training plan
+  short_description: Builds a progressive training plan for a goal, weekly schedule and available equipment, with deload weeks, progression rules and safety notes. Use when starting or restarting training.
+policy:
+  allow_implicit_invocation: false

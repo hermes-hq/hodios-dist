@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a product description
+  short_description: Writes e-commerce product descriptions that lead with benefits, include scannable specs and use the search terms buyers actually type. Use for store, marketplace or catalogue listings.
+policy:
+  allow_implicit_invocation: false

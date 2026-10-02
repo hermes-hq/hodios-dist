@@ -1,0 +1,5 @@
+interface:
+  display_name: Set up a chart of accounts
+  short_description: Proposes a lean chart of accounts for a small business type, with numbering, what belongs in each account, mapping notes for the bookkeeping software and the common mistakes to avoid.
+policy:
+  allow_implicit_invocation: false

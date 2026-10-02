@@ -1,5 +1,5 @@
 interface:
   display_name: Fix keyboard navigation in a component
-  short_description: Finds and fixes keyboard barriers in a UI component, such as broken focus order, traps, invisible focus and mouse-only controls, and adds a keyboard test checklist.
+  short_description: Finds and fixes keyboard barriers in a UI component (focus order, traps, invisible focus, mouse-only controls) and adds a keyboard test checklist. Use when a widget fails without a mouse.
 policy:
   allow_implicit_invocation: false

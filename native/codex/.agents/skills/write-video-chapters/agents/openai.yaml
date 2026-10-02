@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a video description with chapters
+  short_description: Writes a YouTube description with timestamped chapters, labelled links and searchable keywords from a video transcript. Use when publishing a long video.
+policy:
+  allow_implicit_invocation: false

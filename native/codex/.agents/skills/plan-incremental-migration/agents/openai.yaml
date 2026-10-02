@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan an incremental migration
+  short_description: Plans a framework, platform or system migration as small reversible phases using the strangler fig pattern, with data strategy, verification and rollback per phase. Use instead of a big-bang rewrite.
+policy:
+  allow_implicit_invocation: false

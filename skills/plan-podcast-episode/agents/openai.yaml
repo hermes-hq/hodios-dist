@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a podcast episode
+  short_description: Outlines a solo, interview or panel podcast episode with timed segments, talking points, questions and transitions. Use when preparing an episode before recording.
+policy:
+  allow_implicit_invocation: false

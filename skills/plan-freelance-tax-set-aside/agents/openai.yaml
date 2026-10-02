@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a freelance tax set-aside
+  short_description: Estimates what percentage of freelance income to set aside for tax, with every assumption stated, a simple saving routine and a payment calendar to confirm with an accountant.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Self-review a branch before opening a PR
+  short_description: Reviews your own branch the way a strict reviewer would, catches debug leftovers, unrelated changes, missing tests and leaked secrets, and runs the checks. Use before requesting review.
+policy:
+  allow_implicit_invocation: false

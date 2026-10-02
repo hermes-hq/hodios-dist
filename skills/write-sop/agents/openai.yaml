@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a standard operating procedure
+  short_description: Writes a standard operating procedure from a process description - purpose, scope, roles, numbered steps, checks and exceptions - with gaps flagged for confirmation. Use to document a repeatable task.
+policy:
+  allow_implicit_invocation: false

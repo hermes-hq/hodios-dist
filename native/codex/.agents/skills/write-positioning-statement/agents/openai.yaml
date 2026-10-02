@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a positioning statement
+  short_description: Works out a product's positioning from competitive alternatives, unique attributes, value, best-fit customers and market category, then writes the statement. Use before messaging or a launch.
+policy:
+  allow_implicit_invocation: false

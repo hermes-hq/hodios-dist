@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a self-review
+  short_description: Writes a self-assessment for a performance review cycle that is specific, honest about misses, tied to the goals set and sized to the company's format. Use when the self-review form opens.
+policy:
+  allow_implicit_invocation: false

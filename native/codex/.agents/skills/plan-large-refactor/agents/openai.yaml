@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a large refactor in safe steps
+  short_description: Turns a large refactor into small, independently shippable steps that keep the build green, each with a rollback, using patterns like expand-contract. Use for refactors too big for one PR.
+policy:
+  allow_implicit_invocation: false

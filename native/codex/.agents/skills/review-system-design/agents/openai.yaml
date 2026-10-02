@@ -1,0 +1,5 @@
+interface:
+  display_name: Review a system design
+  short_description: Reviews a design document or proposal for failure modes, scaling limits, data and consistency risks and operability gaps, and returns ranked findings. Use before a design review or before building.
+policy:
+  allow_implicit_invocation: false

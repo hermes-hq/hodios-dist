@@ -1,0 +1,5 @@
+interface:
+  display_name: Negotiate a job offer
+  short_description: Prepares a job offer negotiation with market anchors to verify, ranked priorities, a target and walk-away point, scripts and responses to common pushback. Use after receiving an offer.
+policy:
+  allow_implicit_invocation: false

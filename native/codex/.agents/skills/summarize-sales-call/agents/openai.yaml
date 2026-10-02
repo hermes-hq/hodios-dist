@@ -1,0 +1,5 @@
+interface:
+  display_name: Summarise a sales call
+  short_description: Turns a sales call transcript into CRM-ready notes covering pains, budget, decision process, risks and agreed next steps, each backed by what was said. Use right after a call.
+policy:
+  allow_implicit_invocation: false

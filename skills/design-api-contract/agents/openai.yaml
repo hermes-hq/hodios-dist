@@ -1,0 +1,5 @@
+interface:
+  display_name: Design an API contract
+  short_description: Designs an API contract before implementation, with operations, schemas, errors, pagination, idempotency and evolution rules. Use when adding an API that other teams or clients will call.
+policy:
+  allow_implicit_invocation: false

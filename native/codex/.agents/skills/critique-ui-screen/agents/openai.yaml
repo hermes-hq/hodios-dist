@@ -1,0 +1,5 @@
+interface:
+  display_name: Critique a UI screen
+  short_description: Critiques one interface screen for hierarchy, layout, consistency, clarity and accessibility against its goal, and returns prioritised, concrete fixes. Use when reviewing a mockup or live screen.
+policy:
+  allow_implicit_invocation: false

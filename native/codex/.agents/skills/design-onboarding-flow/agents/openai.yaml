@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a first-run onboarding flow
+  short_description: Designs a first-run onboarding flow that gets new users to the activation moment fast, using progressive disclosure, skip paths and measurable steps. Use when designing or fixing onboarding.
+policy:
+  allow_implicit_invocation: false

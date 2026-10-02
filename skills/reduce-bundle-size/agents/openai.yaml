@@ -1,0 +1,5 @@
+interface:
+  display_name: Reduce JavaScript bundle size
+  short_description: Measures a web app's JavaScript bundles, finds the largest avoidable contributors, and shrinks them with verified changes ranked by bytes saved. Use when page load is slow or a size budget is blown.
+policy:
+  allow_implicit_invocation: false

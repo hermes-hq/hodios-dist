@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a networking message
+  short_description: Writes a short outreach message asking for an informational interview, a referral or advice that is specific, low-effort to accept and easy to decline. Use for LinkedIn or email outreach.
+policy:
+  allow_implicit_invocation: false

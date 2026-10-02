@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: translation
   source: https://hermes-ide.com/prompts/translator
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Translator

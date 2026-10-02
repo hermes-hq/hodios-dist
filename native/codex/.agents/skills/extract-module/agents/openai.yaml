@@ -1,0 +1,5 @@
+interface:
+  display_name: Extract a module
+  short_description: Moves one responsibility out of a large file or class into its own module in small, test-verified steps, without changing behaviour or the public API. Use when a file does too many things.
+policy:
+  allow_implicit_invocation: false

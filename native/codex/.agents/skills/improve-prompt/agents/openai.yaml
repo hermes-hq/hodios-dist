@@ -1,0 +1,5 @@
+interface:
+  display_name: Improve a prompt
+  short_description: Diagnoses why a prompt gives weak or inconsistent results and rewrites it with clear context, task, constraints and output format while keeping its intent. Use on any prompt for any AI assistant.
+policy:
+  allow_implicit_invocation: false

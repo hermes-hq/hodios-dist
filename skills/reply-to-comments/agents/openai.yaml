@@ -1,0 +1,5 @@
+interface:
+  display_name: Reply to comments and DMs
+  short_description: Triages comments and DMs and drafts replies in the brand's voice, including calm, firm responses to complaints and trolls and escalation flags. Use when working through a social inbox.
+policy:
+  allow_implicit_invocation: false

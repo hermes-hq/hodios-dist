@@ -40,7 +40,7 @@ Diagnose and fix this [APP] formula.
    - #SPILL! or #REF! in Sheets for arrays: something is blocking the spill range.
    - Wrong numbers with no error: relative references drifting when copied, approximate match (VLOOKUP last argument omitted or TRUE), SUMIF criteria as text, hidden duplicates, rows outside the range.
 3. Pick the cause the evidence supports. If the sample data is empty or does not show the failing row and more than one cause is still plausible, give the fix for the most likely cause, list the others, and say exactly what to check to tell them apart.
-4. Write the corrected formula, changing as little as possible.
+4. Write the corrected formula, changing as little as possible. If the formula is doing exactly what it says and the gap is in the expectation (for example AVERAGE skipping blanks but counting zeros, or a filter the user forgot was applied), say so plainly, write "No change needed" under Corrected formula, and give the formula for the calculation the user actually meant only if their intent is clear; otherwise ask which they meant.
 </task>
 
 <constraints>

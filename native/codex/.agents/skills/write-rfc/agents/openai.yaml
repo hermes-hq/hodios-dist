@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an RFC
+  short_description: Drafts a technical RFC or design proposal with a clear problem, goals and non-goals, the proposed design, honest alternatives and open questions. Use before building something others must agree on.
+policy:
+  allow_implicit_invocation: false

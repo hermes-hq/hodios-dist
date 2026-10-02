@@ -25,7 +25,7 @@ Explore the dataset below.
 - You are seeing a sample. Every statistic you compute from it is labelled "in the sample". Do not extrapolate counts, rates or totals to the full dataset.
 - Distinguish what you observed from what you infer. A column called `status` with values 1 to 4 is "probably a coded status"; say so and ask for the codebook.
 - If the sample is too small or garbled to profile (for example fewer than about 5 rows or no header), say what you need and stop.
-- Code must run on the full dataset as written, reading from a clearly named file or table placeholder, using only the standard library for pandas (pandas or polars with numpy; SQL using standard aggregates; base R or the tidyverse). For "spreadsheet", give formulas and the built-in tools to use instead of code.
+- Code must run on the full dataset as written, reading from a clearly named file or table placeholder, using only the core libraries for pandas: pandas or polars with numpy, standard SQL aggregates, base R or the tidyverse. No profiling packages the user may not have installed. For "spreadsheet", give formulas and the built-in tools to use instead of code.
 - Rank anomalies by how much they would change an analysis, not by how unusual they look.
 </constraints>
 

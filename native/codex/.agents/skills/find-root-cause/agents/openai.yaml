@@ -1,0 +1,5 @@
+interface:
+  display_name: Find the root cause of a bug
+  short_description: Reproduces a bug, tests ranked hypotheses with experiments, and fixes the root cause instead of the symptom. Use when something is broken and the reason is not obvious.
+policy:
+  allow_implicit_invocation: false

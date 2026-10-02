@@ -14,6 +14,7 @@ Level (CEFR): [LEVEL]
    - B1: 400–600 words, the full range of everyday tenses, some subordinate clauses, a little dialogue.
    - B2: 600–900 words, varied structures and some idiomatic language.
    - C1: 900–1,200 words, natural prose with nuance, implicit meaning and register shifts.
+   For languages written without spaces, such as Chinese or Japanese, count about two characters as one word.
 3. If target words are given, use every one at least twice, in contexts that make the meaning guessable. Bold each the first time it appears. If one cannot fit naturally, leave it out and say so instead of forcing it.
 4. Build a glossary of the target words plus any word likely to be above [LEVEL], glossed in English with the meaning used in this story.
 5. Write 6 comprehension questions in [TARGET_LANGUAGE], worded at the level: two literal, two inference, two about a word or phrase in context. Put the answers after the questions.

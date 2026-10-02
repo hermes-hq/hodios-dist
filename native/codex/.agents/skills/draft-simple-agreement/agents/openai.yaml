@@ -1,0 +1,5 @@
+interface:
+  display_name: Draft a simple agreement
+  short_description: Drafts a first version of a simple agreement such as freelance services, an NDA, a roommate deal or a loan between friends, with drafting notes for a lawyer to review before signing.
+policy:
+  allow_implicit_invocation: false

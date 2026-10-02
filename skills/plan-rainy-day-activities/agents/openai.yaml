@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan rainy-day activities
+  short_description: Suggests indoor activities for children's ages using materials already at home, with time needed, mess level, a schedule that alternates energy levels and a calm-down option.
+policy:
+  allow_implicit_invocation: false

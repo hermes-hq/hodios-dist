@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a livestream run of show
+  short_description: Plans a livestream or webinar run of show with timed segments, production cues, audience interaction, roles and contingency plans. Use when preparing a live broadcast.
+policy:
+  allow_implicit_invocation: false

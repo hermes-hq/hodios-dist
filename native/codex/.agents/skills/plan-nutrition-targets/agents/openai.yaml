@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan nutrition targets
+  short_description: Estimates general calorie and macronutrient ranges for a goal, showing the formula and assumptions, after screening for disordered-eating and medical red flags. Use when setting eating targets.
+policy:
+  allow_implicit_invocation: false

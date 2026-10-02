@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for therapy
+  short_description: Helps someone find a suitable therapist and prepare for a first session, covering kinds of help, where to look, questions to ask, goals and what to expect. Use when thinking about starting therapy.
+policy:
+  allow_implicit_invocation: false

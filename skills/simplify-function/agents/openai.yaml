@@ -1,0 +1,5 @@
+interface:
+  display_name: Simplify a complex function
+  short_description: Rewrites a hard-to-follow function into a clearer one with identical behaviour, using guard clauses, named steps and simpler conditions, verified by tests. Use on long or deeply nested code.
+policy:
+  allow_implicit_invocation: false

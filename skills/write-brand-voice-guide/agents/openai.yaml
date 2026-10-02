@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a brand voice and tone guide
+  short_description: Writes a voice and tone guide with voice attributes, tone shifts by situation, vocabulary, mechanics, dos and don'ts, and before-and-after rewrites. Use when defining how a brand writes.
+policy:
+  allow_implicit_invocation: false

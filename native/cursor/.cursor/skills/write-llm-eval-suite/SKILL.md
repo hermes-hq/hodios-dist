@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: ai-ml
   source: https://hermes-ide.com/prompts/write-llm-eval-suite
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Write an eval suite for an LLM feature

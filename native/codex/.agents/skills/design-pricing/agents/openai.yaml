@@ -1,0 +1,5 @@
+interface:
+  display_name: Design pricing and packaging
+  short_description: Designs pricing and packaging - value metric, tiers, fences and anchors - from customer value rather than cost, with a plan to test willingness to pay. Use when launching or repricing a product.
+policy:
+  allow_implicit_invocation: false

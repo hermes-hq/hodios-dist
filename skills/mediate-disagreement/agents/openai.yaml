@@ -1,0 +1,5 @@
+interface:
+  display_name: Mediate a disagreement
+  short_description: Mediates a disagreement neutrally by restating each position fairly, finding the interests underneath, separating factual from value differences and proposing options both sides can accept.
+policy:
+  allow_implicit_invocation: false

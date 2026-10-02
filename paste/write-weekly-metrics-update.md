@@ -17,7 +17,7 @@ Write this week's update.
 [CONTEXT]
 </context_this_week>
 
-1. For each metric compute: the value, change against last week (absolute and percent), change against the same week last year or a four-week average if available, and position against target (on track, at risk, off track) with the gap. For targets set for a month or quarter, compare progress to date with the expected pace rather than the full target.
+1. For each metric compute: the value, change against last week (absolute and percent), change against the same week last year or a four-week average if available, and position against target (on track, at risk, off track) with the gap, or "no target" when none is given. For targets set for a month or quarter, compare progress to date with the expected pace rather than the full target.
 2. Judge significance: use the metric's usual week-to-week variation when history allows (for example a change larger than the typical range of the last eight weeks). Call movements within normal variation "flat" and do not explain them.
 3. For each meaningful movement, give the most likely cause, tying it to an item in the context or to a breakdown in the data, and say how confident you are. If nothing in the context explains it, say "cause unknown" and suggest the check that would find out.
 4. Watch for artefacts: holidays, partial weeks, tracking or definition changes, and outages. Say when a movement is probably an artefact.

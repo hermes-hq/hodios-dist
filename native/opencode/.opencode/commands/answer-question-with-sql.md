@@ -37,7 +37,7 @@ using this schema:
 </task>
 
 <constraints>
-- Use only functions and syntax valid in [DIALECT] (for example DATE_TRUNC argument order differs between postgres, snowflake and bigquery; sqlite has no DATE_TRUNC; mysql lacks FULL OUTER JOIN).
+- Use only functions and syntax valid in [DIALECT] (for example DATE_TRUNC takes the unit first in postgres and snowflake but second in bigquery; sqlite and mysql have no DATE_TRUNC; mysql lacks FULL OUTER JOIN).
 - Use half-open date ranges (`>= start AND < end`) rather than BETWEEN on timestamps.
 - Count distinct entities with COUNT(DISTINCT ...); guard ratios against division by zero (NULLIF).
 - Use LEFT JOIN when rows with no match must still be counted, and say why.

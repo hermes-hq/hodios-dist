@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a project status report
+  short_description: Writes a project status report with an evidence-based RAG status, progress, risks, decisions needed and next steps, formatted as an email, a document or a single slide.
+policy:
+  allow_implicit_invocation: false

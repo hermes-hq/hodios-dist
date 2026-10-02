@@ -1,13 +1,13 @@
 ---
 name: write-screen-reader-test-plan
-description: Produces a manual screen-reader test script for a user flow on NVDA, JAWS, VoiceOver or TalkBack, with the keystrokes or gestures and expected announcements for each step.
+description: Writes a manual screen-reader test script for a user flow on NVDA, JAWS, VoiceOver or TalkBack, with keystrokes and expected announcements per step. Use before releasing a key flow.
 license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: prompt
   category: accessibility
   source: https://hermes-ide.com/prompts/write-screen-reader-test-plan
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Write a screen-reader test plan

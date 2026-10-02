@@ -1,0 +1,5 @@
+interface:
+  display_name: Brainstorm ideas
+  short_description: Generates many diverse ideas with structured techniques such as SCAMPER, constraint shifts and analogies, then clusters them and shortlists the strongest. Use when obvious answers fall short.
+policy:
+  allow_implicit_invocation: false

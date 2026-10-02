@@ -1,0 +1,5 @@
+interface:
+  display_name: Respond to code review comments
+  short_description: Triages each review comment as fix, discuss or decline with a reason, drafts the replies, and applies the agreed fixes. Use when a pull request comes back with reviewer feedback.
+policy:
+  allow_implicit_invocation: false

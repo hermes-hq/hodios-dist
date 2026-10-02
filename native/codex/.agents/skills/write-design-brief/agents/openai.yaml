@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a creative brief for a designer
+  short_description: Writes a one-page creative brief with objective, audience, single key message, deliverables, mandatories, constraints, references and success criteria. Use before commissioning design work.
+policy:
+  allow_implicit_invocation: false

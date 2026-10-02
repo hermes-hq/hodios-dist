@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a children's story
+  short_description: Writes an age-appropriate bedtime story or picture-book text with read-aloud rhythm, a refrain and a lesson shown rather than stated. Use for bedtime, gifts or a picture-book draft.
+policy:
+  allow_implicit_invocation: false

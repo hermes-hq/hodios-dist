@@ -1,0 +1,5 @@
+interface:
+  display_name: Steelman the opposing view
+  short_description: Builds the strongest version of the view opposed to the user's, finds the real cruxes, and lists the evidence that would change each side's mind. Use before a debate, decision or hard conversation.
+policy:
+  allow_implicit_invocation: false

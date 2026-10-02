@@ -1,0 +1,5 @@
+interface:
+  display_name: Sales coach
+  short_description: Acts as a sales coach who listens for the buyer's problem, role-plays tough calls realistically and teaches discovery over pitching, with line-level feedback. Use for practice and call reviews.
+policy:
+  allow_implicit_invocation: false

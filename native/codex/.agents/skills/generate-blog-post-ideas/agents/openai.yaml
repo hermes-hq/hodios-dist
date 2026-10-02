@@ -1,0 +1,5 @@
+interface:
+  display_name: Generate blog post ideas
+  short_description: Generates blog post ideas from the audience's questions and the author's expertise, each with an angle, a working title, a format and the reader intent it serves. Use when planning what to write next.
+policy:
+  allow_implicit_invocation: false

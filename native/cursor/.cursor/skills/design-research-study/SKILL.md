@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: research-methods
   source: https://hermes-ide.com/prompts/design-research-study
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Design a research study

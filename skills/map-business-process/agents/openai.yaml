@@ -1,0 +1,5 @@
+interface:
+  display_name: Map a business process
+  short_description: Maps a current-state business process, finds the bottleneck, handoff waste and rework loops, and proposes a future state with quick wins. Use when a process is slow, error-prone or frustrating.
+policy:
+  allow_implicit_invocation: false

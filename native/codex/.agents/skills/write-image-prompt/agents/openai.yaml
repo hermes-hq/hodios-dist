@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an image-generation prompt
+  short_description: Turns a rough idea into a detailed image-generation prompt (subject, composition, lighting, style, lens) in the chosen tool's syntax, with settings and variations. Use before generating an image.
+policy:
+  allow_implicit_invocation: false

@@ -3,11 +3,11 @@ name: respond-to-reviewers
 description: Drafts a point-by-point response to peer-review comments, giving the change made or a polite, evidenced rebuttal for each, never claiming unmade changes. Use for revise-and-resubmit.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: scientific-writing
   source: https://hermes-ide.com/prompts/respond-to-reviewers
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # Respond to peer reviewers
@@ -54,7 +54,9 @@ Changes made or planned, and the authors' positions:
 A table: ID | summary of the comment (under 12 words) | type | action | effort.
 ## Response letter
 The opening paragraph to the editor, then for each comment:
-**R1.1** > the reviewer's comment, quoted
+**R1.1**
+> The reviewer's comment, quoted verbatim.
+
 **Response:** the answer.
 **Change:** what changed and where, or "No change" with the reason.
 ## Open items

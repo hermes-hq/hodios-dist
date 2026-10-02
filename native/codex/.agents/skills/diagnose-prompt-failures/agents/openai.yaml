@@ -1,0 +1,5 @@
+interface:
+  display_name: Diagnose prompt failures
+  short_description: Diagnoses why a prompt produces bad answers from failing examples, traces each failure to a root cause, proposes targeted fixes and a quick regression test set.
+policy:
+  allow_implicit_invocation: false

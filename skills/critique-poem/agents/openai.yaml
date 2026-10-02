@@ -1,0 +1,5 @@
+interface:
+  display_name: Critique a poem
+  short_description: Gives close-reading feedback on a poem covering imagery, line breaks, sound and compression, then poses questions for revision instead of rewriting it. Use on a draft you want to push further.
+policy:
+  allow_implicit_invocation: false

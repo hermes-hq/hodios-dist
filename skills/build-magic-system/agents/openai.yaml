@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a magic system
+  short_description: Builds a magic or technology system with a source, rules, costs and limits, stress-tests it for exploits, and lists the story conflicts it creates. Use for fiction or tabletop settings.
+policy:
+  allow_implicit_invocation: false

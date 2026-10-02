@@ -1,5 +1,5 @@
 ---
-description: Designs an active-learning activity such as a jigsaw, think-pair-share or gallery walk, with timing, grouping, materials, teacher script and individual accountability.
+description: Designs an active-learning activity such as a jigsaw or gallery walk, with timing, grouping, materials, a teacher script and accountability. Use when lecture alone will not reach an objective.
 ---
 
 # Design an active-learning activity

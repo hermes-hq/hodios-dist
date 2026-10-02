@@ -1,0 +1,5 @@
+interface:
+  display_name: Create few-shot examples
+  short_description: Builds a small set of diverse, representative few-shot examples for a task, including tricky and negative cases, balanced so the model learns the rule rather than copying surface patterns.
+policy:
+  allow_implicit_invocation: false

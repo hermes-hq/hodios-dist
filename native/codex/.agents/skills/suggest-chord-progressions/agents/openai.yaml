@@ -1,0 +1,5 @@
+interface:
+  display_name: Suggest chord progressions with the theory behind them
+  short_description: Suggests chord progressions and voicings for a mood or a melody, spells every chord, and explains why each progression creates the feeling. Use when writing or arranging a song.
+policy:
+  allow_implicit_invocation: false

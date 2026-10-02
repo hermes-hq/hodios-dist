@@ -1,0 +1,5 @@
+interface:
+  display_name: Make reading notes
+  short_description: Turns highlights from an article or book into atomic, linkable notes written as claims in plain words, with source references, link suggestions and prompts for the reader's own takeaways.
+policy:
+  allow_implicit_invocation: false

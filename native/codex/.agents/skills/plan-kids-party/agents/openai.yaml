@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a children's birthday party
+  short_description: Plans a children's birthday party for the child's age and budget, with a theme, a timed schedule, games, food quantities, a shopping list and a countdown of what to do when.
+policy:
+  allow_implicit_invocation: false

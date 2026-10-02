@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a week of meals
+  short_description: Builds a weekly meal plan for a household with planned leftovers, a grocery list grouped by aisle and a short prep schedule, sized to the budget and weeknight cooking time. Use before the weekly shop.
+policy:
+  allow_implicit_invocation: false

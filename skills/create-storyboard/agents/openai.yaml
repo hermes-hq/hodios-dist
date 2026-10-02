@@ -1,0 +1,5 @@
+interface:
+  display_name: Create a storyboard with image prompts
+  short_description: Creates a shot-by-shot storyboard with shot size, angle, movement, action, sound and timing, plus a consistent image prompt for every frame. Use when planning a video, animation or comic.
+policy:
+  allow_implicit_invocation: false

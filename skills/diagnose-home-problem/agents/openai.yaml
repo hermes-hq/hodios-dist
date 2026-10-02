@@ -1,0 +1,5 @@
+interface:
+  display_name: Diagnose a household problem
+  short_description: Troubleshoots a household problem such as a leak, a tripping breaker or damp, starting with safety checks, then likely causes and safe checks, with clear points to stop and call a professional.
+policy:
+  allow_implicit_invocation: false

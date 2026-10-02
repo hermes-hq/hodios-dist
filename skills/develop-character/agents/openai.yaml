@@ -1,0 +1,5 @@
+interface:
+  display_name: Develop a character
+  short_description: Develops a fictional character with a want, a need, a flaw, a backstory that matters, a distinct voice and an arc that serves the story. Use when a character feels flat or generic.
+policy:
+  allow_implicit_invocation: false

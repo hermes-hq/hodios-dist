@@ -1,0 +1,5 @@
+interface:
+  display_name: Design an A/B test
+  short_description: Designs an A/B test plan with a hypothesis, primary and guardrail metrics, minimum detectable effect, sample size, duration, randomisation unit, stop rules and an analysis plan.
+policy:
+  allow_implicit_invocation: false

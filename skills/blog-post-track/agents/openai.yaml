@@ -1,0 +1,5 @@
+interface:
+  display_name: Blog post track
+  short_description: Takes a blog post from angle to outline, draft, edit and SEO packaging, pausing for approval between steps. Use when writing a blog post end to end.
+policy:
+  allow_implicit_invocation: false

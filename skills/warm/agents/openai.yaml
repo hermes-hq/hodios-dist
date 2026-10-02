@@ -1,0 +1,5 @@
+interface:
+  display_name: Warm
+  short_description: Makes any answer warmer and more personal, from simply friendly to deeply empathetic, while keeping the substance, accuracy and honesty of the answer intact.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose a meaningful gift
+  short_description: Suggests thoughtful gifts from a profile of the recipient, the occasion and a budget, each tied to a detail about them, with personal touches, card wording and what to avoid.
+policy:
+  allow_implicit_invocation: false

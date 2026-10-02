@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an agent handoff
+  short_description: Writes a self-contained handoff note so a fresh agent or a teammate can continue the current task without the conversation history. Use before ending a long session, switching tools or delegating.
+policy:
+  allow_implicit_invocation: false

@@ -31,7 +31,7 @@ ${input:changes:Merged PR titles and descriptions, commit messages, or a compare
 
 <output_format>
 ## Release notes
-The notes, ready to paste: a heading with the version if given, an optional one-sentence highlight, then sections in this order: Action required, New, Improved, Fixed, Security, Deprecated.
+The notes, ready to paste: a `###` heading with the version if given, an optional one-sentence highlight, then `####` sections in this order: Action required, New, Improved, Fixed, Security, Deprecated. Each item is a bullet.
 ## Left out
 Bullets: each dropped change and why it was left out (internal, merged into another item).
 ## Questions

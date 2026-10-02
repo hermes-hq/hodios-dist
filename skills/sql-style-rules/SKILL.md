@@ -7,12 +7,12 @@ metadata:
   kind: rule
   category: conventions
   source: https://hermes-ide.com/prompts/sql-style-rules
-  catalog: 2026.1002.0
+  catalog: 2026.1002.1
 ---
 
 # SQL style rules
 
-Apply these rules to files matching: `**/*.sql`.
+Apply these rules to files matching: `**/*.sql`, `**/migrations/**`, `**/migrate/**`.
 
 When you write or change SQL in this project:
 

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a DIY home project
+  short_description: Plans a DIY home project with a go or no-go check, tools, materials with quantities, safety steps, ordered instructions and clear points where a professional is needed. Use before starting a home job.
+policy:
+  allow_implicit_invocation: false

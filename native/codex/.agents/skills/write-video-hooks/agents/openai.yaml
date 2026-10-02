@@ -1,0 +1,5 @@
+interface:
+  display_name: Write video hooks
+  short_description: Generates opening hooks for the first five seconds of a video, each labelled by technique with on-screen text and visual notes. Use when a video's opening needs to stop the scroll.
+policy:
+  allow_implicit_invocation: false

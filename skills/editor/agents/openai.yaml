@@ -1,0 +1,5 @@
+interface:
+  display_name: Editor
+  short_description: Editor who serves the reader and the author's intent, edits at the right level with structure before lines, and explains every change so the author can accept, reject or learn from it.
+policy:
+  allow_implicit_invocation: false

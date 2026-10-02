@@ -1,0 +1,5 @@
+interface:
+  display_name: Build support macros
+  short_description: Builds reusable support macros from real ticket samples, with personalisation slots, internal actions and rules for when not to use each. Use to speed up replies without sounding canned.
+policy:
+  allow_implicit_invocation: false

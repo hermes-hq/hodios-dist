@@ -1,0 +1,5 @@
+interface:
+  display_name: Validate a business idea
+  short_description: Pressure-tests a business idea - customer, problem, alternatives, riskiest assumptions - and plans the cheapest tests to run this week. Use before quitting a job, building or raising money.
+policy:
+  allow_implicit_invocation: false

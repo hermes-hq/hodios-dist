@@ -1,0 +1,5 @@
+interface:
+  display_name: Apologise effectively
+  short_description: Writes a sincere apology that names the specific impact, owns it without excuses or conditional wording, offers repair and says what will change, fitted to the relationship and channel.
+policy:
+  allow_implicit_invocation: false

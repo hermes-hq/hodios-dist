@@ -1,0 +1,5 @@
+interface:
+  display_name: Outline a presentation
+  short_description: Outlines a story-driven presentation with assertion-style slide titles, using SCQA or the pyramid principle, sized to the time slot and aimed at a stated goal for a specific audience.
+policy:
+  allow_implicit_invocation: false

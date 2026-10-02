@@ -5,294 +5,161 @@
     "url": "https://hermes-ide.com"
   },
   "metadata": {
-    "description": "Hodios — prompts by Hermes IDE. Open prompts, personas and workflows, grouped by pack and category."
+    "description": "Hodios — prompts by Hermes IDE. Open prompts, personas and workflows, grouped by pack and domain."
   },
   "plugins": [
     {
-      "name": "hodios-accessibility",
-      "source": "./plugins/hodios-accessibility",
-      "description": "Hodios accessibility entries: prompts, personas and workflows.",
-      "category": "accessibility",
+      "name": "hodios-business",
+      "source": "./plugins/hodios-business",
+      "description": "Business and strategy prompts, personas and workflows from Hodios.",
+      "category": "business",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-ai-ml",
-      "source": "./plugins/hodios-ai-ml",
-      "description": "Hodios ai-ml entries: prompts, personas and workflows.",
-      "category": "ai-ml",
+      "name": "hodios-career-hr",
+      "source": "./plugins/hodios-career-hr",
+      "description": "Career and HR prompts, personas and workflows from Hodios.",
+      "category": "career-hr",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-architecture",
-      "source": "./plugins/hodios-architecture",
-      "description": "Hodios architecture entries: prompts, personas and workflows.",
-      "category": "architecture",
+      "name": "hodios-content-creation",
+      "source": "./plugins/hodios-content-creation",
+      "description": "Content creation prompts, personas and workflows from Hodios.",
+      "category": "content-creation",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-code-review",
-      "source": "./plugins/hodios-code-review",
-      "description": "Hodios code-review entries: prompts, personas and workflows.",
-      "category": "code-review",
+      "name": "hodios-creative-arts",
+      "source": "./plugins/hodios-creative-arts",
+      "description": "Creative arts prompts, personas and workflows from Hodios.",
+      "category": "creative-arts",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-conversation-practice",
-      "source": "./plugins/hodios-conversation-practice",
-      "description": "Hodios conversation-practice entries: prompts, personas and workflows.",
-      "category": "conversation-practice",
+      "name": "hodios-data-analysis",
+      "source": "./plugins/hodios-data-analysis",
+      "description": "Data analysis prompts, personas and workflows from Hodios.",
+      "category": "data-analysis",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-course-design",
-      "source": "./plugins/hodios-course-design",
-      "description": "Hodios course-design entries: prompts, personas and workflows.",
-      "category": "course-design",
+      "name": "hodios-design",
+      "source": "./plugins/hodios-design",
+      "description": "Design prompts, personas and workflows from Hodios.",
+      "category": "design",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-data",
-      "source": "./plugins/hodios-data",
-      "description": "Hodios data entries: prompts, personas and workflows.",
-      "category": "data",
+      "name": "hodios-education",
+      "source": "./plugins/hodios-education",
+      "description": "Learning and education prompts, personas and workflows from Hodios.",
+      "category": "education",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-data-exploration",
-      "source": "./plugins/hodios-data-exploration",
-      "description": "Hodios data-exploration entries: prompts, personas and workflows.",
-      "category": "data-exploration",
+      "name": "hodios-finance",
+      "source": "./plugins/hodios-finance",
+      "description": "Finance prompts, personas and workflows from Hodios.",
+      "category": "finance",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-data-visualization",
-      "source": "./plugins/hodios-data-visualization",
-      "description": "Hodios data-visualization entries: prompts, personas and workflows.",
-      "category": "data-visualization",
+      "name": "hodios-gaming-fun",
+      "source": "./plugins/hodios-gaming-fun",
+      "description": "Gaming and fun prompts, personas and workflows from Hodios.",
+      "category": "gaming-fun",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-debugging",
-      "source": "./plugins/hodios-debugging",
-      "description": "Hodios debugging entries: prompts, personas and workflows.",
-      "category": "debugging",
+      "name": "hodios-health-wellbeing",
+      "source": "./plugins/hodios-health-wellbeing",
+      "description": "Health and wellbeing prompts, personas and workflows from Hodios.",
+      "category": "health-wellbeing",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-devops",
-      "source": "./plugins/hodios-devops",
-      "description": "Hodios devops entries: prompts, personas and workflows.",
-      "category": "devops",
+      "name": "hodios-home-cooking",
+      "source": "./plugins/hodios-home-cooking",
+      "description": "Cooking and home prompts, personas and workflows from Hodios.",
+      "category": "home-cooking",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-docs",
-      "source": "./plugins/hodios-docs",
-      "description": "Hodios docs entries: prompts, personas and workflows.",
-      "category": "docs",
+      "name": "hodios-languages",
+      "source": "./plugins/hodios-languages",
+      "description": "Languages prompts, personas and workflows from Hodios.",
+      "category": "languages",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-exam-prep",
-      "source": "./plugins/hodios-exam-prep",
-      "description": "Hodios exam-prep entries: prompts, personas and workflows.",
-      "category": "exam-prep",
+      "name": "hodios-legal-admin",
+      "source": "./plugins/hodios-legal-admin",
+      "description": "Legal and admin prompts, personas and workflows from Hodios.",
+      "category": "legal-admin",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-fact-checking",
-      "source": "./plugins/hodios-fact-checking",
-      "description": "Hodios fact-checking entries: prompts, personas and workflows.",
-      "category": "fact-checking",
+      "name": "hodios-marketing-sales",
+      "source": "./plugins/hodios-marketing-sales",
+      "description": "Marketing and sales prompts, personas and workflows from Hodios.",
+      "category": "marketing-sales",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-git",
-      "source": "./plugins/hodios-git",
-      "description": "Hodios git entries: prompts, personas and workflows.",
-      "category": "git",
+      "name": "hodios-parenting-family",
+      "source": "./plugins/hodios-parenting-family",
+      "description": "Parenting and family prompts, personas and workflows from Hodios.",
+      "category": "parenting-family",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-implementation",
-      "source": "./plugins/hodios-implementation",
-      "description": "Hodios implementation entries: prompts, personas and workflows.",
-      "category": "implementation",
+      "name": "hodios-product-management",
+      "source": "./plugins/hodios-product-management",
+      "description": "Product management prompts, personas and workflows from Hodios.",
+      "category": "product-management",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-incident",
-      "source": "./plugins/hodios-incident",
-      "description": "Hodios incident entries: prompts, personas and workflows.",
-      "category": "incident",
+      "name": "hodios-productivity",
+      "source": "./plugins/hodios-productivity",
+      "description": "Productivity and personal life prompts, personas and workflows from Hodios.",
+      "category": "productivity",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-language-learning",
-      "source": "./plugins/hodios-language-learning",
-      "description": "Hodios language-learning entries: prompts, personas and workflows.",
-      "category": "language-learning",
+      "name": "hodios-prompting",
+      "source": "./plugins/hodios-prompting",
+      "description": "Prompting and assistants prompts, personas and workflows from Hodios.",
+      "category": "prompting",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-learning",
-      "source": "./plugins/hodios-learning",
-      "description": "Hodios learning entries: prompts, personas and workflows.",
-      "category": "learning",
+      "name": "hodios-research-science",
+      "source": "./plugins/hodios-research-science",
+      "description": "Research and science prompts, personas and workflows from Hodios.",
+      "category": "research-science",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-literature-review",
-      "source": "./plugins/hodios-literature-review",
-      "description": "Hodios literature-review entries: prompts, personas and workflows.",
-      "category": "literature-review",
+      "name": "hodios-software-engineering",
+      "source": "./plugins/hodios-software-engineering",
+      "description": "Software engineering prompts, personas and workflows from Hodios.",
+      "category": "software-engineering",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-local-culture",
-      "source": "./plugins/hodios-local-culture",
-      "description": "Hodios local-culture entries: prompts, personas and workflows.",
-      "category": "local-culture",
+      "name": "hodios-travel",
+      "source": "./plugins/hodios-travel",
+      "description": "Travel prompts, personas and workflows from Hodios.",
+      "category": "travel",
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-localization",
-      "source": "./plugins/hodios-localization",
-      "description": "Hodios localization entries: prompts, personas and workflows.",
-      "category": "localization",
-      "license": "CC0-1.0"
-    },
-    {
-      "name": "hodios-migration",
-      "source": "./plugins/hodios-migration",
-      "description": "Hodios migration entries: prompts, personas and workflows.",
-      "category": "migration",
-      "license": "CC0-1.0"
-    },
-    {
-      "name": "hodios-peer-review",
-      "source": "./plugins/hodios-peer-review",
-      "description": "Hodios peer-review entries: prompts, personas and workflows.",
-      "category": "peer-review",
-      "license": "CC0-1.0"
-    },
-    {
-      "name": "hodios-performance",
-      "source": "./plugins/hodios-performance",
-      "description": "Hodios performance entries: prompts, personas and workflows.",
-      "category": "performance",
-      "license": "CC0-1.0"
-    },
-    {
-      "name": "hodios-planning",
-      "source": "./plugins/hodios-planning",
-      "description": "Hodios planning entries: prompts, personas and workflows.",
-      "category": "planning",
-      "license": "CC0-1.0"
-    },
-    {
-      "name": "hodios-refactoring",
-      "source": "./plugins/hodios-refactoring",
-      "description": "Hodios refactoring entries: prompts, personas and workflows.",
-      "category": "refactoring",
-      "license": "CC0-1.0"
-    },
-    {
-      "name": "hodios-reporting",
-      "source": "./plugins/hodios-reporting",
-      "description": "Hodios reporting entries: prompts, personas and workflows.",
-      "category": "reporting",
-      "license": "CC0-1.0"
-    },
-    {
-      "name": "hodios-research-methods",
-      "source": "./plugins/hodios-research-methods",
-      "description": "Hodios research-methods entries: prompts, personas and workflows.",
-      "category": "research-methods",
-      "license": "CC0-1.0"
-    },
-    {
-      "name": "hodios-scientific-writing",
-      "source": "./plugins/hodios-scientific-writing",
-      "description": "Hodios scientific-writing entries: prompts, personas and workflows.",
-      "category": "scientific-writing",
-      "license": "CC0-1.0"
-    },
-    {
-      "name": "hodios-security",
-      "source": "./plugins/hodios-security",
-      "description": "Hodios security entries: prompts, personas and workflows.",
-      "category": "security",
-      "license": "CC0-1.0"
-    },
-    {
-      "name": "hodios-spreadsheets",
-      "source": "./plugins/hodios-spreadsheets",
-      "description": "Hodios spreadsheets entries: prompts, personas and workflows.",
-      "category": "spreadsheets",
-      "license": "CC0-1.0"
-    },
-    {
-      "name": "hodios-statistics",
-      "source": "./plugins/hodios-statistics",
-      "description": "Hodios statistics entries: prompts, personas and workflows.",
-      "category": "statistics",
-      "license": "CC0-1.0"
-    },
-    {
-      "name": "hodios-studying",
-      "source": "./plugins/hodios-studying",
-      "description": "Hodios studying entries: prompts, personas and workflows.",
-      "category": "studying",
-      "license": "CC0-1.0"
-    },
-    {
-      "name": "hodios-teaching",
-      "source": "./plugins/hodios-teaching",
-      "description": "Hodios teaching entries: prompts, personas and workflows.",
-      "category": "teaching",
-      "license": "CC0-1.0"
-    },
-    {
-      "name": "hodios-testing",
-      "source": "./plugins/hodios-testing",
-      "description": "Hodios testing entries: prompts, personas and workflows.",
-      "category": "testing",
-      "license": "CC0-1.0"
-    },
-    {
-      "name": "hodios-translation",
-      "source": "./plugins/hodios-translation",
-      "description": "Hodios translation entries: prompts, personas and workflows.",
-      "category": "translation",
-      "license": "CC0-1.0"
-    },
-    {
-      "name": "hodios-travel-logistics",
-      "source": "./plugins/hodios-travel-logistics",
-      "description": "Hodios travel-logistics entries: prompts, personas and workflows.",
-      "category": "travel-logistics",
-      "license": "CC0-1.0"
-    },
-    {
-      "name": "hodios-trip-planning",
-      "source": "./plugins/hodios-trip-planning",
-      "description": "Hodios trip-planning entries: prompts, personas and workflows.",
-      "category": "trip-planning",
-      "license": "CC0-1.0"
-    },
-    {
-      "name": "hodios-tutoring",
-      "source": "./plugins/hodios-tutoring",
-      "description": "Hodios tutoring entries: prompts, personas and workflows.",
-      "category": "tutoring",
-      "license": "CC0-1.0"
-    },
-    {
-      "name": "hodios-writing",
-      "source": "./plugins/hodios-writing",
-      "description": "Hodios writing entries: prompts, personas and workflows.",
-      "category": "writing",
+      "name": "hodios-writing-communication",
+      "source": "./plugins/hodios-writing-communication",
+      "description": "Writing and communication prompts, personas and workflows from Hodios.",
+      "category": "writing-communication",
       "license": "CC0-1.0"
     }
   ]

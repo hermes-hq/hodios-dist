@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a promotional email
+  short_description: Writes a promotional campaign email with subject line and preheader variants, a single call to action, clear offer terms and a plain-text version. Use for sales, launches and limited-time offers.
+policy:
+  allow_implicit_invocation: false

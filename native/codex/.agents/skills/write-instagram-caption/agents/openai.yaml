@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an Instagram caption
+  short_description: Writes Instagram caption options with a hook, a call to action, relevant hashtags and plain alt text for each image or slide. Use when posting a photo, carousel or Reel on Instagram.
+policy:
+  allow_implicit_invocation: false

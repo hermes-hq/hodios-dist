@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a product teardown
+  short_description: Tears down a product's onboarding, value moments, pricing, retention and growth mechanics, separates observed facts from inference, and turns them into lessons for your own product.
+policy:
+  allow_implicit_invocation: false

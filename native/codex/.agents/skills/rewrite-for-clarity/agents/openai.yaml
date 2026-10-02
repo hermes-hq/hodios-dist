@@ -1,0 +1,5 @@
+interface:
+  display_name: Rewrite for clarity
+  short_description: Rewrites technical prose so the main point comes first and every sentence is plain and specific, while keeping every fact, number and caveat. Use on design notes, emails, RFC drafts and docs.
+policy:
+  allow_implicit_invocation: false

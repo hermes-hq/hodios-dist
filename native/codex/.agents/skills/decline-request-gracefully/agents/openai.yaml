@@ -1,0 +1,5 @@
+interface:
+  display_name: Decline a request gracefully
+  short_description: Declines a request or invitation clearly and kindly in the first lines, gives an honest brief reason if wanted, offers only real alternatives and preserves the relationship.
+policy:
+  allow_implicit_invocation: false

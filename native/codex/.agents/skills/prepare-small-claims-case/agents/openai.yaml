@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a small-claims case
+  short_description: Organises a small-claims dispute into a dated timeline, an evidence index, a short neutral statement of the claim and the amount, plus the procedural questions to confirm with the local court.
+policy:
+  allow_implicit_invocation: false

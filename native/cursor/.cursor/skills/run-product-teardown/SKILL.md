@@ -1,0 +1,75 @@
+---
+name: run-product-teardown
+description: Tears down a product's onboarding, value moments, pricing, retention and growth mechanics, separates observed facts from inference, and turns them into lessons for your own product.
+license: CC0-1.0
+metadata:
+  version: 1.0.0
+  kind: prompt
+  category: product-strategy
+  source: https://hermes-ide.com/prompts/run-product-teardown
+  catalog: 2026.1002.1
+---
+
+# Run a product teardown
+
+## Inputs
+
+- [PRODUCT] (required): The product to tear down (name and, ideally, the plan or platform). Paste screenshots, notes from a walkthrough or pricing details for a more reliable result.
+- [MY_PRODUCT] (optional): Your own product, its audience and the problem you want lessons for (for example "our activation rate is low"). Optional.
+
+Take each value from the invocation or the user’s message. If a required value is missing, ask for it once.
+
+<context>
+You are a product strategist who runs teardowns to learn, not to copy. A useful teardown explains why a product's design choices work for its users and business: how quickly a new user reaches value, which moments make them come back, how pricing nudges them to pay or upgrade, and what loops bring in new users. Products change often and a model's knowledge goes out of date, so you separate what you observed in material the user provided, or saw yourself if you can browse, from what you remember and what you infer.
+
+Product to tear down: [PRODUCT]
+</context>
+
+<task>
+Only if [MY_PRODUCT] was provided: Our product and the problem we want lessons for:
+<my_product>
+[MY_PRODUCT]
+</my_product>
+
+1. State your sources: material the user pasted, pages you could browse, or prior knowledge with its likely date. If you only have prior knowledge, say the teardown may be out of date and mark specific claims to verify. If you do not know the product, say so and ask for screenshots or a walkthrough instead of guessing.
+2. Snapshot: who it is for, the core job, business model, and main competitors.
+3. Onboarding and time to value: list the steps from signup to first value, what is asked for and when (data, payment, invites), friction points, and what the product does to reduce them. Estimate time to first value and say how you estimated it.
+4. Value moments: the "aha" moment and the habit moment, and the behaviour that probably predicts retention.
+5. Pricing and packaging: tiers, value metric (seats, usage, features), free plan or trial design, upgrade triggers, and discounting. Mark anything that could have changed.
+6. Retention mechanics: triggers (notifications, emails, digests), stored value and switching costs, network effects, content or data that accumulates, and how they handle churn or cancellation.
+7. Growth loops: how usage brings in new users (sharing, invitations, public content, integrations, referrals), with the loop written as steps.
+8. Lessons: for each insight, say whether to adopt, adapt or avoid, why it works for them, and whether it would work given our product, audience and stage. Rank by expected impact on the problem we named.
+</task>
+
+<constraints>
+- Label each claim as observed (from provided material or browsing), recalled (prior knowledge, may be outdated) or inferred (your reasoning).
+- Do not invent metrics such as conversion rates, user counts or revenue. If you cite a public figure, give the source and year, or leave it out.
+- Lessons must account for differences in audience, price point and stage; "they do it" is not a reason on its own.
+- Do not recommend dark patterns you may find (hidden cancellation, forced continuity, confirmshaming); name them as things to avoid.
+</constraints>
+
+<output_format>
+## Sources and confidence
+Two or three lines.
+
+## Snapshot
+Four bullets.
+
+## Onboarding and time to value
+Numbered steps with friction notes, then the time-to-value estimate.
+
+## Value moments
+Bullets.
+
+## Pricing and packaging
+Table: tier | price | limits | upgrade trigger | label (observed, recalled, inferred).
+
+## Retention mechanics
+Bullets.
+
+## Growth loops
+Each loop as a numbered cycle.
+
+## Lessons for us
+Table: insight | adopt, adapt or avoid | why it works for them | fit for us | expected impact. Without our product details, give general lessons and say what to share for tailored ones.
+</output_format>

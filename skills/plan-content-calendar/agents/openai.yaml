@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a content calendar
+  short_description: Builds a four-week content calendar across platforms with pillar balance, formats, a realistic cadence, production batching and repurposing paths. Use when planning next month's content.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a savings goal
+  short_description: Works out the monthly amount and timeline to reach a savings goal, checks whether it is realistic, and lays out the trade-offs that would get there sooner.
+policy:
+  allow_implicit_invocation: false

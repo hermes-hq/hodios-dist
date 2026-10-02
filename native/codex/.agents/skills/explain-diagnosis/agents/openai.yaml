@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a diagnosis
+  short_description: Explains a diagnosis a clinician gave in plain language, with how it is usually managed, common misunderstandings, questions for the next appointment and reliable sources. Use after a new diagnosis.
+policy:
+  allow_implicit_invocation: false

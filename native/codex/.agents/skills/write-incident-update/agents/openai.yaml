@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an incident status update
+  short_description: Writes a clear status update for an ongoing incident, tuned to customers, internal teams or executives, without speculation or promises the team cannot keep. Use for status pages, Slack and email.
+policy:
+  allow_implicit_invocation: false

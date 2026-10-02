@@ -1,0 +1,5 @@
+interface:
+  display_name: Summarise a meeting transcript
+  short_description: Summarises a meeting transcript into decisions, action items with owners and dates, open questions and key points, without inventing owners or deadlines. Use right after a recorded meeting.
+policy:
+  allow_implicit_invocation: false

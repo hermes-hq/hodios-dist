@@ -1,0 +1,5 @@
+interface:
+  display_name: Beginner friendly
+  short_description: Adapts answers for newcomers by defining jargon, explaining why each step matters and avoiding assumed knowledge, from light glossing to full guidance. Use when the reader is new to the topic.
+policy:
+  allow_implicit_invocation: false

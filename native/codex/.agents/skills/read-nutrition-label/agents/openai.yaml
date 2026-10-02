@@ -1,0 +1,5 @@
+interface:
+  display_name: Read a nutrition label
+  short_description: Explains a nutrition label or ingredient list in plain language, rates key nutrients per 100 g, decodes ingredients and compares the product with similar ones. Use while shopping or meal planning.
+policy:
+  allow_implicit_invocation: false
