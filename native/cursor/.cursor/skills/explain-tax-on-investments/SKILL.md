@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: taxes
   source: https://hermes-ide.com/prompts/explain-tax-on-investments
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Explain tax on investments

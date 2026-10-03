@@ -1,0 +1,5 @@
+interface:
+  display_name: Index case documents and build a chronology
+  short_description: Builds a document index and a sourced chronology from a set of case documents, with dates, parties, document type, relevance to the issues, duplicates and gaps in the record.
+policy:
+  allow_implicit_invocation: false

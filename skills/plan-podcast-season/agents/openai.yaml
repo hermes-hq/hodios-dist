@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a podcast season
+  short_description: Plans a podcast season with a theme, an episode arc, guest targets, a release cadence and promotion beats, sized to the team's real capacity. Use when planning the next run of episodes.
+policy:
+  allow_implicit_invocation: false

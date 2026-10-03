@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for culture shock
+  short_description: Prepares someone moving or studying abroad for culture shock, with what to expect by stage, local norms that differ, coping habits and building a network. Use before or after a move.
+policy:
+  allow_implicit_invocation: false

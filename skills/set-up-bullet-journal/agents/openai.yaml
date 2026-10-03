@@ -1,0 +1,5 @@
+interface:
+  display_name: Set up a bullet journal
+  short_description: Designs a bullet journal or paper planner setup for the person's needs - a key, collections, future, monthly and daily logs and a migration routine that fits their time.
+policy:
+  allow_implicit_invocation: false

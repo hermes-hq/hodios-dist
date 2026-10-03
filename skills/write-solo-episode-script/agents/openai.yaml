@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a solo podcast episode script
+  short_description: Turns an outline or notes into a spoken solo podcast script written for the ear, with delivery marks, segment word budgets and slots for the host's own stories. Use before recording alone.
+policy:
+  allow_implicit_invocation: false

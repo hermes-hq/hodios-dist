@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a conversational AI interface
+  short_description: Designs a conversational AI interface with entry points, message layout, streaming, citations, error and refusal states, feedback controls and trust cues, specified state by state.
+policy:
+  allow_implicit_invocation: false

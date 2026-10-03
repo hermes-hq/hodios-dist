@@ -1,0 +1,5 @@
+interface:
+  display_name: Break a bad habit
+  short_description: Builds a plan to break a habit from its cues and rewards - friction, a substitute that meets the same need, environment changes, if-then plans for risky moments and a plan for slips.
+policy:
+  allow_implicit_invocation: false

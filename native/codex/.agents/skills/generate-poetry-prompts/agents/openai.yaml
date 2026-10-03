@@ -1,0 +1,5 @@
+interface:
+  display_name: Generate poetry prompts
+  short_description: Generates a sequenced set of poetry writing prompts and exercises (constraint, image, form, memory) with steps and timing, for a workshop session or a daily writing practice.
+policy:
+  allow_implicit_invocation: false

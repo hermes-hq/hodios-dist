@@ -1,0 +1,5 @@
+interface:
+  display_name: Prioritise strategic initiatives
+  short_description: Prioritises a portfolio of strategic initiatives on impact, strategic fit, cost, risk and dependencies, then recommends what to stop, start, continue and how to sequence it within capacity.
+policy:
+  allow_implicit_invocation: false

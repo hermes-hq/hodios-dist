@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data-visualization
   source: https://hermes-ide.com/prompts/design-data-table
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Design a readable data table

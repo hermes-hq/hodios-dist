@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan travel with a pet
+  short_description: Plans travelling with a pet, covering whether to bring it, transport rules, documents and vaccinations to verify, pet-friendly lodging and stress reduction. Use months before a trip abroad.
+policy:
+  allow_implicit_invocation: false

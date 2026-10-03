@@ -1,0 +1,5 @@
+interface:
+  display_name: Reduce added sugar
+  short_description: Builds a gradual, non-judgemental plan to cut added sugar, with where it hides in the person's habits, label reading, realistic swaps and a four-week taper. Use when sugar feels too high.
+policy:
+  allow_implicit_invocation: false

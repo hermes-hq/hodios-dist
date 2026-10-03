@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a mystery plot
+  short_description: Plans a fair-play mystery from the crime outward, with culprit, motive, the true timeline, a clue trail, red herrings and reveal logic, then audits it for fairness. Use before drafting a mystery.
+policy:
+  allow_implicit_invocation: false

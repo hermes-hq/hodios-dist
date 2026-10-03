@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a personal email template library
+  short_description: Builds a personal library of reusable email templates for the user's recurring situations, in their own voice from sent examples, with placeholders, subject lines and when-to-use notes.
+policy:
+  allow_implicit_invocation: false

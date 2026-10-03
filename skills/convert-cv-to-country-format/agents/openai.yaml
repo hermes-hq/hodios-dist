@@ -1,0 +1,5 @@
+interface:
+  display_name: Convert a CV to another country's format
+  short_description: Adapts a CV or resume to another country's norms, such as a US resume, UK CV, German Lebenslauf or Europass, covering length, photo, personal data, section order and tone. Use when applying abroad.
+policy:
+  allow_implicit_invocation: false

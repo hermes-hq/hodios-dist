@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: content-strategy
   source: https://hermes-ide.com/prompts/mine-audience-questions
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Mine audience questions

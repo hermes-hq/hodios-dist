@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan for financial independence
+  short_description: Calculates a financial-independence number and timeline from spending, savings rate and return assumptions, with scenarios, a sensitivity check and sequence-of-returns caveats.
+policy:
+  allow_implicit_invocation: false

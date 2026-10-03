@@ -1,0 +1,5 @@
+interface:
+  display_name: Extract fields from documents into a table
+  short_description: Extracts named fields such as dates, amounts, names and IDs from emails, invoices or letters into a table, leaving blanks where a value is absent rather than guessing. Use to turn paperwork into data.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a delay notification
+  short_description: Tells clients or stakeholders that a deliverable will be late, with the cause in one line, a credible new date or when it will be confirmed, the mitigation and any ask, without excuses or blame.
+policy:
+  allow_implicit_invocation: false

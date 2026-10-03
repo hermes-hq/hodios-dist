@@ -1,0 +1,5 @@
+interface:
+  display_name: Write candidate outreach
+  short_description: Writes personalised recruiting outreach to a passive candidate with why they were chosen, the role's real draw and an easy reply, plus two follow-ups. Use when contacting people who are not looking.
+policy:
+  allow_implicit_invocation: false

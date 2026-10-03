@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a daily language journal
+  short_description: Runs a short daily journaling session in the target language with a level-appropriate prompt, then corrects the entry with brief explanations and a natural rewrite to study.
+policy:
+  allow_implicit_invocation: false

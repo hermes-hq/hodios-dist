@@ -1,0 +1,5 @@
+interface:
+  display_name: Write product principles
+  short_description: Writes five to seven ranked product principles a team can use to settle trade-offs, each with its meaning, what it rules out and an example decision, tested against real debates.
+policy:
+  allow_implicit_invocation: false

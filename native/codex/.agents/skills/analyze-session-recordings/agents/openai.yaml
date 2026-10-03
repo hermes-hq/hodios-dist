@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse session recordings and heatmaps
+  short_description: Synthesises notes from session recordings and heatmaps into usability issues with frequency, severity and evidence, keeping observation apart from interpretation, and plans follow-ups.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Extract deadlines and dates
+  short_description: Extracts every date, deadline, appointment and time-bound obligation from letters, emails, syllabi or contracts into a sorted calendar-ready list, quoting the source line.
+policy:
+  allow_implicit_invocation: false

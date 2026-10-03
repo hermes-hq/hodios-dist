@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a user manual
+  short_description: Writes a task-based user manual for a physical product, appliance, office system or service, with safety notices, setup, everyday tasks, care and troubleshooting organised by symptom.
+policy:
+  allow_implicit_invocation: false

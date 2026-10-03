@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: interpersonal-communication
   source: https://hermes-ide.com/prompts/mediate-disagreement
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Mediate a disagreement

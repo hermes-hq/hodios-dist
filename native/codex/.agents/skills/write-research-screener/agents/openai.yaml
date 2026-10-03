@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a research screener
+  short_description: Writes a participant screener for interviews or usability tests with behavioural qualifying questions, disqualifiers that hide the target, quotas and an invite message.
+policy:
+  allow_implicit_invocation: false

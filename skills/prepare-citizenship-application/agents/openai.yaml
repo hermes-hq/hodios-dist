@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a citizenship application
+  short_description: Organises a naturalisation application with the eligibility points to verify, a document checklist, language and civics test preparation, and a timeline back from the target date.
+policy:
+  allow_implicit_invocation: false

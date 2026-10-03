@@ -1,6 +1,6 @@
 ---
 name: debug-spreadsheet-formula
-description: Finds why an Excel or Google Sheets formula errors or returns wrong values and gives the corrected formula. Use for
+description: "Finds why an Excel or Google Sheets formula errors or returns wrong values and gives the corrected formula. Use for #N/A, #VALUE!, wrong totals, or results that break when copied down."
 license: CC0-1.0
 arguments:
   - formula
@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: spreadsheets
   source: https://hermes-ide.com/prompts/debug-spreadsheet-formula
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Debug a spreadsheet formula

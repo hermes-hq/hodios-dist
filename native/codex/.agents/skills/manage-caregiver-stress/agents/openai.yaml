@@ -1,0 +1,5 @@
+interface:
+  display_name: Manage caregiver stress
+  short_description: Helps an unpaid carer recognise strain, plan respite, share the load and look after their own health, with the kinds of support services to look up locally.
+policy:
+  allow_implicit_invocation: false

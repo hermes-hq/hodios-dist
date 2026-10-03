@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan eating for a diagnosed condition
+  short_description: Summarises general eating guidance for a diagnosed condition such as type 2 diabetes, high cholesterol or high blood pressure, with small swaps and questions for a dietitian or doctor.
+policy:
+  allow_implicit_invocation: false

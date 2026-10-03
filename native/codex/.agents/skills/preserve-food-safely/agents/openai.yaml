@@ -1,0 +1,5 @@
+interface:
+  display_name: Preserve food safely
+  short_description: Explains how to preserve a food by freezing, canning, fermenting, pickling or drying with tested methods, its risks and signs to discard. Use before preserving a harvest or bulk buy.
+policy:
+  allow_implicit_invocation: false

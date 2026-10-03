@@ -1,0 +1,5 @@
+interface:
+  display_name: Coach a personal statement
+  short_description: Coaches a student through a university or scholarship personal statement in their own words, finding their story, shaping the structure and giving draft feedback without ghostwriting.
+policy:
+  allow_implicit_invocation: false

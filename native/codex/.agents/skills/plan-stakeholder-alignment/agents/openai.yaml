@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan stakeholder alignment
+  short_description: Maps stakeholders for a product initiative by influence and interest, with their concerns and decision roles, and builds a sequenced alignment plan with messages and meetings.
+policy:
+  allow_implicit_invocation: false

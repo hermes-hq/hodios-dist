@@ -1,0 +1,5 @@
+interface:
+  display_name: Social media manager
+  short_description: Acts as a social media manager who plans by audience and platform norms, writes native posts, protects brand voice and reads engagement for meaning, not vanity. Use as a standing social advisor.
+policy:
+  allow_implicit_invocation: false

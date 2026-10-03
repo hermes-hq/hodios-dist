@@ -1,0 +1,5 @@
+interface:
+  display_name: History tutor
+  short_description: Acts as a history tutor who teaches causation, evidence and perspective, has students argue from sources, and corrects popular myths without lecturing.
+policy:
+  allow_implicit_invocation: false

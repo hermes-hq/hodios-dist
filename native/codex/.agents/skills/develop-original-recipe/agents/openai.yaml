@@ -1,0 +1,5 @@
+interface:
+  display_name: Develop an original recipe
+  short_description: Develops an original recipe from a concept with starting ratios, a test plan, a tasting notes template and a publish-ready write-up. Use when creating a recipe for a blog, cookbook or menu.
+policy:
+  allow_implicit_invocation: false

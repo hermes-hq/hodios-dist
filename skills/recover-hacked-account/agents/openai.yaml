@@ -1,0 +1,5 @@
+interface:
+  display_name: Recover a hacked account
+  short_description: Gives ordered steps to recover a hacked email or social media account, contain the damage to linked accounts and money, warn contacts and prevent a repeat. Use as soon as you suspect a takeover.
+policy:
+  allow_implicit_invocation: false

@@ -1,6 +1,6 @@
 # hodios-dist
 
-**Hodios — prompts by Hermes IDE.** This repository is the generated install tree for catalog `2026.1002.2`: 1,070 entries compiled into Agent Skills, Claude Code plugins and drop-in files for each tool. It is written only by the release bot.
+**Hodios — prompts by Hermes IDE.** This repository is the generated install tree for catalog `2026.1003.0`: 1,570 entries compiled into Agent Skills, Claude Code plugins and drop-in files for each tool. It is written only by the release bot.
 
 **Do not open pull requests here.** The source, issues and discussions live in [hermes-hq/hodios](https://github.com/hermes-hq/hodios).
 
@@ -24,6 +24,7 @@ Each Claude Code plugin is one domain, named `hodios-<domain>` (for example `hod
 | `native/<tool>/` | Project trees to copy into a repo: `claude-code`, `codex`, `cursor`, `copilot`, `gemini-cli`, `opencode`, `agents-md` |
 | `paste/<id>.md` | Paste-in text for ChatGPT, claude.ai and any chat tool |
 | `bundles/all.hermes-prompts` | The whole catalog for Hermes IDE |
+| `catalog/v1/` | The searchable catalog the `hodios` CLI reads: `manifest.json` plus content-addressed objects under `o/` |
 
 Rules (always-on project instructions) are not in the Claude Code plugins, because plugins cannot carry them. Copy them from `native/<tool>/` instead.
 

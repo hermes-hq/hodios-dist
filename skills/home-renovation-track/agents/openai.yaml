@@ -1,0 +1,5 @@
+interface:
+  display_name: Home renovation track
+  short_description: Runs a home renovation in gated steps from scope and budget to permits to check, contractor bid comparison, schedule and a final punch list. Use to manage a renovation from idea to handover.
+policy:
+  allow_implicit_invocation: false

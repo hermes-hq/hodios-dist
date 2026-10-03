@@ -1,0 +1,5 @@
+interface:
+  display_name: Dashboard build track
+  short_description: Builds a dashboard in gated steps from decisions and users to metric definitions, data checks, a wireframe, a build spec and a QA and adoption review. Use when a dashboard must be trusted and used.
+policy:
+  allow_implicit_invocation: false

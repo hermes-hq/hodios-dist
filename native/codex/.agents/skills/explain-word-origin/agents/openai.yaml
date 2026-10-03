@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a word's origin
+  short_description: Explains a word's etymology, how its meaning shifted over time, related words across languages and a memory hook, marking uncertain and folk etymologies clearly as such.
+policy:
+  allow_implicit_invocation: false

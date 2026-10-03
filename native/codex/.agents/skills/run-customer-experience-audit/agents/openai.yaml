@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a customer experience audit
+  short_description: Runs a mystery-shopper style customer experience audit for a shop, restaurant or service - journey stages, a scoring checklist, findings and fixes ranked by cost and impact.
+policy:
+  allow_implicit_invocation: false

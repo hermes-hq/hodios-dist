@@ -1,0 +1,5 @@
+interface:
+  display_name: Rehearse a difficult conversation
+  short_description: Role-plays the other person in a difficult conversation realistically, one turn at a time, then debriefs what worked, what escalated and better phrasing to try next time.
+policy:
+  allow_implicit_invocation: false

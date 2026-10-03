@@ -1,0 +1,5 @@
+interface:
+  display_name: Cancel a contract or subscription
+  short_description: Writes a cancellation notice for a gym, phone, subscription or service contract that cites the contract terms and consumer rights to verify, with the end date and proof-of-sending steps.
+policy:
+  allow_implicit_invocation: false

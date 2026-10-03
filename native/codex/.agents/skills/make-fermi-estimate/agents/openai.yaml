@@ -1,0 +1,5 @@
+interface:
+  display_name: Make a Fermi estimate
+  short_description: Makes a Fermi estimate by decomposing a quantity, stating assumptions with ranges, cross-checking from another angle and naming the data that would tighten it. Use for sizing when no data exists.
+policy:
+  allow_implicit_invocation: false

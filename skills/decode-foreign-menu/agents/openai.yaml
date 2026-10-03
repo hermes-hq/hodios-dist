@@ -1,0 +1,5 @@
+interface:
+  display_name: Decode a foreign menu
+  short_description: Translates and explains a foreign-language menu from text or a photo, with what each dish really is, dietary and allergen flags, questions to ask staff and ordering phrases. Use at the table abroad.
+policy:
+  allow_implicit_invocation: false

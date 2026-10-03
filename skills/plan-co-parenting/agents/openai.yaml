@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan co-parenting logistics
+  short_description: Plans co-parenting logistics and communication after separation, with schedule options by age, handovers, shared rules, a message template and ways to keep children out of conflict.
+policy:
+  allow_implicit_invocation: false

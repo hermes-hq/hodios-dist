@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan self-publishing a book
+  short_description: Plans self-publishing a finished book end to end, from editing, cover and formatting to metadata, pricing, distribution and a dated launch timeline, sized to your budget and goals.
+policy:
+  allow_implicit_invocation: false

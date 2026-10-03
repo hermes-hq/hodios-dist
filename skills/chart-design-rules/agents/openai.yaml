@@ -1,0 +1,5 @@
+interface:
+  display_name: Chart design rules
+  short_description: Rules for any chart the assistant designs or codes, covering one message, an action title, honest axes, direct labels, accessible colour and a source note. Load whenever a chart or plot is made.
+policy:
+  allow_implicit_invocation: true

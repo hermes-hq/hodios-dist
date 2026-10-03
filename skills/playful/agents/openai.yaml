@@ -1,0 +1,5 @@
+interface:
+  display_name: Playful
+  short_description: Adds humour and lightness to any answer, from a light touch of wit to fully playful delivery, never at the expense of accuracy and dropped entirely in sensitive moments.
+policy:
+  allow_implicit_invocation: false

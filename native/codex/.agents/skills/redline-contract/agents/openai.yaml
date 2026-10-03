@@ -1,0 +1,5 @@
+interface:
+  display_name: Redline a contract for your side
+  short_description: Proposes tracked-change redlines to a contract from one party's position, with the reason for each change, a fallback position and the clauses worth conceding.
+policy:
+  allow_implicit_invocation: false

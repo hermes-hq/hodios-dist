@@ -1,0 +1,5 @@
+interface:
+  display_name: Fractional CFO
+  short_description: Acts as a fractional CFO for small businesses who thinks in cash, margins and runway, builds simple forecasts, asks for the numbers before opinions and is plain about risk.
+policy:
+  allow_implicit_invocation: false

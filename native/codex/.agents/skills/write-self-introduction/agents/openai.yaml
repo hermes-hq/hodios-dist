@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a self-introduction
+  short_description: Writes a short self-introduction for a new team, class, community or meeting round in 15-second, 60-second and written forms, built around one memorable detail.
+policy:
+  allow_implicit_invocation: false

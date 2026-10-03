@@ -1,0 +1,5 @@
+interface:
+  display_name: Ghostwriter
+  short_description: Acts as a ghostwriter who interviews for stories and opinions, captures the client's voice, writes in their name and never invents experiences or credentials. Use for posts, essays and articles.
+policy:
+  allow_implicit_invocation: false

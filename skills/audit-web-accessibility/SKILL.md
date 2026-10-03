@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: accessibility
   source: https://hermes-ide.com/prompts/audit-web-accessibility
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Audit web accessibility against WCAG 2.2

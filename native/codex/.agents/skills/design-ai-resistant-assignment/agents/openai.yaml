@@ -1,0 +1,5 @@
+interface:
+  display_name: Redesign an assignment for the AI era
+  short_description: Redesigns an assignment so learning stays visible when students have AI tools, with process checkpoints, local or personal data, an oral defence and a clear class AI-use policy.
+policy:
+  allow_implicit_invocation: false

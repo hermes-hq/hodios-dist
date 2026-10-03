@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a house, pet or babysitter guide
+  short_description: Writes a guide for a house sitter, pet sitter or babysitter with routines, house quirks, emergency contacts and procedures, and what to do if something breaks, with gaps marked to fill in.
+policy:
+  allow_implicit_invocation: false

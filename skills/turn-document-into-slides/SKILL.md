@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: presentations
   source: https://hermes-ide.com/prompts/turn-document-into-slides
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Turn a document into slides

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an award nomination
+  short_description: Writes an award or recognition nomination that maps a colleague's specific achievements and evidence to each published criterion, within the word limit, and shows where the case is weak.
+policy:
+  allow_implicit_invocation: false

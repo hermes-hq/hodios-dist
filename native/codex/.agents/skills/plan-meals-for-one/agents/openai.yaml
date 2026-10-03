@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan meals for one
+  short_description: Plans a week of cooking for one with small batches, overlapping ingredients, frozen portions and little waste, plus a small-pack shopping list. Use when you live alone and food keeps going off.
+policy:
+  allow_implicit_invocation: false

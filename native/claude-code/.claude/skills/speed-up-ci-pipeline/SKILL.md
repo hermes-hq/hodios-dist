@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: devops
   source: https://hermes-ide.com/prompts/speed-up-ci-pipeline
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Speed up a CI pipeline

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan validation of a survey scale or test
+  short_description: Plans the validation of a survey scale or test, covering content and construct validity, reliability, factor analysis, invariance, sample sizes and reporting. For researchers building measures.
+policy:
+  allow_implicit_invocation: false

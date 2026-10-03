@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a school science lab activity
+  short_description: Designs a school science practical with an investigable question, variables, hypothesis prompt, specific safety notes, materials, numbered procedure, data table and analysis questions.
+policy:
+  allow_implicit_invocation: false

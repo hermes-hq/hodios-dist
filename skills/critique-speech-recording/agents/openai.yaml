@@ -1,0 +1,5 @@
+interface:
+  display_name: Critique a speech recording
+  short_description: Reviews a transcript of a rehearsed or delivered talk for pacing, filler words, structure, clarity and audience connection, with timestamped notes and three targeted drills.
+policy:
+  allow_implicit_invocation: false

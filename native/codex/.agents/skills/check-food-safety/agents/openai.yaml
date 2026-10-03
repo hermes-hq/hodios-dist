@@ -1,0 +1,5 @@
+interface:
+  display_name: Check if food is safe to eat
+  short_description: Answers whether food is safe to eat, store or reheat using official guidance on times and temperatures, with a clear verdict and when to throw it out. Use when unsure about leftovers.
+policy:
+  allow_implicit_invocation: false

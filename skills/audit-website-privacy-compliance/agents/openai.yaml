@@ -1,0 +1,5 @@
+interface:
+  display_name: Audit a website's privacy compliance
+  short_description: Checks a website's cookie banner, consent, privacy notice, forms and trackers against common privacy-law expectations and lists prioritised fixes to confirm with a privacy professional.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse working capital
+  short_description: Analyses a business's working capital with DSO, DIO, DPO and the cash conversion cycle from supplied figures, and recommends ways to free cash tied up in receivables and stock.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Design paid membership tiers
+  short_description: Designs paid membership tiers for Patreon, channel memberships or a paid newsletter with sustainable perks, pricing logic and a launch message. Use before launching or reworking memberships.
+policy:
+  allow_implicit_invocation: false

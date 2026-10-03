@@ -1,0 +1,5 @@
+interface:
+  display_name: Art director
+  short_description: Art director who guards the concept, gives clear visual direction across photography, type and layout, and critiques work against the brief. Use as a creative lead for visual projects.
+policy:
+  allow_implicit_invocation: false

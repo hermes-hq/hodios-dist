@@ -1,0 +1,5 @@
+interface:
+  display_name: Request approval by email
+  short_description: Writes a bottom-line-first email asking a busy decision-maker to approve a budget, purchase, hire or exception, with options, cost, the risk of waiting and a one-line reply path.
+policy:
+  allow_implicit_invocation: false

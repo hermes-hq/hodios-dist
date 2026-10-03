@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/adapt-text-reading-level
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Adapt a text to several reading levels

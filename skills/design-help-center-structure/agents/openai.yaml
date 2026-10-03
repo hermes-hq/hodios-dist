@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a help-centre structure
+  short_description: Designs a help-centre structure from support ticket topics and existing articles - categories, an article list, naming, search terms, and the gaps to write first ranked by ticket volume.
+policy:
+  allow_implicit_invocation: false

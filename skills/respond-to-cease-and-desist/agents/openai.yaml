@@ -1,0 +1,5 @@
+interface:
+  display_name: Respond to a cease-and-desist letter
+  short_description: Explains a cease-and-desist letter in plain terms and drafts a measured holding reply or compliance confirmation, with the questions to take to a lawyer before saying anything substantive.
+policy:
+  allow_implicit_invocation: false

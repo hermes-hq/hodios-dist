@@ -1,0 +1,5 @@
+interface:
+  display_name: Translate a contract
+  short_description: Produces a careful working translation of a contract or legal text with terms of art flagged, untranslatable legal concepts explained, and a pointer to a certified translator for official use.
+policy:
+  allow_implicit_invocation: false

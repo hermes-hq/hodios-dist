@@ -1,0 +1,5 @@
+interface:
+  display_name: Map where AI helps in your work
+  short_description: Maps a person's recurring work tasks to where an AI assistant helps, what to keep human, the prompt or setup for each and a check step, ranked by the time it could save.
+policy:
+  allow_implicit_invocation: false

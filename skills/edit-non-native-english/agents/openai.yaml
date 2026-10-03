@@ -1,0 +1,5 @@
+interface:
+  display_name: Polish English written by a non-native speaker
+  short_description: Polishes English written by a non-native professional into natural, idiomatic text in the right register, and lists their recurring error patterns with one-line rules so they improve over time.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Set up payroll for a first employee
+  short_description: Lists the steps and questions to verify before paying a first employee - registrations, withholding, contributions, payslips, records and deadlines - in order, for the employer's country.
+policy:
+  allow_implicit_invocation: false

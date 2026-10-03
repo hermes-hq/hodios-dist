@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan plant-based nutrition
+  short_description: Plans balanced vegetarian, vegan or flexitarian eating with the nutrients to watch, food sources for each, a plate pattern, a sample day and supplement questions for a professional.
+policy:
+  allow_implicit_invocation: false

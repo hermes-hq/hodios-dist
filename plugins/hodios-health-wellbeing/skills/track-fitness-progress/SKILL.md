@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: fitness
   source: https://hermes-ide.com/prompts/track-fitness-progress
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Analyse a training log

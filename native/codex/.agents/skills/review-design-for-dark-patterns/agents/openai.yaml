@@ -1,0 +1,5 @@
+interface:
+  display_name: Review a design for dark patterns
+  short_description: Audits a flow for deceptive patterns such as forced continuity, confirmshaming, hidden costs and hard cancellation, rates the harm, and proposes honest alternatives with regulatory notes.
+policy:
+  allow_implicit_invocation: false

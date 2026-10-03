@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: mental-health
   source: https://hermes-ide.com/prompts/support-struggling-friend
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Support a struggling friend or relative

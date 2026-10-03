@@ -1,0 +1,5 @@
+interface:
+  display_name: Make a group decision
+  short_description: Picks a fitting group decision method - consent, consensus, advice process, dot voting, majority or a leader deciding with input - and writes the facilitation script to reach and record it.
+policy:
+  allow_implicit_invocation: false

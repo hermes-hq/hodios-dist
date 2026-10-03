@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a short documentary outline
+  short_description: Outlines a short documentary with a central question, characters, acts, an interview plan, b-roll needs and a consent and ethics checklist. Use before pitching or shooting a short doc.
+policy:
+  allow_implicit_invocation: false

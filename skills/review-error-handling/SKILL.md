@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: code-review
   source: https://hermes-ide.com/prompts/review-error-handling
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Review error handling

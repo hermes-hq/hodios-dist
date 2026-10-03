@@ -1,0 +1,5 @@
+interface:
+  display_name: Translate medical information
+  short_description: Translates patient instructions, discharge notes or medicine leaflets into plain language in another language, flagging doses and terms to confirm with a clinician, pharmacist or interpreter.
+policy:
+  allow_implicit_invocation: false

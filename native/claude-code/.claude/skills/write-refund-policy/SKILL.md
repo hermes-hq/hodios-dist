@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: policies
   source: https://hermes-ide.com/prompts/write-refund-policy
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Write a refund and returns policy

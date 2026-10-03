@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an API deprecation notice
+  short_description: Writes the notice to API consumers for a deprecation or breaking change, covering what changes, the timeline, migration steps and where to get help. Use before announcing an API change.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a workplace incident report
+  short_description: Writes a factual, blame-neutral report of a workplace accident, near miss, customer, property or security incident, separating observed facts from statements and listing actions with owners.
+policy:
+  allow_implicit_invocation: false

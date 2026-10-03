@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a video game quest
+  short_description: Designs a video game quest with objectives, branching dialogue, rewards, fail states and implementation notes that fit the game's existing systems. Use for RPGs, adventure games and mods.
+policy:
+  allow_implicit_invocation: false

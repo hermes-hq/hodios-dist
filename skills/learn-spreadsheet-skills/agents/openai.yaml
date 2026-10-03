@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan your spreadsheet learning
+  short_description: Builds a personalised spreadsheet learning plan from the learner's current level toward a job goal, with self-made practice datasets, graded tasks and checks. Use to get better at Excel or Sheets.
+policy:
+  allow_implicit_invocation: false

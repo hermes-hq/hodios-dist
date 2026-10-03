@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a growth experiment backlog
+  short_description: Builds a ranked growth experiment backlog from a funnel and ideas, with hypothesis, metric, effort, expected impact, minimum sample and run time per test, and flags untestable ideas.
+policy:
+  allow_implicit_invocation: false

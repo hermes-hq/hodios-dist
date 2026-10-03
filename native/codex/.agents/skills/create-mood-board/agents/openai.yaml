@@ -1,0 +1,5 @@
+interface:
+  display_name: Create a written mood board
+  short_description: Builds a written mood board for a design project - visual direction, palette, typography, textures, photography style, reference searches and what to avoid - ready to assemble and share.
+policy:
+  allow_implicit_invocation: false

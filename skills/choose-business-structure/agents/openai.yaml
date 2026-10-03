@@ -1,0 +1,5 @@
+interface:
+  display_name: Compare business structures
+  short_description: Compares business structures such as sole trader, partnership, LLC or limited company on liability, tax, admin and cost for your plans, with the registration steps to verify locally.
+policy:
+  allow_implicit_invocation: false

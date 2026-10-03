@@ -1,0 +1,5 @@
+interface:
+  display_name: Compare marketing attribution models
+  short_description: Compares last-click, first-click, linear, position-based and data-driven attribution on supplied channel data and explains what each implies for budget. Use before moving marketing spend.
+policy:
+  allow_implicit_invocation: false

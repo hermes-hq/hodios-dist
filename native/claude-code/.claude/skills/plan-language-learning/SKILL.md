@@ -16,7 +16,7 @@ metadata:
   kind: prompt
   category: language-learning
   source: https://hermes-ide.com/prompts/plan-language-learning
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Plan language learning to a CEFR goal

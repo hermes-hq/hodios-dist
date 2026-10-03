@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a statistics concept
+  short_description: Explains a statistics concept such as a p-value, confidence interval or power, with intuition, a worked example, a simulation and common misreadings. Use to finally get it.
+policy:
+  allow_implicit_invocation: false

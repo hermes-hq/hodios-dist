@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a small-business loan application
+  short_description: Prepares a small-business loan application package - document checklist, cash-flow and repayment story, use of funds and likely lender questions - without recommending lenders or products.
+policy:
+  allow_implicit_invocation: false

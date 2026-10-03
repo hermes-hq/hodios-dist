@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an internal team newsletter
+  short_description: Writes an internal team or company newsletter from updates, wins and dates, with a lead story chosen for readers, short sections and recognition that names specific contributions.
+policy:
+  allow_implicit_invocation: false

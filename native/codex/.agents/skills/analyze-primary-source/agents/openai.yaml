@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse a primary source
+  short_description: Teaches a student to analyse a historical primary source for provenance, purpose, audience, content and reliability, asking questions first and offering a model reading only after they try.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a cost-benefit analysis
+  short_description: Runs a cost-benefit analysis of options against a do-nothing baseline, with monetised and non-monetised items, a time horizon, ranges for uncertainty, a sensitivity check and a recommendation.
+policy:
+  allow_implicit_invocation: false

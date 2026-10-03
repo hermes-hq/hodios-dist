@@ -1,0 +1,5 @@
+interface:
+  display_name: Develop a story premise
+  short_description: Turns a seed idea into five story premises (what-if, protagonist, stakes, conflict engine, genre promise), stress-tests each and ranks them. Use before outlining.
+policy:
+  allow_implicit_invocation: false

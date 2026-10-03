@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse competitor channels
+  short_description: Analyses competing creator or brand channels from their recent content and metrics to find winning formats, topics, gaps and what not to copy. Use when planning how to stand out in a niche.
+policy:
+  allow_implicit_invocation: false

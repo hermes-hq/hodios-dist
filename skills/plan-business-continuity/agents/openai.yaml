@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a small-business continuity plan
+  short_description: Writes a small-business continuity plan for key disruptions - staff absence, supplier failure, power, premises and cyber - with critical functions, workarounds, contacts and a test schedule.
+policy:
+  allow_implicit_invocation: false

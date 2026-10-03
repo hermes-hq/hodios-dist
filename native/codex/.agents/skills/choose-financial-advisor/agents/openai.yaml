@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose a financial adviser
+  short_description: Prepares someone to choose a financial adviser - the kind of help needed, fee models compared in money, fiduciary questions, credentials and registers to verify, conflicts and red flags.
+policy:
+  allow_implicit_invocation: false

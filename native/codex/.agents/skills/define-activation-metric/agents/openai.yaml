@@ -1,0 +1,5 @@
+interface:
+  display_name: Define an activation metric
+  short_description: Finds a product's activation moment from usage and retention data, defines an activation metric with an action, threshold and time window, and plans how to validate it.
+policy:
+  allow_implicit_invocation: false

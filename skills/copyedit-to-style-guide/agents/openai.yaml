@@ -1,0 +1,5 @@
+interface:
+  display_name: Copyedit to a style guide
+  short_description: Copyedits a text to a named style guide such as AP, Chicago, APA or a house guide, logs every change with the rule applied, queries the author on judgement calls and keeps voice and meaning.
+policy:
+  allow_implicit_invocation: false

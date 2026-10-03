@@ -1,0 +1,5 @@
+interface:
+  display_name: Write sourcing search strings
+  short_description: Writes Boolean and X-ray search strings for LinkedIn, GitHub and web search from a job profile, with synonyms, exclusions, broad and narrow variants and tuning tips. Use when sourcing candidates.
+policy:
+  allow_implicit_invocation: false

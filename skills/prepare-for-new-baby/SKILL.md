@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: family-logistics
   source: https://hermes-ide.com/prompts/prepare-for-new-baby
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Prepare for a new baby

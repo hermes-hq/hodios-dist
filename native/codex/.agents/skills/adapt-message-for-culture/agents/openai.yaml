@@ -1,0 +1,5 @@
+interface:
+  display_name: Adapt a message for another business culture
+  short_description: Adapts a message, in the same language, for a reader from a different business culture by adjusting directness, hierarchy, context and politeness, and explains each change.
+policy:
+  allow_implicit_invocation: false

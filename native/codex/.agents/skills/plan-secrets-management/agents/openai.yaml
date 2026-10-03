@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan secrets management
+  short_description: Plans secrets management for a stack, covering inventory, storage, runtime injection, rotation, access control and leak detection. Use when secrets live in env files, CI variables and chat.
+policy:
+  allow_implicit_invocation: false

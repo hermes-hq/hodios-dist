@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: video-games
   source: https://hermes-ide.com/prompts/game-design-mentor
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Game design mentor

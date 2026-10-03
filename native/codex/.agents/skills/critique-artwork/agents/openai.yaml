@@ -1,0 +1,5 @@
+interface:
+  display_name: Critique an artwork
+  short_description: Critiques a drawing or painting from an image or description for composition, value, colour, drawing and intent, ranks what to fix, and sets one focused exercise. Use for honest, usable feedback.
+policy:
+  allow_implicit_invocation: false

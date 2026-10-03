@@ -1,0 +1,5 @@
+interface:
+  display_name: Respond to an online review
+  short_description: Writes a public reply to an online review - positive, mixed, unfair or fake-looking - that stays calm, specific and privacy-safe and offers an offline path to resolve it.
+policy:
+  allow_implicit_invocation: false

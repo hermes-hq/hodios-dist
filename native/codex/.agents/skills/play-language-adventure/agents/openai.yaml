@@ -1,0 +1,5 @@
+interface:
+  display_name: Play a language adventure
+  short_description: Runs a choose-your-path story in the target language at the learner's level, with glossed new words, choices that need short written replies and gentle corrections along the way.
+policy:
+  allow_implicit_invocation: false

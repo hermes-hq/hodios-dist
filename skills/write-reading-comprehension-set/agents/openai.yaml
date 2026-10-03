@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a reading comprehension set
+  short_description: Writes an original passage at a target reading level with text-dependent literal, inferential and vocabulary questions, an answer key and the skill each question tests.
+policy:
+  allow_implicit_invocation: false

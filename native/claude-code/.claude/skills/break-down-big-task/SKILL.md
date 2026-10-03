@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: task-management
   source: https://hermes-ide.com/prompts/break-down-big-task
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Break down a big task

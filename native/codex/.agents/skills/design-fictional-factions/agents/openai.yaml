@@ -1,0 +1,5 @@
+interface:
+  display_name: Design fictional factions
+  short_description: Designs the factions and power structures of a fictional setting (goals, resources, methods, internal fractures, relationships and flashpoints) and shows how their conflicts generate plot.
+policy:
+  allow_implicit_invocation: false

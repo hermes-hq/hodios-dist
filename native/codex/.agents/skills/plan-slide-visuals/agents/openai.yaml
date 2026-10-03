@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan slide visuals
+  short_description: Proposes the visual for each slide in an outline, whether a chart type, diagram, image or none, with layout notes and data needs, so a deck shows its points rather than telling them.
+policy:
+  allow_implicit_invocation: false

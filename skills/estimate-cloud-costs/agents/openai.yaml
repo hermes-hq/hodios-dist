@@ -1,0 +1,5 @@
+interface:
+  display_name: Estimate cloud costs for an architecture
+  short_description: Estimates the monthly cloud cost of a proposed architecture from usage assumptions, with a line-item breakdown, scale scenarios and cost risks. Use before committing to a design or a budget.
+policy:
+  allow_implicit_invocation: false

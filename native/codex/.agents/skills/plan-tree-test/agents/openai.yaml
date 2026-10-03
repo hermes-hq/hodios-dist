@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a tree test
+  short_description: Plans a tree test of a navigation structure with scenario tasks, correct destinations, participants, tool setup, and how to analyse success, directness and first clicks.
+policy:
+  allow_implicit_invocation: false

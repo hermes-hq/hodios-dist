@@ -1,0 +1,5 @@
+interface:
+  display_name: Find ideas from analogies
+  short_description: Generates solutions by abstracting a problem to its core structure, borrowing how nature, other industries and history solved the same structure, and adapting the best ones with a cheap test.
+policy:
+  allow_implicit_invocation: false

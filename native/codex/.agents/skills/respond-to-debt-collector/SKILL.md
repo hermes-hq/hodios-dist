@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: legal-correspondence
   source: https://hermes-ide.com/prompts/respond-to-debt-collector
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Respond to a debt collector

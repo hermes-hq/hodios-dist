@@ -1,0 +1,5 @@
+interface:
+  display_name: Convert a recipe for an appliance
+  short_description: Converts a recipe for an air fryer, pressure cooker, slow cooker or oven, adjusting time, temperature, liquid and batch size, with doneness checks. Use for a recipe written for another appliance.
+policy:
+  allow_implicit_invocation: false

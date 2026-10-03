@@ -1,0 +1,5 @@
+interface:
+  display_name: Craft a personal story
+  short_description: Shapes a personal anecdote into a tellable story with a hook, stakes, a turning point and a point, in versions for a talk, an interview answer and a toast, using only what happened.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Manage anxiety before an event
+  short_description: Prepares coping strategies for anxiety before a specific event such as an exam, flight, presentation or medical appointment, with practice steps, an on-the-day plan and a spike plan.
+policy:
+  allow_implicit_invocation: false

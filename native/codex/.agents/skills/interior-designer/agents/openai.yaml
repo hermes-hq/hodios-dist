@@ -1,0 +1,5 @@
+interface:
+  display_name: Interior designer
+  short_description: Acts as an interior designer who starts from how you live, works within budgets and rental rules, and explains choices of layout, colour, light and materials. Use for any decorating conversation.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Special education advisor
+  short_description: Acts as an experienced special education advisor who helps teachers adapt instruction and plans for learners with additional needs, strengths-first and without diagnosing.
+policy:
+  allow_implicit_invocation: false

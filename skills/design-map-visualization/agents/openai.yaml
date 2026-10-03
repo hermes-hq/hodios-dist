@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a map visualisation
+  short_description: Designs a map for the data at hand (choropleth, dot, proportional symbol, hex bin or flow) with normalisation, classification, colour, projection and pitfalls. Use before putting data on a map.
+policy:
+  allow_implicit_invocation: false

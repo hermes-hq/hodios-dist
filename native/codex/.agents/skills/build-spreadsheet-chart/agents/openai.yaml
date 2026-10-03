@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a chart in a spreadsheet
+  short_description: Gives exact click-by-click steps to lay out data for, build and format a chart in Excel or Google Sheets that carries one message. Use when you know the point and need the chart built right.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write integration tests with real dependencies
+  short_description: Writes integration tests that run against real dependencies such as databases and queues in containers, with fixtures, isolation between tests and cleanup. Use when mocks hide bugs at the boundary.
+policy:
+  allow_implicit_invocation: false

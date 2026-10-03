@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a training needs analysis
+  short_description: Runs a training needs analysis that separates skill gaps from process, resource and motivation problems, prioritises needs and recommends training only where it will help.
+policy:
+  allow_implicit_invocation: false

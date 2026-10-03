@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a museum visit
+  short_description: Plans a museum or gallery visit around your interests and time, with highlights, a route that avoids backtracking, short context for key works and family-friendly options. Use the day before you go.
+policy:
+  allow_implicit_invocation: false

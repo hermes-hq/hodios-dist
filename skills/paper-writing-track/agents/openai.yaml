@@ -1,0 +1,5 @@
+interface:
+  display_name: Paper writing track
+  short_description: Takes a manuscript from target journal and outline through methods and results, introduction and discussion, title and abstract, and a pre-submission check, pausing for approval between steps.
+policy:
+  allow_implicit_invocation: false

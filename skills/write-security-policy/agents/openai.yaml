@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a security policy and disclosure process
+  short_description: Writes a SECURITY.md and the disclosure process behind it, with supported versions, how to report, response times and safe harbour. Use when a project has no clear way to report vulnerabilities.
+policy:
+  allow_implicit_invocation: false

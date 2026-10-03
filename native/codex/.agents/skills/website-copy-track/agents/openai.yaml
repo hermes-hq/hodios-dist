@@ -1,0 +1,5 @@
+interface:
+  display_name: Small-business website copy track
+  short_description: Writes a small-business website in gated steps, from customer research and messaging to sitemap, homepage, inner pages and a final clarity and claims review.
+policy:
+  allow_implicit_invocation: false

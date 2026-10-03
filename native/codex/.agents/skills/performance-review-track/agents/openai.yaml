@@ -1,0 +1,5 @@
+interface:
+  display_name: Performance review track
+  short_description: Guides a manager through review season by gathering evidence, drafting each review, calibrating ratings for bias and preparing each review conversation, with approval between steps.
+policy:
+  allow_implicit_invocation: false

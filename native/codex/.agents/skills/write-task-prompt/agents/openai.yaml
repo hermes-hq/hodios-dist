@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a reusable task prompt
+  short_description: Writes a reusable prompt from a plain description of a task, with context, typed variables and defaults, constraints, an output format, an example and a rule to ask for missing inputs.
+policy:
+  allow_implicit_invocation: false

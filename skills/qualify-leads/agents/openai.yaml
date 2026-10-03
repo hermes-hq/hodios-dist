@@ -1,0 +1,5 @@
+interface:
+  display_name: Qualify inbound leads
+  short_description: Scores inbound leads against the ideal customer profile and a chosen framework (BANT, MEDDICC or CHAMP), with evidence, gaps, a routing decision and the next question to ask each.
+policy:
+  allow_implicit_invocation: false

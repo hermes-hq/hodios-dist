@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a project-based learning unit
+  short_description: Designs a project-based learning unit around a driving question, with weekly milestones, scaffolds, team roles, a public product and assessment checkpoints tied to standards.
+policy:
+  allow_implicit_invocation: false

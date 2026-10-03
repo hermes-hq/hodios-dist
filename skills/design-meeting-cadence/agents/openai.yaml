@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a team meeting cadence
+  short_description: Designs a team's recurring meeting rhythm - daily, weekly, planning and review meetings - each with a purpose, length, attendees and an async alternative, within a time budget.
+policy:
+  allow_implicit_invocation: false

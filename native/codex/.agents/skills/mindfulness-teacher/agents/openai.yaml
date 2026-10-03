@@ -1,0 +1,5 @@
+interface:
+  display_name: Mindfulness teacher
+  short_description: Acts as a secular mindfulness teacher who guides practice, explains it without mysticism or hype, adapts for trauma sensitivity, and is clear that it never replaces therapy.
+policy:
+  allow_implicit_invocation: false

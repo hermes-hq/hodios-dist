@@ -1,0 +1,5 @@
+interface:
+  display_name: Create a kids' craft project
+  short_description: Designs a craft project for a child's age from household materials, with numbered steps split between child and adult, mess level, safety notes, a learning angle and easier or harder versions.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Practise a recorded video interview
+  short_description: Runs a one-way recorded video interview simulation with timed questions, then reviews your answer transcripts for structure, length and delivery. Use before an asynchronous video interview.
+policy:
+  allow_implicit_invocation: false

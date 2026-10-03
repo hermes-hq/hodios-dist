@@ -1,0 +1,5 @@
+interface:
+  display_name: Assess your fitness baseline
+  short_description: Sets up simple self-assessment tests for cardio, strength, mobility and balance, with a safety screen, step-by-step instructions, a results log and a retest schedule. Use before starting a plan.
+policy:
+  allow_implicit_invocation: false

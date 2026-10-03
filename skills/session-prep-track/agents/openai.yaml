@@ -1,0 +1,5 @@
+interface:
+  display_name: Session prep track
+  short_description: Preps a tabletop session in gated steps, from a recap and player hooks through scenes, encounters and NPCs to a one-page cheat sheet. Use before each session of an ongoing campaign.
+policy:
+  allow_implicit_invocation: false

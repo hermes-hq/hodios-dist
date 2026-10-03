@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "catalog": "2026.1002.2",
-  "seq": 2,
+  "catalog": "2026.1003.0",
+  "seq": 3,
   "minClientVersion": "0.1.0",
   "objects": "o/{aa}/{sha256}",
   "tiers": {
     "curated": {
-      "list": "sha256:989eb4e2ec8146c942781b898a399063fa4aef03ec2a9bc83ac08fd86434f26c",
-      "rows": 1070
+      "list": "sha256:76fc14f80a157d454c2dc325e3217818086da10a4441255a200d02f7ae538dd6",
+      "rows": 1570
     }
   },
   "deltas": [],

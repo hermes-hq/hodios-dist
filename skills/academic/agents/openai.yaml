@@ -1,0 +1,5 @@
+interface:
+  display_name: Academic
+  short_description: Moves answers toward scholarly register, from precise terminology to full academic prose with hedged claims, defined terms and a citation placeholder for every factual claim.
+policy:
+  allow_implicit_invocation: false

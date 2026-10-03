@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an artist statement
+  short_description: Writes an artist statement for an exhibition, residency, portfolio or grant from your practice notes, in clear first-person language without art-speak, sized to the word limit.
+policy:
+  allow_implicit_invocation: false

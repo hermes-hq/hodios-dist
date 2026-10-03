@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a solo trip
+  short_description: Plans a solo trip with a destination that suits travelling alone, practical safety habits, ways to meet people, a realistic budget and a flexible itinerary. Use for a first or next trip on your own.
+policy:
+  allow_implicit_invocation: false

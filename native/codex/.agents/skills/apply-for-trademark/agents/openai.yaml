@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a trademark application
+  short_description: Prepares a trademark application with a distinctiveness check, clearance search steps, goods and services classes, specimen guidance and the filing-route questions to settle.
+policy:
+  allow_implicit_invocation: false

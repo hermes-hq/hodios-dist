@@ -1,0 +1,5 @@
+interface:
+  display_name: Hospital discharge track
+  short_description: Takes a patient or carer from discharge planning questions to a medicine list, home setup, follow-up schedule and warning signs to watch, pausing for approval between steps.
+policy:
+  allow_implicit_invocation: false

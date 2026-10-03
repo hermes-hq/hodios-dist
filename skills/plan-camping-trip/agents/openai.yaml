@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a camping trip
+  short_description: Plans a camping trip with site choice, a gear checklist, a menu with food storage, a weather and safety plan and leave-no-trace practices, matched to experience. Use a week or two before you go.
+policy:
+  allow_implicit_invocation: false

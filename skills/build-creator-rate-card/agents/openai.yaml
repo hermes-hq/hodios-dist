@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a creator rate card
+  short_description: Builds a creator rate card for sponsored posts, videos and bundles from audience size, engagement and usage rights, with negotiation ranges and add-ons. Use when setting or raising brand deal prices.
+policy:
+  allow_implicit_invocation: false

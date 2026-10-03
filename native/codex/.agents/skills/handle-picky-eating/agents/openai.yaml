@@ -1,0 +1,5 @@
+interface:
+  display_name: Handle picky eating
+  short_description: Builds a low-pressure approach to a child's picky eating by age, using repeated exposure, a division of responsibility and meal setup, and says when to involve a clinician.
+policy:
+  allow_implicit_invocation: false

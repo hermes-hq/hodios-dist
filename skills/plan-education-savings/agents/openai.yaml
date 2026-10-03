@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan saving for a child's education
+  short_description: Plans saving for a child's education with cost estimates to verify, monthly amounts under several return scenarios, account types to research and trade-offs with other goals.
+policy:
+  allow_implicit_invocation: false

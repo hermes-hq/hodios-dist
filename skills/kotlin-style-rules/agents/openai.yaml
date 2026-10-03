@@ -1,0 +1,5 @@
+interface:
+  display_name: Kotlin style rules
+  short_description: Standing rules for Kotlin an assistant writes, covering null safety, immutability, coroutines with structured concurrency, and data and sealed classes.
+policy:
+  allow_implicit_invocation: false

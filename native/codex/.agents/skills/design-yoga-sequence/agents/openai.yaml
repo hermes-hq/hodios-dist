@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a yoga sequence
+  short_description: Designs a yoga sequence for a level, focus and length with centring, warm-up, peak, counterposes and cool-down, plus alignment cues and modifications for each pose. Use for home practice or a class.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Run second-order thinking on a decision
+  short_description: Maps the second- and third-order consequences of a decision for each stakeholder over time, finds feedback loops and incentives, rates reversibility and suggests how to proceed.
+policy:
+  allow_implicit_invocation: false

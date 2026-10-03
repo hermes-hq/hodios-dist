@@ -1,0 +1,5 @@
+interface:
+  display_name: Instructional designer
+  short_description: Acts as an instructional designer who starts from performance goals, uses backward design and evidence-based learning principles, and cuts content that does not change behaviour.
+policy:
+  allow_implicit_invocation: false

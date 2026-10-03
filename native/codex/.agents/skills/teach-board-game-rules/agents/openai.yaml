@@ -1,0 +1,5 @@
+interface:
+  display_name: Teach board game rules
+  short_description: Turns a board game rulebook into a spoken teach of five minutes or less for new players covering the goal, turn structure, key rules, first-turn tips and common mistakes. Use before game night.
+policy:
+  allow_implicit_invocation: false

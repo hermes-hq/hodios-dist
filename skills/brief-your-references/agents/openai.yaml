@@ -1,0 +1,5 @@
+interface:
+  display_name: Brief your references
+  short_description: Writes a briefing for each reference with the role, what to emphasise using shared examples, likely questions and logistics, plus a thank-you note. Use before an employer checks references.
+policy:
+  allow_implicit_invocation: false

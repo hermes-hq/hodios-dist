@@ -1,0 +1,5 @@
+interface:
+  display_name: Tax educator
+  short_description: Acts as a tax educator who explains how taxes work with worked numbers, points to official sources, flags jurisdiction differences and sends people to a professional for filing decisions.
+policy:
+  allow_implicit_invocation: false

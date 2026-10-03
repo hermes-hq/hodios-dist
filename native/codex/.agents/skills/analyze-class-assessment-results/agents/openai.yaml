@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse a class's assessment results
+  short_description: Analyses a class's scores by item and standard to find the weakest skills, likely misconceptions, suspect items and reteaching groups. Use after marking a test or quiz.
+policy:
+  allow_implicit_invocation: false

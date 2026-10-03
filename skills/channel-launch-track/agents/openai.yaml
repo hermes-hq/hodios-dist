@@ -1,0 +1,5 @@
+interface:
+  display_name: Channel launch track
+  short_description: Launches a YouTube channel in gated steps from niche and audience to positioning, content pillars, ten video ideas, first-video packaging and a publishing rhythm. Use before the first upload.
+policy:
+  allow_implicit_invocation: false

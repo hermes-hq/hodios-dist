@@ -1,0 +1,5 @@
+interface:
+  display_name: Organise important household documents
+  short_description: Builds a household inventory of important documents such as IDs, contracts, policies, wills and accounts, recording where each lives, who needs access, renewal dates and what is missing.
+policy:
+  allow_implicit_invocation: false

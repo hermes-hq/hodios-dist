@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a group fitness class
+  short_description: Plans a group fitness class for instructors with a timed run sheet, exercises with regressions and progressions, music tempo cues, coaching cues and safety checks. Use when preparing a class.
+policy:
+  allow_implicit_invocation: false

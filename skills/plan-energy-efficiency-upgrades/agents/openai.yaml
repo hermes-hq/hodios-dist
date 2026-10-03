@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan home energy upgrades
+  short_description: Ranks home energy upgrades such as draught-proofing, insulation, heating, solar and appliances by cost, savings and payback, with grants to research. Use before spending on efficiency.
+policy:
+  allow_implicit_invocation: false

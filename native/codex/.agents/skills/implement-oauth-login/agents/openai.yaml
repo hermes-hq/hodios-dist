@@ -1,0 +1,5 @@
+interface:
+  display_name: Implement OAuth or OIDC login
+  short_description: Implements login with an OAuth 2 or OpenID Connect provider, covering flow choice, PKCE, state and nonce, token storage, sessions and logout. Use when adding social or SSO login.
+policy:
+  allow_implicit_invocation: false

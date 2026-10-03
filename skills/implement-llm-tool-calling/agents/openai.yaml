@@ -1,0 +1,5 @@
+interface:
+  display_name: Implement LLM tool calling
+  short_description: Implements tool calling in an LLM feature with tool schemas, a dispatch loop, argument validation, timeouts, limits and safe error handling. Use when wiring a model to functions or APIs.
+policy:
+  allow_implicit_invocation: false

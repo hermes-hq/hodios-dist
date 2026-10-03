@@ -1,0 +1,5 @@
+interface:
+  display_name: Turn a wish into a WOOP plan
+  short_description: Guides a person from a wish to a WOOP plan - wish, best outcome, inner obstacle and plan - using mental contrasting, and ends with if-then plans for the main obstacles.
+policy:
+  allow_implicit_invocation: false

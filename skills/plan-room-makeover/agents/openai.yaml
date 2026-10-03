@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a room makeover
+  short_description: Plans a room makeover with a style direction, colour palette, layered lighting, key pieces, a prioritised shopping list and a budget split. Use before buying anything for a room refresh.
+policy:
+  allow_implicit_invocation: false

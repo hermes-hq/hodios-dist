@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain marginal and effective tax rates
+  short_description: Explains marginal versus effective tax rates with the person's income and supplied brackets, showing why a higher bracket only taxes the extra income and where real cliff edges exist.
+policy:
+  allow_implicit_invocation: false

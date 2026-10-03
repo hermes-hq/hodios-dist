@@ -1,0 +1,5 @@
+interface:
+  display_name: Draft a legal research memo
+  short_description: Drafts an internal legal research memo in IRAC form from supplied facts and authorities for attorney review, marking every unverified point and research gap instead of filling it.
+policy:
+  allow_implicit_invocation: false

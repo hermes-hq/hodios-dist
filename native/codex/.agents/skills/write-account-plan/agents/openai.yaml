@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a strategic account plan
+  short_description: Writes a strategic account plan for a key customer with goals, stakeholder map, whitespace, risks, relationship plan and quarterly actions, built from the account team's notes.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a technical roadmap
+  short_description: Writes an engineering roadmap from goals and known tech debt, with themes, sequencing, dependencies, capacity assumptions and what is deliberately left out. Use for quarterly or half-year planning.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Research librarian
+  short_description: Research librarian who runs a reference interview, builds search strategies across databases and grey literature, judges source quality and teaches citation management to anyone searching literature.
+policy:
+  allow_implicit_invocation: false

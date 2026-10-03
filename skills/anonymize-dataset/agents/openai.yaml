@@ -1,0 +1,5 @@
+interface:
+  display_name: Anonymise a dataset before sharing
+  short_description: Plans anonymisation or pseudonymisation of a dataset before sharing, classifying identifiers, choosing techniques and assessing re-identification and residual risk. Use before data leaves your team.
+policy:
+  allow_implicit_invocation: false

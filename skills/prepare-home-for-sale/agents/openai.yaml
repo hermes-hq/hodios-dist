@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a home for sale
+  short_description: Prepares a home for sale with the repairs worth doing, decluttering and staging room by room, a photo-day checklist, viewing routine and a timeline. Use six to eight weeks before listing.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a property listing
+  short_description: Writes property listing copy (headline, description, feature bullets and a short portal version) that is accurate, fair-housing safe and leads with what buyers care about.
+policy:
+  allow_implicit_invocation: false

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: gardening
   source: https://hermes-ide.com/prompts/start-composting
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Start composting at home

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a social media giveaway
+  short_description: Plans a social giveaway or contest with a goal, mechanics, prize, rules points to check against platform terms and local law, a timeline and spam safeguards. Use before announcing a giveaway.
+policy:
+  allow_implicit_invocation: false

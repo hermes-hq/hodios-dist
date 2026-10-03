@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan to cut down drinking
+  short_description: Builds a plan to cut down or stop drinking, with a safety check for withdrawal, a drinking estimate, goals, tracking, triggers and alternatives, and when to get medical advice first.
+policy:
+  allow_implicit_invocation: false

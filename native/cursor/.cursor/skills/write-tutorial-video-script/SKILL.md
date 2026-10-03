@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: video
   source: https://hermes-ide.com/prompts/write-tutorial-video-script
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Write a tutorial video script

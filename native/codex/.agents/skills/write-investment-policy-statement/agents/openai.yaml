@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a personal investment policy statement
+  short_description: Writes a personal investment policy statement covering goals, time horizon, risk capacity, target allocation ranges, rebalancing rules and rules for staying the course in a downturn.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a family care rota
+  short_description: Builds a shared care rota for an ill or ageing relative across family members and helpers, with a task list, weekly schedule, coverage gaps, handover notes and a fair split of the load.
+policy:
+  allow_implicit_invocation: false

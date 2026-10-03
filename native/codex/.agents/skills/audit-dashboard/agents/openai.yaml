@@ -1,0 +1,5 @@
+interface:
+  display_name: Audit an existing dashboard
+  short_description: Audits a dashboard for decision usefulness, metric definitions, clutter, misleading visuals and staleness, ending in a ranked redesign shortlist. Use when a dashboard is ignored or distrusted.
+policy:
+  allow_implicit_invocation: false

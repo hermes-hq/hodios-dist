@@ -1,0 +1,5 @@
+interface:
+  display_name: Refine a vague topic into a research question
+  short_description: Refines a vague topic into researchable questions using FINER and PICO-style frameworks, with variants by scope, feasibility notes and the literature to check first. For students and researchers.
+policy:
+  allow_implicit_invocation: false

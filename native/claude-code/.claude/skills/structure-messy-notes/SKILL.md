@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: note-taking
   source: https://hermes-ide.com/prompts/structure-messy-notes
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Structure messy notes

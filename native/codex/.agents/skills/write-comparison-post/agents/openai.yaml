@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a fair comparison post
+  short_description: Writes a fair X versus Y comparison article with criteria that matter to the reader, a comparison table, who each option suits and a disclosure of any affiliation. Use for buyer guides.
+policy:
+  allow_implicit_invocation: false

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: language-learning
   source: https://hermes-ide.com/prompts/create-shadowing-script
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Create a shadowing script

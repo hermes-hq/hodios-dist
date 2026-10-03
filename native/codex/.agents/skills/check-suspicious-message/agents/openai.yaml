@@ -1,0 +1,5 @@
+interface:
+  display_name: Check a suspicious message
+  short_description: Checks a suspicious email, text, call or social message for scam and phishing signs, explains each sign in plain words, and says exactly what to do next, including if you already clicked or paid.
+policy:
+  allow_implicit_invocation: false

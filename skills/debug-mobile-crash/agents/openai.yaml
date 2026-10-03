@@ -1,0 +1,5 @@
+interface:
+  display_name: Debug a mobile app crash
+  short_description: Debugs a mobile app crash from a symbolicated report, reading the crashed thread and frames to find the likely cause, a reproduction and a fix. Use when a crash shows up in the crash reporter.
+policy:
+  allow_implicit_invocation: false

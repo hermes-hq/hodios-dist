@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a competitive battlecard
+  short_description: Writes a one-competitor sales battlecard with where we win and lose, landmines, objection responses, proof points and discovery questions, every claim sourced or flagged.
+policy:
+  allow_implicit_invocation: false

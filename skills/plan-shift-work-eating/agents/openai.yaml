@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan eating around shift work
+  short_description: Plans meal, snack and caffeine timing for shift workers such as nurses, drivers and factory staff, around rotations, sleep windows and energy dips. Use when shifts wreck your eating.
+policy:
+  allow_implicit_invocation: false

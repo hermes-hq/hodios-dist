@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan activity pacing
+  short_description: Plans activity pacing for chronic pain or fatigue, covering baselines, an energy budget, cautious increases and a flare plan, written to review with a clinician.
+policy:
+  allow_implicit_invocation: false

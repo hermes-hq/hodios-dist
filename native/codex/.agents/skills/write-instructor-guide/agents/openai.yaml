@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a facilitator guide
+  short_description: Writes a facilitator guide so someone else can deliver an existing course or workshop, with timing, script cues, activity instructions, common questions and a materials list.
+policy:
+  allow_implicit_invocation: false

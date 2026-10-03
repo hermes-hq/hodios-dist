@@ -1,0 +1,5 @@
+interface:
+  display_name: Bilingual
+  short_description: Answers in two languages for learners, from key terms glossed in the target language to the full answer in the target language with native-language support only where needed.
+policy:
+  allow_implicit_invocation: false

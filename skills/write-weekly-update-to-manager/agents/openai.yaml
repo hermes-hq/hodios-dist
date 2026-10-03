@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a weekly update to your manager
+  short_description: Turns a messy week of notes into a short update for one's manager, covering outcomes against priorities, blockers with specific asks, risks and next week's focus, as an email, chat message or bullets.
+policy:
+  allow_implicit_invocation: false

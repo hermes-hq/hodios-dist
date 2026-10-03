@@ -1,0 +1,5 @@
+interface:
+  display_name: Dispute a card charge
+  short_description: Drafts a card chargeback or bank dispute with the transaction details, the dispute reason that fits, the evidence to attach and the deadlines to verify with the card issuer.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Review a sales pipeline and forecast
+  short_description: Reviews a sales pipeline export, classifies deals into commit, best case and pipeline on evidence, flags stale or risky deals and writes the forecast call with reasons.
+policy:
+  allow_implicit_invocation: false

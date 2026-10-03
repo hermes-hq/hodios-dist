@@ -1,0 +1,5 @@
+interface:
+  display_name: Triage an issue backlog
+  short_description: Triages a batch of issues for maintainers with duplicates, labels, severity, needs-info replies and what to close. Use when the tracker grows faster than the team can read it.
+policy:
+  allow_implicit_invocation: false

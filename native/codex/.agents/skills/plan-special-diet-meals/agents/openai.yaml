@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a week for an eating pattern
+  short_description: Plans a week of meals for an eating pattern such as vegetarian, halal, kosher, high-protein or gluten-free by choice, with hidden ingredients and a grocery list. Use when changing how you eat.
+policy:
+  allow_implicit_invocation: false

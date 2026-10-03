@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a side business
+  short_description: Plans a side business alongside a job - idea fit, a realistic time budget, employer-contract checks, a minimum viable offer, first customers and a quit-or-continue test.
+policy:
+  allow_implicit_invocation: false

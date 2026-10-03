@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a pricing page
+  short_description: Designs a pricing page layout with plan cards, a recommended plan, billing toggle, comparison table, FAQs and trust signals, plus copy slots and what to test. Use for SaaS and subscriptions.
+policy:
+  allow_implicit_invocation: false

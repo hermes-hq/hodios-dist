@@ -1,0 +1,5 @@
+interface:
+  display_name: Set up worry time
+  short_description: Teaches the worry-postponement technique step by step, with a personal setup, a worry log, a two-week practice plan and troubleshooting. Use when worries take over the day or keep you awake.
+policy:
+  allow_implicit_invocation: false

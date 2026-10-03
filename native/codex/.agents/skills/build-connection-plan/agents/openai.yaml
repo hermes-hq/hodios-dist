@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a connection plan
+  short_description: Helps someone who feels lonely build a gentle plan for connection, with small daily contacts, a step-by-step ladder, reaching-out scripts, places to meet people and support options.
+policy:
+  allow_implicit_invocation: false

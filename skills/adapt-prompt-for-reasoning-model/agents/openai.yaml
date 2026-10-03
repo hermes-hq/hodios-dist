@@ -1,0 +1,5 @@
+interface:
+  display_name: Adapt a prompt for a reasoning model
+  short_description: Rewrites a prompt for reasoning-capable models by removing step-by-step micromanagement, stating goals, constraints and success criteria, and keeping the output format exact.
+policy:
+  allow_implicit_invocation: false

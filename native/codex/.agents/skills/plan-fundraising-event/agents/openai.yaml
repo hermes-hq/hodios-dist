@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a charity fundraising event
+  short_description: Plans a charity fundraising event - gala, sponsored run, auction or community event - with an income target, budget, timeline, roles, sponsorship and a donor follow-up plan.
+policy:
+  allow_implicit_invocation: false

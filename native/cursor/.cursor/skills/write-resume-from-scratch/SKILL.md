@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: resumes
   source: https://hermes-ide.com/prompts/write-resume-from-scratch
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Write a first resume from scratch

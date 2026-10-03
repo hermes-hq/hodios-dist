@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a persuasive argument
+  short_description: Plans how to persuade a specific person or group, mapping their interests and objections, the framing and evidence that will land with them, a precise ask and a fallback.
+policy:
+  allow_implicit_invocation: false

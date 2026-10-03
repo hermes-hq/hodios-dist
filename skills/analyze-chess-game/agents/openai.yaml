@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse a chess game
+  short_description: Analyses a chess game from PGN, finding the turning points and mistakes, explaining better moves in plain words, and naming the themes and habits to study next. Use after playing a game.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Review a freelance services contract
+  short_description: Reviews a freelance or client services contract for scope, payment, IP, liability, termination and non-solicit issues, and lists the questions to raise before signing.
+policy:
+  allow_implicit_invocation: false

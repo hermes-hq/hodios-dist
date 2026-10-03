@@ -1,0 +1,5 @@
+interface:
+  display_name: Essay writing track
+  short_description: Coaches a student through an essay from question analysis to thesis, outline, draft feedback and a revision checklist, pausing between steps while the student writes every sentence.
+policy:
+  allow_implicit_invocation: false

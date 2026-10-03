@@ -1,0 +1,5 @@
+interface:
+  display_name: Handle recurring sibling fights
+  short_description: Plans a calm approach to recurring sibling fights matched to the children's ages, covering likely causes, prevention, in-the-moment steps by severity, repair and when to get help.
+policy:
+  allow_implicit_invocation: false

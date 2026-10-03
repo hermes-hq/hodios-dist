@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: research-methods
   source: https://hermes-ide.com/prompts/write-research-interview-protocol
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Write a research interview protocol

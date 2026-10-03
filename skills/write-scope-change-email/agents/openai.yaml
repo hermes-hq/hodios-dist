@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a scope change email
+  short_description: Tells a client that a request is outside the agreed scope without friction, and offers options (a paid change, a swap or deferral) with cost and timeline. For freelancers, agencies and consultants.
+policy:
+  allow_implicit_invocation: false

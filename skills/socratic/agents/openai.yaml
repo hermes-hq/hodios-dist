@@ -1,0 +1,5 @@
+interface:
+  display_name: Socratic
+  short_description: Shapes answers as guided questioning, from one reflective question after a full answer to a Socratic dialogue that withholds the answer until the user reasons it out.
+policy:
+  allow_implicit_invocation: false

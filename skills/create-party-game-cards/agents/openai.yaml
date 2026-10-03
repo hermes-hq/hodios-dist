@@ -1,0 +1,5 @@
+interface:
+  display_name: Create party game cards
+  short_description: Creates custom cards for party games such as charades, Pictionary, would-you-rather and taboo on a theme, tuned to the audience with a difficulty mix. Use for game nights and events.
+policy:
+  allow_implicit_invocation: false

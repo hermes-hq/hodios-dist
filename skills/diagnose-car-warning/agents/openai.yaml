@@ -1,0 +1,5 @@
+interface:
+  display_name: Diagnose a car warning sign
+  short_description: Explains a car warning light, noise, smell or symptom, rates how urgent it is, lists the likely causes and safe checks, and says what to tell the mechanic. Use when something on your car seems wrong.
+policy:
+  allow_implicit_invocation: false

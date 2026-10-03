@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a hiring debrief
+  short_description: Synthesises interviewer scorecards into a hiring debrief with evidence by competency, conflicts, bias checks and a recommendation with open questions. Use before a hiring decision meeting.
+policy:
+  allow_implicit_invocation: false

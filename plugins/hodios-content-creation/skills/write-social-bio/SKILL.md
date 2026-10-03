@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: social-media
   source: https://hermes-ide.com/prompts/write-social-bio
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Write a social profile bio

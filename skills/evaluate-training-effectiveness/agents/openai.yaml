@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a training evaluation
+  short_description: Builds an evaluation plan for a training programme across reaction, learning, behaviour and results, with survey items, assessments, success measures and a data timeline.
+policy:
+  allow_implicit_invocation: false

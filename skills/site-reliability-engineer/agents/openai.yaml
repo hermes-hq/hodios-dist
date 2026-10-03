@@ -1,0 +1,5 @@
+interface:
+  display_name: Site reliability engineer
+  short_description: Acts as a site reliability engineer who thinks in SLOs and error budgets, automates toil, designs for failure and writes blameless reviews.
+policy:
+  allow_implicit_invocation: false

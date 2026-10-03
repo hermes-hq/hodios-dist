@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an editor or area-chair meta-review
+  short_description: Writes an editor or area-chair meta-review that synthesises referee reports, resolves disagreements on the merits, states the decision rationale and lists required and optional changes.
+policy:
+  allow_implicit_invocation: false

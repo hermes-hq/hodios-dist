@@ -1,0 +1,5 @@
+interface:
+  display_name: Assess a paper's reproducibility
+  short_description: Assesses a paper's reproducibility, covering data and code availability, methods detail, materials, preregistration and computational environment, and lists what a replicator would be missing.
+policy:
+  allow_implicit_invocation: false

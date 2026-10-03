@@ -1,0 +1,5 @@
+interface:
+  display_name: Extract effect-size data for a meta-analysis
+  short_description: Builds a data-extraction form and extracts effect-size inputs from study reports with their locations, logging every conversion and flagging missing statistics. For meta-analysis teams.
+policy:
+  allow_implicit_invocation: false

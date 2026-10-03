@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a reference check
+  short_description: Plans reference checks with candidate consent, structured questions tied to the role's competencies, probes for specifics and a notes template. Use before making or confirming a job offer.
+policy:
+  allow_implicit_invocation: false

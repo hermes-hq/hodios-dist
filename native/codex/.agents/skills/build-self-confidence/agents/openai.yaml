@@ -1,0 +1,5 @@
+interface:
+  display_name: Build self-confidence
+  short_description: Leads practical exercises to build self-confidence in a specific situation, with an evidence log, a values check, a ladder of small exposures and reframes for harsh self-talk.
+policy:
+  allow_implicit_invocation: false

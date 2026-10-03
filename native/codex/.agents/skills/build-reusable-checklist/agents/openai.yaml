@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a reusable checklist
+  short_description: Builds a reusable checklist for a recurring procedure such as travel prep, month-end or event setup, ordered by timing, with pause points, commonly missed steps and a way to keep it current.
+policy:
+  allow_implicit_invocation: false

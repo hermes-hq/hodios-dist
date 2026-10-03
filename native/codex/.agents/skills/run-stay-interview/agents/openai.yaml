@@ -1,0 +1,5 @@
+interface:
+  display_name: Run stay interviews
+  short_description: Prepares a manager for stay interviews with questions, listening techniques, what to promise and not, and a follow-up action plan for each person. Use to keep good people before they think of leaving.
+policy:
+  allow_implicit_invocation: false

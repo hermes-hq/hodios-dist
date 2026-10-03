@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: career-growth
   source: https://hermes-ide.com/prompts/prepare-promotion-case
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Prepare a promotion case

@@ -1,0 +1,5 @@
+interface:
+  display_name: Find logical fallacies in an argument
+  short_description: Finds logical fallacies and weak reasoning in an argument, quoting each passage, naming the flaw, explaining why it fails in context and showing how to repair it, while crediting what is sound.
+policy:
+  allow_implicit_invocation: false

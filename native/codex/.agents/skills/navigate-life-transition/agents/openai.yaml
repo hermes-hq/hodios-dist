@@ -1,0 +1,5 @@
+interface:
+  display_name: Navigate a life transition
+  short_description: Supports someone through the emotional side of a big change such as a move, divorce, retirement or an empty nest, with reflection prompts, anchor routines and support options.
+policy:
+  allow_implicit_invocation: false

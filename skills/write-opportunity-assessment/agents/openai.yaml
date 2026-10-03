@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an opportunity assessment
+  short_description: Writes a product opportunity assessment covering the problem, for whom, size, alternatives, why us, why now, success measures, critical risks and a go, explore or stop call.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a team charter
+  short_description: Writes a team charter with purpose, scope, roles, working agreements, decision rights, communication norms and conflict handling, plus a session to agree it. Use when forming or resetting a team.
+policy:
+  allow_implicit_invocation: false

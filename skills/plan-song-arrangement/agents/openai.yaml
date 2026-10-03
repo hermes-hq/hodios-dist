@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a song arrangement
+  short_description: Plans a song's arrangement section by section (who plays what, dynamics, rhythm feel, builds, drops and transitions) so a band or producer can rehearse or start a session with it.
+policy:
+  allow_implicit_invocation: false

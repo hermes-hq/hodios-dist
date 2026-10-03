@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a patient education handout
+  short_description: Turns clinical content a clinician supplies into a plain-language patient handout at a target reading level, with warning signs, teach-back questions and a list of points to confirm.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a community digest
+  short_description: Writes a digest for a club, school, neighbourhood or association from scattered updates, with events, decisions, volunteer asks and contact points. Use for a weekly or monthly community update.
+policy:
+  allow_implicit_invocation: false

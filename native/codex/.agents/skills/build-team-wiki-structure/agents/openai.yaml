@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a team wiki structure
+  short_description: Designs a knowledge base for a non-software team - spaces, page templates, naming rules, page owners, a review cadence and a migration plan from scattered docs.
+policy:
+  allow_implicit_invocation: false

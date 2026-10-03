@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a five forces analysis
+  short_description: Runs a Porter's five forces analysis of an industry from supplied evidence, rates each force with its drivers, and turns the result into strategic implications and open questions.
+policy:
+  allow_implicit_invocation: false

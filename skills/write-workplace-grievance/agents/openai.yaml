@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a formal workplace grievance
+  short_description: Drafts a formal workplace grievance with the facts, dates, policy references, impact and resolution sought, plus how to prepare for the grievance meeting and what to keep on record.
+policy:
+  allow_implicit_invocation: false

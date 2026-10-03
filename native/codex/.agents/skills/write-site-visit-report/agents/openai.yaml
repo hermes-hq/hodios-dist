@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a site visit report
+  short_description: Turns field or site visit notes into a structured report with observations, evidence, issues rated by severity and owned follow-ups. For consultants, inspectors, auditors and area managers.
+policy:
+  allow_implicit_invocation: false

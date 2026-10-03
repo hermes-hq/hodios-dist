@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan drawing practice
+  short_description: Builds a drawing or painting practice plan from your current level and goals, with daily exercises, master studies, weekly progress checks and adjustments, sized to the minutes you actually have.
+policy:
+  allow_implicit_invocation: false

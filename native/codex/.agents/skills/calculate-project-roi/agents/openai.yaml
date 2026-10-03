@@ -1,0 +1,5 @@
+interface:
+  display_name: Calculate project ROI, payback and NPV
+  short_description: Calculates ROI, payback and NPV for a proposed project or investment with explicit assumptions, scenarios and a spreadsheet layout to reproduce it. Use when building or checking a business case.
+policy:
+  allow_implicit_invocation: false

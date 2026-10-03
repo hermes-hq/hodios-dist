@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a Pareto (80/20) analysis
+  short_description: Runs a Pareto analysis on products, customers, defects or causes, with the cumulative table, chart instructions and which vital few to act on. Use to find where effort will pay off most.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose a remote-work base
+  short_description: Compares cities as a remote-work base on monthly cost, internet, time-zone overlap, community and climate, and lists the visa and tax questions to verify. Use before moving somewhere to work remotely.
+policy:
+  allow_implicit_invocation: false

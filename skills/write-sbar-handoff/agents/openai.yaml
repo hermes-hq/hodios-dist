@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an SBAR handoff
+  short_description: Structures nursing or care handoff notes into SBAR (situation, background, assessment, recommendation) without adding any clinical judgement that is not already in the notes.
+policy:
+  allow_implicit_invocation: false

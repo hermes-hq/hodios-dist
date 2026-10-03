@@ -1,0 +1,5 @@
+interface:
+  display_name: Handle a difficult manager
+  short_description: Diagnoses a difficult manager situation and plans your response, from adapting and documenting to direct conversations, allies, escalation or leaving. Use when a manager is hurting your work.
+policy:
+  allow_implicit_invocation: false

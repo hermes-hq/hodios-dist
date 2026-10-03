@@ -1,0 +1,5 @@
+interface:
+  display_name: Implement transactional email
+  short_description: Implements transactional email with templates, a provider integration, retries, bounce and complaint handling, and deliverability settings. Use when an app must send receipts, resets or alerts.
+policy:
+  allow_implicit_invocation: false

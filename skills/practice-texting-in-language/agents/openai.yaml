@@ -1,0 +1,5 @@
+interface:
+  display_name: Practise texting in a language
+  short_description: Chats like a native peer over text in the target language with real informal register, abbreviations and slang, explains them on request and gives corrections only at the end.
+policy:
+  allow_implicit_invocation: false

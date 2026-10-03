@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a crypto asset's risks
+  short_description: Explains how a crypto asset or product works and its risks - volatility, custody, scams, fees and tax - in plain words, without price predictions or buy advice.
+policy:
+  allow_implicit_invocation: false

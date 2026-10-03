@@ -1,0 +1,5 @@
+interface:
+  display_name: Shape a memoir story
+  short_description: Shapes life experiences into a memoir or a memoir in essays, with a through-line, chosen moments, structure, scene versus summary and ethics of writing about real people. Use before drafting.
+policy:
+  allow_implicit_invocation: false

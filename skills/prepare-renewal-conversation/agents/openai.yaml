@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a renewal or upsell conversation
+  short_description: Prepares an account manager for a renewal or upsell conversation with value delivered, risks, expansion options, a pricing stance, an agenda, questions and objection responses.
+policy:
+  allow_implicit_invocation: false

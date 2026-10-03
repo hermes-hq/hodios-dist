@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an annual impact report
+  short_description: Writes an annual impact report for a nonprofit or social enterprise - outcomes, stories, a financial summary and honest notes on what did not work - for donors or another audience.
+policy:
+  allow_implicit_invocation: false

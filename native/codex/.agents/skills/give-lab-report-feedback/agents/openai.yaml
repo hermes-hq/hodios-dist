@@ -1,0 +1,5 @@
+interface:
+  display_name: Give feedback on a lab report
+  short_description: Gives rubric-based feedback on a student lab report covering hypothesis, method, data presentation, analysis and error discussion, with prioritised fixes and no rewriting.
+policy:
+  allow_implicit_invocation: false

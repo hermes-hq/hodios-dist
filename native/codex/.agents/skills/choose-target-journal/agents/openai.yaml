@@ -1,0 +1,5 @@
+interface:
+  display_name: Shortlist target journals for a manuscript
+  short_description: Shortlists journals for a manuscript by scope, audience, article type, open-access costs and timelines, ranked in tiers, with facts to verify on each journal's site. For authors before submission.
+policy:
+  allow_implicit_invocation: false

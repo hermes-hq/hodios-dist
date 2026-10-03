@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan language certificate preparation
+  short_description: Plans preparation for a named language certificate such as DELE, DELF, Goethe, JLPT or TOEFL, section by section, with format facts to verify, strategy and a weekly schedule.
+policy:
+  allow_implicit_invocation: false

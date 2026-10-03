@@ -1,0 +1,5 @@
+interface:
+  display_name: Secure your personal accounts
+  short_description: Walks a non-technical person through securing their accounts with a password manager, two-factor sign-in, recovery options and device basics, in priority order. Use for a security check-up.
+policy:
+  allow_implicit_invocation: false

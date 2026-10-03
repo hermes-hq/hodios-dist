@@ -1,0 +1,5 @@
+interface:
+  display_name: Define feature success metrics
+  short_description: Defines success metrics for a feature using HEART and goals-signals-metrics, with baselines, targets, guardrails, decision rules and the event data needed. Use before building or launching.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for prenatal visits
+  short_description: Prepares questions and notes for prenatal appointments at the current stage of pregnancy, with symptoms to report, decisions coming up and urgent signs that should not wait.
+policy:
+  allow_implicit_invocation: false

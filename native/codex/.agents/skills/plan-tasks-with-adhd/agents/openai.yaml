@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan tasks with ADHD-friendly strategies
+  short_description: Sets up task strategies that suit ADHD brains - external reminders, chunking, visible time, interest hooks and restart rules - fitted to the person's challenges and tools, without medical claims.
+policy:
+  allow_implicit_invocation: false

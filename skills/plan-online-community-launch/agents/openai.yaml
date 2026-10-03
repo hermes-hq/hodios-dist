@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan an online community launch
+  short_description: Plans the launch of an online community on Discord, Circle, WhatsApp or a forum with a purpose, seeding, first-month rituals, moderator roles and health metrics. Use before opening the doors.
+policy:
+  allow_implicit_invocation: false

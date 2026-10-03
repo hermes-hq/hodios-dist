@@ -1,0 +1,5 @@
+interface:
+  display_name: Handle a personal data request
+  short_description: Guides a small organisation through answering a personal-data access or deletion request, covering identity checks, where to search, exemptions to check, deadlines and the reply.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a project close-out report
+  short_description: Writes a close-out report for a non-software project covering objectives against results, budget and schedule variance, lessons learned and a handover of every open item to a named owner.
+policy:
+  allow_implicit_invocation: false

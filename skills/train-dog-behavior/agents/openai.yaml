@@ -1,0 +1,5 @@
+interface:
+  display_name: Train a dog behaviour
+  short_description: Plans reward-based training for a dog behaviour such as pulling, jumping up, barking or poor recall, with steps, session plans, progress checks and when to see a vet or behaviourist.
+policy:
+  allow_implicit_invocation: false

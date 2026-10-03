@@ -1,0 +1,5 @@
+interface:
+  display_name: Propose a flexible work arrangement
+  short_description: Writes a proposal to your manager for remote, hybrid, compressed or part-time work with a business case, coverage plan, trial period and success measures. Use before asking for flexible work.
+policy:
+  allow_implicit_invocation: false

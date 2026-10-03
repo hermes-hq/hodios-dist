@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a board or card game
+  short_description: Designs a board or card game concept with a core loop, component list, rules draft, balance levers, a printable prototype and a staged playtest plan. Use to turn a theme into a testable game.
+policy:
+  allow_implicit_invocation: false

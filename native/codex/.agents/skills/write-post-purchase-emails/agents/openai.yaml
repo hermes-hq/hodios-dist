@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a post-purchase email flow
+  short_description: Writes a post-purchase email flow (confirmation, getting value, check-in, review request, cross-sell or replenishment) with triggers, timing, suppression rules and metrics.
+policy:
+  allow_implicit_invocation: false

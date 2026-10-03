@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a results section
+  short_description: Writes a manuscript results section that reports findings in a logical order with exact statistics, effect sizes, confidence intervals and figure references, and no interpretation.
+policy:
+  allow_implicit_invocation: false

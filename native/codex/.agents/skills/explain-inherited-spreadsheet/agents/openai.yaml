@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain an inherited spreadsheet
+  short_description: Explains an inherited workbook sheet by sheet, how data flows, what the key formulas do in plain words, where it is fragile, and how to use it. Use when you take over someone else's spreadsheet.
+policy:
+  allow_implicit_invocation: false

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: newsletters
   source: https://hermes-ide.com/prompts/curate-link-roundup
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Curate a link roundup

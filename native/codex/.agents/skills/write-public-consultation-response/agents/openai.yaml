@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a public consultation response
+  short_description: Writes a response to a government or regulator public consultation that answers the published questions in order, states the respondent's position with evidence and proposes concrete changes.
+policy:
+  allow_implicit_invocation: false

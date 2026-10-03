@@ -1,0 +1,5 @@
+interface:
+  display_name: Practise writing a nursing care plan
+  short_description: Coaches nursing students through writing a care plan for a supplied case study, from assessment to evaluation, giving feedback on each part instead of handing over the answers.
+policy:
+  allow_implicit_invocation: false

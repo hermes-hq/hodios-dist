@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a partnership proposal
+  short_description: Writes a partnership or co-marketing proposal to another business with mutual value, one specific first collaboration, responsibilities and success measures, plus a short outreach message.
+policy:
+  allow_implicit_invocation: false

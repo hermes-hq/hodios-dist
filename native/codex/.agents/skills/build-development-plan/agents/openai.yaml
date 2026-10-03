@@ -1,0 +1,5 @@
+interface:
+  display_name: Build an individual development plan
+  short_description: Builds an individual development plan with target skills, on-the-job experiences, learning, mentors, milestones and a way to agree it with your manager. Use when setting growth goals.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a family history
+  short_description: Turns family records, dates and stories into a readable family history narrative that keeps documented facts, likely inferences and family lore clearly apart, with sources and gaps to research.
+policy:
+  allow_implicit_invocation: false

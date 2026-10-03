@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan your move to first-time manager
+  short_description: Plans a first-time manager's transition with mindset shifts, first conversations with each report, team norms, delegation and a 60-day plan. Use when you are about to manage people.
+policy:
+  allow_implicit_invocation: false

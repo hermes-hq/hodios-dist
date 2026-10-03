@@ -1,0 +1,5 @@
+interface:
+  display_name: Create a classroom review game
+  short_description: Creates a low-prep classroom review game (quiz show, relay, escape challenge or card game) from unit content, with tiered questions, an answer key, rules, timing and materials.
+policy:
+  allow_implicit_invocation: false

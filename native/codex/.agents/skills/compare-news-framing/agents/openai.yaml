@@ -1,0 +1,5 @@
+interface:
+  display_name: Compare how outlets frame the same story
+  short_description: Compares how several news articles frame the same story, covering agreed facts, contradictions, emphasis, language, sources quoted and omissions, without labelling outlets by politics.
+policy:
+  allow_implicit_invocation: false

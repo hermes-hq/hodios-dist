@@ -1,0 +1,5 @@
+interface:
+  display_name: Evaluate an AI feature opportunity
+  short_description: Evaluates whether and where to add an AI feature, covering problem fit, quality bar and evals, failure modes, cost, trust and a staged rollout, ending in a build, shrink or skip verdict.
+policy:
+  allow_implicit_invocation: false

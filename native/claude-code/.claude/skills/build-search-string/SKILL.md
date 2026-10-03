@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: literature-review
   source: https://hermes-ide.com/prompts/build-search-string
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Build a database search strategy

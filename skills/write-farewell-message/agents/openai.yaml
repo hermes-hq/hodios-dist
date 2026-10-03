@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a farewell message
+  short_description: Writes a goodbye message to colleagues, clients or a community when leaving a job or team, with specific thanks, handover pointers and a way to stay in touch, and nothing that burns bridges.
+policy:
+  allow_implicit_invocation: false

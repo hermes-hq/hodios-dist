@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a comic script
+  short_description: Writes a print comic or vertical-scroll webcomic script in full-script format, panel by panel, with art direction, lettering, and page-turn or scroll reveals an artist can draw from.
+policy:
+  allow_implicit_invocation: false

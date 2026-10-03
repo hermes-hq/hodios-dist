@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a nonprofit case for support
+  short_description: Writes a nonprofit case for support - the need with evidence, the organisation's approach, its impact, what gifts make possible at each level and why now - plus short versions for reuse.
+policy:
+  allow_implicit_invocation: false

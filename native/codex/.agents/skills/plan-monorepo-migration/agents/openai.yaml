@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a monorepo migration
+  short_description: Plans moving several repositories into a monorepo, covering history preservation, build tooling, CI, code ownership and a staged rollout. Use before consolidating repositories.
+policy:
+  allow_implicit_invocation: false

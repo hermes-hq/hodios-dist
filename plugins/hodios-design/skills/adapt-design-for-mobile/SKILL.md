@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: ui-design
   source: https://hermes-ide.com/prompts/adapt-design-for-mobile
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Adapt a desktop design for mobile

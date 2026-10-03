@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an LLM-as-judge prompt
+  short_description: Writes an LLM-as-judge grading prompt with a calibrated scale, anchored examples for each score, ordered criteria and a structured verdict, plus checks for common judge biases.
+policy:
+  allow_implicit_invocation: false

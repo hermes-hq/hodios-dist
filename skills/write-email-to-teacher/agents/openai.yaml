@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an email to a teacher
+  short_description: Writes a parent's email to a teacher about a concern, request or update that is specific, collaborative and short, and asks for one clear next step.
+policy:
+  allow_implicit_invocation: false

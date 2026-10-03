@@ -1,0 +1,5 @@
+interface:
+  display_name: Improve a credit score
+  short_description: Explains what drives credit scores or credit files in the person's country and builds a plan to improve theirs - payment history, utilisation, errors to dispute and a realistic timeline.
+policy:
+  allow_implicit_invocation: false

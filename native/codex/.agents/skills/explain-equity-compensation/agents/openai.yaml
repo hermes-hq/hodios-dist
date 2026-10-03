@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain employee equity compensation
+  short_description: Explains employee equity such as RSUs, stock options and ESPPs - vesting, strike price, exercise choices, tax events to verify and concentration risk - with worked numbers.
+policy:
+  allow_implicit_invocation: false

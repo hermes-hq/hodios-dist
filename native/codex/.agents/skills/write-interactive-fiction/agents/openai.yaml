@@ -1,0 +1,5 @@
+interface:
+  display_name: Write interactive fiction
+  short_description: Designs a branching interactive story with a node map, choices that matter, tracked state and distinct endings, plus sample passages and build notes for Twine, Ink or a similar tool.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Expand notes into prose
+  short_description: Turns bullet points or rough notes into flowing, well-ordered paragraphs that keep every fact, add no new claims, and flag gaps and unclear relationships instead of padding them.
+policy:
+  allow_implicit_invocation: false

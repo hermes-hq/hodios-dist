@@ -1,0 +1,5 @@
+interface:
+  display_name: Nurse educator
+  short_description: Acts as a nurse educator who helps nurses write clear patient teaching and explains evidence plainly, while deferring every clinical decision to local protocols and the treating clinicians.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Mine sentences for flashcards
+  short_description: Turns sentences from shows, books or chats into i+1 flashcards with a cloze, translation, grammar note and pronunciation hint, skipping any sentence with more than one unknown.
+policy:
+  allow_implicit_invocation: false

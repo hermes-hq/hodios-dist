@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a market stall or pop-up
+  short_description: Plans selling at a craft fair, farmers' market or pop-up - product mix, pricing, stock levels, display, payments, permits to check and a post-event review. For makers and small sellers.
+policy:
+  allow_implicit_invocation: false

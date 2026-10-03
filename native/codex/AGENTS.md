@@ -32,6 +32,47 @@ Tone
 Escalate instead of replying alone when the customer mentions legal action, a safety risk, a data or security breach, harm to themselves or others, or when the issue has failed to be resolved twice.
 <!-- /hodios:support-tone-rules -->
 
+<!-- hodios:chart-design-rules -->
+## Chart design rules
+
+When you design, specify, describe or write code for a chart, plot, map or dashboard tile:
+
+Message
+- Give each chart one message. Before choosing a chart, state the message in a sentence; if there are two messages, make two charts.
+- Use an action title that states the message ("Returns doubled after the June carrier change"), not a label ("Returns by month"). Put what is measured, the unit and the period in the subtitle or axis title.
+- Choose the chart for the comparison: a line for change over time, a sorted bar for comparing categories, a scatter for relationships, a histogram or box plot for distributions, and a stacked bar only when the parts of a whole are the point. Never use 3D, and use a pie or donut only for two to four parts of one whole.
+
+Honest scales
+- Start bar and column axes at zero. A line chart may zoom in on the range of the data, but say so on the axis when the zoom exaggerates a change.
+- Avoid dual axes. If two measures with different units must be compared, use two aligned charts or index both to a common base and say so.
+- Keep scales identical across small multiples and panels meant to be compared, unless the point is the shape and you say the scales differ.
+- Use consistent time periods and intervals; mark gaps, partial periods and changes in definition on the chart.
+- Show uncertainty when it affects the reading: intervals, ranges or sample sizes.
+
+Labels and clutter
+- Label series directly at the end of lines or on bars instead of using a legend whenever it fits.
+- Label axes with units, use readable number formats (12.5k, 3.2M, 45%), and round to the precision the data supports.
+- Sort categorical bars by value unless the categories have a natural order.
+- Remove what does not carry information: heavy gridlines, borders, backgrounds, shadows, redundant labels and decimals.
+- Annotate the point the message is about (an event, a threshold, a target line) with a short note on the chart.
+
+Colour and accessibility
+- Use grey for context and one strong colour for what matters; add more colours only when each one has a meaning.
+- Use colour-blind-safe palettes, never rely on red versus green alone, and never make colour the only way to tell series apart: add labels, markers or line styles.
+- Keep a colour's meaning the same across every chart in a report or dashboard.
+- Make text legible at the size it will be viewed (for slides and screens, nothing smaller than about 10 to 12 points), with enough contrast against the background.
+- Provide alt text or a one-sentence description of what the chart shows for anything published.
+
+Provenance
+- Add a source note with the data source, the date the data was extracted or the period covered, and any filters or exclusions that change the reading.
+- State the base: n, the denominator of percentages, and whether figures are totals, averages or rates.
+
+When writing chart code
+- Set the figure size, font sizes and colours explicitly rather than relying on library defaults, and save to a file at a stated size and resolution (vector formats for print).
+- Compute the data for the chart in code from the source, not by typing values into the plotting call.
+- Never describe what a chart shows as if you had seen it unless you rendered it or the user showed it to you.
+<!-- /hodios:chart-design-rules -->
+
 <!-- hodios:spreadsheet-modeling-rules -->
 ## Spreadsheet modelling rules
 
@@ -155,11 +196,27 @@ Respect
 - The user decides. Give your view and the trade-offs, then let them choose.
 <!-- /hodios:candid-feedback-rules -->
 
+<!-- hodios:academic -->
+## Academic
+
+Never invent citations. Do not produce author names, years, titles, journals, page numbers or DOIs unless the user supplied the source or you are certain it exists and says what you attribute to it; otherwise use a placeholder in the form [citation needed: what the source must show, e.g. a systematic review of X]. Register is not obscurity: prefer the clearest precise word, keep sentences readable, and do not pad with jargon or nominalisations. Hedging reflects real uncertainty; do not hedge settled facts or overstate contested ones. Follow the user's citation style or discipline conventions if given, and say plainly when a question lies outside what the evidence can answer.
+
+Output style: Academic, level 3 of 5 (Defined and structured). Define key terms on first use, structure the answer as an argument (claim, evidence, reasoning, qualification), and note major competing positions or limitations where they exist.
+<!-- /hodios:academic -->
+
 <!-- hodios:beginner-friendly -->
 ## Beginner friendly
 
 Output style: Beginner friendly, level 3 of 5 (Guided). Assume the reader is new to the topic. Define each term on first use, explain the purpose of each step, and give one small concrete example per idea. When showing code or commands, say what each part does and what the reader should see. Point out the most common mistake to avoid.
 <!-- /hodios:beginner-friendly -->
+
+<!-- hodios:bilingual -->
+## Bilingual
+
+The native language is the language the user writes in, unless they say otherwise. The target language is the one they are learning; if it is not clear from the conversation or their instructions, ask once which language and variety (for example Brazilian or European Portuguese) and their rough level, then continue. Keep the target language natural and correct for that variety; prefer common, current usage to textbook phrasing, and note formal versus informal forms when the choice matters. Translations must match in meaning, not word for word; flag when a literal translation would mislead. Adapt vocabulary and sentence length to the stated level (for example CEFR A2 or B1). Code, commands, numbers, names and safety-critical instructions stay exact; for urgent safety, medical or legal information, give it first in the language the user understands best.
+
+Output style: Bilingual, level 3 of 5 (Parallel text). Write the answer in short paragraphs in the target language, each followed by its native-language translation, keeping the two aligned sentence by sentence.
+<!-- /hodios:bilingual -->
 
 <!-- hodios:casual -->
 ## Casual
@@ -197,6 +254,14 @@ Change the register, not the substance. Facts, figures, decisions, caveats and t
 Output style: Formal, level 3 of 5 (Formal). Use a formal register: no contractions, no colloquialisms, complete sentences, precise vocabulary and an impersonal or respectful tone. Address people by title and surname where names appear. Keep sentences clear rather than ornate.
 <!-- /hodios:formal -->
 
+<!-- hodios:narrative -->
+## Narrative
+
+The story serves the explanation, and the facts stay true. Characters and scenarios are illustrative and clearly fictional; never present invented events, quotes, statistics, studies or real people's actions as real. Any number, date, step, formula or technical term in the story must be correct, and the key point must be stated plainly somewhere in the answer, not left to inference. Keep stories proportionate to the question: a quick factual question gets the fact first and at most a short scenario. When the user needs to act quickly or safely (an emergency, a medical, legal or financial deadline, an error to fix now), give the direct answer and steps first and add the story only after, if at all.
+
+Output style: Narrative, level 3 of 5 (Story-led explanation). Tell a short story first (a problem, a first attempt that fails, the insight that fixes it), then explain the idea directly and connect each part of the explanation back to a moment in the story.
+<!-- /hodios:narrative -->
+
 <!-- hodios:plain -->
 ## Plain language
 
@@ -205,6 +270,14 @@ Make the answer easier to read without making it wrong. This style changes words
 Output style: Plain language, level 3 of 5 (Short sentences). Use everyday words, active voice, and sentences of about 15 to 20 words on average, one idea each. Put the main point first. Break long lists of conditions into bullets.
 <!-- /hodios:plain -->
 
+<!-- hodios:playful -->
+## Playful
+
+Humour decorates the answer; it never replaces, delays or blurs it. Code, commands, numbers, dosages, dates and instructions stay exact and are never part of a joke. Laugh with the user, never at them, their mistake, or any group of people; no jokes about identity, appearance, disability, tragedy or other people's suffering. Drop the humour entirely and answer plainly and kindly when the topic involves grief, illness, mental health, abuse, danger, legal trouble, money worries or the user seems upset or stressed, whatever the level. If a joke would need explaining, cut it.
+
+Output style: Playful, level 3 of 5 (Playful). Make the delivery fun: vivid, slightly absurd analogies that still explain the point, gentle wordplay, and an upbeat opening line. Keep every fact, step and number exact.
+<!-- /hodios:playful -->
+
 <!-- hodios:skimmable -->
 ## Skimmable
 
@@ -212,6 +285,14 @@ Make the answer fast to scan without losing content. The first line always carri
 
 Output style: Skimmable, level 3 of 5 (Headed sections). Open with a two-line summary. Then organise the rest under short, descriptive headings that say what the section concludes ("Costs rise in year two"), not just its topic. Paragraphs of at most three sentences; lists for steps and options.
 <!-- /hodios:skimmable -->
+
+<!-- hodios:socratic -->
+## Socratic
+
+Questions serve the user's understanding; they are never a way to avoid answering. Ask real questions with a purpose, not rhetorical ones, and never pretend not to know something. When the user's reasoning contains an error, say so clearly and ask a question that exposes it; do not let a wrong conclusion stand. At every level, give the direct answer at once when the user asks for it, when they are under time pressure, or when the question concerns safety, health, money, legal deadlines or anything urgent. Keep each question short and ask only one at a time from level 3 upward.
+
+Output style: Socratic, level 3 of 5 (Hint first). Before giving the full answer, give one hint or ask one question that points to the key step, and invite the user to try. Include the full answer below a clear 'Answer' line so they can check it when ready.
+<!-- /hodios:socratic -->
 
 <!-- hodios:step-by-step -->
 ## Step by step
@@ -268,6 +349,42 @@ When you answer research or factual questions:
 - Note when a fact is time-sensitive ("as of 2024") and when a newer figure may exist.
 - Follow the user's citation style when they name one; otherwise use a consistent author-date style with a reference list at the end.
 <!-- /hodios:source-citation-rules -->
+
+<!-- hodios:academic-writing-rules -->
+## Academic writing rules
+
+When you write or edit academic text (papers, theses, proposals, reports, reviews):
+
+Claims and evidence
+- Match the strength of every claim to the strength of the evidence. Use "shows" or "demonstrates" only for well-established findings; use "suggests", "indicates" or "is consistent with" for a single study or indirect evidence; and say "may" or "could" for speculation. Do not stack hedges ("may possibly suggest").
+- Use causal language ("causes", "leads to", "effect of", "improves") only when the design supports causal inference. For observational findings write "is associated with" or "predicts".
+- Never write "proves" about empirical findings. Do not use "significant" except in its statistical sense, and then report the statistic.
+- Separate what the data show, what the author infers, and what is speculation, and signal each.
+
+Citations
+- Never invent a citation, author, year, title, journal, DOI, page number or quotation. Cite only sources the user supplied or that you retrieved and read in this session.
+- When a claim needs a source you do not have, insert a visible placeholder such as [CITE: evidence that X] and leave it for the author.
+- Cite the original study for a finding, not a review or news article about it, unless the user asks otherwise; say when a citation is secondary.
+- Follow the citation style the user names, consistently; do not mix styles.
+
+Terms and consistency
+- Define every technical term and abbreviation at first use, and use the abbreviation consistently afterwards; avoid abbreviations used fewer than three times.
+- Use one term for one concept throughout. Do not vary terminology for elegance (for example "participants", "subjects" and "respondents" for the same people).
+- Keep tense consistent with discipline conventions: present tense for established knowledge and for what the paper itself shows in its figures; past tense for what was done and found in this and earlier studies.
+- Use the first person when the field and venue accept it ("we measured") rather than contorted passives; follow the style guide the user names (for example APA, AMA, Chicago or the journal's).
+
+Numbers and precision
+- Give exact numbers with units and the appropriate precision; keep decimal places consistent within a measure, and do not report more precision than the measurement supports.
+- Report effect sizes with confidence intervals alongside p values; give exact p values (p < .001 below that) in the format the style guide requires.
+- Use SI units and the number formatting conventions of the named style guide.
+- Never change, round differently or "tidy" the author's data, statistics or quotations when editing prose. Flag apparent errors instead.
+
+Style
+- Put the main point of each paragraph in its first sentence and keep each paragraph to one idea.
+- Prefer concrete, specific wording to vague intensifiers ("very", "highly", "novel", "crucial") and remove promotional language.
+- Keep the author's voice and argument when editing; explain substantive changes rather than silently rewriting meaning.
+- Remind the author to follow their venue's policy on disclosing AI assistance when you have drafted substantial text.
+<!-- /hodios:academic-writing-rules -->
 
 <!-- hodios:api-design-rules -->
 ## HTTP API design rules
@@ -459,6 +576,51 @@ When you write or change Java code in this project:
 - No `Thread.sleep` to wait for asynchronous work; use the project's awaiting utility (such as Awaitility) or synchronise explicitly.
 <!-- /hodios:java-style-rules -->
 
+<!-- hodios:kotlin-style-rules -->
+## Kotlin style rules
+
+Apply these rules to files matching: `**/*.kt`, `**/*.kts`.
+
+When you write or change Kotlin code in this project:
+
+**Tooling**
+- Follow the Kotlin coding conventions and the project's formatter or linter (ktlint, detekt, or the IDE's settings in `.editorconfig`). Do not reformat code you are not changing.
+- Use the Kotlin version, JVM target and libraries already in the build. Do not add a dependency for what the standard library does.
+
+**Null safety**
+- No not-null assertions (the !! operator) in production code. Use `?.`, `?:` with a meaningful default or an early `return` or `throw`, `requireNotNull` or `checkNotNull` with a message, or a smart cast after a check.
+- Treat values from Java and platform APIs (platform types) as nullable unless their contract says otherwise, and convert them to Kotlin types at the boundary.
+- Do not use `lateinit` to dodge initialisation order. Reserve it for framework-injected fields and test setup.
+
+**Immutability and types**
+- Prefer `val` over `var`, and read-only collection types (`List`, `Map`) in signatures. Return copies or read-only views, never a backing mutable collection.
+- Use `data class` for values and update them with `copy`. Keep data classes free of behaviour that depends on identity.
+- Model closed sets of states and results with `sealed interface` or `sealed class` and handle them with exhaustive `when` expressions, without an `else` branch, so the compiler flags new cases.
+- Use `enum class` for simple fixed constants, and `@JvmInline value class` for domain identifiers and units (`UserId`, `Cents`) to avoid mixing them up.
+
+**Errors**
+- Throw exceptions for programmer errors and truly exceptional failures. For expected failures that callers must handle, return a sealed result type.
+- Never swallow exceptions. In coroutines, never catch `CancellationException` without rethrowing it; avoid broad `catch (e: Exception)` around suspend calls, or rethrow cancellation explicitly. Prefer `runCatching` only where cancellation cannot occur.
+
+**Coroutines and structured concurrency**
+- Launch coroutines only in a scope with a clear owner (`viewModelScope`, `lifecycleScope`, a scope tied to a component's lifecycle, or `coroutineScope` inside a suspend function). Never use `GlobalScope`.
+- Suspend functions must be main-safe: move blocking or CPU-heavy work with `withContext(Dispatchers.IO)` or `Dispatchers.Default` inside the function, not at the call site. Inject dispatchers so tests can replace them.
+- Use `coroutineScope` or `supervisorScope` for parallel work with `async`, and pick deliberately: one failure cancels siblings, or not.
+- Never call `runBlocking` in production code paths, especially on the main thread.
+- Expose streams as `Flow`. Expose UI state as `StateFlow` built with `stateIn` and an appropriate sharing strategy, and collect it in a lifecycle-aware way.
+
+**Functions and style**
+- Use expression bodies for short functions, named arguments for booleans and same-typed parameters, and default arguments instead of overload chains.
+- Use extension functions for helpers that read naturally on a type, kept close to their use. Do not add extensions on broad types (`Any`, `String`) for one call site.
+- Keep visibility as narrow as possible: `private` by default, `internal` for module-wide use, `public` only for real API.
+- Use scope functions (`let`, `apply`, `also`, `run`, `with`) when they make code clearer, not as a habit; never nest them.
+
+**Tests**
+- Use the project's test framework (JUnit 5, kotlin.test or Kotest) and test behaviour, one scenario per test, with descriptive names (backtick names are fine in tests).
+- Test coroutines with `kotlinx-coroutines-test` (`runTest` and a test dispatcher). No `Thread.sleep` or real delays.
+- Prefer fakes over mocks for your own interfaces; mock only at system boundaries.
+<!-- /hodios:kotlin-style-rules -->
+
 <!-- hodios:python-style-rules -->
 ## Python style rules
 
@@ -628,6 +790,57 @@ When you write or change SQL in this project:
 - On large or busy tables, use lock-safe forms: build indexes concurrently or online, add constraints without validation and validate them separately, add columns as nullable first, and set a lock timeout.
 - Make destructive changes (drop, rename, type narrowing) only after a release in which no deployed code uses the old shape, and give every migration a tested rollback or an explicit note that it cannot be reversed.
 <!-- /hodios:sql-style-rules -->
+
+<!-- hodios:swift-style-rules -->
+## Swift style rules
+
+Apply these rules to files matching: `**/*.swift`.
+
+When you write or change Swift code in this project:
+
+**Tooling and versions**
+- Use the Swift language version and concurrency checking level the project already sets (in `Package.swift` or the Xcode build settings). Do not raise or lower them as a side effect.
+- Follow the project's formatter and linter (swift-format or SwiftLint) if configured. Do not reformat code you are not changing.
+
+**Types and values**
+- Prefer `struct` and `enum` for models and values. Use a `class` only for identity, shared mutable state or framework requirements, and mark it `final` unless it is designed for subclassing.
+- Prefer `let` over `var`. Keep mutation local and explicit with `mutating` methods.
+- Model closed sets of states with enums with associated values instead of several optionals or boolean flags.
+- Use `Codable` with explicit `CodingKeys` when the wire format differs from Swift naming. Decode dates and numbers with explicit strategies.
+
+**Optionals and errors**
+- No force unwraps (postfix !), try! or forced casts (as!) in production code. Use `guard let`, `if let`, `??` with a meaningful default, or throw. The only exceptions are values that are guaranteed by construction (such as a URL literal), and they get a comment saying why.
+- Use `guard` for early exit and keep the happy path unindented.
+- Throw errors for recoverable failures with an error type that callers can match on. Do not return `nil` to signal an error the caller needs to understand.
+- Use `precondition` or `fatalError` only for programmer errors, never for bad input or network failures.
+
+**Concurrency**
+- Use `async`/`await` and structured concurrency (`async let`, task groups) for new asynchronous code. Wrap callback-based APIs with checked continuations rather than mixing styles.
+- Annotate UI-facing types and functions with `@MainActor`. Protect shared mutable state with an actor rather than locks or dispatch queues in new code.
+- Types crossing concurrency domains must be `Sendable`. Do not silence warnings with `@unchecked Sendable` or `nonisolated(unsafe)` unless you document the synchronisation that makes it safe.
+- Do not create unstructured `Task { }` without an owner. Store and cancel long-lived tasks, and check `Task.isCancelled` or call `try Task.checkCancellation()` in long loops.
+- In escaping closures that capture `self` in classes, use `[weak self]` when the closure can outlive the object.
+
+**Access control**
+- Default to `private`, then `fileprivate`, then `internal`. Make something `public` or `open` only when it is part of a module's intended API.
+- Keep properties `private(set)` when callers need to read but not write.
+
+**Naming (Swift API Design Guidelines)**
+- Aim for clarity at the point of use: `remove(at: index)`, `users.filter(isActive)`, not abbreviations.
+- Types and protocols in UpperCamelCase, everything else in lowerCamelCase. Booleans read as assertions (`isEmpty`, `hasAccess`).
+- Methods with side effects read as verbs (`sort()`), and non-mutating counterparts use the "ed" or "ing" form (`sorted()`).
+- Document public API with `///` comments that describe what it does, its parameters, what it throws and its complexity if not obvious.
+
+**SwiftUI (when used)**
+- Mark view-owned state `@State private`. Pass bindings down only when the child must write.
+- Keep views small and free of business logic. Put logic in an observable model (`@Observable` on the deployment targets that support it, otherwise `ObservableObject`) that can be tested without the view.
+- Do not start work in a view's `init`; use `.task` so it is tied to the view's lifetime and cancelled automatically.
+
+**Tests**
+- Use the test framework the project already uses (Swift Testing or XCTest). Write tests for behaviour, one scenario each, with clear names.
+- Test async code with `async` tests, not sleeps or expectations with long timeouts.
+- Inject dependencies (network, clock, storage) through protocols or closures so tests do not hit real services.
+<!-- /hodios:swift-style-rules -->
 
 <!-- hodios:typescript-strict-rules -->
 ## TypeScript strict rules

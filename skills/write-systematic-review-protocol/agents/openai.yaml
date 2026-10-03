@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a systematic review protocol
+  short_description: Writes a PROSPERO-style systematic review protocol with the question, eligibility criteria, search, screening, extraction, risk of bias and synthesis plan, following PRISMA-P. For review teams.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Cluster a long list of ideas
+  short_description: Clusters a long list of ideas into named themes, merges duplicates without losing any idea, and ranks the clusters against stated criteria with reasons. Use after a brainstorm or survey.
+policy:
+  allow_implicit_invocation: false

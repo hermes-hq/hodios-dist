@@ -1,0 +1,5 @@
+interface:
+  display_name: Process a brain dump
+  short_description: Sorts a stream-of-consciousness brain dump into tasks, projects, decisions, worries, ideas, reference and things to drop, with a next action for each and nothing lost.
+policy:
+  allow_implicit_invocation: false

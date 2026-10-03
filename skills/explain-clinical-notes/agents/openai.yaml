@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain clinical notes
+  short_description: Explains the terms and abbreviations in clinic notes, letters or a discharge summary in plain language, flags ambiguous shorthand, and lists questions to ask the care team.
+policy:
+  allow_implicit_invocation: false

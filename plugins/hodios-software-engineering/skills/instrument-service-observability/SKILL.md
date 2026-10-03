@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: incident
   source: https://hermes-ide.com/prompts/instrument-service-observability
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Instrument a service for observability

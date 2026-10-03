@@ -1,0 +1,5 @@
+interface:
+  display_name: Review an NDA
+  short_description: Reviews a non-disclosure agreement for definition breadth, mutuality, term, exclusions, residuals and remedies from your side, and flags the clauses to negotiate before signing.
+policy:
+  allow_implicit_invocation: false

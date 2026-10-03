@@ -1,0 +1,5 @@
+interface:
+  display_name: Swift style rules
+  short_description: Standing rules for Swift an assistant writes, covering value types, optionals without force unwraps, structured concurrency, access control and API Design Guidelines naming.
+policy:
+  allow_implicit_invocation: false

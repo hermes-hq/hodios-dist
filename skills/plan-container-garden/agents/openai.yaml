@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a container garden
+  short_description: Plans a balcony, patio or windowsill container garden with plants matched to light and climate, container sizes, potting mix, watering and a seasonal calendar. Use before buying pots and plants.
+policy:
+  allow_implicit_invocation: false

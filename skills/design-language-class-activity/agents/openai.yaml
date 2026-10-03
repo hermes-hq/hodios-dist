@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a communicative language activity
+  short_description: Designs a communicative classroom activity for language teachers, such as an information gap, role play or task, with level, target language, instructions, timing and an error-correction plan.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan finances for a separation
+  short_description: Builds a financial checklist for separation or divorce - assets and debts inventory, documents, steps to protect yourself, budgets for two households and questions for a lawyer and adviser.
+policy:
+  allow_implicit_invocation: false

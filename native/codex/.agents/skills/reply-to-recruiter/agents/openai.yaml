@@ -1,0 +1,5 @@
+interface:
+  display_name: Reply to a recruiter
+  short_description: Writes a reply to a recruiter's message that fits your situation, whether interested, not now, not interested or asked about salary, while keeping options open and protecting your position.
+policy:
+  allow_implicit_invocation: false

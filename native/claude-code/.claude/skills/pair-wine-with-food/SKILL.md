@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: cooking
   source: https://hermes-ide.com/prompts/pair-wine-with-food
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Pair wine with a menu

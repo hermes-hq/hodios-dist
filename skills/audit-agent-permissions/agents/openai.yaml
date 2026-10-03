@@ -1,0 +1,5 @@
+interface:
+  display_name: Audit a coding agent's permissions
+  short_description: Reviews a coding agent's tool, permission and sandbox configuration for shell, network, secrets and write-scope risk, and proposes least privilege. Use before giving an agent more autonomy.
+policy:
+  allow_implicit_invocation: false

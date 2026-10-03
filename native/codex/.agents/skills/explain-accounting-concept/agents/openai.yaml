@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain an accounting concept
+  short_description: Explains an accounting concept such as accruals, depreciation, deferred revenue or cash versus profit with a small-business example, journal entries and the effect on each statement.
+policy:
+  allow_implicit_invocation: false

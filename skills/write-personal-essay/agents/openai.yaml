@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a personal essay
+  short_description: Helps write a first-person personal essay for a blog or publication from the writer's own experience, finding the insight, the structure and scene-level detail. Use when shaping a lived story.
+policy:
+  allow_implicit_invocation: false

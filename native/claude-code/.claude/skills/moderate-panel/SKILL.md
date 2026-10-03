@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: public-speaking
   source: https://hermes-ide.com/prompts/moderate-panel
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Prepare to moderate a panel

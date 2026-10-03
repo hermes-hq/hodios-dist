@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for a power of attorney
+  short_description: Prepares someone to set up or use a power of attorney by explaining the common types, choosing attorneys, the decisions to discuss and the questions for a lawyer or official body.
+policy:
+  allow_implicit_invocation: false

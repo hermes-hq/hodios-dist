@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare an emergency medical summary
+  short_description: Builds a one-page emergency medical summary and a wallet card listing conditions, medicines, allergies, devices, contacts and care wishes, copied exactly from what the person provides.
+policy:
+  allow_implicit_invocation: false

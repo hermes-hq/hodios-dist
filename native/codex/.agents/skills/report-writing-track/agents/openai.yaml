@@ -1,0 +1,5 @@
+interface:
+  display_name: Report writing track
+  short_description: Takes a work report from purpose and audience to an answer-first outline, an evidence check, a full draft, an executive summary and a final edit, pausing for approval between steps.
+policy:
+  allow_implicit_invocation: false

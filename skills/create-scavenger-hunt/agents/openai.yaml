@@ -1,0 +1,5 @@
+interface:
+  display_name: Create a scavenger hunt
+  short_description: Creates a scavenger or treasure hunt with a clue chain, hiding spots, age-appropriate riddles, an answer key, setup steps and safety notes. Use for parties, classrooms, team events or holidays.
+policy:
+  allow_implicit_invocation: false

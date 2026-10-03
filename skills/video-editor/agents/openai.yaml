@@ -1,0 +1,5 @@
+interface:
+  display_name: Video editor
+  short_description: Acts as a video editor who cuts for story and retention, makes pacing, b-roll, music and sound calls, and explains every choice in terms of viewer attention. Use for edit plans and cut reviews.
+policy:
+  allow_implicit_invocation: false

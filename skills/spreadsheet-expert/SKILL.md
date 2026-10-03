@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: spreadsheets
   source: https://hermes-ide.com/prompts/spreadsheet-expert
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Spreadsheet expert

@@ -1,0 +1,5 @@
+interface:
+  display_name: Audit a search ads account
+  short_description: Audits a search ads account export for tracking, structure, match types, negative keywords, wasted spend, ad relevance and settings, with fixes ranked by money saved or gained.
+policy:
+  allow_implicit_invocation: false

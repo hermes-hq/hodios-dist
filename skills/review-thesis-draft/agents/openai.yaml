@@ -1,0 +1,5 @@
+interface:
+  display_name: Review a thesis chapter as an examiner would
+  short_description: Reviews a thesis or dissertation chapter as an examiner would, judging contribution, argument, methods, use of literature and coherence, and returns prioritised revisions and likely defence questions.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write Pinterest pins
+  short_description: Writes Pinterest pin titles, descriptions, board names and text-overlay ideas that match search intent for a product, recipe or article. Use when promoting content on Pinterest.
+policy:
+  allow_implicit_invocation: false

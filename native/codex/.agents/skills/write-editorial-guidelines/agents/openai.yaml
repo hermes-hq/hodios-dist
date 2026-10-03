@@ -1,0 +1,5 @@
+interface:
+  display_name: Write editorial guidelines
+  short_description: Writes editorial guidelines for a blog or publication's contributors covering voice, formats, sourcing and fact rules, AI use, formatting and the review process. Use before taking outside writers.
+policy:
+  allow_implicit_invocation: false

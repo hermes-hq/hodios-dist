@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an explainer video script
+  short_description: Writes a 60 to 120 second explainer script moving from problem to solution, how it works and a call to action, with visual direction for every line. Use for product or concept explainers.
+policy:
+  allow_implicit_invocation: false

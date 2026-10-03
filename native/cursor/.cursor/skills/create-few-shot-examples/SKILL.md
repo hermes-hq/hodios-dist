@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: prompt-engineering
   source: https://hermes-ide.com/prompts/create-few-shot-examples
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Create few-shot examples

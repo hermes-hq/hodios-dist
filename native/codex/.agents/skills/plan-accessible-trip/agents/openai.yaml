@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan an accessible trip
+  short_description: Plans a trip around mobility, sensory, cognitive or medical access needs, with precise questions for providers, transport and lodging checks, medication and equipment prep and a contingency plan.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a business trip
+  short_description: Plans an efficient business trip with a schedule in local time, realistic buffers, an expense-policy check, a packing list and a brief per meeting. Use once the meetings are known.
+policy:
+  allow_implicit_invocation: false

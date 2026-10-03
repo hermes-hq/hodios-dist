@@ -1,0 +1,5 @@
+interface:
+  display_name: Pitch a creator collaboration
+  short_description: Writes a collaboration pitch to another creator with the audience overlap, a specific format idea, the value for both sides and the logistics, plus a follow-up. Use when reaching out to a peer.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan the SEO side of a site migration
+  short_description: Plans the SEO side of a redesign, domain move, platform change or HTTPS switch, with benchmarks, a redirect map, launch checklist, monitoring and rollback triggers.
+policy:
+  allow_implicit_invocation: false

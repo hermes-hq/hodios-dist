@@ -1,0 +1,5 @@
+interface:
+  display_name: Integrate payments
+  short_description: Implements a payment integration with the provider's official SDK, covering checkout, webhooks, idempotency, refunds and reconciliation. Use when adding one-time payments or subscriptions.
+policy:
+  allow_implicit_invocation: false

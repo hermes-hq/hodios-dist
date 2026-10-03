@@ -1,0 +1,5 @@
+interface:
+  display_name: Compare mortgage options
+  short_description: Compares mortgage types and terms - fixed, variable, term length, offset and overpayments - with worked payment scenarios, rate-shock tests and questions for a broker.
+policy:
+  allow_implicit_invocation: false

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: ux-research
   source: https://hermes-ide.com/prompts/design-diary-study
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Design a diary study

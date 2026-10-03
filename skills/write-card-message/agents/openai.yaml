@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a card message
+  short_description: Writes a short, specific card message for a birthday, wedding, graduation, new baby, retirement or get-well card that sounds like the sender rather than a greeting card.
+policy:
+  allow_implicit_invocation: false

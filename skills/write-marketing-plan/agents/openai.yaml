@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a one-year marketing plan
+  short_description: Writes a one-year marketing plan for a small business with goals worked back from revenue, audience, positioning, a focused channel plan, monthly calendar, budget split and measures.
+policy:
+  allow_implicit_invocation: false

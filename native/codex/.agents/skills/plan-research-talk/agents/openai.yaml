@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a conference or lab-meeting research talk
+  short_description: Plans a short research talk for a conference or lab meeting with a one-sentence message, timed slide sequence, figure choices, opening and close, and Q&A preparation. For researchers presenting work.
+policy:
+  allow_implicit_invocation: false

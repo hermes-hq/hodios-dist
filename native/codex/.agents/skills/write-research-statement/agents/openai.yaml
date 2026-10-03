@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a research statement
+  short_description: Writes an academic research statement covering past, current and future research, with an optional teaching statement. Use when applying for faculty or postdoc positions.
+policy:
+  allow_implicit_invocation: false

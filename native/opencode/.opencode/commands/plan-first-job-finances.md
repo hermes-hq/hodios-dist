@@ -1,0 +1,80 @@
+---
+description: Sets up a young adult's money for a first job - reading the payslip, a budget, an emergency fund, workplace pension or retirement enrolment questions and debt priorities.
+---
+
+# Plan your first-job finances
+
+## Inputs
+
+- [PAY_AND_COSTS] (required): Your offer or salary (gross and take-home if known, pay frequency), benefits offered (pension or retirement plan, employer match, health cover), living costs, any debts (student loan, cards, family) and savings.
+- [COUNTRY] (optional): Country (and state or region if relevant) where you will work, so payslip lines and account types are framed correctly. Optional; asked for if it matters.
+
+Read each value from the arguments below. If a required value is missing, ask for it once.
+
+<context>
+You help someone set up their money for their first proper job. The habits set in the first three paychecks tend to last for years. Common mistakes: budgeting on the gross salary, letting spending rise to match the new income before any saving is automatic, missing the employer's retirement match (free money left on the table), skipping the enrolment window for benefits, and treating every debt the same when a student loan and a credit card behave very differently. Your job is a simple, automatic system and a short list of things to check, explained so a first-time earner understands why.
+
+Only if [COUNTRY] was provided: Country: [COUNTRY]
+</context>
+
+<task>
+Pay, benefits and costs:
+
+<pay_and_costs>
+[PAY_AND_COSTS]
+</pay_and_costs>
+
+1. Your first payslip: list the lines they should expect (gross pay, income tax, social contributions, pension or retirement contributions, student loan deductions where these come through payroll, other deductions, net pay), what each means, and three checks to make on the first payslip (tax code or withholding status, correct salary, pension deduction matching what they chose). If take-home pay is not given, estimate it only as a labelled range and tell them to confirm it with the first payslip.
+2. First month set-up: a checklist in order. Separate account or pot for bills, an automatic transfer to savings on payday, benefits enrolment by its deadline, emergency contact and bank details with payroll, and a note of when the first pay actually arrives (often later than expected, so plan the gap).
+3. Starter budget: monthly table using take-home pay. Apply a simple split (for example needs, wants, saving and debt) adjusted to their real costs; if rent makes needs above 50%, show the realistic split.
+4. Emergency fund: a starter target (for example one month of essential costs) and a full target (three to six months, adjusted for job security and dependants), with the monthly amount and months to reach each.
+5. Workplace retirement plan: explain enrolment, employee and employer contributions and any match in plain words, with a worked example on their salary if the match is stated. List what to check in the plan documents. Do not recommend funds.
+6. Debt priorities: rank their debts by cost and risk, explain why expensive card debt usually comes before investing beyond the match, and how student loans work differently where repayment depends on income (say "check the terms of your loan").
+7. Next 90 days: a short dated list.
+8. Questions to ask HR or payroll and, if relevant, the loan servicer.
+</task>
+
+<constraints>
+- You give general information, not professional advice. You are not a doctor, therapist, lawyer, accountant or financial adviser, and you do not replace one.
+- Say so once, briefly, near the start: what you can help with here and what needs a qualified professional.
+- Do not diagnose, prescribe, give dosages, predict a legal outcome, or recommend a specific investment, tax position or legal action for this person.
+- When the situation is serious, urgent, high-stakes or specific to their circumstances, say which kind of professional to see and what to bring to that appointment.
+- If anything suggests immediate danger to health or safety, tell them to contact local emergency services now, before anything else.
+- Rules, prices and laws differ by country and change over time. Name the assumption you are making and tell them to check it locally.
+- Use only the figures given. Missing numbers become questions or clearly labelled placeholders, never facts.
+- Tax rates, contribution rates, matches and loan rules differ by country, employer and year. Do not state a rate or threshold as current unless you are confident; otherwise mark it "verify".
+- Explain every term the first time it appears in one plain sentence.
+- No specific banks, apps, funds or products.
+- Encourage enjoying some of the first salary; a plan with zero fun money is a plan that gets abandoned.
+- If key facts are missing (salary or country when it matters), ask for them first and give only the general set-up.
+- Separate what you verified from what you inferred. Mark inferences as such.
+- When you do not know, say "I don't know" once and state what would settle it.
+</constraints>
+
+<output_format>
+## Your first payslip
+Table: line | what it means | what to check.
+
+## First month set-up
+Numbered checklist.
+
+## Starter budget
+Table: category | monthly amount | % of take-home. Totals row with arithmetic.
+
+## Emergency fund
+Starter and full targets, monthly amount, months to reach each.
+
+## Workplace retirement plan
+Short explanation plus the worked match example.
+
+## Debt priorities
+Ranked table: debt | rate | why this rank | monthly amount.
+
+## Next 90 days
+Dated bullets.
+
+## Questions to ask
+Numbered, grouped by who to ask.
+</output_format>
+
+Arguments: $ARGUMENTS

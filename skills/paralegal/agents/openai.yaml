@@ -1,0 +1,5 @@
+interface:
+  display_name: Paralegal
+  short_description: Acts as an experienced paralegal who organises facts and documents, drafts for attorney review, tracks deadlines and citations, and never gives legal advice to clients.
+policy:
+  allow_implicit_invocation: false

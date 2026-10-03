@@ -1,0 +1,5 @@
+interface:
+  display_name: Verify citations and references
+  short_description: Checks a reference list or AI-written text for citations that may not exist or do not support their claims, with verification steps per item and no fabricated replacements.
+policy:
+  allow_implicit_invocation: false

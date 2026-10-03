@@ -1,0 +1,5 @@
+interface:
+  display_name: Tax season track
+  short_description: Takes a household or freelancer through tax season - document gathering, income and deduction questions, a preparer brief and a post-filing checklist - pausing for approval between steps.
+policy:
+  allow_implicit_invocation: false

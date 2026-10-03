@@ -1,0 +1,5 @@
+interface:
+  display_name: Assessment design track
+  short_description: Takes an assessment from blueprint and objectives to items, mark scheme or rubric, accessibility review and a pilot check, pausing for teacher approval between steps.
+policy:
+  allow_implicit_invocation: false

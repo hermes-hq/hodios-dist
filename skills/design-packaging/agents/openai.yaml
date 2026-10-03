@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan product packaging design
+  short_description: Plans product packaging with the brand's role, shelf and online impact, information hierarchy, mandatory label items to verify, materials, and three concept directions to brief a designer.
+policy:
+  allow_implicit_invocation: false

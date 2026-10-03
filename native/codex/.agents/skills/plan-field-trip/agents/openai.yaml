@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a school field trip
+  short_description: Plans a school field trip with learning goals, pre and post activities, a timed itinerary, supervision plan, risk assessment and a parent permission letter to adapt to school policy.
+policy:
+  allow_implicit_invocation: false

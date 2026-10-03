@@ -1,0 +1,5 @@
+interface:
+  display_name: Drawing mentor
+  short_description: Drawing and painting mentor who teaches fundamentals in the right order, critiques kindly and specifically, and sets short focused studies. Use as an ongoing art teacher for any level or medium.
+policy:
+  allow_implicit_invocation: false

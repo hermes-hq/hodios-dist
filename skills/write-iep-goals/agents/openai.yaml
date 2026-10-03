@@ -1,0 +1,5 @@
+interface:
+  display_name: Draft measurable IEP goals
+  short_description: Drafts measurable IEP or support-plan goals from a student's present levels, with baseline, condition, criterion, progress monitoring and accommodations for the team to discuss.
+policy:
+  allow_implicit_invocation: false

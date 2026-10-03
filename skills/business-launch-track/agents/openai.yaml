@@ -1,0 +1,5 @@
+interface:
+  display_name: Business launch track
+  short_description: Takes a validated business idea to launch in gated steps - offer and pricing, a legal and admin checklist to verify, setup, launch marketing and a first-90-days review.
+policy:
+  allow_implicit_invocation: false

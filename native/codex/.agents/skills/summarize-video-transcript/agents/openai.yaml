@@ -1,0 +1,5 @@
+interface:
+  display_name: Summarise a video or podcast transcript
+  short_description: Summarises a video or podcast transcript into key points with timestamps, exact quotes and a verdict on which parts are worth watching in full, without inventing times or claims.
+policy:
+  allow_implicit_invocation: false

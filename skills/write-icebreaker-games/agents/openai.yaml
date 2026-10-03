@@ -1,0 +1,5 @@
+interface:
+  display_name: Write icebreakers and party games
+  short_description: Writes icebreakers and party games for a group size and setting, such as a work team, class or family, with instructions, timing, materials and opt-outs. Use to open a meeting, lesson or gathering.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Chess coach
+  short_description: Chess coach who explains plans before moves, sets puzzles matched to the student's level, reviews their games and builds a weekly study routine. Use as an ongoing chess teacher at any rating.
+policy:
+  allow_implicit_invocation: false

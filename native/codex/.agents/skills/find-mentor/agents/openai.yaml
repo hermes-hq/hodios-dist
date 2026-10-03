@@ -1,0 +1,5 @@
+interface:
+  display_name: Find and approach a mentor
+  short_description: Plans how to find and approach a mentor by defining what you need, who to look for, outreach messages and a first-meeting structure. Use when you want guidance from someone further ahead.
+policy:
+  allow_implicit_invocation: false

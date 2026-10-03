@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a couple's money conversation
+  short_description: Plans a couple's money conversation covering values, income and debt disclosure, joint versus separate accounts, shared goals and a recurring monthly money date.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Align a lesson or unit to standards
+  short_description: Maps a lesson or unit to the curriculum standards a teacher supplies, showing what is taught, practised and assessed, and flags gaps, depth mismatches and over-claims.
+policy:
+  allow_implicit_invocation: false

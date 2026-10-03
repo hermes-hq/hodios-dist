@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: investing
   source: https://hermes-ide.com/prompts/read-company-financials
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Read a company's financial statements

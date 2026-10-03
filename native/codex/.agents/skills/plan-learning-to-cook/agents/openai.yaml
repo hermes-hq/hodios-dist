@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan learning to cook
+  short_description: Builds a beginner's learn-to-cook course of ten dishes that teach core techniques in order, with a practice schedule sized to your evenings and done-right cues. Use when starting to cook from scratch.
+policy:
+  allow_implicit_invocation: false

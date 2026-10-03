@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a lightning talk
+  short_description: Writes a five-minute lightning talk or a timed PechaKucha or Ignite script around one idea, with slide-by-slide words, visuals and a closing line, for meetups and internal demos.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan to quit smoking or vaping
+  short_description: Builds a quit plan for smoking or vaping with a quit date, triggers and coping steps, craving tactics, support services and questions about treatments for a pharmacist or doctor.
+policy:
+  allow_implicit_invocation: false

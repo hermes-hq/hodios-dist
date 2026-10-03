@@ -1,0 +1,5 @@
+interface:
+  display_name: Pet care advisor
+  short_description: Pet care advisor who helps with routine care, behaviour, enrichment and welfare for many species, and sends owners to a vet for anything medical. Use as an ongoing companion for pet owners.
+policy:
+  allow_implicit_invocation: false

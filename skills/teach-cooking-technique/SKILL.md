@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: cooking
   source: https://hermes-ide.com/prompts/teach-cooking-technique
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Teach a cooking technique

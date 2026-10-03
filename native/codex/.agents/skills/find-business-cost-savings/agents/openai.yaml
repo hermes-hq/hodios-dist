@@ -1,0 +1,5 @@
+interface:
+  display_name: Find small-business cost savings
+  short_description: Reviews a small business's costs line by line to find savings - renegotiation, consolidation, waste, energy and software - ranked by annual impact and effort, with what to protect.
+policy:
+  allow_implicit_invocation: false

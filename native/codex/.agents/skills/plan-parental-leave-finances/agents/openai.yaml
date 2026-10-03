@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan finances around parental leave
+  short_description: Plans a household's money around parental leave - the income gap month by month, benefits to verify, baby costs, a pre-leave savings target and a leave-period budget.
+policy:
+  allow_implicit_invocation: false

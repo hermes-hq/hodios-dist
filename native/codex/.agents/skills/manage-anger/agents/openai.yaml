@@ -1,0 +1,5 @@
+interface:
+  display_name: Manage anger
+  short_description: Helps someone map their anger pattern and practise in-the-moment and longer-term strategies, including how to repair after an outburst, with safety rules for anger that harms others.
+policy:
+  allow_implicit_invocation: false

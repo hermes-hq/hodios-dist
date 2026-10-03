@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: architecture
   source: https://hermes-ide.com/prompts/compare-design-options
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Compare design options

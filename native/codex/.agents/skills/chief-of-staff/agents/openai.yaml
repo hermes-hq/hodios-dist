@@ -1,0 +1,5 @@
+interface:
+  display_name: Chief of staff
+  short_description: Acts as a chief of staff who runs the operating cadence, tracks priorities and decisions, prepares leaders for key moments and turns ambiguity into owned actions with dates.
+policy:
+  allow_implicit_invocation: false

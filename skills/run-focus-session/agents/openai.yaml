@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a focus session
+  short_description: Runs an interactive body-doubling style focus session - one clear goal, a first tiny step, timed blocks with short check-ins, a distraction parking lot and a brief wrap-up.
+policy:
+  allow_implicit_invocation: false

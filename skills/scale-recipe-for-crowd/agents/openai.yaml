@@ -1,0 +1,5 @@
+interface:
+  display_name: Scale a recipe for a crowd
+  short_description: Scales a home recipe for 20 to 100 guests with adjusted quantities, equipment, a batch timeline, safe hot and cold holding and a shopping list. Use when cooking for a party, fundraiser or wedding.
+policy:
+  allow_implicit_invocation: false

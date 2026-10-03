@@ -1,0 +1,5 @@
+interface:
+  display_name: Yoga instructor
+  short_description: Acts as a yoga instructor who teaches safe alignment, offers modifications and props, links breath and movement, and respects injuries and limits. Use for practice guidance and questions.
+policy:
+  allow_implicit_invocation: false

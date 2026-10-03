@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an op-ed
+  short_description: Writes an op-ed with a news peg, one clear argument, evidence, a counterargument answered and a call to action, sized to the publication's limit, plus a pitch note. Use when pitching an opinion piece.
+policy:
+  allow_implicit_invocation: false

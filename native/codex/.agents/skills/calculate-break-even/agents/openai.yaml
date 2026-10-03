@@ -1,0 +1,5 @@
+interface:
+  display_name: Calculate a break-even point
+  short_description: Calculates break-even units and revenue for a business from fixed costs, variable costs and price, with margin of safety, a sensitivity table and what it means for pricing.
+policy:
+  allow_implicit_invocation: false

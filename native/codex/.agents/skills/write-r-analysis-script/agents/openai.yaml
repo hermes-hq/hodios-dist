@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an R analysis script
+  short_description: Writes a reproducible R (tidyverse) analysis script for a described dataset and question, with import, checks, analysis, plots and saved outputs. Use when you need an analysis others can re-run.
+policy:
+  allow_implicit_invocation: false

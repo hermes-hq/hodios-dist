@@ -1,5 +1,5 @@
 ---
-description: Finds why an Excel or Google Sheets formula errors or returns wrong values and gives the corrected formula. Use for
+description: "Finds why an Excel or Google Sheets formula errors or returns wrong values and gives the corrected formula. Use for #N/A, #VALUE!, wrong totals, or results that break when copied down."
 ---
 
 # Debug a spreadsheet formula

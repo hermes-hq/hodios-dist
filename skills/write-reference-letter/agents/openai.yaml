@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a reference letter
+  short_description: Writes a specific, honest reference or recommendation letter for an employee or colleague from your own observations, matched to its purpose. Use when someone asks you to recommend them.
+policy:
+  allow_implicit_invocation: false

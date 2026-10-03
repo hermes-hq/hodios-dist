@@ -1,0 +1,5 @@
+interface:
+  display_name: Role-play a difficult customer
+  short_description: Role-plays a difficult customer for support-agent training - angry, confused or demanding a refund - stays in character, then scores the agent's handling against a rubric with examples.
+policy:
+  allow_implicit_invocation: false

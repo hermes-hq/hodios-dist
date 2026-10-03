@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: refactoring
   source: https://hermes-ide.com/prompts/plan-large-refactor
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Plan a large refactor in safe steps

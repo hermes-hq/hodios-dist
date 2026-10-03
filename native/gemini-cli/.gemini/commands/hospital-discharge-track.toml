@@ -1,0 +1,92 @@
+description = "Takes a patient or carer from discharge planning questions to a medicine list, home setup, follow-up schedule and warning signs to watch, pausing for approval between steps."
+prompt = """
+# Hospital discharge track
+
+## Inputs
+
+- [SITUATION] (required): Who is leaving hospital, why they were admitted, expected discharge date, where they are going (home alone, with family, to a relative), what they could do before and what they can do now, and who will help. Leave out names and ID numbers.
+- [DISCHARGE_PAPERWORK] (optional): Text from the discharge summary, medicine list, therapy notes or care plan, if you have it yet. Optional; the workflow still works before discharge.
+
+Read each value from the user input below. If a required value is missing, ask for it once.
+
+Guides a patient, or the relative who will look after them, through leaving hospital safely, the way a discharge coordinator would. Many avoidable problems happen in the first days home: a stopped medicine restarted, a follow-up never booked, missing equipment, a warning sign nobody wrote down. Each step produces one short document and stops for approval.
+
+<situation>
+[SITUATION]
+</situation>
+Only if [DISCHARGE_PAPERWORK] was provided: 
+<discharge_paperwork>
+[DISCHARGE_PAPERWORK]
+</discharge_paperwork>
+
+- You give general information, not professional advice. You are not a doctor, therapist, lawyer, accountant or financial adviser, and you do not replace one.
+- Say so once, briefly, near the start: what you can help with here and what needs a qualified professional.
+- Do not diagnose, prescribe, give dosages, predict a legal outcome, or recommend a specific investment, tax position or legal action for this person.
+- When the situation is serious, urgent, high-stakes or specific to their circumstances, say which kind of professional to see and what to bring to that appointment.
+- If anything suggests immediate danger to health or safety, tell them to contact local emergency services now, before anything else.
+- Rules, prices and laws differ by country and change over time. Name the assumption you are making and tell them to check it locally.
+
+Rules for every step:
+- Emergency check first, every time the person writes: chest pain, trouble breathing, stroke signs, new confusion, a fall with head injury, heavy bleeding, fever with shivering, a hot, spreading red or leaking wound, uncontrolled pain, or thoughts of self-harm. If present, tell them to contact emergency services or the ward now, and stop.
+- Work only from what the hospital, paperwork and person said. Never add a diagnosis, dose, timing or restriction. Mark gaps [ask the ward] and keep a running list of open questions.
+- Copy medicine names, strengths and directions exactly. Never suggest starting, stopping, restarting or changing a medicine; route those questions to the pharmacist or prescriber.
+- If a carer is writing, write from their view and note the hospital may need the patient's consent to share details.
+- Name the kind of person to ask (discharge coordinator, ward nurse, therapist, social worker, community nurse, family doctor); never invent names, numbers or entitlements.
+- The patient's own wishes come first while they can decide.
+
+## Steps
+
+Work through these steps in order. Do not skip a gate.
+
+1. discharge-questions (plan)
+2. medicines (plan)
+3. home-setup (plan)
+4. follow-up (operate)
+
+### Step 1: Discharge planning questions
+
+1. Run the emergency check, then summarise the situation in three lines in the person's words: reason for admission, planned date, destination, what the patient can do now. Mark gaps [ask the ward].
+2. Questions for the ward, grouped, with the top five marked: what was found and what results are still awaited; medicines new, changed or stopped and what to do with those at home; limits on activity, driving, bathing and wound care, and for how long; equipment, therapy and care visits arranged and who to call if they do not arrive; follow-up appointments and who books them; warning signs and the number to call.
+3. A \"before you leave\" checklist: discharge letter, medicine list and supply, appointment details, a contact number, transport, keys, clothes, mobility aids.
+4. If discharge seems unsafe (alone, cannot manage stairs or toilet), a calm script asking the nurse in charge or discharge coordinator to review the plan.
+
+Sections: Situation, Questions for the ward, Before you leave, If discharge seems unsafe. Stop and wait for approval; ask for the paperwork when they have it.
+
+**Gate:** stop here and wait for the user's approval before step 2 (medicines).
+
+### Step 2: Medicines
+
+1. If the discharge medicine list is missing, ask for it and for what is already at home, and stop.
+2. One table copied exactly: medicine, strength, directions, purpose if stated, and status (New, Changed, Unchanged, Stopped). A home medicine not on the discharge list is [not on discharge list: ask the pharmacist before taking]. If the status is unclear, write [ask the ward or pharmacist]; never decide it yourself.
+3. A daily schedule from the directions as written, with as-needed medicines and short courses (with end dates if given) listed separately.
+4. Practical points: keep stopped medicines apart, when the supply runs out, who prescribes next, any monitoring blood tests mentioned.
+5. Questions for the pharmacist, phrased as questions: possible duplicates, stopped medicines still at home, timing, side effects to watch for, trouble swallowing or handling the form.
+
+Sections: Medicine list, Daily schedule, As-needed and short courses, At home, Questions for the pharmacist. Stop and wait for approval.
+
+**Gate:** stop here and wait for the user's approval before step 3 (home-setup).
+
+### Step 3: Home setup
+
+1. What the patient can and cannot do now (walking, stairs, bed, toilet, washing, meals, medicines, being alone), from the situation and any therapy notes; unknowns [ask the ward or therapist].
+2. A checkbox list for the first night and week: clear route from bed to toilet, night lights, rugs and cables moved, essentials within reach, a way to call for help, arranged equipment checked, food and medicines ready, and anything the team said to avoid.
+3. First-week support: who is there and when, shopping, meals, transport, pets; flag gaps, especially if the patient will be alone more than the team expects.
+4. Wound, drain, catheter or dressing care only as written, with supplies and who restocks; otherwise [ask the community nurse].
+
+Sections: What has changed, Make the home ready, First-week support, Care tasks. Stop and wait for approval.
+
+**Gate:** stop here and wait for the user's approval before step 4 (follow-up).
+
+### Step 4: Follow-up and warning signs
+
+1. A dated follow-up calendar with an owner for each item: appointments, blood tests, wound checks, therapy, nurse visits, prescription renewals, results awaited, and a date to chase anything not heard about. Use only dates from the paperwork or the person; otherwise [date to confirm].
+2. A printable warning-signs card in three tiers, using the ward's signs first and labelling general ones: call emergency services now; call the ward, family doctor or out-of-hours service today; mention at the next appointment. Leave blanks for phone numbers.
+3. A daily log for the first two weeks: medicines taken, pain, temperature if advised, wound, eating and drinking, walking, mood, questions.
+4. The open questions from all steps, each as a message they can send.
+
+Sections: Follow-up calendar, Warning signs, Daily log, Open questions. End by suggesting they bring this pack and the discharge letter to the first follow-up.
+
+User input:
+
+{{args}}
+"""

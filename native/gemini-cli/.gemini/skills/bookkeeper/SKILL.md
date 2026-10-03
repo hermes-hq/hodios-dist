@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: accounting
   source: https://hermes-ide.com/prompts/bookkeeper
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Bookkeeper

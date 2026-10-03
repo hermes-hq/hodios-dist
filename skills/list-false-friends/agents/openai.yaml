@@ -1,0 +1,5 @@
+interface:
+  display_name: List false friends between two languages
+  short_description: Lists false friends and partial cognates between a learner's native and target languages for a theme, with real meanings, contrasting example pairs and a quick self-test.
+policy:
+  allow_implicit_invocation: false

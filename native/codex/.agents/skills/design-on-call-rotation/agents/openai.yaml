@@ -1,0 +1,5 @@
+interface:
+  display_name: Design an on-call rotation
+  short_description: Designs an on-call rotation with schedule, escalation, handoff, alert ownership, compensation norms and health checks. Use when starting on-call or when the current one burns people out.
+policy:
+  allow_implicit_invocation: false

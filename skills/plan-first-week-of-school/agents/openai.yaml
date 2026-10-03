@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan the first week of school
+  short_description: Plans the first week of a school year day by day, with relationship-building, routines to teach and practise, co-created expectations, low-stakes diagnostics and a family welcome message.
+policy:
+  allow_implicit_invocation: false

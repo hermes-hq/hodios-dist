@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a leadership strategy offsite
+  short_description: Designs a leadership strategy offsite - pre-work, a timed agenda, decision sessions, facilitation methods, and the outputs and follow-up the team leaves with.
+policy:
+  allow_implicit_invocation: false

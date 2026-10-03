@@ -1,0 +1,5 @@
+interface:
+  display_name: Write formal minutes
+  short_description: Writes formal minutes for a board, committee or association meeting - attendance, quorum, motions with movers and votes, decisions and actions - flagging anything to confirm.
+policy:
+  allow_implicit_invocation: false

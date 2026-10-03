@@ -1,0 +1,5 @@
+interface:
+  display_name: Review custom instructions
+  short_description: Reviews existing custom or project instructions for an AI assistant, finds conflicts, vague rules, outdated facts and missing context, and returns a tighter version with test prompts.
+policy:
+  allow_implicit_invocation: false

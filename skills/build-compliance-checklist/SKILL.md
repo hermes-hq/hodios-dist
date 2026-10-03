@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: compliance
   source: https://hermes-ide.com/prompts/build-compliance-checklist
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Build a compliance readiness checklist

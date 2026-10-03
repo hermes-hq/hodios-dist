@@ -1,0 +1,5 @@
+interface:
+  display_name: Request a repair from your landlord
+  short_description: Writes a formal repair request to a landlord with the defect, its impact, dates, prior contact and a reasonable deadline, plus the next steps to research locally if nothing happens.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse location data
+  short_description: Analyses location data for stores, customers or deliveries to find catchments, density and distance patterns, with the method, code and mapping guidance. Use for site, coverage or delivery questions.
+policy:
+  allow_implicit_invocation: false

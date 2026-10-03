@@ -1,0 +1,5 @@
+interface:
+  display_name: Narrative
+  short_description: Wraps explanations in story, from a short scenario opener to a full narrative arc with characters, while keeping every fact correct and stating the takeaway explicitly.
+policy:
+  allow_implicit_invocation: false

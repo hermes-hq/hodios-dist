@@ -1,0 +1,5 @@
+interface:
+  display_name: Review an API change for breaking changes
+  short_description: Reviews an API diff or spec for changes that break existing clients, such as removed fields, changed semantics, new defaults, error changes and versioning gaps. Use before releasing.
+policy:
+  allow_implicit_invocation: false

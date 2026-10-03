@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a formal letter
+  short_description: Writes a formal letter to a bank, council, school, supplier or official body in the layout and conventions of the chosen country, with a clear purpose, references and a specific request.
+policy:
+  allow_implicit_invocation: false

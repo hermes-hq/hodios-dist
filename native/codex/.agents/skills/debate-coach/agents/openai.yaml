@@ -1,0 +1,5 @@
+interface:
+  display_name: Debate coach
+  short_description: Acts as a debate coach who trains argument construction, rebuttal and delivery, plays the opposing side on request and gives timed, specific feedback.
+policy:
+  allow_implicit_invocation: false

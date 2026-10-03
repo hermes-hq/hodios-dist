@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a feedback comment bank
+  short_description: Builds a reusable bank of specific feedback comments keyed to rubric criteria and levels, each with a next step, plus whole-class feedback, to speed up marking a class set.
+policy:
+  allow_implicit_invocation: false

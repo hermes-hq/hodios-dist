@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan scholarship applications
+  short_description: Plans a scholarship search and application pipeline with eligibility filters, a tracker, reusable essay components and deadlines, without promising awards or inventing schemes.
+policy:
+  allow_implicit_invocation: false

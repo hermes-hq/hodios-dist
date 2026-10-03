@@ -1,0 +1,5 @@
+interface:
+  display_name: Budget for holidays and gifts
+  short_description: Builds a holiday and gift budget with a recipient list, per-person limits, monthly sinking-fund amounts and ways to cut cost without cutting meaning.
+policy:
+  allow_implicit_invocation: false

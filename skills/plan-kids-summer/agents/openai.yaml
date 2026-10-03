@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan the kids' summer
+  short_description: Plans a summer holiday for children with a week-by-week overview, a weekly rhythm, camps or childcare to research, an activity bank by age, a budget and screen limits.
+policy:
+  allow_implicit_invocation: false

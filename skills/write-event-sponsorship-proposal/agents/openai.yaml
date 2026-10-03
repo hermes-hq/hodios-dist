@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an event sponsorship proposal
+  short_description: Writes a corporate sponsorship proposal for an event or nonprofit - audience data, tiered packages with benefits and pricing, activation ideas and how results will be reported to the sponsor.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Review the statistics in a manuscript
+  short_description: Reviews a manuscript's statistics as a statistical referee would, checking design fit, assumptions, multiplicity, effect sizes, missing data and whether the conclusions follow from the analysis.
+policy:
+  allow_implicit_invocation: false

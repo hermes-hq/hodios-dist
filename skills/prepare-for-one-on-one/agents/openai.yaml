@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for a one-on-one with your manager
+  short_description: Prepares an employee for a one-on-one with their manager - top topics, updates framed by impact, clear asks, feedback to give and request, a career topic and an agenda to send.
+policy:
+  allow_implicit_invocation: false

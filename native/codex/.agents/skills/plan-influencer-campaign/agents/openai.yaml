@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan an influencer campaign
+  short_description: Plans an influencer campaign with goals, creator selection criteria, a compensation model, disclosure and contract rules, a content brief outline and a measurement plan.
+policy:
+  allow_implicit_invocation: false

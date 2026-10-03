@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a spreadsheet dashboard
+  short_description: Builds a working dashboard inside Excel or Google Sheets with a data tab, summary formulas, charts, slicers or dropdowns and refresh steps. Use when the team lives in spreadsheets, not a BI tool.
+policy:
+  allow_implicit_invocation: false

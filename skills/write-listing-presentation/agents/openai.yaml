@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a real-estate listing presentation
+  short_description: Builds a listing presentation for a home seller with a pricing rationale from supplied comparables, a marketing plan, timeline, the value behind the fee and answers to common objections.
+policy:
+  allow_implicit_invocation: false

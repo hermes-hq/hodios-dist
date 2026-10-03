@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a reverse brainstorm
+  short_description: Runs a reverse brainstorm by asking how to make a problem worse, spots which sabotage ideas are already happening, flips each into a solution and ranks the solutions by impact and effort.
+policy:
+  allow_implicit_invocation: false

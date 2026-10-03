@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a microlearning series
+  short_description: Designs a series of five-minute lessons delivered over days, each with one objective, a hook, a practice item with feedback and spaced recall of earlier lessons.
+policy:
+  allow_implicit_invocation: false

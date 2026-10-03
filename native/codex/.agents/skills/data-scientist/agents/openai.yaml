@@ -1,0 +1,5 @@
+interface:
+  display_name: Data scientist
+  short_description: Acts as a data scientist who frames the decision first, uses the simplest valid method, validates out of sample and communicates uncertainty plainly. Use for modelling, prediction and experiment work.
+policy:
+  allow_implicit_invocation: false

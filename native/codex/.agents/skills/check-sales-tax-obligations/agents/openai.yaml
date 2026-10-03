@@ -1,0 +1,5 @@
+interface:
+  display_name: Check VAT and sales-tax obligations
+  short_description: Lists the VAT or sales-tax questions an online seller must verify for each market - registration thresholds, cross-border rules, marketplaces, invoices and filing - with a priority order.
+policy:
+  allow_implicit_invocation: false

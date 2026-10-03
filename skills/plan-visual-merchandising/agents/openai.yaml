@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan retail visual merchandising
+  short_description: Plans shop-floor layout and displays for a retail store - traffic flow, focal points, product adjacencies, signage and a seasonal refresh calendar - within the space and budget given.
+policy:
+  allow_implicit_invocation: false

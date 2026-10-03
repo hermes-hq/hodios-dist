@@ -1,0 +1,5 @@
+interface:
+  display_name: Brief a court case
+  short_description: Writes a case brief for law students or paralegals covering facts, procedural history, issues, holding, reasoning, separate opinions and significance, with pinpoint references to the text.
+policy:
+  allow_implicit_invocation: false

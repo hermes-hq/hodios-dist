@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a crisis holding statement
+  short_description: Writes a crisis holding statement and reactive Q&A for media, customers and staff that says only what is confirmed, shows care, states actions and commits to an update time.
+policy:
+  allow_implicit_invocation: false

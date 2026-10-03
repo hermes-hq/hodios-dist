@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a medication leaflet
+  short_description: Explains a medicine's patient leaflet in plain language, covering what it is for, how to take it, common and serious side effects, and the interactions worth asking a pharmacist about.
+policy:
+  allow_implicit_invocation: false

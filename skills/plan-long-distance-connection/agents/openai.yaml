@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a long-distance connection
+  short_description: Plans ways to stay close at a distance with a partner, family or grandchildren, with a call rhythm across time zones, rituals, shared activities, small surprises and a visit plan.
+policy:
+  allow_implicit_invocation: false

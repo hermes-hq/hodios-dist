@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a child's bedtime routine
+  short_description: Builds a bedtime routine matched to a child's age with wind-down steps and timings, plus calm ways to handle stalling and night waking and signs worth raising with a doctor.
+policy:
+  allow_implicit_invocation: false

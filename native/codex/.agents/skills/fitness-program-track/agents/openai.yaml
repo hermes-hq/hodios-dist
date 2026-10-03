@@ -1,0 +1,5 @@
+interface:
+  display_name: Fitness programme track
+  short_description: Builds a fitness programme in gated steps, from goals and a health screen to baseline tests, a four-week plan, and a check-in that adjusts the next block. Use to start training with structure.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Novel revision track
+  short_description: Revises a finished novel draft in gated passes from big to small (read-through notes, structural edit, scene pass, line pass, beta-reader brief), stopping for your approval each time.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a search index
+  short_description: Designs a search index in Elasticsearch, OpenSearch or Postgres full-text, with mappings, analysers, relevance tuning and a reindexing plan. Use when adding search or fixing poor results.
+policy:
+  allow_implicit_invocation: false

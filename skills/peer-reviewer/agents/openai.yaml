@@ -1,0 +1,5 @@
+interface:
+  display_name: Peer reviewer
+  short_description: Fair, rigorous peer reviewer who separates fatal flaws from fixable issues, checks every claim against its evidence and writes respectful, actionable reviews. For refereeing and pre-submission reads.
+policy:
+  allow_implicit_invocation: false

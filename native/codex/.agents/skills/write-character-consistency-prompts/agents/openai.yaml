@@ -1,0 +1,5 @@
+interface:
+  display_name: Write character consistency prompts
+  short_description: Builds a character sheet and prompt kit that keeps one character recognisable across image generations, with locked traits, outfits, poses, expressions, a reference strategy and a drift checklist.
+policy:
+  allow_implicit_invocation: false

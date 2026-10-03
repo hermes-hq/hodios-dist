@@ -1,0 +1,5 @@
+interface:
+  display_name: Support a teenager's mental health
+  short_description: Helps a parent weigh what they notice in a struggling teenager, start a supportive conversation, respond to what the teen says, and find professional support at the right level of urgency.
+policy:
+  allow_implicit_invocation: false

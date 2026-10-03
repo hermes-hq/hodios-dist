@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a university application
+  short_description: Builds a university application plan with shortlist criteria, a dated timeline of requirements and deadlines to verify, and the tests, references and essays needed for each school.
+policy:
+  allow_implicit_invocation: false

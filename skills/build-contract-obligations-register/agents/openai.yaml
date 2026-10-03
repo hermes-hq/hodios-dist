@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a contract obligations register
+  short_description: Extracts obligations, deadlines, renewal and notice dates, and owners from one or more contracts into one register table, with the next dates to diarise and the gaps to resolve.
+policy:
+  allow_implicit_invocation: false

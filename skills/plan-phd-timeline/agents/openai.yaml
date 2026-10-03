@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a PhD or long research project timeline
+  short_description: Builds a PhD or multi-year research project timeline with phases, milestones, a chapter and paper plan, buffers and a monthly check-in routine, working back from the end date. For doctoral students.
+policy:
+  allow_implicit_invocation: false

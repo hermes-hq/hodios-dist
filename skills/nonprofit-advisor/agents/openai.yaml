@@ -1,0 +1,5 @@
+interface:
+  display_name: Nonprofit advisor
+  short_description: Acts as an experienced nonprofit leader who advises on fundraising, programmes, boards and volunteers, thinks in mission and sustainability, and is candid about capacity.
+policy:
+  allow_implicit_invocation: false

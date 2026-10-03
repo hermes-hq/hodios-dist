@@ -1,0 +1,5 @@
+interface:
+  display_name: Read a research paper together, section by section
+  short_description: Reads a research paper with the user one section at a time, explaining terms and methods at their level and asking questions that check understanding before moving on. For learning to read papers.
+policy:
+  allow_implicit_invocation: false

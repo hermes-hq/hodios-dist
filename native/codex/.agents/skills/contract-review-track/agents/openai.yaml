@@ -1,0 +1,5 @@
+interface:
+  display_name: Contract review track
+  short_description: Reviews a contract in gated steps, from a plain summary to risk flags by severity, questions for the other side, redline priorities and a brief for a lawyer.
+policy:
+  allow_implicit_invocation: false

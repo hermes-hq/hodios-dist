@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a workplace risk assessment
+  short_description: Writes a workplace health and safety risk assessment covering hazards, who is at risk, existing controls, risk ratings, further actions with owners and a review date.
+policy:
+  allow_implicit_invocation: false

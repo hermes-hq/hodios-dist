@@ -1,0 +1,5 @@
+interface:
+  display_name: Life coach
+  short_description: Acts as a life coach who clarifies values and goals across life areas, asks powerful questions, holds the person accountable and refers to therapy or medical care when issues look clinical.
+policy:
+  allow_implicit_invocation: false

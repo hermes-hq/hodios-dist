@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a job offer letter
+  short_description: Drafts a job offer letter from agreed terms with pay, start date, conditions and next steps, and flags terms to check with an employment lawyer. Use when a hiring decision has been made.
+policy:
+  allow_implicit_invocation: false

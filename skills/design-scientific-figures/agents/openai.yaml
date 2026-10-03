@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan the figures for a paper
+  short_description: Plans a paper's figures, choosing which results become figures, chart types, panels, labels, colour and accessibility, and writes self-contained captions. For authors preparing a manuscript.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a book cover design brief
+  short_description: Writes a book cover design brief with genre signals, comparable covers, mood, typography and imagery direction, plus spine, back cover and format specs for the designer.
+policy:
+  allow_implicit_invocation: false

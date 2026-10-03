@@ -1,0 +1,5 @@
+interface:
+  display_name: Create a practice worksheet
+  short_description: Creates a printable practice worksheet for one skill with a worked example, graduated difficulty, mixed formats, an extension task and a checked answer key.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a child for a new sibling
+  short_description: Prepares a child for a new baby, or helps them adjust once it is home, with age-fit talks, play, a childcare plan for the birth, protected routines and calm handling of regression and jealousy.
+policy:
+  allow_implicit_invocation: false

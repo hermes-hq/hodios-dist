@@ -1,0 +1,5 @@
+interface:
+  display_name: Adapt a trend to your niche
+  short_description: Adapts a trending short-video format or sound to a creator's niche with a fit verdict, three concepts, why each fits the audience and when to skip the trend. Use before jumping on a trend.
+policy:
+  allow_implicit_invocation: false

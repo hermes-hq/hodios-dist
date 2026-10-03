@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan support team staffing
+  short_description: Estimates support staffing from ticket volume, handle time and service-level targets, with a coverage plan by hour, shrinkage, and every assumption and formula stated.
+policy:
+  allow_implicit_invocation: false

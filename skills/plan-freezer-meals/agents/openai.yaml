@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a freezer meal stash
+  short_description: Plans a freezer meal batch for new parents, busy weeks or carers, with dishes that freeze well, labels, storage times and reheating steps. Use before a cook-ahead day.
+policy:
+  allow_implicit_invocation: false

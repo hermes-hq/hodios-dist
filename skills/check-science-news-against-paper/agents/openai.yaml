@@ -1,0 +1,5 @@
+interface:
+  display_name: Check a science news story against the paper
+  short_description: Checks a news story about a study against the paper itself, covering design, sample, effect size, causal language and what the headline overstates, and suggests an accurate headline.
+policy:
+  allow_implicit_invocation: false

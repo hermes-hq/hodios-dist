@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for a vet visit
+  short_description: Prepares a pet owner for a vet visit with a symptom timeline, questions to ask, cost questions and the warning signs that need emergency care now. Use before booking or attending a vet appointment.
+policy:
+  allow_implicit_invocation: false

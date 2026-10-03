@@ -1,0 +1,5 @@
+interface:
+  display_name: Academic writing rules
+  short_description: Standing rules for academic writing that hedge claims to the evidence, define terms, forbid invented citations, keep tense and terminology consistent, and report numbers precisely.
+policy:
+  allow_implicit_invocation: false

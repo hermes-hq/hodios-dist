@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an FAQ from source documents
+  short_description: Builds an FAQ from scattered policies, emails and documents, phrasing entries as real readers ask them, tracing each answer to its source and listing conflicts and unanswered questions.
+policy:
+  allow_implicit_invocation: false

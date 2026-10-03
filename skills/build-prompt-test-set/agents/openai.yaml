@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a test set for a prompt
+  short_description: Builds a hand-run test set for a prompt with happy, edge and negative inputs, expected behaviour and checkable pass criteria per case, and a scoring sheet to compare prompt versions side by side.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for parent-teacher conferences
+  short_description: Prepares a teacher for parent-teacher conferences with a timed brief per student covering strengths with evidence, one concern, a shared goal and questions to ask the family.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a year-end accounts pack
+  short_description: Builds a year-end pack for an accountant - reconciliations, supporting schedules, open questions and documents - so the accountant's time is spent on judgement, not chasing.
+policy:
+  allow_implicit_invocation: false

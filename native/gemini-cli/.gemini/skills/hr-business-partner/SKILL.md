@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: people-management
   source: https://hermes-ide.com/prompts/hr-business-partner
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # HR business partner

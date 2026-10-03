@@ -1,0 +1,5 @@
+interface:
+  display_name: Interview a relative for an oral history
+  short_description: Prepares an oral-history interview with an older relative, covering consent, recording setup, life-stage questions with follow-ups, how to handle hard memories, and a transcript summary format.
+policy:
+  allow_implicit_invocation: false

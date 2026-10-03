@@ -1,0 +1,5 @@
+interface:
+  display_name: Run exit interviews and find themes
+  short_description: Designs an exit interview guide, or turns notes from several exit interviews into anonymised themes and actions. Use when people leave and you want to learn why.
+policy:
+  allow_implicit_invocation: false

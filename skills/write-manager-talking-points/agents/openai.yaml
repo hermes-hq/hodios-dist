@@ -1,0 +1,5 @@
+interface:
+  display_name: Write manager talking points for a change
+  short_description: Writes talking points, likely questions with honest answers and a do-not-say list so every manager can cascade an organisational change to their team consistently and truthfully.
+policy:
+  allow_implicit_invocation: false

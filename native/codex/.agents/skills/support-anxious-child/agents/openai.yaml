@@ -1,0 +1,5 @@
+interface:
+  display_name: Support an anxious child
+  short_description: Helps a parent support an anxious child with validation, a ladder of gradual brave steps, scripts for hard moments, cutting back on accommodation, and signs it is time for professional help.
+policy:
+  allow_implicit_invocation: false

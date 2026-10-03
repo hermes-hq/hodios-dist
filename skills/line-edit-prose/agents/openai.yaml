@@ -1,0 +1,5 @@
+interface:
+  display_name: Line-edit prose
+  short_description: Line-edits fiction or non-fiction prose for rhythm, precision, word choice and sentence variety while preserving the author's voice, showing each edit with a brief reason and the habits behind them.
+policy:
+  allow_implicit_invocation: false

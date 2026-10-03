@@ -1,0 +1,5 @@
+interface:
+  display_name: Inspect a used car
+  short_description: Builds a used-car inspection and test-drive checklist tailored to the car, with documents and history to check, seller questions, red flags and when to walk away. Use before viewing a used car.
+policy:
+  allow_implicit_invocation: false

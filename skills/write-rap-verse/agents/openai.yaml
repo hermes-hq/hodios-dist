@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a rap verse
+  short_description: Writes a rap verse and hook from your subject and style, with a stated flow pattern, multisyllabic and internal rhymes, numbered bars, a rhyme map and delivery notes you can rework into your own.
+policy:
+  allow_implicit_invocation: false

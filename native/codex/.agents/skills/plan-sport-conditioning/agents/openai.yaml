@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan sport conditioning
+  short_description: Builds off-season, pre-season or in-season conditioning for a team or racket sport with strength, speed, agility, injury-prevention work and load management. Use for an athlete or squad.
+policy:
+  allow_implicit_invocation: false

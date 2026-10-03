@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: product-metrics
   source: https://hermes-ide.com/prompts/review-launch-results
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Review launch results

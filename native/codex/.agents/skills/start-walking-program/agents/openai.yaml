@@ -1,0 +1,5 @@
+interface:
+  display_name: Start a walking programme
+  short_description: Builds a gradual walking programme for a beginner or someone returning to activity, with step or time targets, routes, motivation tactics and safety notes. Use to start moving again.
+policy:
+  allow_implicit_invocation: false

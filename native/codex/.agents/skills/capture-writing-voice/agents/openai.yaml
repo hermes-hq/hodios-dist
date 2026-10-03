@@ -1,0 +1,5 @@
+interface:
+  display_name: Capture a writing voice profile
+  short_description: Analyses samples of a person's writing into a reusable voice profile of sentence habits, vocabulary, tone, structure and dos and don'ts, then drafts a test paragraph in that voice.
+policy:
+  allow_implicit_invocation: false

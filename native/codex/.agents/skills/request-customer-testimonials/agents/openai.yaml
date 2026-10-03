@@ -1,0 +1,5 @@
+interface:
+  display_name: Request and edit customer testimonials
+  short_description: Writes a testimonial request to happy customers with guiding questions, then edits their answers into short, specific quotes with permission and no invented claims.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Answer job application questions
+  short_description: Drafts answers to job application form questions (why us, motivation, competency) from your real experience, within each word limit. Use when an application asks for written answers.
+policy:
+  allow_implicit_invocation: false

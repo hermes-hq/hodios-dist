@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a sensitivity read
+  short_description: Reviews a manuscript, campaign or article for stereotypes, inaccurate portrayals and avoidable harm to specific groups, explaining each concern with options while respecting the author's intent.
+policy:
+  allow_implicit_invocation: false

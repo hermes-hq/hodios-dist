@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a session zero
+  short_description: Plans a tabletop session zero with a timed agenda, expectation questions, safety tools, character ties, house rules and scheduling, plus a one-page summary to share. Use before a new campaign.
+policy:
+  allow_implicit_invocation: false

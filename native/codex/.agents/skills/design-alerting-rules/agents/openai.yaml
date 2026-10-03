@@ -1,0 +1,5 @@
+interface:
+  display_name: Design actionable alerting rules
+  short_description: Designs actionable alerts from SLOs and user-facing symptoms, with thresholds, routing, runbook links, and a list of noisy alerts to delete. Use when pages are noisy or real outages go unnoticed.
+policy:
+  allow_implicit_invocation: false

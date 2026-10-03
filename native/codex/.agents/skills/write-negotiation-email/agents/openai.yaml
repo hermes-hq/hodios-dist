@@ -1,0 +1,5 @@
+interface:
+  display_name: Write the next email in a negotiation
+  short_description: Drafts the next email in a negotiation with a client, vendor or landlord that anchors well, trades every concession for something and makes a clear proposal, while the walk-away point stays private.
+policy:
+  allow_implicit_invocation: false

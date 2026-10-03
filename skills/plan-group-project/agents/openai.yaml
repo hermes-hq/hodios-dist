@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a student group project
+  short_description: Sets up a student group project with roles, a team agreement, milestones planned back from the deadline, a shared tracker and a fair process for a member who does not contribute.
+policy:
+  allow_implicit_invocation: false

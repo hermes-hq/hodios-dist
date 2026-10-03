@@ -1,0 +1,5 @@
+interface:
+  display_name: Manage an ageing parent's finances
+  short_description: Helps an adult child take over an ageing parent's finances - legal authority to verify, bills, income and benefits, scam protection, record keeping and family communication.
+policy:
+  allow_implicit_invocation: false

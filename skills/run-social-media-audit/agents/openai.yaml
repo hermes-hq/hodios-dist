@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a social media account audit
+  short_description: Audits a social account from its bio, recent posts and metrics for positioning, content mix, formats, engagement quality and consistency, then ranks five fixes. Use when an account has stalled.
+policy:
+  allow_implicit_invocation: false

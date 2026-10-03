@@ -1,0 +1,5 @@
+interface:
+  display_name: Estimate price elasticity
+  short_description: Estimates price elasticity of demand from price and volume history or a price test, with the method, confounders, a confidence range and how to use it in pricing. Use before changing prices.
+policy:
+  allow_implicit_invocation: false

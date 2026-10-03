@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan individual behaviour support for a student
+  short_description: Drafts an individual behaviour support plan from ABC observations, with a hypothesised function, prevention, a replacement skill, responses and data to collect, for review with specialists.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a job search abroad
+  short_description: Plans a job search in another country with target markets, work authorisation questions to verify, local CV norms, hiring channels and a realistic timeline. Use before applying for jobs abroad.
+policy:
+  allow_implicit_invocation: false

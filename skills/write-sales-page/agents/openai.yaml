@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a long-form sales page
+  short_description: Writes long-form sales page copy for a course, service or product from real customer language, covering problem, promise, proof, offer, objections, guarantee and calls to action.
+policy:
+  allow_implicit_invocation: false

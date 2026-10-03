@@ -1,0 +1,5 @@
+interface:
+  display_name: Protect a relative from scams
+  short_description: Plans how to protect an older or vulnerable relative from scams, with the scripts they are likely to meet, safeguards that keep their independence, and a respectful conversation to have.
+policy:
+  allow_implicit_invocation: false

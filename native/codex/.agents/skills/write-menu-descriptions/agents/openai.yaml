@@ -1,0 +1,5 @@
+interface:
+  display_name: Write menu descriptions
+  short_description: Writes restaurant or cafe menu descriptions that are short, appetising and accurate, with section names and allergen notes taken only from supplied data, in the venue's voice.
+policy:
+  allow_implicit_invocation: false

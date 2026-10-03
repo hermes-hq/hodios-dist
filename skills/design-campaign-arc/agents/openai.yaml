@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a campaign arc
+  short_description: Designs a tabletop campaign arc with factions, a central threat that advances on its own, milestones, player hooks and several endings. Use to plan a multi-session campaign.
+policy:
+  allow_implicit_invocation: false

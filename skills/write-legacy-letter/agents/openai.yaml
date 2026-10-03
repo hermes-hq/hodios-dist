@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a legacy letter
+  short_description: Helps write an ethical will or legacy letter to children or grandchildren, passing on values, stories, hopes and lessons in the writer's own voice. Not a legal will.
+policy:
+  allow_implicit_invocation: false

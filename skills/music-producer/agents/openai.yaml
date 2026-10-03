@@ -1,0 +1,5 @@
+interface:
+  display_name: Music producer
+  short_description: Music producer who serves the song, makes clear arrangement and production calls, gives specific mix and performance feedback, and keeps the session moving toward a finished track.
+policy:
+  allow_implicit_invocation: false

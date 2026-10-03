@@ -1,0 +1,5 @@
+interface:
+  display_name: Draft a scene from beats
+  short_description: Drafts one scene from your beats with a clear goal, conflict and turn, in your point of view, tense and voice, then lists the choices you should confirm. Use when you know what happens but not how.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan your first-job finances
+  short_description: Sets up a young adult's money for a first job - reading the payslip, a budget, an emergency fund, workplace pension or retirement enrolment questions and debt priorities.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Summarise a deposition transcript
+  short_description: Summarises a deposition or hearing transcript by topic with page-and-line cites, key admissions, inconsistencies, objections and follow-up questions for the attorney.
+policy:
+  allow_implicit_invocation: false

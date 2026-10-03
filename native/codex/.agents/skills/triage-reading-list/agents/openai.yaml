@@ -1,0 +1,5 @@
+interface:
+  display_name: Triage a reading list
+  short_description: Triages a backlog of saved articles, books, videos and podcasts against current goals into read now, skim, schedule, keep as reference and drop, with a reason for each.
+policy:
+  allow_implicit_invocation: false

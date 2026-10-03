@@ -1,0 +1,5 @@
+interface:
+  display_name: Engineer a restaurant menu
+  short_description: Analyses menu item sales and margins into stars, plowhorses, puzzles and dogs, and recommends pricing, placement, recipe and removal changes with the maths shown.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a checkout flow
+  short_description: Designs an e-commerce checkout flow with steps, guest checkout, form fields, payment and error states, trust cues and abandonment safeguards, plus the metrics to watch per step.
+policy:
+  allow_implicit_invocation: false

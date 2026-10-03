@@ -1,0 +1,5 @@
+interface:
+  display_name: Edit a transcript into an article
+  short_description: Turns an interview, talk or podcast transcript into a clean article or Q&A, keeping quotes accurate, cutting verbal clutter and marking anything that needs confirmation. Use after a recording.
+policy:
+  allow_implicit_invocation: false

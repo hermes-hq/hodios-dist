@@ -14,7 +14,7 @@ metadata:
   kind: workflow
   category: scientific-writing
   source: https://hermes-ide.com/prompts/grant-proposal-track
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Grant proposal track

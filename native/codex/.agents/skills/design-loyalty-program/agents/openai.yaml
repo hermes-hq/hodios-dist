@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a customer loyalty programme
+  short_description: Designs a customer loyalty programme for a shop, cafe or online store with mechanics, reward costs tested against margins, tiers, terms, launch plan and measures of incremental value.
+policy:
+  allow_implicit_invocation: false

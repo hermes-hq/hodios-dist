@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a survival (time-to-event) analysis
+  short_description: Runs a time-to-event analysis (Kaplan-Meier, Cox) for churn, failure or time-to-hire, handling censoring correctly, with code and a plain reading. Use when the question is how long until.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Punch up text with humour
+  short_description: Makes a speech, post or email funnier with humour that fits the audience, marking every added joke and keeping the message, facts and length intact. Use when a draft is correct but flat.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a homebrew magic item
+  short_description: Designs homebrew magic items or gear balanced against a game system's official items, with rarity, exact mechanics, a story hook and a balance check. Use before adding loot to a campaign.
+policy:
+  allow_implicit_invocation: false

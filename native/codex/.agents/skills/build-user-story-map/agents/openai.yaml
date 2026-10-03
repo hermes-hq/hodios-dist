@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a user story map
+  short_description: Builds a user story map with a backbone of user activities and tasks, a walking skeleton and release slices tied to outcomes, plus the questions to settle before planning.
+policy:
+  allow_implicit_invocation: false

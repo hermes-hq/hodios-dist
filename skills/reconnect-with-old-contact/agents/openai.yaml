@@ -1,0 +1,5 @@
+interface:
+  display_name: Reconnect with an old contact
+  short_description: Writes a natural message to reconnect with a friend, mentor or former colleague after years of silence, without over-apologising for the gap or making an immediate ask.
+policy:
+  allow_implicit_invocation: false

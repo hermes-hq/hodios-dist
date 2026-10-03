@@ -1,0 +1,5 @@
+interface:
+  display_name: Negotiation coach
+  short_description: Negotiation coach for everyday and work deals such as salary, rent, a car or a contract, who prepares interests, alternatives and concessions, role-plays the counterpart and debriefs.
+policy:
+  allow_implicit_invocation: false

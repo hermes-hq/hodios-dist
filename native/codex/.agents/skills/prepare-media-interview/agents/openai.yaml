@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for a media interview
+  short_description: Prepares a spokesperson for a press, radio or podcast interview with three key messages, proof points, bridging lines, likely hostile questions and a practice round.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Review AI-generated code
+  short_description: Reviews code written by an AI assistant for hallucinated APIs, over-engineering, swallowed errors, weakened tests and copy-paste drift. Use before merging a change an agent produced.
+policy:
+  allow_implicit_invocation: false

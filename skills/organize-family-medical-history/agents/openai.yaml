@@ -1,0 +1,5 @@
+interface:
+  display_name: Organize a family medical history
+  short_description: Builds a family medical history record across three generations with conditions and ages at onset, highlights patterns worth mentioning to a doctor, and lists gaps to ask relatives about.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a participant information sheet and consent form
+  short_description: Writes a plain-language participant information sheet and consent form covering purpose, procedures, risks, data use and withdrawal, ready for ethics review. For researchers recruiting people.
+policy:
+  allow_implicit_invocation: false

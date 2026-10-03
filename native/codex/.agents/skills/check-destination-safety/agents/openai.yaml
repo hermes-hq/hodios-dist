@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a destination safety brief
+  short_description: Builds a safety brief for a destination with common scams, areas and times to take care, transport safety, laws visitors break, emergency numbers and advisories to check. Use before you travel.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan care for a new pet
+  short_description: Plans care for a new pet covering supplies, home setup, feeding, a vet schedule to confirm, first-weeks training and realistic costs. Use before or right after bringing a pet home.
+policy:
+  allow_implicit_invocation: false

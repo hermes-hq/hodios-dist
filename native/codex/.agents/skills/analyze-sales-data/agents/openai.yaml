@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse sales performance
+  short_description: Analyses sales data by product, customer, region and time to find what drives revenue, seasonality, best and worst performers, and the actions worth taking. Use for a sales performance review.
+policy:
+  allow_implicit_invocation: false

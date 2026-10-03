@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan endurance event training
+  short_description: Builds a progressive training plan for a cycling, swimming or triathlon event with phases, key sessions, recovery weeks, fuelling and a taper. Use when training for a ride, swim or tri.
+policy:
+  allow_implicit_invocation: false

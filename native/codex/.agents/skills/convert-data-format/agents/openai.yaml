@@ -1,0 +1,5 @@
+interface:
+  display_name: Convert data between formats
+  short_description: Converts tabular or nested data between CSV, TSV, JSON, Markdown and XML, preserving every value exactly and flagging ambiguous fields. Use when data must move between tools without silent changes.
+policy:
+  allow_implicit_invocation: false

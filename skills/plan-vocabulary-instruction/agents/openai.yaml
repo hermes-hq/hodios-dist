@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan vocabulary instruction for a unit
+  short_description: Plans explicit vocabulary instruction for a unit, selecting tier 2 and tier 3 words with student-friendly definitions, examples, practice routines across days and a quick check.
+policy:
+  allow_implicit_invocation: false

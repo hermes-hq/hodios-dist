@@ -1,0 +1,5 @@
+interface:
+  display_name: Appeal a benefits decision
+  short_description: Drafts an appeal or request for reconsideration of a government benefits decision by matching each stated reason to evidence, with the deadlines to confirm and free help to contact.
+policy:
+  allow_implicit_invocation: false

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: testing
   source: https://hermes-ide.com/prompts/add-regression-test
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Add a regression test for a bug

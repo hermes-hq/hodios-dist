@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan heritage language learning
+  short_description: Plans learning for a heritage speaker who understands the family language but struggles to speak, read or write it, building on what they already have instead of starting from zero.
+policy:
+  allow_implicit_invocation: false

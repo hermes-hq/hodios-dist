@@ -1,0 +1,5 @@
+interface:
+  display_name: Create a fictional language
+  short_description: Sketches a fictional language that fits its culture, with sounds, romanisation, word shapes, core grammar, a starter lexicon and glossed sample phrases, at the depth your story or game needs.
+policy:
+  allow_implicit_invocation: false

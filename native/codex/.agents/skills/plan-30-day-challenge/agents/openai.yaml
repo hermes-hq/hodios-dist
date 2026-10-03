@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a 30-day challenge
+  short_description: Designs a 30-day challenge with a daily minimum, weekly progression, simple tracking, rest and missed-day rules, weekly check-ins and an end-of-challenge reflection.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write accessibility annotations
+  short_description: Annotates a screen design for engineering handoff with accessibility notes - headings, landmarks, focus order, accessible names, states, keyboard behaviour and announcements - mapped to WCAG.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Create a graphic organizer
+  short_description: Designs a graphic organizer matched to a thinking task (compare, cause and effect, argument, sequence), with a modelled example, a blank printable version and sentence frames.
+policy:
+  allow_implicit_invocation: false

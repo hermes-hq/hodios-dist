@@ -1,0 +1,5 @@
+interface:
+  display_name: Untangle circular dependencies
+  short_description: Finds circular dependencies between modules and plans breaking each cycle with interfaces, inversion or extraction in safe steps. Use when import cycles cause build errors or tangled code.
+policy:
+  allow_implicit_invocation: false

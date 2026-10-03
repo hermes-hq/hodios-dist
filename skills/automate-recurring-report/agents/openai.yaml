@@ -1,0 +1,5 @@
+interface:
+  display_name: Automate a recurring report
+  short_description: Designs automation for a recurring report (sources, refresh, transformations, data checks, delivery) with tools matched to the team's skills. Use when a weekly or monthly report eats hours.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a grant report
+  short_description: Writes a grant progress or final report to a funder - outcomes against agreed indicators, stories shared with consent, spending against budget, challenges and learning - in the funder's format.
+policy:
+  allow_implicit_invocation: false

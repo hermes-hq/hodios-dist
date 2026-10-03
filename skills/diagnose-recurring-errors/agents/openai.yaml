@@ -1,0 +1,5 @@
+interface:
+  display_name: Diagnose recurring language errors
+  short_description: Analyses several samples of a learner's writing or speech transcripts to find recurring error patterns, ranks them by impact and builds a two-week remediation plan.
+policy:
+  allow_implicit_invocation: false

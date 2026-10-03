@@ -1,0 +1,5 @@
+interface:
+  display_name: Prompt iteration track
+  short_description: Improves a prompt in gated steps - define success, build test cases, run and grade, diagnose failures, revise, then compare versions on the same cases before adopting the change.
+policy:
+  allow_implicit_invocation: false

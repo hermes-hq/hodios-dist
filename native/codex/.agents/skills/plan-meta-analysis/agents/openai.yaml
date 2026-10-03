@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan and interpret a meta-analysis
+  short_description: Plans and interprets a meta-analysis, deciding whether to pool, the effect measure and model, heterogeneity, subgroup and sensitivity analyses, publication-bias checks and certainty. For review teams.
+policy:
+  allow_implicit_invocation: false

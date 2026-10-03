@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a video series
+  short_description: Plans a multi-episode video series with a promise, a recurring format, an episode list, an arc across episodes and packaging that makes viewers binge. Use when turning an idea into a series.
+policy:
+  allow_implicit_invocation: false

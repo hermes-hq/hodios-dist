@@ -1,0 +1,5 @@
+interface:
+  display_name: Evaluate buying a small business
+  short_description: Structures the evaluation of a small business or franchise purchase - questions, documents to request, valuation sanity checks and red flags - to take to an accountant and lawyer.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a letter to a neighbour about a dispute
+  short_description: Writes a calm letter to a neighbour about noise, boundaries, trees, parking or similar issues that proposes a concrete solution, keeps a record and names mediation as the next step.
+policy:
+  allow_implicit_invocation: false

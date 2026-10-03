@@ -1,0 +1,5 @@
+interface:
+  display_name: Create an exam cheat sheet
+  short_description: Condenses a course or topic into a one-page reference sheet of formulas, definitions, procedures and common traps, sized and ordered to fit the exam's allowed-materials rules.
+policy:
+  allow_implicit_invocation: false

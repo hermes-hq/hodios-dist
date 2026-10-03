@@ -1,0 +1,5 @@
+interface:
+  display_name: Review a document for ambiguity
+  short_description: Finds statements in instructions, policies, requirements or agreements that readers could interpret two ways, explains each reading and its consequence, and proposes unambiguous wording.
+policy:
+  allow_implicit_invocation: false

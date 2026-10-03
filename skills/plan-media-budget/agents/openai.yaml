@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a paid media budget
+  short_description: Allocates a paid media budget across channels and funnel stages with test and scale budgets, expected CPA ranges stated as assumptions, and decision rules for shifting spend.
+policy:
+  allow_implicit_invocation: false

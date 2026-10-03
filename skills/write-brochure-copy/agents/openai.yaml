@@ -1,0 +1,5 @@
+interface:
+  display_name: Write brochure or flyer copy
+  short_description: Writes copy for a print brochure, flyer, leaflet or postcard panel by panel, with a headline, scannable benefits, proof and a trackable contact action sized to the format.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a debate case
+  short_description: Prepares a debate case for a motion with definitions, two or three arguments and the evidence they need, anticipated rebuttals with responses, and a summary speech structure.
+policy:
+  allow_implicit_invocation: false

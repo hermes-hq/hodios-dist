@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse an employee engagement survey
+  short_description: Analyses an employee engagement survey with group scores under minimum-group-size privacy rules, eNPS, comment themes and three priorities to act on. Use after an engagement or pulse survey closes.
+policy:
+  allow_implicit_invocation: false

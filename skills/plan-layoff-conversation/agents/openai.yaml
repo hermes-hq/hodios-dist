@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a layoff conversation
+  short_description: Prepares a manager to deliver a layoff or redundancy conversation humanely, with a script, logistics, what not to say and questions to route to HR or legal. Use before the meeting.
+policy:
+  allow_implicit_invocation: false

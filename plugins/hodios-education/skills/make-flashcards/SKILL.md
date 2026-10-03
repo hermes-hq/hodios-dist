@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: studying
   source: https://hermes-ide.com/prompts/make-flashcards
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Make flashcards from notes

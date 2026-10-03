@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: podcasting
   source: https://hermes-ide.com/prompts/write-show-notes
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Write podcast show notes

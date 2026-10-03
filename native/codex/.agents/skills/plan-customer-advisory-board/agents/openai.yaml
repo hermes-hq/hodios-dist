@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a customer advisory board
+  short_description: Plans a customer advisory board with a charter, member criteria, invitation, meeting agendas, feedback capture and a close-the-loop routine. Use when starting or rebooting a CAB.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Design an in-product search experience
+  short_description: Designs in-product search covering query input, autocomplete, filters, results layout, zero-results handling and the relevance signals and search metrics to test.
+policy:
+  allow_implicit_invocation: false

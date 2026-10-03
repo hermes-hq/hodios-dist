@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a career ladder
+  short_description: Builds a career ladder or competency matrix for a role family with levels, expectations per dimension and examples of evidence. Use when defining levels for promotion, hiring or pay.
+policy:
+  allow_implicit_invocation: false

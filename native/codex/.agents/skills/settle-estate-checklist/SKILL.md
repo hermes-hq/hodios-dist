@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: paperwork
   source: https://hermes-ide.com/prompts/settle-estate-checklist
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Settle a loved one's estate checklist

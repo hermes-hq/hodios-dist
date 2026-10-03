@@ -1,0 +1,5 @@
+interface:
+  display_name: UX research study track
+  short_description: Runs a UX research study in gated steps - research questions, method choice, screener, session guide, notes template, synthesis and a decision-focused readout - pausing for approval.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Reply to a tricky message
+  short_description: Drafts replies to an awkward personal text or chat, such as a friend's request, a family dig, a date or a group-chat flare-up, in two or three tones and says what each one signals.
+policy:
+  allow_implicit_invocation: false

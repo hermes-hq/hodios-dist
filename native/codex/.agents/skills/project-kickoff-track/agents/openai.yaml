@@ -1,0 +1,5 @@
+interface:
+  display_name: Project kickoff track
+  short_description: Kicks off a non-software project in five gated steps - a charter, a stakeholder map, a plan with risks, a kickoff meeting agenda and the first status update.
+policy:
+  allow_implicit_invocation: false

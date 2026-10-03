@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: product-discovery
   source: https://hermes-ide.com/prompts/design-validation-experiment
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Design a validation experiment

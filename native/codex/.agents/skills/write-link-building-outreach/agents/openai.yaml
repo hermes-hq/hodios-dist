@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan and write link-earning outreach
+  short_description: Plans link-earning outreach (resource pages, digital PR, broken links, unlinked mentions) around a linkable asset and writes personalised emails that avoid spammy tactics.
+policy:
+  allow_implicit_invocation: false

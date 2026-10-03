@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an SMS or WhatsApp campaign
+  short_description: Writes SMS or WhatsApp marketing messages within length limits, with a clear opt-out, consent assumptions to verify, character and segment counts, and send timing.
+policy:
+  allow_implicit_invocation: false

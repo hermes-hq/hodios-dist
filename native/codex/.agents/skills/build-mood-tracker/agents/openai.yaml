@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a mood tracker
+  short_description: Builds a simple daily mood and trigger tracker, or turns existing entries into a cautious pattern summary to share with a GP or therapist. Use to see patterns or prepare for an appointment.
+policy:
+  allow_implicit_invocation: false

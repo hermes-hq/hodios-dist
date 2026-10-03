@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: ux-research
   source: https://hermes-ide.com/prompts/run-competitive-ux-audit
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Run a competitive UX audit

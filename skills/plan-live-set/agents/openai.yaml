@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a live set
+  short_description: Plans a live set or gig from your songs and the slot, with setlist order, energy curve, transitions, banter cues, a timing budget and a backup plan for running long, short or into trouble.
+policy:
+  allow_implicit_invocation: false

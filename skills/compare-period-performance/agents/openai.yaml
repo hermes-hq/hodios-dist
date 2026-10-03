@@ -1,0 +1,5 @@
+interface:
+  display_name: Compare performance across periods
+  short_description: Compares performance across periods (YoY, MoM, like-for-like), handling trading days, holidays, seasonality and mix, and builds a variance story that adds up. Use before reporting a period change.
+policy:
+  allow_implicit_invocation: false

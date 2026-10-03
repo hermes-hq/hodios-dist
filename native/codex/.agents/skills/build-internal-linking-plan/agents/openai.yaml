@@ -1,0 +1,5 @@
+interface:
+  display_name: Build an internal linking plan
+  short_description: Builds an internal linking plan from a page list, with hub and spoke clusters, orphan and deep pages, anchor text and the highest-value links to add first.
+policy:
+  allow_implicit_invocation: false

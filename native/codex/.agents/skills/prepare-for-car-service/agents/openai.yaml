@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for a car service
+  short_description: Prepares a driver for a mechanic visit with a clear symptom description, questions to ask, how to read an estimate, and how to tell needed work from upselling. Use before approving car repairs.
+policy:
+  allow_implicit_invocation: false

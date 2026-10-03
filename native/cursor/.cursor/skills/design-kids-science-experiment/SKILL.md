@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: kids-activities
   source: https://hermes-ide.com/prompts/design-kids-science-experiment
-  catalog: 2026.1002.2
+  catalog: 2026.1003.0
 ---
 
 # Design a kids' science experiment

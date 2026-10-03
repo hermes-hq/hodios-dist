@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a marketplace product listing
+  short_description: Writes an Amazon, Etsy or eBay product listing with title, bullets, description and backend search terms or tags, kept within each marketplace's limits and listing rules.
+policy:
+  allow_implicit_invocation: false

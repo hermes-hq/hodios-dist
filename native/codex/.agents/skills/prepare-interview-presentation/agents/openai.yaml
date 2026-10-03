@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare an interview presentation
+  short_description: Prepares an interview presentation task by decoding the brief, building the storyline and slides, planning timing and anticipating panel questions. Use when an interview includes a presentation.
+policy:
+  allow_implicit_invocation: false

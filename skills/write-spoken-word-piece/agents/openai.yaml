@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a spoken-word piece
+  short_description: Writes a spoken-word or performance poem for the ear from your own material, with rhythm, repetition, breath and pause marks, a timing estimate and delivery notes for the stage.
+policy:
+  allow_implicit_invocation: false

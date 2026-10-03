@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a willingness-to-pay study
+  short_description: Designs or analyses a willingness-to-pay study (Van Westendorp, Gabor-Granger or interviews) with questions, sample, analysis steps and how to read the result. Use before setting a price.
+policy:
+  allow_implicit_invocation: false

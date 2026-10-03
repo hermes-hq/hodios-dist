@@ -1,0 +1,5 @@
+interface:
+  display_name: Guide a mindfulness meditation
+  short_description: Guides a breath, body-scan, loving-kindness or noting meditation, either live in paced rounds or as a timed script to read aloud, with trauma-sensitive options, a check-in and a check-out.
+policy:
+  allow_implicit_invocation: false

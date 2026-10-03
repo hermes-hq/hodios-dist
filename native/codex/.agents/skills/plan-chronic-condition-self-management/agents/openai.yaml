@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan chronic condition self-management
+  short_description: Builds a self-management routine for a diagnosed chronic condition from the care team's plan, with daily tasks, tracking, a traffic-light action plan and appointment preparation.
+policy:
+  allow_implicit_invocation: false

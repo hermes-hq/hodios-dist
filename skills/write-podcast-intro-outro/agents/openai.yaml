@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a podcast intro and outro
+  short_description: Writes a podcast cold open, a recurring show intro, an episode intro and an outro with a call to action, timed for reading aloud in the host's voice. Use when setting up a show or an episode.
+policy:
+  allow_implicit_invocation: false

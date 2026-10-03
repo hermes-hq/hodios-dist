@@ -1,0 +1,5 @@
+interface:
+  display_name: Write read-aloud text
+  short_description: Writes short read-aloud descriptions for locations, NPC entrances and events that engage the senses, end on something to act on, and never decide what the characters do.
+policy:
+  allow_implicit_invocation: false

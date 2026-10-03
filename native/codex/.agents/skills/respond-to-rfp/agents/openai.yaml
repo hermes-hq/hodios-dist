@@ -1,0 +1,5 @@
+interface:
+  display_name: Respond to an RFP or tender
+  short_description: Drafts an RFP or tender response with a compliance matrix mapping every requirement to an answer and evidence, bid risks, win themes, draft answers and gaps to resolve.
+policy:
+  allow_implicit_invocation: false

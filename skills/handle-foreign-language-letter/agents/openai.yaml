@@ -1,0 +1,5 @@
+interface:
+  display_name: Handle an official letter in a foreign language
+  short_description: Translates an official letter received in a foreign language, explains what it requires and by when, and drafts a reply in that language for an expat or immigrant.
+policy:
+  allow_implicit_invocation: false

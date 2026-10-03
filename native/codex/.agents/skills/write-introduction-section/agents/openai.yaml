@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a paper introduction
+  short_description: Writes a manuscript introduction that moves from the field to the gap to the study's aim using the CARS model, citing only supplied sources and using placeholders instead of invented references.
+policy:
+  allow_implicit_invocation: false

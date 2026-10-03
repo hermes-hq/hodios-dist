@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse a literary work
+  short_description: Guides a student through analysing a novel, play or story, covering themes, character arcs, techniques and context with quotation-led points and essay angles, while they form their own reading.
+policy:
+  allow_implicit_invocation: false

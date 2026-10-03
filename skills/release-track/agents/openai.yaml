@@ -1,0 +1,5 @@
+interface:
+  display_name: Release track
+  short_description: Takes a release from change review to changelog, checklist, staged rollout, verification and announcement, pausing for approval between steps. Use for any release users will notice.
+policy:
+  allow_implicit_invocation: false

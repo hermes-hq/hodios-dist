@@ -1,0 +1,5 @@
+interface:
+  display_name: Develop a TV series concept
+  short_description: Develops a TV series concept into pitch-ready material with logline, series engine, characters, season-one arc, episode ideas and tone references. Use before writing a pilot or a pitch deck.
+policy:
+  allow_implicit_invocation: false

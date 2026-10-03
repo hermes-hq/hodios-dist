@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for a long hike
+  short_description: Prepares someone for a long or multi-day hike with a conditioning plan, pack weight targets, a gear checklist, a pacing plan and a safety plan. Use weeks before a big trail day or trek.
+policy:
+  allow_implicit_invocation: false

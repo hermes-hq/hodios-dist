@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan volunteer recruitment
+  short_description: Plans volunteer recruitment for a nonprofit or community group - role descriptions, outreach messages, proportionate screening, onboarding and retention - for the hours and roles needed.
+policy:
+  allow_implicit_invocation: false
