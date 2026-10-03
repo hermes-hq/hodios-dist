@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: music
   source: https://hermes-ide.com/prompts/suggest-chord-progressions
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Suggest chord progressions with the theory behind them

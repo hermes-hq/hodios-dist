@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: testing
   source: https://hermes-ide.com/prompts/review-test-quality
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Review test quality

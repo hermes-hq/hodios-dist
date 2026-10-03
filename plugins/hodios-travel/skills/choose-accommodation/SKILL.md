@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: trip-planning
   source: https://hermes-ide.com/prompts/choose-accommodation
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Choose where to stay

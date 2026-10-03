@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: sales
   source: https://hermes-ide.com/prompts/handle-sales-objections
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Handle sales objections

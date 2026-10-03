@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fact-checking
   source: https://hermes-ide.com/prompts/audit-ai-answer-for-errors
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Audit an AI answer for errors

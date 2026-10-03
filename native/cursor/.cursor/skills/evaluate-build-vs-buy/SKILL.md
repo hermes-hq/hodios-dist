@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: product-strategy
   source: https://hermes-ide.com/prompts/evaluate-build-vs-buy
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Evaluate build versus buy

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: resumes
   source: https://hermes-ide.com/prompts/write-portfolio-site-copy
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Write portfolio website copy

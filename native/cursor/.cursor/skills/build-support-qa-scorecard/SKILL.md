@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: customer-support
   source: https://hermes-ide.com/prompts/build-support-qa-scorecard
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Build a support QA scorecard

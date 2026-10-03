@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: copywriting
   source: https://hermes-ide.com/prompts/website-copy-track
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Small-business website copy track

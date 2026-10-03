@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: customer-support
   source: https://hermes-ide.com/prompts/write-appointment-reminder-messages
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Write appointment reminder messages

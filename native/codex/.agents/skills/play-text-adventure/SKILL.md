@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: video-games
   source: https://hermes-ide.com/prompts/play-text-adventure
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Play a text adventure

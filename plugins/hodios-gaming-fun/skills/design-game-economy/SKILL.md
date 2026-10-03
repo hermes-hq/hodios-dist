@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: video-games
   source: https://hermes-ide.com/prompts/design-game-economy
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Design a game economy

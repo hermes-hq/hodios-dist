@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: contracts
   source: https://hermes-ide.com/prompts/review-consumer-terms
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Review terms of service as a consumer

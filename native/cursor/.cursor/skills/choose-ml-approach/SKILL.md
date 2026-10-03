@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: ai-ml
   source: https://hermes-ide.com/prompts/choose-ml-approach
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Choose between rules, ML and an LLM

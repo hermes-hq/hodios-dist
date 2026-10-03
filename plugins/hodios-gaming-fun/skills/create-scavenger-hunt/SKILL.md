@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: puzzles
   source: https://hermes-ide.com/prompts/create-scavenger-hunt
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Create a scavenger hunt

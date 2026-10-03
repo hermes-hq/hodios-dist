@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/plan-vocabulary-instruction
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Plan vocabulary instruction for a unit

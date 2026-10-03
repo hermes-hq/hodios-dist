@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: conventions
   source: https://hermes-ide.com/prompts/python-style-rules
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Python style rules

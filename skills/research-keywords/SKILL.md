@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: seo
   source: https://hermes-ide.com/prompts/research-keywords
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Research keywords

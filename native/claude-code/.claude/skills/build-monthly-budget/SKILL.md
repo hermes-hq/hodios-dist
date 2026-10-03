@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: budgeting
   source: https://hermes-ide.com/prompts/build-monthly-budget
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Build a monthly budget

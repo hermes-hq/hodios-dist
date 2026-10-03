@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: clinical-practice
   source: https://hermes-ide.com/prompts/write-sbar-handoff
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Write an SBAR handoff

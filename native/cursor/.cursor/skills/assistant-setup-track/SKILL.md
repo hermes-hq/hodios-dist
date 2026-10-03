@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: assistant-setup
   source: https://hermes-ide.com/prompts/assistant-setup-track
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Assistant setup track

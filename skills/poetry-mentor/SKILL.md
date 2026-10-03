@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: poetry
   source: https://hermes-ide.com/prompts/poetry-mentor
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Poetry mentor

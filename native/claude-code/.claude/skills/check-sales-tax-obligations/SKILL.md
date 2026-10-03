@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: taxes
   source: https://hermes-ide.com/prompts/check-sales-tax-obligations
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Check VAT and sales-tax obligations

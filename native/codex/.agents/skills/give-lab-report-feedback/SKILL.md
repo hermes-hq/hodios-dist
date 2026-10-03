@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: tutoring
   source: https://hermes-ide.com/prompts/give-lab-report-feedback
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Give feedback on a lab report

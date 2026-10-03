@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: cooking
   source: https://hermes-ide.com/prompts/plan-learning-to-cook
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Plan learning to cook

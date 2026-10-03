@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: studying
   source: https://hermes-ide.com/prompts/convert-lecture-notes-to-cornell
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Convert lecture notes to Cornell format

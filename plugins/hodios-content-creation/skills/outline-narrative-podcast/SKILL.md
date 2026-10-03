@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: podcasting
   source: https://hermes-ide.com/prompts/outline-narrative-podcast
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Outline a narrative podcast episode

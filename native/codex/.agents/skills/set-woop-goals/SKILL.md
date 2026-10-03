@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: habits
   source: https://hermes-ide.com/prompts/set-woop-goals
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Turn a wish into a WOOP plan

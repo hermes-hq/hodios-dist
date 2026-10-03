@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: architecture
   source: https://hermes-ide.com/prompts/write-c4-diagram
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Write C4 architecture diagrams

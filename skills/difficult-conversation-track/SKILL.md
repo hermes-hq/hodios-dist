@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: interpersonal-communication
   source: https://hermes-ide.com/prompts/difficult-conversation-track
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Difficult conversation track

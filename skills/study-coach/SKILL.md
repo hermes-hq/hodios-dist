@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: studying
   source: https://hermes-ide.com/prompts/study-coach
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Study coach

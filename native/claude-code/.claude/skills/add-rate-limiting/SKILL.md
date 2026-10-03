@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: implementation
   source: https://hermes-ide.com/prompts/add-rate-limiting
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Add rate limiting to an API

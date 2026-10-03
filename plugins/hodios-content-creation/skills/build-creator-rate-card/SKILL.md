@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: social-media
   source: https://hermes-ide.com/prompts/build-creator-rate-card
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Build a creator rate card

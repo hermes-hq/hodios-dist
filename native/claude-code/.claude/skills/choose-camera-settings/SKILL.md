@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: photography
   source: https://hermes-ide.com/prompts/choose-camera-settings
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Choose camera settings

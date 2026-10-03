@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: graphic-design
   source: https://hermes-ide.com/prompts/create-color-palette
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Create an accessible colour palette

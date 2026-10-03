@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: seo
   source: https://hermes-ide.com/prompts/diagnose-organic-traffic-drop
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Diagnose an organic traffic drop

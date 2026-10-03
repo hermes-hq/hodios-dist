@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: language-learning
   source: https://hermes-ide.com/prompts/language-learning-strategist
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Language-learning strategist

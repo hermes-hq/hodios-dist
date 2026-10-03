@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: interview-prep
   source: https://hermes-ide.com/prompts/prepare-interview-presentation
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Prepare an interview presentation

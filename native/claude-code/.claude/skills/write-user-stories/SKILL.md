@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: product
   source: https://hermes-ide.com/prompts/write-user-stories
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Write user stories

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/design-classroom-management-plan
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Design a classroom management plan

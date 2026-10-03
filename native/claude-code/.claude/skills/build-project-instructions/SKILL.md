@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: assistant-setup
   source: https://hermes-ide.com/prompts/build-project-instructions
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Build project instructions

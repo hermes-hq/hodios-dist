@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: data-visualization
   source: https://hermes-ide.com/prompts/design-map-visualization
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Design a map visualisation

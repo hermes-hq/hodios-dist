@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: git
   source: https://hermes-ide.com/prompts/split-large-pull-request
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Split a large pull request into a stack

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: seo
   source: https://hermes-ide.com/prompts/analyze-search-console-data
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Analyse Search Console data

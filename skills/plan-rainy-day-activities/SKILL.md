@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: kids-activities
   source: https://hermes-ide.com/prompts/plan-rainy-day-activities
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Plan rainy-day activities

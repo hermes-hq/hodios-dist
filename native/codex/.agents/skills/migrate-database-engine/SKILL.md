@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: migration
   source: https://hermes-ide.com/prompts/migrate-database-engine
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Plan a database engine migration

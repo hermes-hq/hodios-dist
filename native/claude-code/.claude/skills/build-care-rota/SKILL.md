@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: family-logistics
   source: https://hermes-ide.com/prompts/build-care-rota
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Build a family care rota

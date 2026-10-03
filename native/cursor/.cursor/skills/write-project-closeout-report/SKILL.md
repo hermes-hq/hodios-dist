@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: business-writing
   source: https://hermes-ide.com/prompts/write-project-closeout-report
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Write a project close-out report

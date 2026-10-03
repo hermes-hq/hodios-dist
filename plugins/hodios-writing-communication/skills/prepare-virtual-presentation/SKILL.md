@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: public-speaking
   source: https://hermes-ide.com/prompts/prepare-virtual-presentation
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Prepare a virtual presentation

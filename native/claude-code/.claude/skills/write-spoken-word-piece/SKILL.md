@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: poetry
   source: https://hermes-ide.com/prompts/write-spoken-word-piece
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Write a spoken-word piece

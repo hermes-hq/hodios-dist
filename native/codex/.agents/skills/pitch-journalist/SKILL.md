@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: marketing-strategy
   source: https://hermes-ide.com/prompts/pitch-journalist
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Pitch a journalist

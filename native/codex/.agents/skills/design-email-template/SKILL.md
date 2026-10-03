@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: email-marketing
   source: https://hermes-ide.com/prompts/design-email-template
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Specify a reusable marketing email template

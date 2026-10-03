@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: translation
   source: https://hermes-ide.com/prompts/adapt-regional-variant
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Adapt text to a regional variant

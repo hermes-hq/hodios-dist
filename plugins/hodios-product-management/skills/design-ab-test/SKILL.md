@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: product-metrics
   source: https://hermes-ide.com/prompts/design-ab-test
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Design an A/B test

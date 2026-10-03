@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: migration
   source: https://hermes-ide.com/prompts/plan-incremental-migration
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Plan an incremental migration

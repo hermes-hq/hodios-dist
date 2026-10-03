@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: worldbuilding
   source: https://hermes-ide.com/prompts/design-fictional-geography
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Design a fictional geography

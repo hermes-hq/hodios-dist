@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: teaching
   source: https://hermes-ide.com/prompts/lesson-materials-track
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Lesson materials track

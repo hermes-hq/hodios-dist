@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: financial-planning
   source: https://hermes-ide.com/prompts/compare-rent-vs-buy
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Compare renting and buying a home

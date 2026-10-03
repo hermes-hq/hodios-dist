@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: digital-safety
   source: https://hermes-ide.com/prompts/reduce-online-footprint
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Reduce your online footprint

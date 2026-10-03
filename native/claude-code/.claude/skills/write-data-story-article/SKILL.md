@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: blogging
   source: https://hermes-ide.com/prompts/write-data-story-article
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Write a data-driven article

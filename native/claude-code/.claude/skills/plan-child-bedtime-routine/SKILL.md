@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: parenting
   source: https://hermes-ide.com/prompts/plan-child-bedtime-routine
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Plan a child's bedtime routine

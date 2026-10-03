@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: public-speaking
   source: https://hermes-ide.com/prompts/speechwriter
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Speechwriter

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: code-review
   source: https://hermes-ide.com/prompts/review-api-breaking-changes
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Review an API change for breaking changes

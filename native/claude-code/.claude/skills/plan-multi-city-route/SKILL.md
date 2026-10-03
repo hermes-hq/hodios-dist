@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: trip-planning
   source: https://hermes-ide.com/prompts/plan-multi-city-route
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Plan a multi-city route

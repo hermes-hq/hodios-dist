@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: tabletop-rpg
   source: https://hermes-ide.com/prompts/session-prep-track
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Session prep track

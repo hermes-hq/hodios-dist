@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: meal-planning
   source: https://hermes-ide.com/prompts/build-grocery-list-from-recipes
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Build a grocery list from recipes

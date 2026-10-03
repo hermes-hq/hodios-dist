@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: user-feedback
   source: https://hermes-ide.com/prompts/plan-dogfooding
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Plan internal dogfooding

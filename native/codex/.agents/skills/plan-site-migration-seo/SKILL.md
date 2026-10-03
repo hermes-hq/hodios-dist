@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: seo
   source: https://hermes-ide.com/prompts/plan-site-migration-seo
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Plan the SEO side of a site migration

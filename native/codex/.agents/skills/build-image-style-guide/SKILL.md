@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: image-generation
   source: https://hermes-ide.com/prompts/build-image-style-guide
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Build a style kit for a series of generated images

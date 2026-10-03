@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: tech-help
   source: https://hermes-ide.com/prompts/digitize-paper-documents
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Digitise paper documents

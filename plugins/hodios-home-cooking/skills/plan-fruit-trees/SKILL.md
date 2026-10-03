@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: gardening
   source: https://hermes-ide.com/prompts/plan-fruit-trees
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Plan planting fruit trees

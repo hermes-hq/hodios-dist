@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: job-search
   source: https://hermes-ide.com/prompts/write-interview-thank-you
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Write an interview thank-you note

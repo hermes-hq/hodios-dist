@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: data-exploration
   source: https://hermes-ide.com/prompts/data-scientist
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Data scientist

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: prompt-engineering
   source: https://hermes-ide.com/prompts/adapt-prompt-for-reasoning-model
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Adapt a prompt for a reasoning model

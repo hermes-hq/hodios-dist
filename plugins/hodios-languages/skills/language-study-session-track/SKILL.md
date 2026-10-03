@@ -14,7 +14,7 @@ metadata:
   kind: workflow
   category: language-learning
   source: https://hermes-ide.com/prompts/language-study-session-track
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Language study session track

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: hiring
   source: https://hermes-ide.com/prompts/plan-internship-program
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Design an internship programme

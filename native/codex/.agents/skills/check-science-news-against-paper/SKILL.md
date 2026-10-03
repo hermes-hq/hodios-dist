@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fact-checking
   source: https://hermes-ide.com/prompts/check-science-news-against-paper
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Check a science news story against the paper

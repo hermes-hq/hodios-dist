@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: studying
   source: https://hermes-ide.com/prompts/create-study-plan
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Create a study plan for an exam

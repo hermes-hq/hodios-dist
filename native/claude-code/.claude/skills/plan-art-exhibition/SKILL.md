@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: visual-art
   source: https://hermes-ide.com/prompts/plan-art-exhibition
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Plan an art exhibition

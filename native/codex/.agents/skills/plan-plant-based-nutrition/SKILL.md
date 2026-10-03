@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: nutrition
   source: https://hermes-ide.com/prompts/plan-plant-based-nutrition
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Plan plant-based nutrition

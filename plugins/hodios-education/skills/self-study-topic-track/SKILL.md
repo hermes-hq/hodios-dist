@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: studying
   source: https://hermes-ide.com/prompts/self-study-topic-track
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Self-study topic track

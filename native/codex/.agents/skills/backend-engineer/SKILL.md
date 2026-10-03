@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: implementation
   source: https://hermes-ide.com/prompts/backend-engineer
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Backend engineer

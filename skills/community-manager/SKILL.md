@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: social-media
   source: https://hermes-ide.com/prompts/community-manager
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Community manager

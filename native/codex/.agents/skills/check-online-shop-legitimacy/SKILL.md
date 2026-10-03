@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: digital-safety
   source: https://hermes-ide.com/prompts/check-online-shop-legitimacy
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Check an online shop is legitimate

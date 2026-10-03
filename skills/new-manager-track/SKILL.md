@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: people-management
   source: https://hermes-ide.com/prompts/new-manager-track
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # New manager track

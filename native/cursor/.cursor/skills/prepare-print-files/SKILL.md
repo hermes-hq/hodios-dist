@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: graphic-design
   source: https://hermes-ide.com/prompts/prepare-print-files
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Prepare artwork for print

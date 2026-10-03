@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: cooking
   source: https://hermes-ide.com/prompts/troubleshoot-recipe
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Troubleshoot a failed dish

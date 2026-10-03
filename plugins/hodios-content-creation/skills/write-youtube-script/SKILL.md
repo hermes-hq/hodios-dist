@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: video
   source: https://hermes-ide.com/prompts/write-youtube-script
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Write a YouTube script

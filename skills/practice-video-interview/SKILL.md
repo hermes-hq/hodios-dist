@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: interview-prep
   source: https://hermes-ide.com/prompts/practice-video-interview
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Practise a recorded video interview

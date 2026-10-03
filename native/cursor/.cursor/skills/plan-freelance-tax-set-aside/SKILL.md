@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: taxes
   source: https://hermes-ide.com/prompts/plan-freelance-tax-set-aside
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Plan a freelance tax set-aside

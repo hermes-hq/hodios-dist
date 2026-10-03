@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: home-improvement
   source: https://hermes-ide.com/prompts/home-repair-mentor
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Home repair mentor

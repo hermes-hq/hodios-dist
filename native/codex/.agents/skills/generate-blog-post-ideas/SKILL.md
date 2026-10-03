@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: blogging
   source: https://hermes-ide.com/prompts/generate-blog-post-ideas
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Generate blog post ideas

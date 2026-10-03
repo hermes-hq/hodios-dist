@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: git
   source: https://hermes-ide.com/prompts/resolve-merge-conflict
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Resolve a merge conflict

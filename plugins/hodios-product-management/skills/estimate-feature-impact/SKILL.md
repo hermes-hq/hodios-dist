@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: product-metrics
   source: https://hermes-ide.com/prompts/estimate-feature-impact
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Estimate a feature's impact

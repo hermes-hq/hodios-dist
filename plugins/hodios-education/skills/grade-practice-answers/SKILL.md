@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: exam-prep
   source: https://hermes-ide.com/prompts/grade-practice-answers
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Grade practice answers like a strict examiner

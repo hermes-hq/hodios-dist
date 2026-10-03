@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: copywriting
   source: https://hermes-ide.com/prompts/critique-marketing-copy
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Critique marketing copy

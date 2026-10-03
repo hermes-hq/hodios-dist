@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: conventions
   source: https://hermes-ide.com/prompts/typescript-strict-rules
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # TypeScript strict rules

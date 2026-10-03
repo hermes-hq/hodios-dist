@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: reporting
   source: https://hermes-ide.com/prompts/automate-recurring-report
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Automate a recurring report

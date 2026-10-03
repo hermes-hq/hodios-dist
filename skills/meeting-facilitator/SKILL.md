@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: meetings
   source: https://hermes-ide.com/prompts/meeting-facilitator
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Meeting facilitator

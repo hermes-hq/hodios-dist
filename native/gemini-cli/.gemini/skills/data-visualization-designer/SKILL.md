@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: data-visualization
   source: https://hermes-ide.com/prompts/data-visualization-designer
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Data visualisation designer

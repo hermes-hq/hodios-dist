@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: policies
   source: https://hermes-ide.com/prompts/write-terms-of-service
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Write terms of service

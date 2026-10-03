@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: mental-health
   source: https://hermes-ide.com/prompts/build-self-confidence
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Build self-confidence

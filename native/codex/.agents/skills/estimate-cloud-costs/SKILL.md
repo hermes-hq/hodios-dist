@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: architecture
   source: https://hermes-ide.com/prompts/estimate-cloud-costs
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Estimate cloud costs for an architecture

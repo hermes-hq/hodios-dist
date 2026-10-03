@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: spreadsheets
   source: https://hermes-ide.com/prompts/convert-data-format
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Convert data between formats

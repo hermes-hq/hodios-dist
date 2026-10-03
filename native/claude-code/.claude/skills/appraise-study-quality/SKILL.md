@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: literature-review
   source: https://hermes-ide.com/prompts/appraise-study-quality
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Appraise a study's risk of bias

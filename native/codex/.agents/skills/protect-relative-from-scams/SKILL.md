@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: digital-safety
   source: https://hermes-ide.com/prompts/protect-relative-from-scams
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Protect a relative from scams

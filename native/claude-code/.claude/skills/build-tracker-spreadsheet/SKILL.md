@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: spreadsheets
   source: https://hermes-ide.com/prompts/build-tracker-spreadsheet
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Build a tracker spreadsheet

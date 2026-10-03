@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: studying
   source: https://hermes-ide.com/prompts/plan-scholarship-applications
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Plan scholarship applications

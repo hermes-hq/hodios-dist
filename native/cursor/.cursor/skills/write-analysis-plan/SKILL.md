@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/write-analysis-plan
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Write an analysis plan

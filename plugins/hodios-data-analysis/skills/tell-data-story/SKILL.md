@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: data-visualization
   source: https://hermes-ide.com/prompts/tell-data-story
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Tell a data story

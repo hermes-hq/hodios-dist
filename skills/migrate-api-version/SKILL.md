@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: migration
   source: https://hermes-ide.com/prompts/migrate-api-version
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Plan a breaking API version change

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: email
   source: https://hermes-ide.com/prompts/write-escalation-email
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Write an escalation email

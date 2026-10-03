@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: advertising
   source: https://hermes-ide.com/prompts/plan-marketplace-ads
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Plan marketplace sponsored product ads

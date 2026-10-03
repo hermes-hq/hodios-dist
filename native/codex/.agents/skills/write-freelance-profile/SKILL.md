@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: resumes
   source: https://hermes-ide.com/prompts/write-freelance-profile
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Write a freelance marketplace profile

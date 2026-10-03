@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: sales
   source: https://hermes-ide.com/prompts/build-sales-playbook
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Build a sales playbook

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: trivia
   source: https://hermes-ide.com/prompts/host-trivia-night
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Host a trivia night

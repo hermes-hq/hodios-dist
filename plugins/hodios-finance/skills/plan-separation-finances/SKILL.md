@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: financial-planning
   source: https://hermes-ide.com/prompts/plan-separation-finances
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Plan finances for a separation

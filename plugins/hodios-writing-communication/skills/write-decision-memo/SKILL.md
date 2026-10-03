@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: business-writing
   source: https://hermes-ide.com/prompts/write-decision-memo
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Write a decision memo

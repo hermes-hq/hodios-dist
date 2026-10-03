@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: implementation
   source: https://hermes-ide.com/prompts/implement-oauth-login
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Implement OAuth or OIDC login

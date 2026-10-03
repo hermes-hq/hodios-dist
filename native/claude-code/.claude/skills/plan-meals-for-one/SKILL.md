@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: meal-planning
   source: https://hermes-ide.com/prompts/plan-meals-for-one
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Plan meals for one

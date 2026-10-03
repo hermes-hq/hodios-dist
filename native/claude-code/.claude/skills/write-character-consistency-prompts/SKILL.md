@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: image-generation
   source: https://hermes-ide.com/prompts/write-character-consistency-prompts
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Write character consistency prompts

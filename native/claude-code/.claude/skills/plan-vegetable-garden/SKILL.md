@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: gardening
   source: https://hermes-ide.com/prompts/plan-vegetable-garden
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Plan a vegetable garden

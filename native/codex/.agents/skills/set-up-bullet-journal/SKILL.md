@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: note-taking
   source: https://hermes-ide.com/prompts/set-up-bullet-journal
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Set up a bullet journal

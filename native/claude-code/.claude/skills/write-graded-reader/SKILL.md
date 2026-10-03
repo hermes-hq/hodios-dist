@@ -15,7 +15,7 @@ metadata:
   kind: prompt
   category: language-learning
   source: https://hermes-ide.com/prompts/write-graded-reader
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Write a graded reader

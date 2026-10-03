@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: prompt-engineering
   source: https://hermes-ide.com/prompts/compress-prompt
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Compress a prompt

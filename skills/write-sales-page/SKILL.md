@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: copywriting
   source: https://hermes-ide.com/prompts/write-sales-page
-  catalog: 2026.1003.1
+  catalog: 2026.1003.2
 ---
 
 # Write a long-form sales page
