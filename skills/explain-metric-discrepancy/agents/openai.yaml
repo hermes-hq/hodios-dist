@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a metric discrepancy
+  short_description: Explains why the same metric differs between tools or teams by checking definitions, filters, time zones, attribution and tracking, then plans a reconciliation. Use when numbers disagree.
+policy:
+  allow_implicit_invocation: false

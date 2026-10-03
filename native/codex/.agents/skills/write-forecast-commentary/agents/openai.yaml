@@ -1,0 +1,5 @@
+interface:
+  display_name: Write forecast commentary
+  short_description: Writes forecast commentary explaining the change from the last forecast with a bridge, drivers, quantified risks, confidence and decisions needed. Use for monthly or quarterly reforecasts.
+policy:
+  allow_implicit_invocation: false

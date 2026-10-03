@@ -1,0 +1,5 @@
+interface:
+  display_name: Weekly meal planning track
+  short_description: Runs a weekly meal planning routine in gated steps, from reviewing the week's calendar to picking meals, building the grocery list, planning prep and reviewing leftovers and waste.
+policy:
+  allow_implicit_invocation: false

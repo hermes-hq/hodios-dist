@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: video
   source: https://hermes-ide.com/prompts/create-paper-edit
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Create a paper edit

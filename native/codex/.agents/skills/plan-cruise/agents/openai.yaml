@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a cruise
+  short_description: Plans a cruise with the type of line and ship, cabin choice, port-day plans, the full cost including extras, and pre-cruise logistics. Use before comparing or booking sailings.
+policy:
+  allow_implicit_invocation: false

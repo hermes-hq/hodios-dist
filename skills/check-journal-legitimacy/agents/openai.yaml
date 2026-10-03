@@ -1,0 +1,5 @@
+interface:
+  display_name: Check a journal or conference for legitimacy
+  short_description: Checks whether a journal or conference is legitimate or predatory using indexing, editorial, peer-review, fee and invitation signals, and lists exactly what to verify and where before submitting.
+policy:
+  allow_implicit_invocation: false

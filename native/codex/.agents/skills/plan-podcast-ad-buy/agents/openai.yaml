@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a podcast advertising buy
+  short_description: Plans a podcast advertising buy with show selection criteria, ad formats, pricing models, promo codes and attribution. Use before contacting shows or networks for host-read or produced spots.
+policy:
+  allow_implicit_invocation: false

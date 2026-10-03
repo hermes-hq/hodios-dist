@@ -1,0 +1,5 @@
+interface:
+  display_name: Calibrated
+  short_description: Makes answers state their confidence, from flagging the uncertain claims to a labelled confidence level and evidence basis for every claim. Use when decisions depend on how sure the answer is.
+policy:
+  allow_implicit_invocation: false

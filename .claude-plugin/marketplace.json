@@ -107,13 +107,6 @@
       "license": "CC0-1.0"
     },
     {
-      "name": "hodios-other",
-      "source": "./plugins/hodios-other",
-      "description": "Other (holding area) prompts, personas and workflows from Hodios.",
-      "category": "other",
-      "license": "CC0-1.0"
-    },
-    {
       "name": "hodios-parenting-family",
       "source": "./plugins/hodios-parenting-family",
       "description": "Parenting and family prompts, personas and workflows from Hodios.",

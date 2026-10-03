@@ -1,0 +1,5 @@
+interface:
+  display_name: Secure devices for travel
+  short_description: Prepares phones and laptops for a trip with backups, lock settings, two-factor that works abroad, public Wi-Fi rules, border-crossing considerations and a lost or stolen device plan.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a PESTLE analysis
+  short_description: Runs a PESTLE analysis of a market from supplied evidence, rates each factor's impact and timing, and turns the most important ones into strategic questions.
+policy:
+  allow_implicit_invocation: false

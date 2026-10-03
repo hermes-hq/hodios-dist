@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose a bicycle or e-bike
+  short_description: Helps choose a bicycle or e-bike for the rider's uses, fit, terrain, storage and budget, with the specs that matter, a budget split and a test-ride checklist. Use before buying a bike.
+policy:
+  allow_implicit_invocation: false

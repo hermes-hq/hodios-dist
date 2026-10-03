@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: code-review
   source: https://hermes-ide.com/prompts/respond-to-review-comments
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Respond to code review comments

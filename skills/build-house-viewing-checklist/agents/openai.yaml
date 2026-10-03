@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a house viewing checklist
+  short_description: Builds a printable checklist for viewing a home to rent or buy, covering structure, damp, services, noise and the neighbourhood, plus questions for the agent and red flags.
+policy:
+  allow_implicit_invocation: false

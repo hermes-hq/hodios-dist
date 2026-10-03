@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan daily enrichment for a pet
+  short_description: Plans daily enrichment for a dog, cat or small pet with games, puzzle feeding, training and environment ideas matched to the species and the time you have. Use when a pet seems bored or destructive.
+policy:
+  allow_implicit_invocation: false

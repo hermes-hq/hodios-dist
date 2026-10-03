@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan change communications
+  short_description: Plans the communications for an organisational change such as a new system, a reorg or a policy, by audience and phase, with key messages, channels, timing, managers' role and feedback loops.
+policy:
+  allow_implicit_invocation: false

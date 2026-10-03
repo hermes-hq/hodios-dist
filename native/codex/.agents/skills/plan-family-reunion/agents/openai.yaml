@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a family reunion
+  short_description: Plans a family reunion from date polling and venue choice to a fair cost split, activities for every age, an invitation message and a day-of checklist.
+policy:
+  allow_implicit_invocation: false

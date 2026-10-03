@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: accounting
   source: https://hermes-ide.com/prompts/analyze-working-capital
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Analyse working capital

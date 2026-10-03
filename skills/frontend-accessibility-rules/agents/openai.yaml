@@ -1,0 +1,5 @@
+interface:
+  display_name: Frontend accessibility rules
+  short_description: Standing rules that make an assistant write accessible frontend code, with semantic HTML first, labels, keyboard and focus handling, contrast, motion and ARIA only where native elements fall short.
+policy:
+  allow_implicit_invocation: false

@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: accessibility
   source: https://hermes-ide.com/prompts/accessibility-specialist
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Accessibility specialist

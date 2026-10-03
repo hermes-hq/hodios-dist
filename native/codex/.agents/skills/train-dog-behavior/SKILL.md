@@ -5,9 +5,9 @@ license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: prompt
-  category: unsorted
+  category: pet-care
   source: https://hermes-ide.com/prompts/train-dog-behavior
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Train a dog behaviour

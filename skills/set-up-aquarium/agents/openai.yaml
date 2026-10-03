@@ -1,0 +1,5 @@
+interface:
+  display_name: Set up a first aquarium
+  short_description: Plans a first aquarium with tank size, equipment, the nitrogen cycle, compatible species, stocking order and a maintenance routine. Use before buying a tank or any fish.
+policy:
+  allow_implicit_invocation: false

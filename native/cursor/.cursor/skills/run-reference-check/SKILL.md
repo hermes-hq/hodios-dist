@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: hiring
   source: https://hermes-ide.com/prompts/run-reference-check
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Run a reference check

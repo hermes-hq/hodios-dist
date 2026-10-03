@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a painting step by step
+  short_description: Plans a painting in watercolour, acrylic, oil or gouache from reference and value sketch to finish, with materials, stage-by-stage steps, drying times and the pitfalls of that medium.
+policy:
+  allow_implicit_invocation: false

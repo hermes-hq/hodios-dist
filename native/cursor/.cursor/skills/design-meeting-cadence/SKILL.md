@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: meetings
   source: https://hermes-ide.com/prompts/design-meeting-cadence
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Design a team meeting cadence

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan an anniversary
+  short_description: Plans an anniversary celebration with ideas at three budget levels, a personal touch drawn from shared history, an optional traditional theme, a timeline and a short note to write.
+policy:
+  allow_implicit_invocation: false

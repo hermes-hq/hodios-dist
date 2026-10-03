@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for starting university
+  short_description: Plans the move into first-year university, covering academic skills, routines, money basics, independence, where to get help and a first-week checklist, shaped by the student's worries.
+policy:
+  allow_implicit_invocation: false

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: ai-ml
   source: https://hermes-ide.com/prompts/design-tool-schema
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Design tool definitions for an LLM agent

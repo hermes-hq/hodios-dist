@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain an error message
+  short_description: Explains an error message on a computer, phone or app in plain words, says how serious it is, and gives safe steps to fix it in order, for non-technical people.
+policy:
+  allow_implicit_invocation: false

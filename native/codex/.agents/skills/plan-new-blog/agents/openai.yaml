@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a new blog
+  short_description: Plans a new blog from your interests and goals, choosing a niche and reader, a platform, the first ten posts and a cadence you can sustain alongside the rest of your life. Use before starting a blog.
+policy:
+  allow_implicit_invocation: false

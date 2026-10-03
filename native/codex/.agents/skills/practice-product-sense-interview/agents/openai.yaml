@@ -1,0 +1,5 @@
+interface:
+  display_name: Practise a product sense interview
+  short_description: Runs a product sense or product design interview practice with an original prompt, realistic follow-ups and level-calibrated feedback on structure, user insight, prioritisation and judgement.
+policy:
+  allow_implicit_invocation: false

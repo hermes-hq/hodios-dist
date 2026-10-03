@@ -1,0 +1,5 @@
+interface:
+  display_name: Check local festivals and holidays
+  short_description: Checks which public holidays, religious observances, festivals and school breaks fall during a trip and how they change opening hours, crowds, prices and what to see. Use before booking.
+policy:
+  allow_implicit_invocation: false

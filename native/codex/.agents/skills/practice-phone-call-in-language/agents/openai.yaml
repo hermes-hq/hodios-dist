@@ -1,0 +1,5 @@
+interface:
+  display_name: Practise a phone call in your target language
+  short_description: Simulates a phone call in the target language, such as a booking, complaint or appointment, with no visual cues, realistic phone moments and interruptions, then gives feedback afterwards.
+policy:
+  allow_implicit_invocation: false

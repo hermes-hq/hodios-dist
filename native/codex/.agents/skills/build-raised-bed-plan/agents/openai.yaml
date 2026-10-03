@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan building raised beds
+  short_description: Plans building and filling raised beds with dimensions, materials, a cut list, soil mix volumes, layout and costs, so the user buys the right amount once.
+policy:
+  allow_implicit_invocation: false

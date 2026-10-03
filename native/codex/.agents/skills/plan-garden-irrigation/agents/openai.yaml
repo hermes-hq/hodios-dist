@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan garden irrigation
+  short_description: Plans watering for a garden with drip, soaker hose or sprinkler options, watering zones, a seasonal schedule, a parts list and water-saving measures.
+policy:
+  allow_implicit_invocation: false

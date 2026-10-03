@@ -1,6 +1,6 @@
 {
   "name": "hodios-health-wellbeing",
-  "version": "2026.1003.0",
+  "version": "2026.1003.1",
   "description": "Health and wellbeing prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -70,6 +70,7 @@
     "clinic-letter",
     "clinical-education",
     "clinical-handover",
+    "clinical-practice",
     "clinical-reasoning",
     "coaching",
     "cognitive-distortions",

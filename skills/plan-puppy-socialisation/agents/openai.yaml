@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan puppy socialisation
+  short_description: Plans puppy socialisation during the key early weeks with a checklist of people, places, sounds and handling, done safely around vaccinations. Use when you have, or are about to get, a puppy.
+policy:
+  allow_implicit_invocation: false

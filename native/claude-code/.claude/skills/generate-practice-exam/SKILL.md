@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: exam-prep
   source: https://hermes-ide.com/prompts/generate-practice-exam
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Generate a practice exam

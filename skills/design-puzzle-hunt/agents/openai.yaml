@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a puzzle hunt
+  short_description: Designs a team puzzle hunt with varied puzzles, answer extraction, a fully worked meta-puzzle, an unlock structure, hints, testsolving and logistics. Use for clubs, offices and parties.
+policy:
+  allow_implicit_invocation: false

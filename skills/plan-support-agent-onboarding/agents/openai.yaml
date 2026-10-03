@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan onboarding for a new support agent
+  short_description: Plans a new support agent's first weeks - product learning, tools and access, shadowing, graduated queues, quality checks, and readiness criteria for each stage - week by week.
+policy:
+  allow_implicit_invocation: false

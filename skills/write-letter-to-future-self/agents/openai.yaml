@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a letter to your future self
+  short_description: Writes a letter to your future self in your own voice, capturing life now, what matters, hopes without rigid predictions and questions to answer, with an opening date and a way to keep it.
+policy:
+  allow_implicit_invocation: false

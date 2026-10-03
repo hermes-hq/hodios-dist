@@ -1,0 +1,5 @@
+interface:
+  display_name: Language-learning strategist
+  short_description: Acts as a language-learning strategist who designs a learner's mix of input, output, spaced repetition and feedback, keeps them consistent, and diagnoses and fixes stalled progress.
+policy:
+  allow_implicit_invocation: false

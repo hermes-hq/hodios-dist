@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a holiday sale campaign
+  short_description: Plans a holiday sale campaign such as Black Friday with the offer, an email and SMS calendar, segments, subject lines and stock and operations checks. Use six to eight weeks before a peak sale.
+policy:
+  allow_implicit_invocation: false

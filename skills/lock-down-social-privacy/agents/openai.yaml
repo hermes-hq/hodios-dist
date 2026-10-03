@@ -1,0 +1,5 @@
+interface:
+  display_name: Lock down social media privacy
+  short_description: Walks through privacy settings on social accounts to control who sees posts, profile details, tags, location and contact options, platform by platform, with a short audit of what is already public.
+policy:
+  allow_implicit_invocation: false

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: medical-prep
   source: https://hermes-ide.com/prompts/plan-activity-pacing
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Plan activity pacing

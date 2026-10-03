@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: email
   source: https://hermes-ide.com/prompts/respond-to-angry-email
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Respond to an angry email

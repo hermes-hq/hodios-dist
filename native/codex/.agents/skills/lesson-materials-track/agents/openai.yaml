@@ -1,0 +1,5 @@
+interface:
+  display_name: Lesson materials track
+  short_description: Takes one lesson from plan to slide outline, worksheet, quiz and differentiated versions, pausing for teacher approval after each step. Use to prepare a complete, consistent lesson pack.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Check a resume for ATS readiness
+  short_description: Checks a resume for applicant tracking system parsing problems and, given a posting, keyword gaps, then lists ranked fixes without keyword stuffing. Use before uploading to an online application.
+policy:
+  allow_implicit_invocation: false

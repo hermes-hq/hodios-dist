@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare an art portfolio
+  short_description: Prepares an art portfolio for school admission, creative jobs or gallery submissions by selecting and ordering work, planning presentation and statements, and listing gaps to fill before the deadline.
+policy:
+  allow_implicit_invocation: false

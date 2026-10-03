@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: decision-making
   source: https://hermes-ide.com/prompts/make-life-decision
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Make a big life decision

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: mental-health
   source: https://hermes-ide.com/prompts/plan-quitting-nicotine
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Plan to quit smoking or vaping

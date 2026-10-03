@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: fundraising
   source: https://hermes-ide.com/prompts/prepare-board-meeting
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Prepare a board meeting

@@ -10,9 +10,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.0
   kind: prompt
-  category: medical-prep
+  category: clinical-practice
   source: https://hermes-ide.com/prompts/write-sbar-handoff
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write an SBAR handoff

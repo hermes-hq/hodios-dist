@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a course reading list
+  short_description: Builds a balanced course reading list with core and optional readings per week, range of perspectives, accessibility notes and a realistic reading load, flagging every item to verify.
+policy:
+  allow_implicit_invocation: false

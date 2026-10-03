@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan structured ad creative tests
+  short_description: Plans structured ad creative tests by angle, format and hook with hypotheses, budget split, success metric and decision rules. Use to find winning ads without burning budget on random variations.
+policy:
+  allow_implicit_invocation: false

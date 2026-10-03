@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan internal dogfooding
+  short_description: Plans internal dogfooding of a product or feature with goals, a participant mix that offsets employee bias, realistic scenarios, feedback channels, a triage process and exit criteria.
+policy:
+  allow_implicit_invocation: false

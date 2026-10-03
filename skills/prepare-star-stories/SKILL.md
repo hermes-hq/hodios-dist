@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: interview-prep
   source: https://hermes-ide.com/prompts/prepare-star-stories
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Prepare STAR stories

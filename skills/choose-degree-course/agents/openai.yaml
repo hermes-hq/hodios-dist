@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose a degree course
+  short_description: Helps a student compare degree courses or majors by interests, strengths, workload, career paths and constraints, and lists the questions to ask universities before deciding.
+policy:
+  allow_implicit_invocation: false

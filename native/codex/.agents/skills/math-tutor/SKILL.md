@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: tutoring
   source: https://hermes-ide.com/prompts/math-tutor
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Math tutor

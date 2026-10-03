@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a higher-education capstone
+  short_description: Designs a university capstone with milestones, partner involvement, supervision, rubrics and a fair way to assess individual contribution in teams. Use when planning or redesigning a capstone.
+policy:
+  allow_implicit_invocation: false

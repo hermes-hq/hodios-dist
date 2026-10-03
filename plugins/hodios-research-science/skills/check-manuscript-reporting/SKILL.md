@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: peer-review
   source: https://hermes-ide.com/prompts/check-manuscript-reporting
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Check a manuscript against its reporting guideline

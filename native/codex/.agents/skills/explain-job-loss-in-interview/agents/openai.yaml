@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a layoff or dismissal in an interview
+  short_description: Prepares truthful, short interview answers about being laid off, let go or fired, with a pivot to what was learned and why the new role fits, plus replies to probing follow-ups.
+policy:
+  allow_implicit_invocation: false

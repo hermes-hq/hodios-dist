@@ -1,0 +1,5 @@
+interface:
+  display_name: Practise telling a story in your target language
+  short_description: Has the learner retell a story or their day in the target language, with prompts that require past tenses and connectors, then corrects the key errors and models a stronger version.
+policy:
+  allow_implicit_invocation: false

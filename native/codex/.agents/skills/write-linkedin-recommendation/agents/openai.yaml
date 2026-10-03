@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a LinkedIn recommendation
+  short_description: Writes a LinkedIn recommendation for a colleague, report or manager built on one specific story, the skills it shows and a length that suits the platform. Use when someone asks you for one.
+policy:
+  allow_implicit_invocation: false

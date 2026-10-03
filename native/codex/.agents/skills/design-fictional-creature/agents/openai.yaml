@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a fictional creature
+  short_description: Designs a fictional creature from its niche outward, covering anatomy, ecology, behaviour, life cycle, how people live with it and its story role, with on-page details. Use for fiction and games.
+policy:
+  allow_implicit_invocation: false

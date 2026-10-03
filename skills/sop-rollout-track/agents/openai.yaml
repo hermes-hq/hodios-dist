@@ -1,0 +1,5 @@
+interface:
+  display_name: SOP rollout track
+  short_description: Rolls out a new standard operating procedure in gated steps - draft, review with the staff who do the work, train, audit after two weeks and revise - so the procedure is actually followed.
+policy:
+  allow_implicit_invocation: false

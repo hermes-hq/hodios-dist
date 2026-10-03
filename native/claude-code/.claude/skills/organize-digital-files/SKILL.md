@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: note-taking
   source: https://hermes-ide.com/prompts/organize-digital-files
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Organise digital files

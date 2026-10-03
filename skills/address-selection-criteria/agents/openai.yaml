@@ -1,0 +1,5 @@
+interface:
+  display_name: Address selection criteria
+  short_description: Writes a response to each selection criterion or KSA in a public-sector application, using the criterion's exact wording and STAR evidence within the word limit. Use for government jobs.
+policy:
+  allow_implicit_invocation: false

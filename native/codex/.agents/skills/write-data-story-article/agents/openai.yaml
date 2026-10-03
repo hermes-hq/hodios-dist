@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a data-driven article
+  short_description: Writes an article built on data that leads with the finding, explains method and caveats in plain words, and specifies the charts. Use for data journalism and research-based posts.
+policy:
+  allow_implicit_invocation: false

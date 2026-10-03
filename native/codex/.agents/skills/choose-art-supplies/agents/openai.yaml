@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose art supplies
+  short_description: Recommends a starter or upgrade set of art supplies for a medium and budget, explaining which items change the result, which to skip and the order to upgrade in.
+policy:
+  allow_implicit_invocation: false

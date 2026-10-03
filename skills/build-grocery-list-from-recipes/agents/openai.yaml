@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a grocery list from recipes
+  short_description: Builds one combined grocery list from several recipes, normalising units, merging quantities into amounts you can buy, grouping by aisle and subtracting what is already in the pantry.
+policy:
+  allow_implicit_invocation: false

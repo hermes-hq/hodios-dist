@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a pollinator garden
+  short_description: Plans a pollinator-friendly garden with native and flowering plants blooming across the seasons, larval host plants, habitat features and pesticide-free care.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Make a presentation accessible
+  short_description: Checks a slide deck for accessibility issues (contrast, font size, alt text, reading order, captions, meaning carried by colour alone) and writes how to describe each visual aloud.
+policy:
+  allow_implicit_invocation: false

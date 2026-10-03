@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: legal-correspondence
   source: https://hermes-ide.com/prompts/explain-legal-letter
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Explain a legal letter or court notice

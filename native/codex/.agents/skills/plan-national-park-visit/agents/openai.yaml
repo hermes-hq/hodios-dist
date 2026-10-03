@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a national park visit
+  short_description: Plans a national park visit with permits and reservations, trails matched to fitness and time, crowd avoidance, lodging or camping, and a safety plan. Use months ahead for popular parks.
+policy:
+  allow_implicit_invocation: false

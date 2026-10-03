@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a reading routine with a child
+  short_description: Builds a daily reading routine with a child by age, with what to read, questions to ask before, during and after, ways to keep it fun and signs it is time to ask the school for help.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Mark up a script for delivery
+  short_description: Marks up a speech or script for delivery with pauses, emphasis, pace changes and breath points, then gives a short rehearsal plan focused on the hardest passages.
+policy:
+  allow_implicit_invocation: false

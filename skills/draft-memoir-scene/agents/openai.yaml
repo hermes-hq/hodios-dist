@@ -1,0 +1,5 @@
+interface:
+  display_name: Draft a memoir scene
+  short_description: Drafts a memoir scene from a remembered moment with sensory detail, reconstructed dialogue and the older narrator's reflection, and lists every detail it filled in so the writer can check it.
+policy:
+  allow_implicit_invocation: false

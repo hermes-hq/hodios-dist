@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: course-design
   source: https://hermes-ide.com/prompts/instructional-designer
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Instructional designer

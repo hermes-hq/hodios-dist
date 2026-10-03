@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a family photo book
+  short_description: Plans a family photo book or yearbook with a selection funnel, chapters, captions, page-by-page layout rhythm, cover, print checks and an order timeline.
+policy:
+  allow_implicit_invocation: false

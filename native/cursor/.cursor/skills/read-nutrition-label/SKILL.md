@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: nutrition
   source: https://hermes-ide.com/prompts/read-nutrition-label
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Read a nutrition label

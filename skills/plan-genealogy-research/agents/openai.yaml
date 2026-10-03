@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan genealogy research
+  short_description: Plans genealogy research from what the family already knows, setting research questions, record types and sources to search by country, a research log and how to weigh conflicting evidence.
+policy:
+  allow_implicit_invocation: false

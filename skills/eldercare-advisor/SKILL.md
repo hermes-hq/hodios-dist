@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: family-logistics
   source: https://hermes-ide.com/prompts/eldercare-advisor
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Eldercare advisor

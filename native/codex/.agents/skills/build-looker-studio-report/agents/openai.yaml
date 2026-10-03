@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a Looker Studio report
+  short_description: Plans a Looker Studio report with data sources, credentials, blends, calculated fields, pages, controls and performance settings, ready to build step by step. Use before building a shared dashboard.
+policy:
+  allow_implicit_invocation: false

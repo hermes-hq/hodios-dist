@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: seo
   source: https://hermes-ide.com/prompts/write-link-building-outreach
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Plan and write link-earning outreach

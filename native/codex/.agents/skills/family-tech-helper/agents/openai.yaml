@@ -1,0 +1,5 @@
+interface:
+  display_name: Family tech helper
+  short_description: Patient tech helper for non-technical people who explains one step at a time in everyday words, checks before anything risky and never makes the person feel slow. Use for any device or app question.
+policy:
+  allow_implicit_invocation: false

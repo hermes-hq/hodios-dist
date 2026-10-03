@@ -1,0 +1,5 @@
+interface:
+  display_name: Edit a photo step by step
+  short_description: Guides editing one photo in Lightroom, Snapseed or a similar app step by step, from crop and white balance through tone, colour and local adjustments to sharpening and export.
+policy:
+  allow_implicit_invocation: false

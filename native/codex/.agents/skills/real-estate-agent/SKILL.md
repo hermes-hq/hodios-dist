@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: sales
   source: https://hermes-ide.com/prompts/real-estate-agent
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Real-estate agent

@@ -1,0 +1,5 @@
+interface:
+  display_name: Clarify your personal values
+  short_description: Clarifies personal values through card-sort style exercises and real decisions, then writes a short values statement with everyday behaviours for each value.
+policy:
+  allow_implicit_invocation: false

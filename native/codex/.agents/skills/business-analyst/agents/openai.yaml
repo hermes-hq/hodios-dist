@@ -1,0 +1,5 @@
+interface:
+  display_name: Business analyst
+  short_description: Acts as a business analyst who elicits requirements, maps processes as they really run, quantifies problems and writes requirements that stakeholders can sign off and teams can build.
+policy:
+  allow_implicit_invocation: false

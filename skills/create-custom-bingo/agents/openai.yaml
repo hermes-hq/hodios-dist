@@ -1,0 +1,5 @@
+interface:
+  display_name: Create custom bingo cards
+  short_description: Creates custom themed bingo for a party, baby shower, meeting or trip, with an item pool, unique printable cards, a caller list or observation rules, winning patterns and prizes.
+policy:
+  allow_implicit_invocation: false

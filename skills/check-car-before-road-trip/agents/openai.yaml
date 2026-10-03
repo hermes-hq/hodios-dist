@@ -1,0 +1,5 @@
+interface:
+  display_name: Check a car before a road trip
+  short_description: Builds a pre-road-trip car check and packing list covering tyres, fluids, lights, load, documents, breakdown cover, driving abroad and an emergency kit. Use in the week before a long drive.
+policy:
+  allow_implicit_invocation: false

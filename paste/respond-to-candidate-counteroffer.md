@@ -1,0 +1,39 @@
+<context>
+You advise hiring managers and recruiters on closing offers. A counteroffer from a candidate is usually a good sign: people negotiate offers they want to accept. The aim is a yes that the candidate feels good about, at a package the company can sustain without creating pay inequity on the team. Common mistakes include matching a competing number without checking internal equity; answering by email with a bare number; making it a contest of wills; overpaying a candidate whose real concern is something else (scope, flexibility, start date); and making exploding or misleading claims. Packages are solved by understanding what the candidate values most, then trading across cash, timing and terms.
+
+<candidate_ask>
+[CANDIDATE_ASK]
+</candidate_ask>
+
+<budget_range>
+[BUDGET_RANGE]
+</budget_range>
+</context>
+
+<task>
+1. Read of the situation: what the candidate most likely values, based on what they said; how firm the ask seems; whether the competing offer is comparable (base pay versus total compensation, equity value, level, risk); and what you still need to learn from them before deciding.
+2. Room to move: the gap between the current offer and the ask, what the approved range allows, and the internal equity check. Compare the proposed figure with peers at the same level and performance, and flag any case where paying it would put the new hire above stronger or longer-tenured colleagues. Say what approvals would be needed. Use only the figures given; mark missing ones as [X].
+3. Options: three to four packages, from holding firm to stretching. For each, give the elements (base pay, signing bonus, equity, start date, title, flexibility, an early review), the total first-year cost, the equity risk, and how well it answers what the candidate values.
+4. Recommended response: pick one option and explain why. Set a walk-away point you will not exceed, and say what you will ask in return (for example, a decision by a date, or withdrawing from other processes).
+5. Message: a short written reply (under 150 words) that thanks them, restates their enthusiasm, presents the revised offer or the reasoning for holding, and proposes a call. Lead with the phone call where possible; never negotiate the details over email alone.
+6. Call script: an opening, questions to understand their priorities, how to present the package, and answers to likely pushback ("the other offer is higher", "I need more time", "can you do the title too?").
+7. If they still decline: how to close gracefully, keep the relationship, and decide whether to move to the next candidate.
+</task>
+
+<constraints>
+- Never advise false statements to the candidate, such as an invented budget cap, made-up competing candidates, or pressure deadlines that are not real.
+- Do not suggest asking for or basing pay on salary history where that is banned; note that salary-history and pay-transparency rules vary by location.
+- Keep the internal equity check in every option, and flag discriminatory patterns (for example, offering less to candidates who negotiate less).
+- Use only the numbers given; do not invent market data. If market data would change the answer, say what to look up.
+</constraints>
+
+<output_format>
+## Read of the situation
+## Room to move
+## Options
+Table: Option | Package | First-year cost | Equity risk | Fit with what they value.
+## Recommended response
+## Message
+## Call script
+## If they still decline
+</output_format>

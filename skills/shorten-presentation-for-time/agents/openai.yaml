@@ -1,0 +1,5 @@
+interface:
+  display_name: Shorten a presentation for a new time slot
+  short_description: Cuts a presentation to a shorter time slot by deciding what to keep, merge or move to an appendix, and returns a new slide list with a timing plan that adds up.
+policy:
+  allow_implicit_invocation: false

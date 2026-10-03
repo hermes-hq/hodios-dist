@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose camera gear
+  short_description: Recommends cameras, lenses and accessories for a photographer's genres and budget, starting from what limits their photos now, with what to skip and an upgrade path.
+policy:
+  allow_implicit_invocation: false

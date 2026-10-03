@@ -1,0 +1,5 @@
+interface:
+  display_name: Ask for a favour
+  short_description: Writes a request for a favour, such as an introduction, a review, borrowing something or help moving, that is specific, easy to decline and offers something back.
+policy:
+  allow_implicit_invocation: false

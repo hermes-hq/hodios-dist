@@ -1,0 +1,5 @@
+interface:
+  display_name: Convert lecture notes to Cornell format
+  short_description: Converts raw lecture notes into Cornell format with cue questions, a summary and a list of gaps to check, then explains how to review them. For students who take notes but never revisit them.
+policy:
+  allow_implicit_invocation: false

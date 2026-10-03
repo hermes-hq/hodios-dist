@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: graphic-design
   source: https://hermes-ide.com/prompts/design-packaging
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Plan product packaging design

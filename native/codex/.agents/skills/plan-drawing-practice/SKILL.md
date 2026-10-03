@@ -5,9 +5,9 @@ license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: prompt
-  category: unsorted
+  category: visual-art
   source: https://hermes-ide.com/prompts/plan-drawing-practice
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Plan drawing practice

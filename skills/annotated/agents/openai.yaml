@@ -1,0 +1,5 @@
+interface:
+  display_name: Annotated
+  short_description: Adds explanations alongside the answer, from brief notes on key choices to line-by-line commentary, kept separate so the deliverable stays clean. Use for learning from code, writing or maths.
+policy:
+  allow_implicit_invocation: false

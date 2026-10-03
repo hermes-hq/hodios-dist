@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan preventive equipment maintenance
+  short_description: Plans preventive maintenance for business equipment - an asset list ranked by criticality, a schedule, daily and periodic checklists, owners, a fault reporting route and a maintenance log.
+policy:
+  allow_implicit_invocation: false

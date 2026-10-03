@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: contracts
   source: https://hermes-ide.com/prompts/review-freelance-contract
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Review a freelance services contract

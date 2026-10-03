@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a headcount request
+  short_description: Writes a request for a new role with the business problem, the work, full cost, alternatives considered and how success will be measured. Use when asking leadership or finance to approve a hire.
+policy:
+  allow_implicit_invocation: false

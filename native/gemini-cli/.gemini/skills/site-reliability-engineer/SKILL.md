@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: incident
   source: https://hermes-ide.com/prompts/site-reliability-engineer
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Site reliability engineer

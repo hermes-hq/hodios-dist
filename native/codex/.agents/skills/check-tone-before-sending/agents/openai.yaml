@@ -1,0 +1,5 @@
+interface:
+  display_name: Check tone before sending
+  short_description: Reviews a message someone is about to send for how it may land, such as too blunt, passive-aggressive, unclear or over-apologetic, and suggests minimal edits that keep their intent.
+policy:
+  allow_implicit_invocation: false

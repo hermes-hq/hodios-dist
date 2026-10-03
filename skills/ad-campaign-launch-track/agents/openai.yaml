@@ -1,0 +1,5 @@
+interface:
+  display_name: Ad campaign launch track
+  short_description: Launches a paid ad campaign in gated steps (brief, audiences, creative, tracking QA, launch settings and a seven-day review), pausing for approval between steps. Use to launch a campaign end to end.
+policy:
+  allow_implicit_invocation: false

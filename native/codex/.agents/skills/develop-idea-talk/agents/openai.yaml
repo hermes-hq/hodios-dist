@@ -1,0 +1,5 @@
+interface:
+  display_name: Develop an idea-driven talk
+  short_description: Develops an idea-driven talk in the TED style, covering the one idea, its throughline, the explanation sequence, stories and examples, and an ending, for a 10 to 18 minute slot.
+policy:
+  allow_implicit_invocation: false

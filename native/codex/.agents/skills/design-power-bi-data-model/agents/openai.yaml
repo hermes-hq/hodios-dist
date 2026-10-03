@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a Power BI data model
+  short_description: Designs a Power BI data model with a star schema, relationships, a date table, base measures, storage modes, incremental refresh and row-level security. Use before building a report.
+policy:
+  allow_implicit_invocation: false

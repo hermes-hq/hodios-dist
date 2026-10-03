@@ -1,0 +1,5 @@
+interface:
+  display_name: Describe a chart for accessibility
+  short_description: Writes short alt text, a structured long description and a data table for a chart so screen-reader users get the same insight as sighted readers. Use when publishing charts on the web or in documents.
+policy:
+  allow_implicit_invocation: false

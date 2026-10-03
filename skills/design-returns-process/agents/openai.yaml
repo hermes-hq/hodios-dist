@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a returns and exchanges process
+  short_description: Designs a returns and exchanges process for a shop or online store - policy, step-by-step handling, grading and restocking, staff instructions, customer messages and a plan to cut the return rate.
+policy:
+  allow_implicit_invocation: false

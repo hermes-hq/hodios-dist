@@ -1,0 +1,5 @@
+interface:
+  display_name: Compare pet food options
+  short_description: Compares pet food options by life stage, ingredients, format and cost per day, with label-reading tips and what to ask the vet. Use when choosing or changing what your pet eats.
+policy:
+  allow_implicit_invocation: false

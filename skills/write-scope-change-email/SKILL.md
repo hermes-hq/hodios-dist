@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: email
   source: https://hermes-ide.com/prompts/write-scope-change-email
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write a scope change email

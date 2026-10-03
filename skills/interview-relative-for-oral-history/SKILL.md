@@ -5,9 +5,9 @@ license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: prompt
-  category: unsorted
+  category: life-writing
   source: https://hermes-ide.com/prompts/interview-relative-for-oral-history
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Interview a relative for an oral history

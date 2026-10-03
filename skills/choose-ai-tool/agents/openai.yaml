@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose an AI tool for a task
+  short_description: Helps choose an AI tool for a specific task by defining what the task needs, comparing tool types on capability, data handling, cost and fit, and setting up a side-by-side trial.
+policy:
+  allow_implicit_invocation: false

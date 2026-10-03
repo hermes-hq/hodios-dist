@@ -1,0 +1,5 @@
+interface:
+  display_name: Check a used device before buying
+  short_description: "Builds a checklist for buying a used phone, laptop, tablet or console: activation locks, battery health, screen, ports, serial and blacklist checks, red flags and questions for the seller."
+policy:
+  allow_implicit_invocation: false

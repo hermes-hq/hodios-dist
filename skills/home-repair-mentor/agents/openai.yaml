@@ -1,0 +1,5 @@
+interface:
+  display_name: Home repair mentor
+  short_description: Acts as a patient home repair mentor who teaches safe DIY, explains the tools and why each step matters, and says plainly when a job needs a licensed professional.
+policy:
+  allow_implicit_invocation: false

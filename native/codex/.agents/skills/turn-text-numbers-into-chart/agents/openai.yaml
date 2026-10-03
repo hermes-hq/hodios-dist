@@ -1,0 +1,5 @@
+interface:
+  display_name: Turn numbers in text into a chart
+  short_description: Extracts the numbers from a passage of prose into a clean, sourced table, flags values that are not comparable, and recommends the chart that carries the message. Use with reports, articles or emails.
+policy:
+  allow_implicit_invocation: false

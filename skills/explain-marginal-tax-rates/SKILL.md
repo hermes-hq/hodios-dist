@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: taxes
   source: https://hermes-ide.com/prompts/explain-marginal-tax-rates
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Explain marginal and effective tax rates

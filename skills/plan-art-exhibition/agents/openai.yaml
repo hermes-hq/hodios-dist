@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan an art exhibition
+  short_description: Plans an exhibition or open studio from selection and hanging layout to labels, price list, sales process, promotion timeline, opening night run of show and install checklist.
+policy:
+  allow_implicit_invocation: false

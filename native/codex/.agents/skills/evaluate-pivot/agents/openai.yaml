@@ -1,0 +1,5 @@
+interface:
+  display_name: Evaluate a pivot
+  short_description: Evaluates whether a startup or small business should persevere, pivot or stop, weighing the evidence, the pivot types available, each option's cost and the test to run first.
+policy:
+  allow_implicit_invocation: false

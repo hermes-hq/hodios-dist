@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose camera settings
+  short_description: Recommends starting camera or phone settings for a specific shooting situation, explains the exposure trade-offs behind them, and gives fixes for blur, noise, wrong exposure or colour.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a control chart
+  short_description: Builds a statistical process control chart with the right chart type, control limits, special-cause rules and an interpretation that separates signal from noise. Use to monitor a process over time.
+policy:
+  allow_implicit_invocation: false

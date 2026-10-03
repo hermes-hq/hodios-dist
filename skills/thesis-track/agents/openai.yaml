@@ -1,0 +1,5 @@
+interface:
+  display_name: Thesis track
+  short_description: Takes a master's or doctoral thesis from proposal through plan, chapter cycles and whole-thesis revision to defence preparation, in gated steps with a supervisor checkpoint at each.
+policy:
+  allow_implicit_invocation: false

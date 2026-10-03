@@ -1,0 +1,5 @@
+interface:
+  display_name: Address underperformance early
+  short_description: Prepares a manager for an early, informal conversation about underperformance with specific examples, causes to explore, agreed next steps and a follow-up note. Use before a problem becomes formal.
+policy:
+  allow_implicit_invocation: false

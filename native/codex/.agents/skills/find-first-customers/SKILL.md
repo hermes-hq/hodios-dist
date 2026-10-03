@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: entrepreneurship
   source: https://hermes-ide.com/prompts/find-first-customers
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Find your first ten customers

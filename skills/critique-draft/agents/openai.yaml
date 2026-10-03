@@ -1,0 +1,5 @@
+interface:
+  display_name: Critique a draft
+  short_description: Gives honest, ranked feedback on any draft across purpose, structure, argument, clarity and voice without rewriting it, and ends with the three changes that would matter most.
+policy:
+  allow_implicit_invocation: false

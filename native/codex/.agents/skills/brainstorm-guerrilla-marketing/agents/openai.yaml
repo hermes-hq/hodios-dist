@@ -1,0 +1,5 @@
+interface:
+  display_name: Brainstorm guerrilla marketing ideas
+  short_description: Brainstorms low-cost guerrilla marketing ideas for a business, rating each for feasibility, cost, reach and risk, naming the permissions to check, and planning the top three.
+policy:
+  allow_implicit_invocation: false

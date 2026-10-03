@@ -1,0 +1,5 @@
+interface:
+  display_name: Introduce a new pet to resident pets
+  short_description: Plans introducing a new pet to resident pets step by step with separate spaces, scent swapping, supervised meetings and warning signs. Use before a new animal comes home.
+policy:
+  allow_implicit_invocation: false

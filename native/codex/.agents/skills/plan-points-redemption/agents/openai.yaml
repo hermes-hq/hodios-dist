@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a points or miles redemption
+  short_description: Plans how to use airline miles or hotel points for a trip, with redemption options, transfer partners, value per point against cash, and safe booking steps. Use before transferring any points.
+policy:
+  allow_implicit_invocation: false

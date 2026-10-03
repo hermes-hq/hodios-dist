@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a group class presentation
+  short_description: Plans a school or university group presentation with a structure, a slide plan, who presents what, smooth handovers and a rehearsal checklist. For students working in a team.
+policy:
+  allow_implicit_invocation: false

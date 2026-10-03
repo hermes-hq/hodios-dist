@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a game economy
+  short_description: Designs a game economy with currencies, sources and sinks, progression pacing in numbers, monetization guardrails, exploit checks and telemetry to tune it. Use when designing or rebalancing a game.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a garden border
+  short_description: Designs a planted border or bed for its light, soil, size and climate, with plant choices, layering, year-round interest, quantities and a planting plan.
+policy:
+  allow_implicit_invocation: false

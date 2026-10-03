@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: relationships
   source: https://hermes-ide.com/prompts/plan-long-distance-connection
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Plan a long-distance connection

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fiction
   source: https://hermes-ide.com/prompts/critique-fiction-draft
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Critique a fiction draft

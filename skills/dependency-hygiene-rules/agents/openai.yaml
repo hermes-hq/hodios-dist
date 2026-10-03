@@ -1,0 +1,5 @@
+interface:
+  display_name: Dependency hygiene rules
+  short_description: Standing rules for adding or upgrading dependencies, so each one is justified, verified to exist, maintained, pinned through the lockfile and checked for licence and advisories.
+policy:
+  allow_implicit_invocation: false

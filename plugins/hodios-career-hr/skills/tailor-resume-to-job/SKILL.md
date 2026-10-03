@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: resumes
   source: https://hermes-ide.com/prompts/tailor-resume-to-job
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Tailor a resume to a job

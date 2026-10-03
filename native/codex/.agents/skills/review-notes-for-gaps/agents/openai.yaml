@@ -1,0 +1,5 @@
+interface:
+  display_name: Review notes for gaps
+  short_description: Compares a student's notes against the syllabus or textbook to find missing topics, errors and shallow areas, and says exactly what to add, in priority order. Use before revision starts.
+policy:
+  allow_implicit_invocation: false

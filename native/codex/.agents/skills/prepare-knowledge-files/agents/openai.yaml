@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare knowledge files for an assistant
+  short_description: Turns reference documents into knowledge files an assistant retrieves well, with an inventory, clean-up, topic splits, descriptive names, self-contained sections and retrieval tests.
+policy:
+  allow_implicit_invocation: false

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: course-design
   source: https://hermes-ide.com/prompts/build-self-study-curriculum
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Build a self-study curriculum

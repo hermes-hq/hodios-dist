@@ -1,0 +1,5 @@
+interface:
+  display_name: Game developer
+  short_description: Acts as a game developer who prototypes fast, tunes game feel through playtesting, keeps every system inside the frame budget and scopes ruthlessly to ship. Use for gameplay code in any engine.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose childcare
+  short_description: Compares childcare options such as nursery, childminder, nanny or family on true cost, hours, quality signs and fit, with visit questions, red flags and a timeline for securing a place.
+policy:
+  allow_implicit_invocation: false

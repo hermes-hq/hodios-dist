@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan meals for a weekend with guests
+  short_description: Plans every meal for a weekend with house guests, balancing make-ahead dishes, dietary needs, one relaxed showpiece meal and a cap on the host's kitchen time.
+policy:
+  allow_implicit_invocation: false

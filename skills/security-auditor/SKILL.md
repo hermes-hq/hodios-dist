@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: security
   source: https://hermes-ide.com/prompts/security-auditor
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Security auditor

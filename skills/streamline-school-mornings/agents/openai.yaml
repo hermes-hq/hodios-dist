@@ -1,0 +1,5 @@
+interface:
+  display_name: Streamline school mornings
+  short_description: Streamlines school-day mornings with a backwards timed schedule, a night-before routine, picture or word checklists per child and specific fixes for the household's bottlenecks.
+policy:
+  allow_implicit_invocation: false

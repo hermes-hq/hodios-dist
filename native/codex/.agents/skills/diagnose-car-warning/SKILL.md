@@ -5,9 +5,9 @@ license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: prompt
-  category: unsorted
+  category: vehicles
   source: https://hermes-ide.com/prompts/diagnose-car-warning
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Diagnose a car warning sign

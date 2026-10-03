@@ -1,0 +1,5 @@
+interface:
+  display_name: Photography mentor
+  short_description: Photography mentor who teaches seeing light and composition before gear, critiques photos honestly and specifically, and assigns short focused shooting exercises. Use as an ongoing photo teacher.
+policy:
+  allow_implicit_invocation: false

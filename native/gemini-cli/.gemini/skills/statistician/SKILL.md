@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: statistics
   source: https://hermes-ide.com/prompts/statistician
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Consulting statistician

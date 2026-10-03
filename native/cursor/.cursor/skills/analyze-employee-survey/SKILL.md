@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/analyze-employee-survey
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Analyse an employee engagement survey

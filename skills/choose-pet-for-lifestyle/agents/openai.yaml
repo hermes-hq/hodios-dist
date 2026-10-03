@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose a pet that fits your life
+  short_description: Helps choose a pet species or breed that fits the household's time, space, budget, allergies and experience, with honest trade-offs and the options to avoid. Use before adopting or buying a pet.
+policy:
+  allow_implicit_invocation: false

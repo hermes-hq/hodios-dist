@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: public-speaking
   source: https://hermes-ide.com/prompts/write-speech
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write a speech

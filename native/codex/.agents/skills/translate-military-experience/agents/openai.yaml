@@ -1,0 +1,5 @@
+interface:
+  display_name: Translate military experience for a civilian resume
+  short_description: Translates military roles, ranks, training and achievements into civilian resume language matched to target roles, with a jargon glossary and qualifications to verify. Use when leaving service.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Set up an assistant for accessibility needs
+  short_description: Sets up an AI assistant for accessibility needs such as screen readers, dyslexia, low vision, ADHD or limited hand use, with custom instructions for output, settings to check and tests.
+policy:
+  allow_implicit_invocation: false

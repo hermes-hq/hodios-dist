@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a podcast trailer
+  short_description: Writes a podcast trailer script with the show's promise, host intro, sample moments from real tape and a follow call, plus a 30-second cut. Use for a launch, season or evergreen trailer.
+policy:
+  allow_implicit_invocation: false

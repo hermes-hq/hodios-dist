@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan an AI art series
+  short_description: Plans a coherent AI art series from a concept, with fixed style tokens, axes of variation, a prompt per piece, curation criteria and a viewing sequence. Use for portfolios, exhibitions and drops.
+policy:
+  allow_implicit_invocation: false

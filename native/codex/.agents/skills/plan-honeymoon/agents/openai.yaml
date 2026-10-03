@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a honeymoon
+  short_description: Plans a honeymoon around both partners' travel styles and budget, with destination options, a paced itinerary, special touches and a booking timeline. Use once the wedding date is set.
+policy:
+  allow_implicit_invocation: false

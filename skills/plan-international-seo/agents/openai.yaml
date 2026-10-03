@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan international SEO
+  short_description: Plans international SEO with a site structure choice, hreflang rules, localisation beyond translation, market-specific keyword research and a phased rollout per market.
+policy:
+  allow_implicit_invocation: false

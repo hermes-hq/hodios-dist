@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: social-media
   source: https://hermes-ide.com/prompts/write-community-guidelines
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write community guidelines

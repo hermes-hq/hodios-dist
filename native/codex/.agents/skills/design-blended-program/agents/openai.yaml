@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a blended learning programme
+  short_description: Designs a blended programme mixing live sessions, self-paced work and on-the-job practice, with sequencing, weekly time load and support. Use for multi-week training that must change practice at work.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse past exam papers
+  short_description: Analyses past exam papers for recurring topics, question styles, command words and mark allocation, and ranks revision priorities without pretending to predict the paper.
+policy:
+  allow_implicit_invocation: false

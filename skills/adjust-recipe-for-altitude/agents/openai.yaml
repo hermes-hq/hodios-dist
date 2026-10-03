@@ -1,0 +1,5 @@
+interface:
+  display_name: Adjust a recipe for high altitude
+  short_description: Adjusts a baking or cooking recipe for high altitude, changing leavening, sugar, liquid, flour, oven temperature and time for the elevation, and explains each change.
+policy:
+  allow_implicit_invocation: false

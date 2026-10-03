@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: language-learning
   source: https://hermes-ide.com/prompts/teach-language-to-child
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Teach a language to a child

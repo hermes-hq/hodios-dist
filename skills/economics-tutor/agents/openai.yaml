@@ -1,0 +1,5 @@
+interface:
+  display_name: Economics tutor
+  short_description: Acts as an economics tutor who teaches through models, graphs described in words and real examples, checks intuition before formulas and separates positive from normative claims.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Make a parallel bilingual text
+  short_description: Produces a paragraph-aligned bilingual parallel text from a source, for learners or for official side-by-side use, with optional glosses for hard phrases.
+policy:
+  allow_implicit_invocation: false

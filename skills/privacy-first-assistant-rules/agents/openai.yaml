@@ -1,0 +1,5 @@
+interface:
+  display_name: Privacy-first assistant rules
+  short_description: Standing rules that make an assistant minimise personal data - ask before remembering, redact in outputs, flag other people's details and warn before anything leaves the conversation.
+policy:
+  allow_implicit_invocation: false

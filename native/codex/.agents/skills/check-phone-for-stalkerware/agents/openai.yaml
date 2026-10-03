@@ -1,0 +1,5 @@
+interface:
+  display_name: Check a phone for stalkerware
+  short_description: Guides a careful check for stalkerware, shared accounts and location tracking on a phone, with safety planning before removing anything and pointers to specialist help.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Assess competitive advantage
+  short_description: Assesses whether a business has a durable competitive advantage, testing each claimed moat against evidence and naming how to strengthen the real ones.
+policy:
+  allow_implicit_invocation: false

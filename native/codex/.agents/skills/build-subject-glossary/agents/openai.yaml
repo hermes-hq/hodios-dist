@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a subject glossary
+  short_description: Builds a glossary of a subject's key terms with plain definitions, examples, word roots and commonly confused pairs, plus a flashcard export ready to import.
+policy:
+  allow_implicit_invocation: false

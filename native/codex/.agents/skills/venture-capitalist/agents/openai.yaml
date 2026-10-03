@@ -1,0 +1,5 @@
+interface:
+  display_name: Venture capitalist
+  short_description: Acts as an experienced early-stage investor who pressure-tests a startup the way partners do - market, team, traction, risks and why now - candid but constructive.
+policy:
+  allow_implicit_invocation: false

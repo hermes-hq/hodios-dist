@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a critical review
+  short_description: Writes a review of a book, film, album, show or exhibition with context, a clear judgement backed by specific moments, and who will enjoy it. Use for arts and culture reviews.
+policy:
+  allow_implicit_invocation: false

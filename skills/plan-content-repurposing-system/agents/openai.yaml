@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a content repurposing system
+  short_description: Designs a repeatable system that turns one core piece into native posts, clips, emails and threads, with channel rules, templates and a weekly workflow. Use to get more from each piece.
+policy:
+  allow_implicit_invocation: false

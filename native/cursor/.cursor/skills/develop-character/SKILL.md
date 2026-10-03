@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fiction
   source: https://hermes-ide.com/prompts/develop-character
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Develop a character

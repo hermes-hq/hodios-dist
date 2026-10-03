@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a virtual presentation
+  short_description: Coaches presenting over video with framing, lighting and audio checks, energy, an engagement moment every few minutes, chat and Q&A handling, and a fallback plan for technical failures.
+policy:
+  allow_implicit_invocation: false

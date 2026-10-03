@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: incident
   source: https://hermes-ide.com/prompts/design-alerting-rules
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Design actionable alerting rules

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a first date
+  short_description: Suggests first-date ideas that suit both people and the budget, with a low-pressure plan, conversation starters, safety basics, an easy way to end it and what to send afterwards.
+policy:
+  allow_implicit_invocation: false

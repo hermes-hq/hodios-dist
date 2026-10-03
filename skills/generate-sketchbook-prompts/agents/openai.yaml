@@ -1,0 +1,5 @@
+interface:
+  display_name: Generate sketchbook prompts
+  short_description: Generates a month of daily sketchbook prompts that build one skill week by week, varying subject, medium, time limit and constraint, with catch-up days and a weekly review.
+policy:
+  allow_implicit_invocation: false

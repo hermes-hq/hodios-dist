@@ -1,0 +1,5 @@
+interface:
+  display_name: Back-translate to verify a translation
+  short_description: Back-translates a translated text and compares it with the source to surface meaning shifts, omissions and ambiguity, for surveys, consent forms, notices and other high-stakes text.
+policy:
+  allow_implicit_invocation: false

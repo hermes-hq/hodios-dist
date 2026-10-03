@@ -1,0 +1,5 @@
+interface:
+  display_name: Reject a vendor proposal
+  short_description: Tells vendors or bidders who were not selected, kindly and briefly, with optional useful feedback and no commitments that create exposure. Use after a tender, RFP or pitch.
+policy:
+  allow_implicit_invocation: false

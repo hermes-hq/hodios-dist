@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan an improv session
+  short_description: Plans an improv session for a group's level and goal, with warm-ups, games that build toward scene work, side-coaching lines, opt-out rules and timings. Use for classes, troupes, schools and teams.
+policy:
+  allow_implicit_invocation: false

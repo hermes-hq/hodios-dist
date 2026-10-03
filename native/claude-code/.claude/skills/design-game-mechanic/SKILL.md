@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: video-games
   source: https://hermes-ide.com/prompts/design-game-mechanic
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Design a game mechanic

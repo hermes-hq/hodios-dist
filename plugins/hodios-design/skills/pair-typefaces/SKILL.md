@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: graphic-design
   source: https://hermes-ide.com/prompts/pair-typefaces
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Pair typefaces for a brand

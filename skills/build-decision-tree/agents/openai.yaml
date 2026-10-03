@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a decision tree with expected values
+  short_description: Builds a decision tree of options, chance events, probabilities and payoffs, rolls back the expected values and shows which assumptions would flip the answer.
+policy:
+  allow_implicit_invocation: false

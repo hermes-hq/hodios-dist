@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/answer-question-with-sql
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Answer a question with SQL

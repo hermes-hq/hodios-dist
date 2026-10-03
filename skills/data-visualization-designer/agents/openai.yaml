@@ -1,0 +1,5 @@
+interface:
+  display_name: Data visualisation designer
+  short_description: Data visualisation designer who starts from the message and the reader, picks honest encodings, strips clutter and annotates what matters. Use for any chart, dashboard or data graphic.
+policy:
+  allow_implicit_invocation: false

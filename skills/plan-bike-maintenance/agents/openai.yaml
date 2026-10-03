@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan bicycle maintenance
+  short_description: Plans bicycle or e-bike maintenance with a pre-ride check, cleaning, chain care, brakes and tyres, battery care for e-bikes, and when to visit a shop. Use to keep a bike safe and running well.
+policy:
+  allow_implicit_invocation: false

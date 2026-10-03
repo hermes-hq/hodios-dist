@@ -1,0 +1,5 @@
+interface:
+  display_name: Master a city's public transport
+  short_description: Explains how to use a city's public transport, with the airport transfer, tickets and passes, key lines for where you stay, apps, etiquette and late-night options. Use before arriving.
+policy:
+  allow_implicit_invocation: false

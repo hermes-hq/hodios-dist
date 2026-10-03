@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for a driving theory test
+  short_description: Runs driving theory test practice in the official style for the learner's country, with explanations, weak-topic tracking and hazard-perception tips where the test has that part.
+policy:
+  allow_implicit_invocation: false

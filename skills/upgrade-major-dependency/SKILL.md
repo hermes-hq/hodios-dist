@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: migration
   source: https://hermes-ide.com/prompts/upgrade-major-dependency
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Upgrade a major dependency

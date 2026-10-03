@@ -1,0 +1,5 @@
+interface:
+  display_name: Community manager
+  short_description: Acts as a community manager who builds belonging, sets clear norms, answers fast and fairly, spots trouble early and turns members into contributors. Use for Discord, forums or groups.
+policy:
+  allow_implicit_invocation: false

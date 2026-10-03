@@ -1,0 +1,5 @@
+interface:
+  display_name: Outline a narrative podcast episode
+  short_description: Outlines a narrative or documentary podcast episode with story structure, scene order, narration beats, a tape list and reporting gaps. Use before recording interviews or writing narration.
+policy:
+  allow_implicit_invocation: false

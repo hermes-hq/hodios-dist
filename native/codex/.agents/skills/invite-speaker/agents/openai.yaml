@@ -1,0 +1,5 @@
+interface:
+  display_name: Invite a speaker
+  short_description: Writes an invitation to a speaker, guest expert or panelist with why them, the audience, the format, date options, what is offered and an easy reply path. Use for events, podcasts and classes.
+policy:
+  allow_implicit_invocation: false

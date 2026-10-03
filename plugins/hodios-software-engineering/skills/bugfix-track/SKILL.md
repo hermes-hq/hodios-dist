@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: debugging
   source: https://hermes-ide.com/prompts/bugfix-track
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Bugfix track

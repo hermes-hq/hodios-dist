@@ -1,0 +1,5 @@
+interface:
+  display_name: Adapt a script for dubbing or voice-over
+  short_description: Adapts a video script for dubbing or voice-over so each line fits the original timing, sounds like natural speech and respects lip-sync on close-ups, with notes for the director.
+policy:
+  allow_implicit_invocation: false

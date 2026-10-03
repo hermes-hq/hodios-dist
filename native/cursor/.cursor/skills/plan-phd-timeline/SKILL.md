@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: research-methods
   source: https://hermes-ide.com/prompts/plan-phd-timeline
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Plan a PhD or long research project timeline

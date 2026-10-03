@@ -1,0 +1,5 @@
+interface:
+  display_name: Summarise a group chat
+  short_description: Summarises a busy group chat or channel since you last read it into decisions, questions for you, plans with dates and what can safely be ignored.
+policy:
+  allow_implicit_invocation: false

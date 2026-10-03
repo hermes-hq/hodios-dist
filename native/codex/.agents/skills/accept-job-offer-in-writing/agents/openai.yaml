@@ -1,0 +1,5 @@
+interface:
+  display_name: Accept a job offer in writing
+  short_description: Writes a job offer acceptance that confirms the agreed title, pay, start date and conditions, and asks about open points before signing. Use when you are ready to say yes to an offer.
+policy:
+  allow_implicit_invocation: false

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/create-practice-worksheet
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Create a practice worksheet

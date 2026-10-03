@@ -1,0 +1,5 @@
+interface:
+  display_name: Facilitate a tense meeting
+  short_description: Plans facilitation for a meeting likely to be tense (a contested decision, bad news, conflict) with ground rules, structure, phrases for heated moments and a closing that records agreements.
+policy:
+  allow_implicit_invocation: false

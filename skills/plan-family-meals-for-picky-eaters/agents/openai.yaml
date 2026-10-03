@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan family meals for picky eaters
+  short_description: Plans family meals that work for picky eaters, using build-your-own formats, a safe food on every plate next to small new tastes, and one shared meal instead of separate orders.
+policy:
+  allow_implicit_invocation: false

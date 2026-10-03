@@ -1,0 +1,5 @@
+interface:
+  display_name: Teach a dog a trick
+  short_description: Teaches a dog a specific trick or cue with reward-based steps, short sessions, a plan for adding the cue and fixes for common sticking points. Use when you want to teach your dog something new.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a marriage proposal
+  short_description: Plans a marriage proposal around the partner's personality, with three ideas, logistics, a ring timeline, words to say, a backup plan and what happens straight after.
+policy:
+  allow_implicit_invocation: false

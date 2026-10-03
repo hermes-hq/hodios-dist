@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: security
   source: https://hermes-ide.com/prompts/audit-dependencies
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Triage dependency vulnerabilities

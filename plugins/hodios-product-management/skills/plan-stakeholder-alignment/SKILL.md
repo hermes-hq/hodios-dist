@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: roadmapping
   source: https://hermes-ide.com/prompts/plan-stakeholder-alignment
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Plan stakeholder alignment

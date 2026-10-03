@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a metrics glossary
+  short_description: Builds an organisation's metrics glossary with definitions, formulas, grain, sources, owners and caveats, and surfaces conflicting definitions. Use when teams quote different numbers.
+policy:
+  allow_implicit_invocation: false

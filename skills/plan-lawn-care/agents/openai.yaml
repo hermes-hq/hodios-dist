@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a year of lawn care
+  short_description: Plans a year of lawn care for the climate and grass type, with mowing, feeding, watering, aeration, overseeding and weed control set out in season order.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a family emergency plan
+  short_description: Writes a household emergency plan with contacts, meeting points, hazard-specific actions, medical information, a go-bag list and a role for each family member, ready to print.
+policy:
+  allow_implicit_invocation: false

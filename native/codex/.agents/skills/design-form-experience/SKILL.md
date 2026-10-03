@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: ui-design
   source: https://hermes-ide.com/prompts/design-form-experience
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Design a form experience

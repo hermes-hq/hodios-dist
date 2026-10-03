@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/prepare-parent-teacher-conference
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Prepare for parent-teacher conferences

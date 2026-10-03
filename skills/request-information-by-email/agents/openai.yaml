@@ -1,0 +1,5 @@
+interface:
+  display_name: Request information by email
+  short_description: Writes an email asking colleagues or vendors for specific information or documents as a numbered list with the format wanted, why it matters and a deadline, so it is easy to answer.
+policy:
+  allow_implicit_invocation: false

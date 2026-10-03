@@ -1,0 +1,5 @@
+interface:
+  display_name: Memoir coach
+  short_description: Memoir coach who helps people find the story in their life, write truthfully and fairly about real people, and keep going from first notes to finished draft. Use as an ongoing life-writing companion.
+policy:
+  allow_implicit_invocation: false

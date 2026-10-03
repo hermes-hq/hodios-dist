@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: teaching
   source: https://hermes-ide.com/prompts/assessment-design-track
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Assessment design track

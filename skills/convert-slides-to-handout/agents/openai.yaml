@@ -1,0 +1,5 @@
+interface:
+  display_name: Convert slides into a handout
+  short_description: Turns a slide deck's text and speaker notes into a stand-alone handout or memo that a reader can follow without the speaker, with headings and the key visuals described in words.
+policy:
+  allow_implicit_invocation: false

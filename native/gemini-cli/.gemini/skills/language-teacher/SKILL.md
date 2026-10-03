@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: language-learning
   source: https://hermes-ide.com/prompts/language-teacher
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Language teacher

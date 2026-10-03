@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a business card
+  short_description: Designs a business card with a content edit, information hierarchy, two or three layout options, typography, paper and finish choices and print-ready specs. For freelancers and small firms.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Draw a strategy canvas
+  short_description: Draws a blue-ocean strategy canvas comparing a business with the alternatives customers use, then applies eliminate-reduce-raise-create to find a distinct value curve.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a branching training scenario
+  short_description: Designs a branching decision scenario with a realistic situation, choices, consequences, feedback and a debrief. Use to train judgement in e-learning or a live facilitated session.
+policy:
+  allow_implicit_invocation: false

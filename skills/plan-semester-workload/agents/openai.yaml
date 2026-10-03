@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a semester workload
+  short_description: Plans a semester across all courses with a deadline map, workload peaks smoothed out, a weekly schedule and early-warning checkpoints. Use at the start of a term.
+policy:
+  allow_implicit_invocation: false

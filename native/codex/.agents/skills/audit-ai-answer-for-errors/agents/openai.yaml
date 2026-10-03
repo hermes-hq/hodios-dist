@@ -1,0 +1,5 @@
+interface:
+  display_name: Audit an AI answer for errors
+  short_description: Audits an AI-generated answer claim by claim for factual errors, fabricated sources, invented numbers and unsupported reasoning, and produces a risk-ranked verification plan.
+policy:
+  allow_implicit_invocation: false

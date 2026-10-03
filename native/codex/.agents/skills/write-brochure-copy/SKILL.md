@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: copywriting
   source: https://hermes-ide.com/prompts/write-brochure-copy
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write brochure or flyer copy

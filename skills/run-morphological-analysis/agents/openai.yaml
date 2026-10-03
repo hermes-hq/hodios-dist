@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a morphological analysis
+  short_description: Builds a morphological box of a problem's dimensions and options, rules out inconsistent pairs, then generates and screens unusual combinations into a shortlist worth testing.
+policy:
+  allow_implicit_invocation: false

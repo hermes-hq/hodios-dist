@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan car maintenance
+  short_description: Builds a car maintenance schedule from the make, model and mileage, with checks to do yourself, service intervals to confirm in the manual, big jobs coming up and a yearly budget.
+policy:
+  allow_implicit_invocation: false

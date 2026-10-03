@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan meals for a mixed-diet household
+  short_description: Plans meals for a household with mixed diets, such as vegan and omnivore or with allergies, using one shared base per meal and separate add-ons, plus cross-contact rules.
+policy:
+  allow_implicit_invocation: false

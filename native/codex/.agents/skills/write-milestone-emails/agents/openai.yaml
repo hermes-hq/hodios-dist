@@ -1,0 +1,5 @@
+interface:
+  display_name: Write lifecycle milestone emails
+  short_description: Writes lifecycle milestone emails such as birthday, anniversary and achievement messages that feel personal and drive a light action, with triggers and data checks. Use to add warmth to email.
+policy:
+  allow_implicit_invocation: false

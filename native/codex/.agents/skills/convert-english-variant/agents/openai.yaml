@@ -1,0 +1,5 @@
+interface:
+  display_name: Convert between English variants
+  short_description: Converts text between American, British, Canadian and Australian English for spelling, vocabulary, punctuation, dates and units, and lists every change it made.
+policy:
+  allow_implicit_invocation: false

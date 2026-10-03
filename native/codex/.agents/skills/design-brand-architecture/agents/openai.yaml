@@ -1,0 +1,5 @@
+interface:
+  display_name: Design brand architecture
+  short_description: Designs brand architecture for a portfolio of products or sub-brands, choosing branded house, endorsed, sub-brand or house of brands, with naming rules, visual relationships and a decision tree.
+policy:
+  allow_implicit_invocation: false

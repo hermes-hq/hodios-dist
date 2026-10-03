@@ -1,0 +1,5 @@
+interface:
+  display_name: Meeting lifecycle track
+  short_description: Takes a meeting from a purpose check through agenda, pre-read, facilitation plan, minutes and follow-up tracking, pausing for approval between steps.
+policy:
+  allow_implicit_invocation: false

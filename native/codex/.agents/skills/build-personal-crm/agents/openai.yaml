@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a personal CRM for staying in touch
+  short_description: Designs a personal relationship notes system for staying in touch, covering who to track, last contact, details worth remembering, reminders and a light weekly routine.
+policy:
+  allow_implicit_invocation: false

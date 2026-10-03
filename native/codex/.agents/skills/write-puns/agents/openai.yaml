@@ -1,0 +1,5 @@
+interface:
+  display_name: Write puns
+  short_description: Writes puns and wordplay on a topic for cards, captions, signs or speeches, sorted by technique, each checked to work aloud and graded by groan, with the best picks for the use.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose a podcast recording setup
+  short_description: Recommends podcast recording gear and software for the format, room, budget and remote guests, with a signal chain, room fixes and recording settings. Use before buying equipment or upgrading.
+policy:
+  allow_implicit_invocation: false

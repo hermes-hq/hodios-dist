@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: research-methods
   source: https://hermes-ide.com/prompts/refine-research-question
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Refine a vague topic into a research question

@@ -1,0 +1,5 @@
+interface:
+  display_name: Set up an AI assistant for a child
+  short_description: Helps parents set up an AI assistant for a child with age-appropriate instructions, privacy settings, family rules and a first conversation about how AI works and when to come to an adult.
+policy:
+  allow_implicit_invocation: false

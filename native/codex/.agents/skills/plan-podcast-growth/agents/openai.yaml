@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan podcast audience growth
+  short_description: Plans podcast audience growth with guest spots, feed swaps, clips, newsletter, search, directories and community, ranked into a 90-day plan. Use when an existing show has plateaued.
+policy:
+  allow_implicit_invocation: false

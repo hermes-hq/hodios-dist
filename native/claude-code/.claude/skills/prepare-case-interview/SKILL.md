@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: interview-prep
   source: https://hermes-ide.com/prompts/prepare-case-interview
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Practise a case interview

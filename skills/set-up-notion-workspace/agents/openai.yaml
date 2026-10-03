@@ -1,0 +1,5 @@
+interface:
+  display_name: Set up a Notion workspace
+  short_description: Designs a Notion workspace for a stated use such as personal life, a team wiki, study or client work, with databases, relations, views and templates, and a step-by-step build order.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an OKR progress report
+  short_description: Writes an OKR progress report with baseline-adjusted scores, confidence, trends, blockers and the decisions needed from leadership. Use for monthly check-ins and end-of-quarter grading.
+policy:
+  allow_implicit_invocation: false

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: resumes
   source: https://hermes-ide.com/prompts/write-portfolio-case-study
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write a portfolio case study

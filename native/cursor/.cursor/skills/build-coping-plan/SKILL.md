@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: mental-health
   source: https://hermes-ide.com/prompts/build-coping-plan
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Build a coping plan

@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a sales commission calculator
+  short_description: Builds a sales commission calculator with tiers, accelerators, caps and clawbacks from a written plan, with test cases that prove the formulas. Use when turning a comp plan into a spreadsheet.
+policy:
+  allow_implicit_invocation: false

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/analyze-web-analytics
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Analyse website analytics

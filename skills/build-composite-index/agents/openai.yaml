@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a composite index
+  short_description: Builds a weighted composite index from several indicators, covering direction, normalisation, weighting, aggregation and rank sensitivity checks. Use for scorecards and health scores.
+policy:
+  allow_implicit_invocation: false

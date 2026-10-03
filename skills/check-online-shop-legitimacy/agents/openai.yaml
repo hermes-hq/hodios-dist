@@ -1,0 +1,5 @@
+interface:
+  display_name: Check an online shop is legitimate
+  short_description: Checks whether an online shop is likely legitimate before you buy, using domain, reviews, payment, contact, policy and pricing signals, and says what to do if you have already paid.
+policy:
+  allow_implicit_invocation: false

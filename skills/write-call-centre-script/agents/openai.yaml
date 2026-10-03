@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a customer service phone script
+  short_description: Writes a customer service phone script with greeting, identity checks, call flows for your top call reasons, hold and transfer etiquette, difficult-caller lines and closing, written to be spoken.
+policy:
+  allow_implicit_invocation: false

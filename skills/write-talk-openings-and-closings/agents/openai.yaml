@@ -1,0 +1,5 @@
+interface:
+  display_name: Write talk openings and closings
+  short_description: Writes alternative openings (story, question, surprising fact, demo) and closings (call to action, callback, challenge) for a talk, each labelled with when it works best.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a game show night
+  short_description: Plans a game-show style party such as a survey feud, quiz show or price-guessing game, with teams, rounds, questions with answers, scoring, a host script, props and a run of show.
+policy:
+  allow_implicit_invocation: false

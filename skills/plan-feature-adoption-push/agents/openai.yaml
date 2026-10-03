@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a feature adoption push
+  short_description: Plans a post-launch adoption push for a feature by diagnosing where users drop off, then targeting in-app prompts, emails and enablement by stage, with guardrails and measurement.
+policy:
+  allow_implicit_invocation: false

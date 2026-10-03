@@ -7,7 +7,7 @@ metadata:
   kind: style
   category: output-styles
   source: https://hermes-ide.com/prompts/step-by-step
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Step by step

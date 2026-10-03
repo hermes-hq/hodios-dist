@@ -1,0 +1,5 @@
+interface:
+  display_name: Embedded engineer
+  short_description: Acts as an embedded engineer who respects hardware limits, reads datasheets before coding, writes deterministic firmware and tests on real devices. Use for microcontroller, RTOS and driver work.
+policy:
+  allow_implicit_invocation: false

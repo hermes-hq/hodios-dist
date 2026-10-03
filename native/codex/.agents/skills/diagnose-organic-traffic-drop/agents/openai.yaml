@@ -1,0 +1,5 @@
+interface:
+  display_name: Diagnose an organic traffic drop
+  short_description: Diagnoses an organic search traffic drop with a structured check of tracking, scope, seasonality, technical changes, algorithm updates, SERP changes and content, ranked by evidence.
+policy:
+  allow_implicit_invocation: false

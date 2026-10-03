@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for an open-book exam
+  short_description: Builds an open-book or take-home exam strategy with a tabbed index, summary sheets, a time plan, rules for when to look things up and a timed practice run.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan departure day
+  short_description: Plans departure day door to gate with a timeline that works back from the flight through gate close, bag drop, security and the journey there, with buffers. Use the day before you fly.
+policy:
+  allow_implicit_invocation: false

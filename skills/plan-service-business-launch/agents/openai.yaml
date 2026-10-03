@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a local service business launch
+  short_description: Plans launching a local service business such as cleaning, a trade or tutoring - service menu, pricing, insurance and checks, booking, local marketing and the first clients.
+policy:
+  allow_implicit_invocation: false

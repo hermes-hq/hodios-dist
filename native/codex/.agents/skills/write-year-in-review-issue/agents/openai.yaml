@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a year-in-review issue
+  short_description: Writes a year-in-review newsletter issue with the year's story, the reader favourites, honest numbers, lessons, specific thanks and what comes next. Use for an end-of-year or anniversary issue.
+policy:
+  allow_implicit_invocation: false

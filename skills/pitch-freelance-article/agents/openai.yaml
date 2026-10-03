@@ -1,0 +1,5 @@
+interface:
+  display_name: Pitch a freelance article
+  short_description: Writes a pitch email to an editor for a paid freelance story with a sharp angle, why now, a reporting plan, credentials and section fit. Use when pitching journalism or features.
+policy:
+  allow_implicit_invocation: false

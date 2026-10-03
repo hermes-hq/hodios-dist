@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: localization
   source: https://hermes-ide.com/prompts/write-icu-plural-messages
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write ICU plural and select messages

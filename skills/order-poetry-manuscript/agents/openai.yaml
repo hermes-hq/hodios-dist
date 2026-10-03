@@ -1,0 +1,5 @@
+interface:
+  display_name: Order a poetry manuscript
+  short_description: Orders poems for a chapbook or full collection, choosing opening and closing poems, sections, an emotional arc and title options, with a reason for each placement. Use before submitting a collection.
+policy:
+  allow_implicit_invocation: false

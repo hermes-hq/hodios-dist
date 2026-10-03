@@ -1,0 +1,5 @@
+interface:
+  display_name: Write article headlines and standfirsts
+  short_description: Writes editorial headlines and standfirsts for a finished article that are accurate, specific and inviting, plus search and social variants. Use at the subediting stage before publishing.
+policy:
+  allow_implicit_invocation: false

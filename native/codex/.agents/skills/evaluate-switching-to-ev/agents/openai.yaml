@@ -1,0 +1,5 @@
+interface:
+  display_name: Evaluate switching to an electric car
+  short_description: Evaluates switching to an electric car with total cost of ownership, charging at home and away, range for real trips and incentives to verify. Use when deciding if your next car should be electric.
+policy:
+  allow_implicit_invocation: false

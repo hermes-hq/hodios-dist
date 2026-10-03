@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/write-parent-email
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write an email to parents

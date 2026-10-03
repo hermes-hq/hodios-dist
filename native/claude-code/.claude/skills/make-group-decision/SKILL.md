@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: decision-making
   source: https://hermes-ide.com/prompts/make-group-decision
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Make a group decision

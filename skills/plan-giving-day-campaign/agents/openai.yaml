@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a giving day campaign
+  short_description: Plans a giving day or peer-to-peer fundraising campaign - goal, matching gift, ambassadors, a content calendar for before, during and after, and a supporter toolkit.
+policy:
+  allow_implicit_invocation: false

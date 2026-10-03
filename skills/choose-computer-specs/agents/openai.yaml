@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose computer specs
+  short_description: Translates what you do on a computer into the specs that matter (processor, memory, storage, screen, battery, ports) and configurations to look for within budget, before you buy.
+policy:
+  allow_implicit_invocation: false

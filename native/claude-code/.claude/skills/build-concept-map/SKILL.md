@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: studying
   source: https://hermes-ide.com/prompts/build-concept-map
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Build a concept map

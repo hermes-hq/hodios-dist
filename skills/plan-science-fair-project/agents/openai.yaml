@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a science fair project
+  short_description: Plans a science fair project by age, from a testable question to variables, a method with repeated trials, a data table, a display board and a week-by-week timeline.
+policy:
+  allow_implicit_invocation: false

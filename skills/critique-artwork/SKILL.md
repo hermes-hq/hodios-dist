@@ -5,9 +5,9 @@ license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: prompt
-  category: unsorted
+  category: visual-art
   source: https://hermes-ide.com/prompts/critique-artwork
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Critique an artwork

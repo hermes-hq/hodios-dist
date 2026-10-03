@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: implementation
   source: https://hermes-ide.com/prompts/implement-transactional-email
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Implement transactional email

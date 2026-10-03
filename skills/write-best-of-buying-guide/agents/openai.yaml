@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a best-of buying guide
+  short_description: Writes a "best X for Y" buying guide with selection criteria, picks for different needs, honest trade-offs, a how-we-chose section and an affiliate disclosure. Use for roundup-style shopping guides.
+policy:
+  allow_implicit_invocation: false

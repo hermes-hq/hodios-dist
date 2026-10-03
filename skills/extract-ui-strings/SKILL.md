@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: localization
   source: https://hermes-ide.com/prompts/extract-ui-strings
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Extract hard-coded UI strings

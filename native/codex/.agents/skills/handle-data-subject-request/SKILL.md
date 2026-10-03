@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: compliance
   source: https://hermes-ide.com/prompts/handle-data-subject-request
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Handle a personal data request

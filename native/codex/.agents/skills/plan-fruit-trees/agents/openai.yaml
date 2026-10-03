@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan planting fruit trees
+  short_description: Plans planting fruit trees or bushes with varieties and rootstocks for the climate, pollination partners, spacing, planting steps and care for the first three years.
+policy:
+  allow_implicit_invocation: false

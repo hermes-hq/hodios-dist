@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a festival or concert trip
+  short_description: Plans a trip around a festival or concert with safe ticket buying, transport there and back, lodging near the venue, a budget, packing and a group safety plan. Use once you decide to go.
+policy:
+  allow_implicit_invocation: false

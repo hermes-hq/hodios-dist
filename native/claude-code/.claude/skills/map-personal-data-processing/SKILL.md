@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: compliance
   source: https://hermes-ide.com/prompts/map-personal-data-processing
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Map personal data processing

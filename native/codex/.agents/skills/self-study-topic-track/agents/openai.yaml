@@ -1,0 +1,5 @@
+interface:
+  display_name: Self-study topic track
+  short_description: Teaches a new topic in gated steps, from a diagnostic and concept map through explanation, retrieval practice and an application task to a spaced review plan.
+policy:
+  allow_implicit_invocation: false

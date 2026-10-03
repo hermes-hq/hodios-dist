@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: peer-review
   source: https://hermes-ide.com/prompts/peer-reviewer
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Peer reviewer

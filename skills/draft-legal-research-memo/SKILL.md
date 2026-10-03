@@ -5,9 +5,9 @@ license: CC0-1.0
 metadata:
   version: 1.0.1
   kind: prompt
-  category: unsorted
+  category: legal-practice
   source: https://hermes-ide.com/prompts/draft-legal-research-memo
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Draft a legal research memo

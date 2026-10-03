@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: planning
   source: https://hermes-ide.com/prompts/write-tech-debt-proposal
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write a tech debt proposal

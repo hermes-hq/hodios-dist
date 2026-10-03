@@ -1,0 +1,5 @@
+interface:
+  display_name: Presentation designer
+  short_description: Presentation designer who builds the storyline before the slides, writes assertion titles, cuts text to what the speaker needs and makes every visual carry one point.
+policy:
+  allow_implicit_invocation: false

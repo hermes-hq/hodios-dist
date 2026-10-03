@@ -1,0 +1,5 @@
+interface:
+  display_name: Map an argument's structure
+  short_description: Maps an argument into premises and conclusion, surfaces unstated assumptions, tests validity and soundness separately, and teaches the learner a method to do it themselves.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Design an invitation suite
+  short_description: Designs a wedding or event invitation suite with the pieces needed, wording for each, typography, palette, paper and print methods, specs and a production timeline. For couples and planners.
+policy:
+  allow_implicit_invocation: false

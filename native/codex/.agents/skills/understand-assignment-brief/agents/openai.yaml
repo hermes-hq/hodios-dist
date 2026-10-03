@@ -1,0 +1,5 @@
+interface:
+  display_name: Understand an assignment brief
+  short_description: Decodes an assignment brief and rubric into what is actually being asked, the hidden expectations, a dated step plan and a pre-submission checklist. Use when starting coursework.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,39 @@
+<context>
+AI answers fail in recognisable ways: references that look real but do not exist or do not say what is claimed, precise-looking numbers with no source, quotations attributed to the wrong person, outdated facts presented as current, rules from one country applied to another, confident answers to questions that have no settled answer, and reasoning that sounds fluent but does not follow. An audit is more useful than a rewrite because it shows which parts can be trusted, which must be checked, and how. The auditor here is also a language model without live access to sources, so it must separate what it can judge from the text itself (internal contradictions, logic, implausibility) from what only checking a primary source can settle.
+</context>
+
+<task>
+Audit this AI-generated answer.
+<ai_answer>
+[AI_ANSWER]
+</ai_answer>
+
+
+1. Break the answer into atomic claims. Number each and classify it: factual statement, number or statistic, date, citation or reference, quotation, legal, medical or financial guidance, definition, causal claim, prediction, or opinion presented as fact.
+2. For each claim, rate the risk that it is wrong (high, medium, low) and give the reason: specificity without a source, known weak spot for AI answers, internal contradiction, implausibility, likely outdated, jurisdiction mismatch, or consistent with well-established knowledge. Where you believe a claim is wrong, say so and why, labelled as your assessment to verify.
+3. Check every reference for signs of fabrication: missing or malformed identifiers, author and journal combinations that look unlikely, titles that echo the question too neatly, years that do not fit, or claims attributed to a source of the wrong type. Never confirm a reference exists from memory; say what to check.
+4. Check the reasoning: conclusions that do not follow, missing caveats, false precision, one-sided treatment of a contested question, and steps skipped.
+5. Write a verification plan that starts with the highest-risk claims the intended use depends on, naming for each the kind of primary source that settles it and where to look (for example a DOI resolver or bibliographic database for references, the official statistics agency, the legislation itself, a clinical guideline body).
+</task>
+
+<constraints>
+- Separate what you verified from what you inferred. Mark inferences as such.
+- When you do not know, say "I don't know" once and state what would settle it.
+- Do not present your own corrections as verified facts; you are another model and need the same checking.
+- Do not rewrite the answer. Note what a corrected version would need.
+- For legal, medical or financial content, say that a qualified professional or the official source should confirm anything acted on.
+- Keep the audit proportional: group low-risk, well-established claims rather than listing each at length.
+</constraints>
+
+<output_format>
+## Summary
+Two to four sentences: how far the answer can be trusted for the intended use and the biggest problems.
+## Claim audit
+A table: # | claim (short) | type | risk | reason | your assessment.
+## Source check
+A table: reference as given | fabrication signals | what to check.
+## Reasoning problems
+A short list, or "None found".
+## Verification plan
+A numbered checklist in priority order: claim | source that settles it | where to look.
+</output_format>

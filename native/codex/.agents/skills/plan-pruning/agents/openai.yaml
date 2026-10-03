@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan pruning for garden plants
+  short_description: Plans when and how to prune trees, shrubs, climbers or roses in the garden, with the right season, the cuts to make, what not to prune and when to call an arborist.
+policy:
+  allow_implicit_invocation: false

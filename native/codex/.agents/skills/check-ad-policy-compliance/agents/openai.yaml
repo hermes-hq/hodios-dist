@@ -1,0 +1,5 @@
+interface:
+  display_name: Check ads against platform policies
+  short_description: Checks ad copy and creative against a platform's advertising policies and common restricted-category rules before submission, and gives compliant rewrites. Use to avoid rejections and account flags.
+policy:
+  allow_implicit_invocation: false

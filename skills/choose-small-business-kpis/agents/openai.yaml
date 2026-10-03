@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose KPIs for a small business
+  short_description: Chooses five to eight KPIs for a small business with exact definitions, data sources, targets, a weekly review routine and the action to take when each one moves.
+policy:
+  allow_implicit_invocation: false

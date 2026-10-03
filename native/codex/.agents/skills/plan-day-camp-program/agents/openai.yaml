@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a themed day camp week
+  short_description: Plans a themed day camp with a daily schedule, activities by age group, staffing ratios, rainy-day swaps and a safety checklist. For camp directors, schools, libraries and community groups.
+policy:
+  allow_implicit_invocation: false

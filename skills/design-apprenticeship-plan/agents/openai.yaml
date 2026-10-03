@@ -1,0 +1,5 @@
+interface:
+  display_name: Design an apprenticeship training plan
+  short_description: Designs an on-the-job training plan for an apprentice or trainee with a competency matrix, rotations, sign-offs, mentoring and review points. For trades, workshops and small businesses.
+policy:
+  allow_implicit_invocation: false

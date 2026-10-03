@@ -1,0 +1,5 @@
+interface:
+  display_name: Train interviewers
+  short_description: Builds interviewer training on structured questions, evidence-based scoring, common biases, calibration and legal no-go questions, with practice. Use before people join interview panels.
+policy:
+  allow_implicit_invocation: false

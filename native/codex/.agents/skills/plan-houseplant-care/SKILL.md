@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: gardening
   source: https://hermes-ide.com/prompts/plan-houseplant-care
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Plan houseplant care

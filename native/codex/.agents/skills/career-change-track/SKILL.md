@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: career-growth
   source: https://hermes-ide.com/prompts/career-change-track
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Career change track

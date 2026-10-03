@@ -1,0 +1,5 @@
+interface:
+  display_name: Speak up in meetings
+  short_description: Builds phrases and habits that help quieter people contribute in meetings, covering entering the conversation, disagreeing, holding the floor and following up in writing.
+policy:
+  allow_implicit_invocation: false

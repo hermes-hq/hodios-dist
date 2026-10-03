@@ -1,0 +1,5 @@
+interface:
+  display_name: Free up storage
+  short_description: Frees up storage on a phone, computer or cloud account by finding the biggest space users and the safe things to remove, offload or move, without losing photos, chats or documents.
+policy:
+  allow_implicit_invocation: false

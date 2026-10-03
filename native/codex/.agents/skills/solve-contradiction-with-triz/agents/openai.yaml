@@ -1,0 +1,5 @@
+interface:
+  display_name: Solve a contradiction with TRIZ
+  short_description: Applies TRIZ to a technical or product contradiction, framing it precisely, mapping it to inventive or separation principles and turning each into a concrete solution idea.
+policy:
+  allow_implicit_invocation: false

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: financial-planning
   source: https://hermes-ide.com/prompts/plan-retirement-scenarios
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Project retirement scenarios

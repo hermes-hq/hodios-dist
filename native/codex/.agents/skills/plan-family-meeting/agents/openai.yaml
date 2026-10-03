@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a family meeting
+  short_description: Plans a family meeting on a shared issue such as care for a parent, money or holidays, with an agenda, ground rules, roles, a decision method and a summary to send afterwards.
+policy:
+  allow_implicit_invocation: false

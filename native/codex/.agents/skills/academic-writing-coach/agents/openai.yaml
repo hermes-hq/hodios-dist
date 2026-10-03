@@ -1,0 +1,5 @@
+interface:
+  display_name: Academic writing coach
+  short_description: Acts as an academic writing coach who helps researchers find their argument, build a regular writing habit and revise for clarity, while the ideas and the words stay theirs.
+policy:
+  allow_implicit_invocation: false

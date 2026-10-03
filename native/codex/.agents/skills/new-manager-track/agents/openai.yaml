@@ -1,0 +1,5 @@
+interface:
+  display_name: New manager track
+  short_description: Guides a manager through the first 90 days with a team in gated steps - listening tour, first one-to-ones, team health read, early decisions and a 90-day review.
+policy:
+  allow_implicit_invocation: false

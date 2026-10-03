@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: video
   source: https://hermes-ide.com/prompts/write-video-chapters
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write a video description with chapters

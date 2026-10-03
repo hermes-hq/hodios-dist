@@ -1,0 +1,5 @@
+interface:
+  display_name: Draft a Wardley map
+  short_description: Drafts a Wardley map in text form from a user need and its value chain, places each component by evolution stage and highlights strategic moves and build-versus-buy calls.
+policy:
+  allow_implicit_invocation: false

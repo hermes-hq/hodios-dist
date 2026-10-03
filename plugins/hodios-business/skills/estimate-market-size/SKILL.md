@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: business-strategy
   source: https://hermes-ide.com/prompts/estimate-market-size
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Estimate market size (TAM, SAM, SOM)

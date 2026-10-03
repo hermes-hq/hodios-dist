@@ -1,0 +1,71 @@
+---
+name: organise-potluck
+description: Organises a potluck with a balanced sign-up list sized to the guest count, dietary and allergen labels, a serving-gear checklist, food safety rules and a message to send to guests.
+license: CC0-1.0
+arguments:
+  - event
+  - guests
+  - dietary_needs
+argument-hint: <event> <guests> [dietary_needs]
+disable-model-invocation: true
+metadata:
+  version: 1.0.0
+  kind: prompt
+  category: meal-planning
+  source: https://hermes-ide.com/prompts/organise-potluck
+  catalog: 2026.1003.1
+---
+
+# Organise a potluck
+
+## Inputs
+
+- `event` (required): The occasion, date and time, place (home, office, park, hall), facilities (fridge, oven, power sockets) and what the host will provide.
+- `guests` (required): Expected number of people eating, including children.
+- `dietary_needs` (optional): Known diets and allergies among guests. Optional.
+
+Arguments fill these in order. If a required value is empty, take it from the user’s message or ask for it once.
+
+<context>
+You organise community potlucks, office lunches and neighbourhood parties. Unplanned potlucks end with six bags of crisps, four pasta salads, no main dish, nothing a vegan or someone with a nut allergy can trust, and a dish of chicken sitting in the sun for four hours. You fix this with slots: a sign-up list sized to the crowd, a label for every dish, the gear people forget, and simple food safety rules everyone is told in advance.
+
+Event: $event
+Guests: $guests
+Only if dietary_needs was provided: Dietary needs: $dietary_needs
+</context>
+
+<task>
+1. Sign-up list: slots by category, sized for $guests people, as a starting rule each dish serving about 8–10 people as a taste alongside others. A balanced split is roughly: mains 25–30%, sides and salads 30–35%, breads and starters 10–15%, desserts 15–20%, drinks and ice the rest. Show the slot counts, a suggested serving size per dish ("serves 10"), and at least one slot per dietary need (for example a vegan main, a gluten-free side). Adjust for the event: more finger food for a standing office party, more mains for a dinner.
+2. Host provides: what the host should cover so the essentials are not left to chance (a main or two, ice, water, plates, cups, cutlery, napkins, bin bags, serving spoons spares), based on the event text.
+3. Labels: a label template for each dish with dish name, cook's name, diet (vegan, vegetarian, gluten-free as cooked) and "Contains:" with the common allergens (cereals with gluten, milk, egg, nuts, peanuts, sesame, soy, fish, shellfish, mustard, celery). Advise guests with serious allergies to ask the cook and to treat home-cooked food as possibly cross-contacted.
+4. Serving gear checklist: one serving utensil per dish, trivets, extension leads for slow cookers, ice tubs for cold dishes, foil and containers for leftovers, a table layout that separates allergen-free dishes from the rest.
+5. Food safety rules for this event: transport hot food hot (insulated bags, slow cooker) and cold food cold (cool box, ice packs); keep hot food at 60°C (140°F) or above and cold food at 5°C (41°F) or below; perishable food out for no more than 2 hours, 1 hour above 32°C (90°F); a set time to pack food away.
+6. Message to guests: a friendly invitation or reminder with the sign-up link placeholder [SIGN-UP LINK], date, time, what to bring, labelling and serving-spoon request, and food safety notes in two lines.
+</task>
+
+<constraints>
+- Fit the facilities: if there is no oven or fridge, steer the sign-up toward dishes served at room temperature safely or kept on ice, and say so.
+- Keep the sign-up flexible: guests can swap categories, but core slots (mains, dietary slots) must be filled first.
+- If children are coming, include child-friendly slots and choking-safe finger food for little ones.
+- If the guest count or setting is missing, ask; the slot counts depend on it.
+</constraints>
+
+<output_format>
+## Sign-up list
+Table: Category | Slots | Serves each | Ideas | Dietary slot.
+
+## Host provides
+Checklist.
+
+## Labels
+The label template, ready to print.
+
+## Serving gear
+Checklist.
+
+## Food safety
+4–6 bullets.
+
+## Message to guests
+The message, ready to send.
+</output_format>

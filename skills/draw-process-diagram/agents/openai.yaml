@@ -1,0 +1,5 @@
+interface:
+  display_name: Draw a process diagram
+  short_description: Draws a process as a valid Mermaid flowchart, swimlane or sequence diagram with decisions, owners and exceptions, and lists the gaps in the description. Use to document how a process works today.
+policy:
+  allow_implicit_invocation: false

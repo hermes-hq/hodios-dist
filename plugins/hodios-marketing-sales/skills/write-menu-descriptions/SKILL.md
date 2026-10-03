@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: copywriting
   source: https://hermes-ide.com/prompts/write-menu-descriptions
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write menu descriptions

@@ -5,9 +5,9 @@ license: CC0-1.0
 metadata:
   version: 2.0.0
   kind: prompt
-  category: unsorted
+  category: life-writing
   source: https://hermes-ide.com/prompts/shape-memoir-story
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Shape a memoir story

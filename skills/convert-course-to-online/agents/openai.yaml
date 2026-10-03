@@ -1,0 +1,5 @@
+interface:
+  display_name: Convert an in-person course to online
+  short_description: Redesigns an in-person course for online or hybrid delivery, deciding what becomes live or self-paced and how activities, assessment and community change. Use before moving a course online.
+policy:
+  allow_implicit_invocation: false

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: paperwork
   source: https://hermes-ide.com/prompts/prepare-power-of-attorney-questions
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Prepare for a power of attorney

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: language-learning
   source: https://hermes-ide.com/prompts/diagnose-recurring-errors
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Diagnose recurring language errors

@@ -1,0 +1,5 @@
+interface:
+  display_name: Allocate merit increases
+  short_description: Allocates a merit or pay increase budget across a team using performance, position in range and equity checks, with the reasoning recorded for each person. Use during a pay review cycle.
+policy:
+  allow_implicit_invocation: false

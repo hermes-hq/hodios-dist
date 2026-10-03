@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a care conversation with an ageing parent
+  short_description: Prepares a conversation with an ageing parent about care needs, driving or moving, respecting their autonomy, with openings, options to offer, responses to pushback and when it cannot wait.
+policy:
+  allow_implicit_invocation: false

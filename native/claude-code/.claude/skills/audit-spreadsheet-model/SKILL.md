@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: spreadsheets
   source: https://hermes-ide.com/prompts/audit-spreadsheet-model
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Audit a spreadsheet model

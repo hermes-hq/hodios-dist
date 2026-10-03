@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: accessibility
   source: https://hermes-ide.com/prompts/audit-mobile-accessibility
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Audit a mobile screen for accessibility

@@ -14,7 +14,7 @@ metadata:
   kind: workflow
   category: trip-planning
   source: https://hermes-ide.com/prompts/trip-planning-track
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Trip planning track

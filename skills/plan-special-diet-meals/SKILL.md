@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: meal-planning
   source: https://hermes-ide.com/prompts/plan-special-diet-meals
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Plan a week for an eating pattern

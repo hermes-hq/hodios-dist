@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for a citizenship test
+  short_description: Quizzes and explains civics or citizenship test material from the official study guide the learner supplies, tracking weak areas and adding memory aids. Does not advise on eligibility.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a cancellation and save flow
+  short_description: Designs a cancellation and save flow with a reason survey, offers matched to each reason, a respectful exit with no dark patterns, data capture and the metrics to judge it.
+policy:
+  allow_implicit_invocation: false

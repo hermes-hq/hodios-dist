@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a role-based onboarding curriculum
+  short_description: Designs a cohort onboarding curriculum for one role with week-by-week modules, practice tasks, sign-offs and a readiness check. Use when several new hires start together and must reach proficiency.
+policy:
+  allow_implicit_invocation: false

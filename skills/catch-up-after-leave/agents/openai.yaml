@@ -1,0 +1,5 @@
+interface:
+  display_name: Catch up after time away
+  short_description: Builds a catch-up brief after time away from emails, chats and documents covering what changed, decisions made, what needs you first and what can wait.
+policy:
+  allow_implicit_invocation: false

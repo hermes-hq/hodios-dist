@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a customer newsletter
+  short_description: Writes a newsletter from a business to its customers that leads with genuinely useful content, keeps product news second and asks for one action. Use for monthly or quarterly customer emails.
+policy:
+  allow_implicit_invocation: false

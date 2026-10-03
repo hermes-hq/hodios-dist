@@ -1,0 +1,5 @@
+interface:
+  display_name: Write appointment reminder messages
+  short_description: Writes a set of appointment messages - booking confirmation, reminders, reschedule, no-show and late-cancel follow-ups - for SMS and email, within character limits and in your tone.
+policy:
+  allow_implicit_invocation: false

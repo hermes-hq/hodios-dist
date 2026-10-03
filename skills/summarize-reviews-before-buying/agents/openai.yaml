@@ -1,0 +1,5 @@
+interface:
+  display_name: Summarise reviews before buying
+  short_description: Summarises many product, place or service reviews into consistent praise, complaints, deal-breakers and who it suits, and notes how representative the reviews seem.
+policy:
+  allow_implicit_invocation: false

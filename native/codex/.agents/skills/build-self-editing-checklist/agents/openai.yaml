@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a self-editing checklist
+  short_description: Builds a personal self-editing checklist from samples of someone's writing and feedback they have received, ordered by their most frequent issues, with a quick test for each.
+policy:
+  allow_implicit_invocation: false

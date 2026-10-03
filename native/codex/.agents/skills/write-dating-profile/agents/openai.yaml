@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a dating profile
+  short_description: Writes a dating profile bio and prompt answers that sound like the person, show specifics instead of adjectives, invite messages and keep personal details safe.
+policy:
+  allow_implicit_invocation: false

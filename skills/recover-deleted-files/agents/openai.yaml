@@ -1,0 +1,5 @@
+interface:
+  display_name: Recover deleted files
+  short_description: Guides recovering deleted or lost files from a computer, phone, memory card, USB stick or cloud account in safe order, before anything is overwritten, and says when to stop and call a professional.
+policy:
+  allow_implicit_invocation: false

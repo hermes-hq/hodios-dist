@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: parenting
   source: https://hermes-ide.com/prompts/set-screen-time-plan
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Set a family screen time plan

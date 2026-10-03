@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: product
   source: https://hermes-ide.com/prompts/define-non-functional-requirements
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Define non-functional requirements

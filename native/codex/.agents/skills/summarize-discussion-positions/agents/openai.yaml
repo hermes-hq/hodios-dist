@@ -1,0 +1,5 @@
+interface:
+  display_name: Summarise the positions in a discussion
+  short_description: Summarises a long discussion (forum thread, comments, RFC or email debate) into the positions held, the arguments for each, points of agreement and the open questions.
+policy:
+  allow_implicit_invocation: false

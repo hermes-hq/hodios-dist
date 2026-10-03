@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose an ethical volunteer trip
+  short_description: Helps choose an ethical volunteer travel programme with a fit check, questions that reveal impact, safeguarding and where fees go, red flags and alternatives. Use before paying any programme.
+policy:
+  allow_implicit_invocation: false

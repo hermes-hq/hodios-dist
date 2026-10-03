@@ -1,0 +1,5 @@
+interface:
+  display_name: Neutral
+  short_description: Shifts answers toward neutral, balanced framing, from removing loaded words to presenting each view in its strongest form, while stating settled facts as facts. Use on contested topics.
+policy:
+  allow_implicit_invocation: false

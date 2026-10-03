@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: literature-review
   source: https://hermes-ide.com/prompts/read-paper-with-me
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Read a research paper together, section by section

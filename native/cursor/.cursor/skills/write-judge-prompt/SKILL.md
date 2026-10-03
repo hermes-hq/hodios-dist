@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: prompt-engineering
   source: https://hermes-ide.com/prompts/write-judge-prompt
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write an LLM-as-judge prompt

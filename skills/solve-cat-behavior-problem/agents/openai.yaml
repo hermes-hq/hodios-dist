@@ -1,0 +1,5 @@
+interface:
+  display_name: Solve a cat behaviour problem
+  short_description: Plans how to solve a cat behaviour problem such as litter avoidance, scratching or night waking, starting with a vet check for medical causes. Use when a cat does something hard to live with.
+policy:
+  allow_implicit_invocation: false

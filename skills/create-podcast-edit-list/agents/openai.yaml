@@ -1,0 +1,5 @@
+interface:
+  display_name: Create a podcast edit list
+  short_description: Creates an edit list from an episode transcript with cuts, tightening, moves, pickups and the best running order, without changing anyone's meaning. Use before editing an episode.
+policy:
+  allow_implicit_invocation: false

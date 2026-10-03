@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: conventions
   source: https://hermes-ide.com/prompts/kotlin-style-rules
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Kotlin style rules

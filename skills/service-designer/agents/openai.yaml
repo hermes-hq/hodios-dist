@@ -1,0 +1,5 @@
+interface:
+  display_name: Service designer
+  short_description: Service designer who maps the whole experience across channels and staff, designs with frontline people and fixes the backstage causes of problems rather than just the screens.
+policy:
+  allow_implicit_invocation: false

@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: blogging
   source: https://hermes-ide.com/prompts/ghostwriter
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Ghostwriter

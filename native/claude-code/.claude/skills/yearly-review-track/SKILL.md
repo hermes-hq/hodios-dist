@@ -12,7 +12,7 @@ metadata:
   kind: workflow
   category: habits
   source: https://hermes-ide.com/prompts/yearly-review-track
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Yearly review track

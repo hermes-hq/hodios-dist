@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a capital campaign
+  short_description: Plans a nonprofit capital campaign - a feasibility check, gift range chart, prospect needs, quiet and public phases, volunteer roles and a timeline.
+policy:
+  allow_implicit_invocation: false

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: prompt-engineering
   source: https://hermes-ide.com/prompts/red-team-prompt
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Red-team a prompt

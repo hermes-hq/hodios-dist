@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan last-minute revision
+  short_description: Builds a triage plan for the last one to three days before an exam, with the highest-yield topics, active recall blocks, protected sleep and an explicit list of what to skip.
+policy:
+  allow_implicit_invocation: false

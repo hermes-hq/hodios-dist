@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fact-checking
   source: https://hermes-ide.com/prompts/trace-quote-origin
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Trace a quote to its origin

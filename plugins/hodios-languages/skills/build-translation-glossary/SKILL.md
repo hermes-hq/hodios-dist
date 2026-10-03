@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: translation
   source: https://hermes-ide.com/prompts/build-translation-glossary
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Build a translation glossary

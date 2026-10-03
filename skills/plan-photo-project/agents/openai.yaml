@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a photo project
+  short_description: Plans a photo series or long-term project with a sharpened concept, visual constraints, a shooting plan, access and consent, editing and sequencing for a cohesive set, and an output.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Ask for feedback by email
+  short_description: Writes a request for feedback on a piece of work, a talk or your own performance, with two or three specific questions and an easy format, so people actually answer.
+policy:
+  allow_implicit_invocation: false

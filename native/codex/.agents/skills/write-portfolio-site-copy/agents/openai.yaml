@@ -1,0 +1,5 @@
+interface:
+  display_name: Write portfolio website copy
+  short_description: Writes portfolio website copy - a positioning headline, about section, project blurbs and a contact call to action - for designers, writers, developers and other creative professionals.
+policy:
+  allow_implicit_invocation: false

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: assistant-setup
   source: https://hermes-ide.com/prompts/write-custom-instructions
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write custom instructions

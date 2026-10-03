@@ -1,0 +1,5 @@
+interface:
+  display_name: Rehearse a presentation in your target language
+  short_description: Rehearses a work or school presentation in the target language with vocabulary prep, a section-by-section run-through, likely audience questions and focused corrections.
+policy:
+  allow_implicit_invocation: false

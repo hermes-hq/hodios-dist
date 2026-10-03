@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan marketplace sponsored product ads
+  short_description: Plans sponsored product ads on Amazon, Etsy or another marketplace with campaign structure, keywords, bids, budget and a weekly optimisation routine. Use when launching or fixing marketplace ads.
+policy:
+  allow_implicit_invocation: false

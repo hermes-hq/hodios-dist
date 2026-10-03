@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: music
   source: https://hermes-ide.com/prompts/songwriting-track
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Songwriting track

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a family game night
+  short_description: Plans a family game night for a mixed-age group, with games that suit everyone, fairness tweaks for younger players, a running order, snacks and a chooser rotation.
+policy:
+  allow_implicit_invocation: false

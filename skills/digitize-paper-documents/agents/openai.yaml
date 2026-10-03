@@ -1,0 +1,5 @@
+interface:
+  display_name: Digitise paper documents
+  short_description: Plans scanning and organising paper documents, with what to keep on paper, scan settings, file naming, folders, searchable text, backup and safe shredding. Use to clear a filing cabinet.
+policy:
+  allow_implicit_invocation: false

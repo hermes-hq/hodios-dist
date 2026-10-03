@@ -1,0 +1,5 @@
+interface:
+  display_name: Automate a personal routine
+  short_description: Designs phone or computer automations (Shortcuts, Tasker, Power Automate, IFTTT and similar) for a repeated routine, with trigger, actions, step-by-step setup and a test plan.
+policy:
+  allow_implicit_invocation: false

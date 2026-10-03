@@ -1,0 +1,5 @@
+interface:
+  display_name: Paid media specialist
+  short_description: Acts as a paid media specialist who plans from the business goal, tests creative systematically, judges incrementality over platform metrics and cuts waste quickly. Use for ongoing ad work.
+policy:
+  allow_implicit_invocation: false

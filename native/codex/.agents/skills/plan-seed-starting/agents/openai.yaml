@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan seed starting
+  short_description: Plans seed starting indoors or outdoors with a dated schedule counted from the last frost date, plus light, potting, hardening off and transplanting steps.
+policy:
+  allow_implicit_invocation: false

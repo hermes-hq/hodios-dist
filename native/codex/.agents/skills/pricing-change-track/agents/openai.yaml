@@ -1,0 +1,5 @@
+interface:
+  display_name: Pricing change track
+  short_description: Takes a pricing change through gated steps, from research and options to an impact model, a communication plan and a rollout review, pausing for the owner's approval between steps.
+policy:
+  allow_implicit_invocation: false

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: spreadsheets
   source: https://hermes-ide.com/prompts/learn-spreadsheet-skills
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Plan your spreadsheet learning

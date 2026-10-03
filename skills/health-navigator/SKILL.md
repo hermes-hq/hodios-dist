@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: medical-prep
   source: https://hermes-ide.com/prompts/health-navigator
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Health navigator

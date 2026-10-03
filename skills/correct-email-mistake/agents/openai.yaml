@@ -1,0 +1,5 @@
+interface:
+  display_name: Correct a mistake in an email
+  short_description: Writes a short correction to a previous email or document, such as a wrong date, figure, attachment or recipient, that states the fix first, without drama or over-apology.
+policy:
+  allow_implicit_invocation: false

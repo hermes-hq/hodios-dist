@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: devops
   source: https://hermes-ide.com/prompts/plan-disaster-recovery
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Plan backups and disaster recovery

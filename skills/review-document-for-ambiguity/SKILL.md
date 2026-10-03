@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: editing
   source: https://hermes-ide.com/prompts/review-document-for-ambiguity
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Review a document for ambiguity

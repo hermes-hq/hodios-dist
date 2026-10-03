@@ -1,0 +1,5 @@
+interface:
+  display_name: Build an empathy map
+  short_description: Builds an empathy map of what a user segment says, thinks, does and feels from research notes, tagging each item as evidence or assumption and surfacing tensions to explore.
+policy:
+  allow_implicit_invocation: false

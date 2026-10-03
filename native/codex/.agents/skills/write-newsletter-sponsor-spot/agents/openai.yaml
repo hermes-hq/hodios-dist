@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a newsletter sponsor spot
+  short_description: Writes a native newsletter sponsor spot in the writer's voice with clear disclosure, one specific reader benefit and a link worth clicking. Use for primary and secondary paid placements.
+policy:
+  allow_implicit_invocation: false

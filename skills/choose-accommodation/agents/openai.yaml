@@ -1,0 +1,5 @@
+interface:
+  display_name: Choose where to stay
+  short_description: Compares neighbourhoods and lodging types (hotel, rental, hostel, guesthouse) on location, safety, transport, total cost and the group's needs, with a listing vetting checklist. Use before booking.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Logging rules
+  short_description: Standing rules for logs an assistant writes, with structured fields, meaningful levels, no secrets or personal data, correlation IDs and errors logged once where they are handled.
+policy:
+  allow_implicit_invocation: false

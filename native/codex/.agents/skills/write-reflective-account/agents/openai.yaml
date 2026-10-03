@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a reflective account
+  short_description: Structures a placement or practice experience into a reflective account using Gibbs, Kolb or Driscoll, keeping the student's own words, anonymising people and marking what they must add.
+policy:
+  allow_implicit_invocation: false

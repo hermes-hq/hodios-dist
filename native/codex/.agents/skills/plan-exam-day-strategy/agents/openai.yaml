@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan an exam-day strategy
+  short_description: Plans exam-day timing, question order, a checking routine, what to do when stuck and how to recover after a bad question, ending in a one-page rules card. Use in the week before an exam.
+policy:
+  allow_implicit_invocation: false

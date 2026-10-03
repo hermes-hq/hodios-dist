@@ -1,0 +1,5 @@
+interface:
+  display_name: Sell a car privately
+  short_description: Plans selling a car privately with pricing research, preparation, a listing draft, safe viewings and test drives, secure payment and the ownership paperwork. Use when selling a car without a dealer.
+policy:
+  allow_implicit_invocation: false

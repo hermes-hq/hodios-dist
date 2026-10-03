@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a garden calendar
+  short_description: Builds a month-by-month calendar of sowing, planting, feeding, pruning, protecting and harvesting for the plants a user already has, adjusted to their climate.
+policy:
+  allow_implicit_invocation: false

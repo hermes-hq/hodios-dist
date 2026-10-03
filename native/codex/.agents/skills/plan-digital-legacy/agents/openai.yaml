@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan your digital legacy
+  short_description: Plans what happens to your online accounts, devices, files and photos after death or incapacity, with an inventory, legacy contacts, a safe way to pass on access and clear instructions for family.
+policy:
+  allow_implicit_invocation: false

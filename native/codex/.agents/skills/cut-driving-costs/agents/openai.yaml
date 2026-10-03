@@ -1,0 +1,5 @@
+interface:
+  display_name: Cut the cost of running a car
+  short_description: Finds ways to cut the cost of running a car across fuel, insurance, maintenance, parking and finance, ranked by savings, and tests whether to keep the car at all. Use when motoring costs are too high.
+policy:
+  allow_implicit_invocation: false

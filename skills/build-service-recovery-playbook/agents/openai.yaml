@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a service recovery playbook
+  short_description: Builds a service recovery playbook for when things go wrong - failure types, severity levels, apology and remedy for each, who can compensate how much, scripts and follow-up.
+policy:
+  allow_implicit_invocation: false

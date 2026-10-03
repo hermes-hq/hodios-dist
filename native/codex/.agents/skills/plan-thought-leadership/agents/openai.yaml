@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a thought leadership programme
+  short_description: Plans a thought leadership programme for an executive or expert, with a defensible point of view, themes, formats, channels and a ghostwriting workflow. Use before building an expert's profile.
+policy:
+  allow_implicit_invocation: false

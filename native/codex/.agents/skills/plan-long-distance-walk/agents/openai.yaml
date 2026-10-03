@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a long-distance walk
+  short_description: Plans a multi-day long-distance walk or pilgrimage route with daily stages, lodging, luggage transfer, a training ramp, kit and logistics to the start and from the finish. Use months before the walk.
+policy:
+  allow_implicit_invocation: false

@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: tutoring
   source: https://hermes-ide.com/prompts/give-essay-feedback
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Give feedback on an essay

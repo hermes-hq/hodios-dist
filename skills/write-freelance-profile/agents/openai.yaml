@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a freelance marketplace profile
+  short_description: Writes a freelance marketplace profile or gig description with a niche headline, client outcomes, proof, service packages and the search terms clients use. Use when setting up or fixing a profile.
+policy:
+  allow_implicit_invocation: false

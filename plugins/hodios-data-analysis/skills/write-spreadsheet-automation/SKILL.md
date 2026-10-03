@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: spreadsheets
   source: https://hermes-ide.com/prompts/write-spreadsheet-automation
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write a spreadsheet automation

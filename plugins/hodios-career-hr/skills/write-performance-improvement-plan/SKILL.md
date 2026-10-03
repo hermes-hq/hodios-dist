@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: people-management
   source: https://hermes-ide.com/prompts/write-performance-improvement-plan
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write a performance improvement plan

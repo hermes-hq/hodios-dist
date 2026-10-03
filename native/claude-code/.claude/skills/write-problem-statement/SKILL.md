@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: product-discovery
   source: https://hermes-ide.com/prompts/write-problem-statement
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write a problem statement

@@ -1,0 +1,5 @@
+interface:
+  display_name: Organise a potluck
+  short_description: Organises a potluck with a balanced sign-up list sized to the guest count, dietary and allergen labels, a serving-gear checklist, food safety rules and a message to send to guests.
+policy:
+  allow_implicit_invocation: false

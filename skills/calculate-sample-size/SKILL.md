@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: statistics
   source: https://hermes-ide.com/prompts/calculate-sample-size
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Calculate sample size

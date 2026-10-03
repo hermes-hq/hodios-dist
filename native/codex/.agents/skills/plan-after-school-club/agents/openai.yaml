@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a term of an after-school club
+  short_description: Plans a term of an after-school club such as coding, robotics, chess, art or debate, with session plans, a skill progression, mixed-ability options and an end-of-term showcase.
+policy:
+  allow_implicit_invocation: false

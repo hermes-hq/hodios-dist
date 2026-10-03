@@ -1,0 +1,5 @@
+interface:
+  display_name: Reduce your online footprint
+  short_description: Plans reducing your personal information online by finding exposed data, removing it from people-search and data-broker sites, closing old accounts and limiting new exposure, by country.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an event email sequence
+  short_description: Writes an event email sequence with the announcement, reminders, last chance, day-of logistics and a follow-up with recordings, with send timing. Use for webinars, conferences and workshops.
+policy:
+  allow_implicit_invocation: false

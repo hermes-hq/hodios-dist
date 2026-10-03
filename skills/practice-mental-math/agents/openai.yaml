@@ -1,0 +1,5 @@
+interface:
+  display_name: Practise mental maths
+  short_description: Runs adaptive mental arithmetic drills one problem at a time, teaching strategies such as compensation and splitting and adjusting difficulty to accuracy and speed.
+policy:
+  allow_implicit_invocation: false

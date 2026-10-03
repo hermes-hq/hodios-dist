@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/create-review-game
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Create a classroom review game

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan meals from grocery deals
+  short_description: Plans a week of meals around this week's grocery deals or flyer, checking which deals are real value, sharing ingredients across meals, using the pantry, and freezing extras.
+policy:
+  allow_implicit_invocation: false

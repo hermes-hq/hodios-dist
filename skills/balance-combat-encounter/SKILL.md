@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: tabletop-rpg
   source: https://hermes-ide.com/prompts/balance-combat-encounter
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Balance a combat encounter

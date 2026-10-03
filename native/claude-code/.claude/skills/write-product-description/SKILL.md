@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: copywriting
   source: https://hermes-ide.com/prompts/write-product-description
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write a product description

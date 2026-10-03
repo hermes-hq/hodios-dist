@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare a car for winter
+  short_description: Prepares a car for winter with checks matched to the climate, tyre choices, fluids, an emergency kit and driving habits for snow and ice. Use before the cold season starts.
+policy:
+  allow_implicit_invocation: false

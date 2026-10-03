@@ -1,0 +1,5 @@
+interface:
+  display_name: Compute a survey margin of error
+  short_description: Computes margins of error and confidence intervals for survey results, including subgroups and gaps between answers, and states what they do not cover. Use before reporting poll numbers.
+policy:
+  allow_implicit_invocation: false

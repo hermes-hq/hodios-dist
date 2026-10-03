@@ -1,0 +1,5 @@
+interface:
+  display_name: Make your work visible
+  short_description: Plans how to make your work visible without bragging, using regular updates, demos, written wins, sponsors and the right meetings. Use when good work goes unnoticed.
+policy:
+  allow_implicit_invocation: false

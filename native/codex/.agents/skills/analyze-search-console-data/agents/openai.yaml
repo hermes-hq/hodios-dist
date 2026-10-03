@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse Search Console data
+  short_description: Analyses a Search Console performance export to find low-CTR pages with high impressions, striking-distance queries, cannibalisation and quick wins, each with a specific fix.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Analyse Likert-scale data
+  short_description: Analyses Likert-scale survey data with distribution summaries, diverging bar charts and tests suited to ordinal items or multi-item scales. Use before reporting agreement scores.
+policy:
+  allow_implicit_invocation: false

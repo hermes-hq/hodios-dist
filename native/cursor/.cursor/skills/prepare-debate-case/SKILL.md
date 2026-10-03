@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: tutoring
   source: https://hermes-ide.com/prompts/prepare-debate-case
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Prepare a debate case

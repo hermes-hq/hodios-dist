@@ -1,0 +1,5 @@
+interface:
+  display_name: Critique a photograph
+  short_description: Critiques a photograph for impact, light, composition, moment, technique, processing and story against the photographer's intent, ranks three improvements and sets one assignment.
+policy:
+  allow_implicit_invocation: false

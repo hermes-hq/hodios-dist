@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare as a panelist
+  short_description: Prepares a panelist with three key points, short stories, bridging phrases, ways to add to others' answers and when to stay quiet. For conference, meetup and webinar panels.
+policy:
+  allow_implicit_invocation: false

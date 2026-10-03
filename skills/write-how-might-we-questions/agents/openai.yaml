@@ -1,0 +1,5 @@
+interface:
+  display_name: Write "how might we" questions
+  short_description: Turns problems or research insights into well-scoped "how might we" questions, neither too broad nor too narrow, and ranks them for an ideation session.
+policy:
+  allow_implicit_invocation: false

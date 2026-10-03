@@ -1,0 +1,5 @@
+interface:
+  display_name: Respond to online harassment
+  short_description: Helps someone facing online harassment document it, use block, mute and report tools, tighten privacy and get support, and points to crisis help and the police if threats or doxxing appear.
+policy:
+  allow_implicit_invocation: false

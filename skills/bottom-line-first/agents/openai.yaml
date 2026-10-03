@@ -1,0 +1,5 @@
+interface:
+  display_name: Bottom line first
+  short_description: Puts the answer or decision first, from a one-line summary on top to a strict BLUF memo with only supporting facts below. Use for busy readers, decisions and status updates.
+policy:
+  allow_implicit_invocation: false

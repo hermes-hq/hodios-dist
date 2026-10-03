@@ -1,0 +1,5 @@
+interface:
+  display_name: Find timely content angles
+  short_description: Finds timely content angles from news, seasons, dates and trends that fit a brand's real expertise, with the format and how fast each must ship. Use when planning reactive and seasonal content.
+policy:
+  allow_implicit_invocation: false

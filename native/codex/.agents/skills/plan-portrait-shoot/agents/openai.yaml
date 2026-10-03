@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a portrait shoot
+  short_description: Plans a portrait photo shoot with concept, location and timing, light setups, gear, starting settings, posing direction, a shot list, run of show and backup plans.
+policy:
+  allow_implicit_invocation: false

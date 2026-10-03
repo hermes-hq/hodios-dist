@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: language-learning
   source: https://hermes-ide.com/prompts/gloss-authentic-text
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Gloss an authentic text

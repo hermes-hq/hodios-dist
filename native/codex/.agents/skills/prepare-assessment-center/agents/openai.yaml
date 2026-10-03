@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for an assessment centre
+  short_description: Prepares a candidate for an assessment centre with tactics for group exercises, in-tray tasks, role-plays, presentations and interviews, mapped to the competencies assessed, plus a practice plan.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan learner driver practice
+  short_description: Plans supervised driving practice for a learner with a skills progression, route ideas, a logbook and coaching tips so the supervising adult stays calm. Use when helping someone learn to drive.
+policy:
+  allow_implicit_invocation: false

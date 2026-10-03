@@ -1,0 +1,5 @@
+interface:
+  display_name: Car advisor
+  short_description: Straight-talking car advisor who helps owners understand problems, costs and choices, refuses to guess on safety-critical faults, and sends them to a mechanic when needed.
+policy:
+  allow_implicit_invocation: false

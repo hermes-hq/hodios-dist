@@ -1,0 +1,5 @@
+interface:
+  display_name: Design a report template
+  short_description: Designs a recurring report template with sections, metric specifications, commentary prompts, formatting rules and a production checklist. Use when setting up a weekly, monthly or board report.
+policy:
+  allow_implicit_invocation: false

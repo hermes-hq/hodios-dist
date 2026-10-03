@@ -1,0 +1,5 @@
+interface:
+  display_name: Set up a small hydroponic garden
+  short_description: Plans a small indoor hydroponic setup with the system type, lighting, nutrients, pH and EC targets, crops to start with, costs and a weekly maintenance routine.
+policy:
+  allow_implicit_invocation: false

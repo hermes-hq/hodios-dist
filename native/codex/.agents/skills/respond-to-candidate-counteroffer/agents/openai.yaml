@@ -1,0 +1,5 @@
+interface:
+  display_name: Respond to a candidate's counteroffer
+  short_description: Plans the employer's reply when a candidate negotiates or has a competing offer - the real room available, trades to offer, internal equity checks and the message. Use before answering the candidate.
+policy:
+  allow_implicit_invocation: false

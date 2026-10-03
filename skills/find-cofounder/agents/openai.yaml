@@ -1,0 +1,5 @@
+interface:
+  display_name: Find a co-founder
+  short_description: Plans finding a co-founder - the skills and traits needed, where to look, outreach messages, a paid or time-boxed trial project, and the questions that test fit.
+policy:
+  allow_implicit_invocation: false

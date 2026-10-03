@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: entrepreneurship
   source: https://hermes-ide.com/prompts/plan-side-business
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Plan a side business

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: devops
   source: https://hermes-ide.com/prompts/slim-container-image
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Slim down a container image

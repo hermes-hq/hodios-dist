@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: branding
   source: https://hermes-ide.com/prompts/build-brand-platform
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Build a brand platform

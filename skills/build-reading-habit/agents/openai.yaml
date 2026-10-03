@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a reading habit
+  short_description: Plans a reading habit with a realistic goal, a book list mixed by difficulty, time slots anchored to your routine, environment changes and a light tracking method.
+policy:
+  allow_implicit_invocation: false

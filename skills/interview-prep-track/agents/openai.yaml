@@ -1,0 +1,5 @@
+interface:
+  display_name: Interview prep track
+  short_description: Prepares for one specific interview in gated steps - decode the role, build a story bank, run a scored mock, prepare questions to ask and plan the day. Use once an interview is booked.
+policy:
+  allow_implicit_invocation: false

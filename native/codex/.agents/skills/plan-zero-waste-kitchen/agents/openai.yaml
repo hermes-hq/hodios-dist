@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a low-waste kitchen
+  short_description: Plans how a household can cut food waste, with targeted fixes for what they throw away, shopping habits, storage, using scraps and leftovers, and a 10-minute weekly waste check.
+policy:
+  allow_implicit_invocation: false

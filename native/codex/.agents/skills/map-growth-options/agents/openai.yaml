@@ -1,0 +1,5 @@
+interface:
+  display_name: Map growth options
+  short_description: Maps growth options across market penetration, new products, new markets and diversification, with risks, evidence needed and a recommended sequence.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Calculate inter-rater reliability
+  short_description: Calculates and interprets inter-rater reliability, choosing kappa, weighted kappa, Krippendorff's alpha or the right ICC form for the design. Use when checking that coders or judges agree.
+policy:
+  allow_implicit_invocation: false

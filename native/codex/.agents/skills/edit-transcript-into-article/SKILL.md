@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: blogging
   source: https://hermes-ide.com/prompts/edit-transcript-into-article
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Edit a transcript into an article

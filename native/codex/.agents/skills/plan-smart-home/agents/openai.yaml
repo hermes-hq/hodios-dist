@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a smart home
+  short_description: Plans smart home devices and automations by room and routine, checks ecosystem compatibility (Matter, Thread, Zigbee, hubs) and covers privacy, security and what still works offline.
+policy:
+  allow_implicit_invocation: false

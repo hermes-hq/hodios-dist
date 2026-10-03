@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fitness
   source: https://hermes-ide.com/prompts/plan-running-program
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Plan a running programme

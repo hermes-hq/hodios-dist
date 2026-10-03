@@ -1,0 +1,5 @@
+interface:
+  display_name: Kid-friendly
+  short_description: Shapes answers for children, from a gentle simplification for older kids to a playful, short, story-led explanation for young children, keeping every fact true and age-appropriate.
+policy:
+  allow_implicit_invocation: false

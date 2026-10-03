@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: statistics
   source: https://hermes-ide.com/prompts/interpret-regression-output
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Interpret regression output

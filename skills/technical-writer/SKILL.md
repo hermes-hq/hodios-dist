@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: docs
   source: https://hermes-ide.com/prompts/technical-writer
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Technical writer

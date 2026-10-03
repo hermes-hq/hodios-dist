@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fiction
   source: https://hermes-ide.com/prompts/write-query-letter
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write a query letter and synopsis

@@ -1,0 +1,5 @@
+interface:
+  display_name: Childproof a home
+  short_description: Childproofs a home room by room for a child's age and stage, tackling the most dangerous hazards first, with products to consider and checks to repeat as the child grows.
+policy:
+  allow_implicit_invocation: false

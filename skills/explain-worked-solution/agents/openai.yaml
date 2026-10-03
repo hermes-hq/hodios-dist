@@ -1,0 +1,5 @@
+interface:
+  display_name: Explain a worked solution
+  short_description: Explains a worked solution to a maths or science problem step by step, why each step is taken and the idea it uses, flags any error, and sets a similar problem to try next.
+policy:
+  allow_implicit_invocation: false

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: contracts
   source: https://hermes-ide.com/prompts/redline-contract
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Redline a contract for your side

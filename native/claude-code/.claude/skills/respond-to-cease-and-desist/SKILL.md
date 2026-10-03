@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: legal-correspondence
   source: https://hermes-ide.com/prompts/respond-to-cease-and-desist
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Respond to a cease-and-desist letter

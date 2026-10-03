@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: content-strategy
   source: https://hermes-ide.com/prompts/design-membership-tiers
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Design paid membership tiers

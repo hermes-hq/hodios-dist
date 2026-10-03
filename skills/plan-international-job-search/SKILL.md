@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: job-search
   source: https://hermes-ide.com/prompts/plan-international-job-search
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Plan a job search abroad

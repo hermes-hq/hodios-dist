@@ -1,0 +1,5 @@
+interface:
+  display_name: Specify a reusable marketing email template
+  short_description: Specifies a reusable marketing email template system with layout, modules, typography, mobile behaviour, accessibility and dark-mode checks. Use before a designer or developer builds templates.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan email list segmentation
+  short_description: Plans email list segmentation with segments built from behaviour and data, what each segment receives and how segments are maintained over time. Use when everyone gets the same emails.
+policy:
+  allow_implicit_invocation: false

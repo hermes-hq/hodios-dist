@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: podcasting
   source: https://hermes-ide.com/prompts/plan-podcast-episode
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Plan a podcast episode

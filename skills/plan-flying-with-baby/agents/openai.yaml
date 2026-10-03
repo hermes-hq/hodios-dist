@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan flying with a baby or toddler
+  short_description: Plans flying with a baby or toddler with seat and bassinet choices, gear, feeding and ear pressure, sleep timing, airport steps and a carry-on kit. Use when booking or the week before the flight.
+policy:
+  allow_implicit_invocation: false

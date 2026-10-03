@@ -1,0 +1,5 @@
+interface:
+  display_name: Map programme outcomes across courses
+  short_description: Maps programme-level outcomes across courses showing where each is introduced, reinforced and mastered, and flags gaps, overloads and sequencing problems. Use for programme review or accreditation.
+policy:
+  allow_implicit_invocation: false

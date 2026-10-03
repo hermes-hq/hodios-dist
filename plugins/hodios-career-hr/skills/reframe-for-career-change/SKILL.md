@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: resumes
   source: https://hermes-ide.com/prompts/reframe-for-career-change
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Reframe a resume for a career change

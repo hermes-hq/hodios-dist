@@ -1,0 +1,5 @@
+interface:
+  display_name: Ask for help in team chat
+  short_description: Writes a question for a team chat channel that gets answered, with context, what was tried, the specific ask, urgency and where to reply. Use as a new hire or remote worker.
+policy:
+  allow_implicit_invocation: false

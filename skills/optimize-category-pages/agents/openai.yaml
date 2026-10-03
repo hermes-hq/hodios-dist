@@ -1,0 +1,5 @@
+interface:
+  display_name: Optimise e-commerce category pages
+  short_description: Optimises e-commerce category pages with titles, headings and intro copy, faceted navigation and pagination rules, internal links and breadcrumb schema, with a per-page action list.
+policy:
+  allow_implicit_invocation: false

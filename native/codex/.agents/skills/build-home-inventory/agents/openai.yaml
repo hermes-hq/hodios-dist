@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a home inventory for insurance
+  short_description: Builds a home contents inventory for insurance with a room-by-room template, a photo and receipt routine, how to value items, and where to keep the record safe.
+policy:
+  allow_implicit_invocation: false

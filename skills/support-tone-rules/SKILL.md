@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: customer-support
   source: https://hermes-ide.com/prompts/support-tone-rules
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Support tone rules

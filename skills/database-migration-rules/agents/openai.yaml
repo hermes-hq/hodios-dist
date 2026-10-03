@@ -1,0 +1,5 @@
+interface:
+  display_name: Database migration rules
+  short_description: Standing rules for schema migrations an assistant writes, keeping them backward compatible, reversible, lock-aware, batched for data changes and tested on realistic data sizes.
+policy:
+  allow_implicit_invocation: false

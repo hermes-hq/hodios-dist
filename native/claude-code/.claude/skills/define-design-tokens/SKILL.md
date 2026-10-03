@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: design-systems
   source: https://hermes-ide.com/prompts/define-design-tokens
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Define a design token architecture

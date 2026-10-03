@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/write-iep-goals
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Draft measurable IEP goals

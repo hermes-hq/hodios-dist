@@ -1,0 +1,5 @@
+interface:
+  display_name: Practise aptitude tests
+  short_description: Runs timed practice for numerical, verbal, logical and situational judgement tests one question at a time, with worked explanations, shortcuts and weak-area tracking. Use before online assessments.
+policy:
+  allow_implicit_invocation: false

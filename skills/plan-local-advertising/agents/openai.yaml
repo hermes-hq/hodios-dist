@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan local advertising for a small business
+  short_description: Plans local advertising for a small business across flyers, local papers, radio, community sponsorships and local digital ads, with budget and tracking. Use for shops, trades and local services.
+policy:
+  allow_implicit_invocation: false

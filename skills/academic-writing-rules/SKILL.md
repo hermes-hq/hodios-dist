@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: scientific-writing
   source: https://hermes-ide.com/prompts/academic-writing-rules
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Academic writing rules

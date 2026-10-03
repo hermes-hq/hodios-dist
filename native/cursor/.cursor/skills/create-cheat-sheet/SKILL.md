@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: studying
   source: https://hermes-ide.com/prompts/create-cheat-sheet
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Create an exam cheat sheet

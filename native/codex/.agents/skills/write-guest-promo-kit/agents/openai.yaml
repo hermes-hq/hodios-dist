@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a podcast guest promo kit
+  short_description: Writes a promo kit for podcast guests with a thank-you email, links, summaries, social posts in the guest's voice, clips and quote cards. Use when a guest episode is about to go live.
+policy:
+  allow_implicit_invocation: false

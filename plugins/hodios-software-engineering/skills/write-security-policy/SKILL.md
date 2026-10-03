@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: security
   source: https://hermes-ide.com/prompts/write-security-policy
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write a security policy and disclosure process

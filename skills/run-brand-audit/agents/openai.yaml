@@ -1,0 +1,5 @@
+interface:
+  display_name: Run a brand audit
+  short_description: Audits a brand across its touchpoints for positioning, message, voice and visual consistency, scores each touchpoint against the brand's own standards and ranks fixes by impact and effort.
+policy:
+  allow_implicit_invocation: false

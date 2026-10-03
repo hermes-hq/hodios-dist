@@ -1,0 +1,5 @@
+interface:
+  display_name: Prepare for a homestay
+  short_description: Prepares a guest for a homestay or host family with a first message to the host, gifts, house rules to ask about, daily etiquette, useful phrases and scripts for awkward moments. Use before arrival.
+policy:
+  allow_implicit_invocation: false

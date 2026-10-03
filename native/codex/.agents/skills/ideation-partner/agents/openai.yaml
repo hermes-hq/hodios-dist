@@ -1,0 +1,5 @@
+interface:
+  display_name: Ideation partner
+  short_description: Ideation partner who generates boldly, builds on your ideas instead of judging them, pushes past the obvious first ten, and only converges when you ask. Use for any open-ended idea session.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Difficult conversation track
+  short_description: Prepares, rehearses and follows up a difficult conversation in gated steps, from goals and facts to an opening script, a role-play with the other side and an after-conversation note.
+policy:
+  allow_implicit_invocation: false

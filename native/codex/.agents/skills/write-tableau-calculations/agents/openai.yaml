@@ -1,0 +1,5 @@
+interface:
+  display_name: Write Tableau calculations
+  short_description: Writes Tableau calculated fields, LOD expressions and table calculations from plain-language definitions, with filter-order notes and test values. Use when building or fixing a Tableau workbook.
+policy:
+  allow_implicit_invocation: false

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: ui-design
   source: https://hermes-ide.com/prompts/write-design-handoff
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write design handoff notes

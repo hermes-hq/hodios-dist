@@ -1,0 +1,5 @@
+interface:
+  display_name: Decline a feature request
+  short_description: Writes a reply to a customer whose feature request will not be built that says no clearly, shows the need was understood, gives the honest reason and offers real alternatives.
+policy:
+  allow_implicit_invocation: false

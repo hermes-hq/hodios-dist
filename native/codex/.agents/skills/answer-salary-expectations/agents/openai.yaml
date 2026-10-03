@@ -1,0 +1,5 @@
+interface:
+  display_name: Answer salary expectation questions
+  short_description: Prepares answers to salary expectation questions in application forms, recruiter screens and interviews, with a range to verify, deferral lines and follow-ups. Use before you are asked.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a customer training programme
+  short_description: Designs product training for customers or partners with learning paths by role, formats, certification and adoption metrics. For customer education and enablement teams.
+policy:
+  allow_implicit_invocation: false

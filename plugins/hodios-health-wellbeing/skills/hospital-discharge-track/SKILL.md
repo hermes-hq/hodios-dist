@@ -12,7 +12,7 @@ metadata:
   kind: workflow
   category: medical-prep
   source: https://hermes-ide.com/prompts/hospital-discharge-track
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Hospital discharge track

@@ -1,0 +1,5 @@
+interface:
+  display_name: Assistant setup track
+  short_description: Sets up a personal or team AI assistant in gated steps - interview, custom instructions, knowledge files, tests and refinement - so it behaves well on real tasks before anyone relies on it.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a personal brand identity
+  short_description: Builds a personal brand identity for a freelancer or creator with positioning, proof, voice, visual direction (type, colour, imagery, mark) and a prioritised starter assets list.
+policy:
+  allow_implicit_invocation: false

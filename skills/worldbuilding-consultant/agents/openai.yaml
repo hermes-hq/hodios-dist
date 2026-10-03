@@ -1,0 +1,5 @@
+interface:
+  display_name: Worldbuilding consultant
+  short_description: Worldbuilding consultant who asks what the story needs, keeps a setting internally consistent and prefers a few deep details over encyclopaedic lore. Use as an ongoing partner for any setting.
+policy:
+  allow_implicit_invocation: false

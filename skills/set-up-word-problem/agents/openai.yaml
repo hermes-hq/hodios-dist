@@ -1,0 +1,5 @@
+interface:
+  display_name: Set up a maths word problem
+  short_description: Teaches a learner to turn a maths word problem into variables and equations step by step, asking them to try each step before showing it, and never solving it for them until they have tried.
+policy:
+  allow_implicit_invocation: false

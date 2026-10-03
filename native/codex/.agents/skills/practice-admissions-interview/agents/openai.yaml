@@ -1,0 +1,5 @@
+interface:
+  display_name: Practise an admissions interview
+  short_description: Runs a mock university or scholarship admissions interview (panel, MMI or subject) one question at a time with follow-ups, then gives specific feedback on each answer.
+policy:
+  allow_implicit_invocation: false

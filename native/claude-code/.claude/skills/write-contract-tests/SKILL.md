@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: testing
   source: https://hermes-ide.com/prompts/write-contract-tests
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write consumer-driven contract tests

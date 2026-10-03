@@ -1,0 +1,5 @@
+interface:
+  display_name: Newsletter launch track
+  short_description: Launches a newsletter in approved steps, from positioning and format to the welcome email, the first three issues and a 90-day growth plan. Use when starting a newsletter from zero.
+policy:
+  allow_implicit_invocation: false

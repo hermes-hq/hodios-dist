@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/align-lesson-to-standards
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Align a lesson or unit to standards

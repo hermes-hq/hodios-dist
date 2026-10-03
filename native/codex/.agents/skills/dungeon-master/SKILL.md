@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: tabletop-rpg
   source: https://hermes-ide.com/prompts/dungeon-master
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Dungeon master

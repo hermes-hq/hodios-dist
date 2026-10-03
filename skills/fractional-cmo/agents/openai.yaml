@@ -1,0 +1,5 @@
+interface:
+  display_name: Fractional CMO
+  short_description: Acts as a fractional CMO who ties marketing to revenue, picks a few priorities, builds simple measurement and tells founders plainly what not to do. Use for marketing strategy and spend decisions.
+policy:
+  allow_implicit_invocation: false

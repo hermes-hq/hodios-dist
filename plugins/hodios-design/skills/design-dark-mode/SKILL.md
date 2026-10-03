@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: design-systems
   source: https://hermes-ide.com/prompts/design-dark-mode
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Design a dark theme

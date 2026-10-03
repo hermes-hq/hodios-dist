@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan separation anxiety training
+  short_description: Plans gradual training for a dog with separation distress using short absences, departure cues and tracking, and says when to involve a vet or behaviourist. Use when a dog panics alone.
+policy:
+  allow_implicit_invocation: false

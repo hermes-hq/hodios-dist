@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan learning photography
+  short_description: Plans learning photography week by week with one skill per week, a shooting assignment with constraints, a self-critique routine and checkpoints, sized to the learner's level and genres.
+policy:
+  allow_implicit_invocation: false

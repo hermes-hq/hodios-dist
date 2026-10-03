@@ -1,0 +1,5 @@
+interface:
+  display_name: Design an internship programme
+  short_description: Designs an internship programme with real projects, mentors, a weekly schedule, learning goals, fair evaluation and a path to full-time offers. Use when starting or fixing an internship scheme.
+policy:
+  allow_implicit_invocation: false

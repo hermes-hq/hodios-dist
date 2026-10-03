@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: editing
   source: https://hermes-ide.com/prompts/edit-non-native-english
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Polish English written by a non-native speaker

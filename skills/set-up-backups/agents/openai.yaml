@@ -1,0 +1,5 @@
+interface:
+  display_name: Set up backups
+  short_description: Sets up a 3-2-1 backup plan for phones and computers with tools, schedules, a restore test and family devices, sized to what you would hate to lose. Use before a drive fails or a phone goes missing.
+policy:
+  allow_implicit_invocation: false

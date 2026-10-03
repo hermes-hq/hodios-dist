@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: video-games
   source: https://hermes-ide.com/prompts/write-game-quest
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Write a video game quest

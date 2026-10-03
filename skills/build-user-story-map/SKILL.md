@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: roadmapping
   source: https://hermes-ide.com/prompts/build-user-story-map
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Build a user story map

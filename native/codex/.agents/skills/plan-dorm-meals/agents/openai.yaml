@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan dorm meals
+  short_description: Plans cheap, quick meals for a student with minimal equipment such as a microwave, kettle, mini fridge or shared kitchen, with a costed shopping list and safe storage tips.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Write limericks for an occasion
+  short_description: Writes limericks or other light verse for a birthday, retirement, toast or card, with true rhymes, scanned anapestic metre, a twist in the last line and a kind personal touch.
+policy:
+  allow_implicit_invocation: false

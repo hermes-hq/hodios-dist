@@ -1,0 +1,5 @@
+interface:
+  display_name: Organise a photo library
+  short_description: Plans organising a large family photo library scattered across phones, drives and clouds, with deduplication, folders or albums, naming, faces and dates, and a backup that survives.
+policy:
+  allow_implicit_invocation: false

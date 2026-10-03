@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: social-media
   source: https://hermes-ide.com/prompts/turn-article-into-thread
-  catalog: 2026.1003.0
+  catalog: 2026.1003.1
 ---
 
 # Turn an article into a thread
