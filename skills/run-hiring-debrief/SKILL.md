@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: hiring
   source: https://hermes-ide.com/prompts/run-hiring-debrief
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Run a hiring debrief

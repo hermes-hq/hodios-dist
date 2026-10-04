@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: language-learning
   source: https://hermes-ide.com/prompts/build-vocabulary-list
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Build a vocabulary list

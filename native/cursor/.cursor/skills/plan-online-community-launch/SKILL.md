@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: social-media
   source: https://hermes-ide.com/prompts/plan-online-community-launch
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan an online community launch

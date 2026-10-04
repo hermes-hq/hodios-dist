@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: summarization
   source: https://hermes-ide.com/prompts/catch-up-after-leave
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Catch up after time away

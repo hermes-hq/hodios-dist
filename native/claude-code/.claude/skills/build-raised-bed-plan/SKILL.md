@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: gardening
   source: https://hermes-ide.com/prompts/build-raised-bed-plan
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan building raised beds

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fiction
   source: https://hermes-ide.com/prompts/plan-mystery-plot
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a mystery plot

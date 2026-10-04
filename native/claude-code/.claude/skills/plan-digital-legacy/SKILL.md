@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: digital-safety
   source: https://hermes-ide.com/prompts/plan-digital-legacy
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan your digital legacy

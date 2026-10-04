@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: vehicles
   source: https://hermes-ide.com/prompts/evaluate-switching-to-ev
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Evaluate switching to an electric car

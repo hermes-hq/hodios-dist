@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: fact-checking
   source: https://hermes-ide.com/prompts/fact-checker
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Professional fact-checker

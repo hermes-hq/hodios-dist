@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: scientific-writing
   source: https://hermes-ide.com/prompts/write-methods-section
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a replicable methods section

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: content-strategy
   source: https://hermes-ide.com/prompts/write-media-kit
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a creator media kit

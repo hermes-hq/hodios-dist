@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: architecture
   source: https://hermes-ide.com/prompts/api-design-track
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # API design track

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: conversation-practice
   source: https://hermes-ide.com/prompts/practice-speaking-exam
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Practise a speaking exam

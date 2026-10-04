@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: email
   source: https://hermes-ide.com/prompts/reject-vendor-proposal
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Reject a vendor proposal

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: data
   source: https://hermes-ide.com/prompts/design-database-schema
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Design a relational database schema

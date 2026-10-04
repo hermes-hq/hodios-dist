@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: entrepreneurship
   source: https://hermes-ide.com/prompts/idea-validation-track
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Idea validation track

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: statistics
   source: https://hermes-ide.com/prompts/check-analysis-for-pitfalls
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Check an analysis for pitfalls

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: entrepreneurship
   source: https://hermes-ide.com/prompts/plan-service-business-launch
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a local service business launch

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: vehicles
   source: https://hermes-ide.com/prompts/sell-car-privately
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Sell a car privately

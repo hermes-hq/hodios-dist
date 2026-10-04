@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: migration
   source: https://hermes-ide.com/prompts/runtime-upgrade-track
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Upgrade a project's language runtime

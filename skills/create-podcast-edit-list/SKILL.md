@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: podcasting
   source: https://hermes-ide.com/prompts/create-podcast-edit-list
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Create a podcast edit list

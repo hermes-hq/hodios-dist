@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: spreadsheets
   source: https://hermes-ide.com/prompts/extract-tables-from-pdf
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Extract tables from a PDF

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: studying
   source: https://hermes-ide.com/prompts/build-subject-glossary
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Build a subject glossary

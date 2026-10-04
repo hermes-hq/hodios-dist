@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: incident
   source: https://hermes-ide.com/prompts/write-runbook
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write an operational runbook
@@ -53,6 +53,7 @@ $system_context
 </constraints>
 
 <output_format>
+For an alert, use these headings in this order:
 ## Summary
 ## Triage
 ## Diagnosis
@@ -61,4 +62,6 @@ $system_context
 ## Escalation
 ## Fill before publishing
 A checklist of every placeholder and unconfirmed assumption.
+
+For a routine procedure, use: `## Summary`, `## Preconditions`, `## Steps` (numbered, each ending with a checkpoint that says what you should see before continuing), `## Rollback`, `## Verification`, `## Escalation`, `## Fill before publishing`.
 </output_format>

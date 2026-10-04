@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: implementation
   source: https://hermes-ide.com/prompts/go-engineer
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Go engineer

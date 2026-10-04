@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: scientific-writing
   source: https://hermes-ide.com/prompts/academic-writing-coach
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Academic writing coach

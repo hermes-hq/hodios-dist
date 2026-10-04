@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: business-writing
   source: https://hermes-ide.com/prompts/write-professional-bio
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a professional bio

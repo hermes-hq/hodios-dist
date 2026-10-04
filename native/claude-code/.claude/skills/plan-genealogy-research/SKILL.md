@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: life-writing
   source: https://hermes-ide.com/prompts/plan-genealogy-research
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan genealogy research

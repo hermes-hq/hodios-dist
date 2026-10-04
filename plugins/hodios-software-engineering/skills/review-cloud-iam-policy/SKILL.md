@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: security
   source: https://hermes-ide.com/prompts/review-cloud-iam-policy
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Review a cloud IAM policy

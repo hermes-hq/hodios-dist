@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: pet-care
   source: https://hermes-ide.com/prompts/plan-separation-anxiety-training
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan separation anxiety training

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: career-growth
   source: https://hermes-ide.com/prompts/plan-first-90-days
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan your first 90 days in a new job

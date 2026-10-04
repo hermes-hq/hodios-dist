@@ -15,7 +15,7 @@ metadata:
   kind: prompt
   category: fundraising
   source: https://hermes-ide.com/prompts/write-investor-update
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a monthly investor update

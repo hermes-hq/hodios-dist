@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: contracts
   source: https://hermes-ide.com/prompts/compare-contract-versions
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Compare two contract versions

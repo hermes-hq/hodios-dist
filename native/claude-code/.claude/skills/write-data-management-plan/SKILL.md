@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: research-methods
   source: https://hermes-ide.com/prompts/write-data-management-plan
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a data management plan

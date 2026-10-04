@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: home-improvement
   source: https://hermes-ide.com/prompts/plan-room-layout
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a room layout

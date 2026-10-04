@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: photography
   source: https://hermes-ide.com/prompts/plan-portrait-shoot
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a portrait shoot

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: humor
   source: https://hermes-ide.com/prompts/write-limericks
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write limericks for an occasion

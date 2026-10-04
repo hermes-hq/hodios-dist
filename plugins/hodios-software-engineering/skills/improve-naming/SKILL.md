@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: refactoring
   source: https://hermes-ide.com/prompts/improve-naming
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Improve naming in code

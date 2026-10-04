@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: cooking
   source: https://hermes-ide.com/prompts/plan-bread-bake-schedule
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a bread bake schedule

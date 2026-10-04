@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: marketing-strategy
   source: https://hermes-ide.com/prompts/brainstorm-guerrilla-marketing
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Brainstorm guerrilla marketing ideas

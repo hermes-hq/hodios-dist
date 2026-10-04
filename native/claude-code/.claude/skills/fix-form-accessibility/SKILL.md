@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: accessibility
   source: https://hermes-ide.com/prompts/fix-form-accessibility
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Build or fix an accessible form

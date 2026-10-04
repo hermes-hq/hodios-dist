@@ -1,6 +1,6 @@
 {
   "name": "hodios-marketing-sales",
-  "version": "2026.1004.2",
+  "version": "2026.1004.3",
   "description": "Marketing and sales prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -135,6 +135,7 @@
     "discovery-questions",
     "dmarc",
     "domain-change",
+    "door-hanger",
     "earned-media",
     "ebay",
     "ecommerce-copy",
@@ -212,6 +213,7 @@
     "lead-magnet",
     "lead-qualification",
     "lead-scoring",
+    "leaflet-drop",
     "lifecycle-email",
     "lifecycle-marketing",
     "link-building",

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: product
   source: https://hermes-ide.com/prompts/refine-backlog-ticket
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Refine a backlog ticket

@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: people-management
   source: https://hermes-ide.com/prompts/leadership-coach
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Leadership coach

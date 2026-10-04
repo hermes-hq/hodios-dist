@@ -1,6 +1,6 @@
 {
   "name": "hodios-finance",
-  "version": "2026.1004.2",
+  "version": "2026.1004.3",
   "description": "Finance prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -35,7 +35,7 @@
     "budgeting",
     "capital-gains",
     "car-finance",
-    "caregiving",
+    "carers",
     "cash-collection",
     "cash-conversion-cycle",
     "cash-flow",
@@ -155,6 +155,7 @@
     "month-end",
     "mortgage",
     "mortgage-broker",
+    "moving-abroad",
     "net-pay",
     "net-worth",
     "new-baby",
@@ -186,7 +187,6 @@
     "reconciliation",
     "reconciliations",
     "record-keeping",
-    "relocation",
     "rent-vs-buy",
     "retirement-income",
     "risk-and-return",

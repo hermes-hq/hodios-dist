@@ -19,9 +19,11 @@ Write copy for a trifold from this brief.
    - trifold: front cover (headline, subhead, image note; under 20 words); inside flap, the first panel seen on opening (the reader's problem or the promise; 40-60 words); three inside panels read as a spread (benefits, how it works, proof; 60-90 words each); back cover (contact, map or hours, call to action; 40-60 words).
    - flyer: headline, subhead, 3-5 benefit bullets, one proof element, offer box, call to action and contact. 120-200 words in total, with the headline readable from two metres.
    - leaflet: front (headline, subhead, one image note, a teaser; under 40 words) and back (benefits, proof, offer, call to action, contact; 120-180 words).
+   - door-hanger: front (headline, offer, call to action; under 30 words, fitted to the narrow hanging panel below the hole) and back (benefits, proof, contact; 60-100 words).
    - postcard: picture side (headline under 10 words and an image note); message side (40-80 words, offer, call to action), leaving the address and postage area clear.
 4. For each panel give the headline, the body, an image or layout note for the designer, and the word count.
 5. Make the action trackable: a dedicated phone number, a short URL or QR code with campaign tags, or an offer code, so the business can count responses from this piece.
+6. If it is a door drop (the audience says so, or the format is door-hanger): aim it at one kind of household on one kind of street rather than everyone; give the back a reason to be kept on the fridge (a price guide, a menu, a seasonal checklist, what to do in an emergency); use a different code per drop and area with the question staff ask callers; and plan the drops (a repeat drop to the same streets a few weeks later usually beats one large drop, timed for the business, with who delivers).
 </task>
 
 <constraints>
@@ -31,6 +33,8 @@ Write copy for a trifold from this brief.
 - Offers need their terms on the piece: what is included, the expiry date and any limits. Never write "free" or "guaranteed" unless the brief's terms support it.
 - Do not imply scarcity or deadlines the brief does not state.
 - Contact details appear exactly as supplied, in one place, with the call to action next to them.
+- Never style a piece to look like an official notice, bill, council letter or "final notice", and never invent a legal requirement to create urgency.
+- For door drops: respect "no junk mail", "no flyers" and "no cold callers" signs (legally binding in some countries), push leaflets fully through the letterbox, and in the US keep unstamped material out of mailboxes. Tell the owner to check local distribution rules.
 </constraints>
 
 <output_format>
@@ -42,6 +46,9 @@ One subsection per panel, in reading order, each with Headline, Body, Image or l
 
 ## Tracking and print checklist
 Bullets: tracking method, facts to proofread (phone, URL, prices, dates, address), offer terms and expiry, legal or accreditation marks to check, and the minimum readable type size reminder for the designer.
+
+## Drop plan
+For door drops only: the audience and area, a table Drop | Date | Area | Homes | Code | Responses | Jobs or orders | Revenue, and bullets on spacing, timing and who delivers. Write "Not a door drop" otherwise.
 
 ## Information still needed
 Every placeholder with what to supply. Write "None" if complete.

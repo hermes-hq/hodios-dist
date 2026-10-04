@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: podcasting
   source: https://hermes-ide.com/prompts/write-guest-promo-kit
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a podcast guest promo kit

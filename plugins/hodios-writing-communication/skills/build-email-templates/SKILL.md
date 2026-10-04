@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: email
   source: https://hermes-ide.com/prompts/build-email-templates
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Build a personal email template library

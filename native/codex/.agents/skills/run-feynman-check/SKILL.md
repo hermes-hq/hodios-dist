@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: studying
   source: https://hermes-ide.com/prompts/run-feynman-check
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Run a Feynman check

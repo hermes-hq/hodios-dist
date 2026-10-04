@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: pet-care
   source: https://hermes-ide.com/prompts/plan-pet-enrichment
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan daily enrichment for a pet

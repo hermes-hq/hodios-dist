@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: music
   source: https://hermes-ide.com/prompts/write-song-lyrics
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write song lyrics

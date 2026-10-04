@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: editing
   source: https://hermes-ide.com/prompts/simplify-to-plain-language
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Simplify a text to plain language

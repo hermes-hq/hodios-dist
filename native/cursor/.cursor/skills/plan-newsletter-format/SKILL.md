@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: newsletters
   source: https://hermes-ide.com/prompts/plan-newsletter-format
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a newsletter format

@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: career-growth
   source: https://hermes-ide.com/prompts/parental-leave-return-track
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Return from parental leave track

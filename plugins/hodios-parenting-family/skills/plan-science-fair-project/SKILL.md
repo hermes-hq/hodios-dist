@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: kids-activities
   source: https://hermes-ide.com/prompts/plan-science-fair-project
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a science fair project

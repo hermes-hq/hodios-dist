@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: pet-care
   source: https://hermes-ide.com/prompts/prepare-vet-visit
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Prepare for a vet visit

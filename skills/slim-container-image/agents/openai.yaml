@@ -1,5 +1,0 @@
-interface:
-  display_name: Slim down a container image
-  short_description: Rewrites a Dockerfile for a smaller, faster, safer image with multi-stage builds, cache-friendly layers, pinned bases and a non-root user. Use when images are large, slow or flagged by scanners.
-policy:
-  allow_implicit_invocation: false

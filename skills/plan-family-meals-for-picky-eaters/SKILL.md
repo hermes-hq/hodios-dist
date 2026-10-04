@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: meal-planning
   source: https://hermes-ide.com/prompts/plan-family-meals-for-picky-eaters
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan family meals for picky eaters

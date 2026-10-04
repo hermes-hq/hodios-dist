@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: localization
   source: https://hermes-ide.com/prompts/review-translated-strings
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # QA a translated string catalog

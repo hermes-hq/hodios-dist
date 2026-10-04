@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: reporting
   source: https://hermes-ide.com/prompts/explain-metric-discrepancy
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Explain a metric discrepancy

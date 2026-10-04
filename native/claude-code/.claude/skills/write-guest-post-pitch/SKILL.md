@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: blogging
   source: https://hermes-ide.com/prompts/write-guest-post-pitch
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a guest post pitch

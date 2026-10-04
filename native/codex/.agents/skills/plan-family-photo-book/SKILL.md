@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: photography
   source: https://hermes-ide.com/prompts/plan-family-photo-book
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a family photo book

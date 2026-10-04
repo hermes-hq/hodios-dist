@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: product
   source: https://hermes-ide.com/prompts/write-acceptance-criteria
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write acceptance criteria

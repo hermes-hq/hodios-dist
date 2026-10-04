@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: tech-help
   source: https://hermes-ide.com/prompts/free-up-storage
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Free up storage

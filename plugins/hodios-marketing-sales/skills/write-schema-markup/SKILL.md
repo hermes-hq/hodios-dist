@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: seo
   source: https://hermes-ide.com/prompts/write-schema-markup
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write schema markup

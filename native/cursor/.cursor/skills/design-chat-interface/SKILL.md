@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: ui-design
   source: https://hermes-ide.com/prompts/design-chat-interface
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Design a conversational AI interface

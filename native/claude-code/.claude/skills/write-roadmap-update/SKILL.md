@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: roadmapping
   source: https://hermes-ide.com/prompts/write-roadmap-update
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a roadmap update

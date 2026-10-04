@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: mental-health
   source: https://hermes-ide.com/prompts/build-coping-plan
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Build a coping plan

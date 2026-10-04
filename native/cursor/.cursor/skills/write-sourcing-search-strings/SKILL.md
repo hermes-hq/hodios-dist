@@ -3,11 +3,11 @@ name: write-sourcing-search-strings
 description: Writes Boolean and X-ray search strings for LinkedIn, GitHub and web search from a job profile, with synonyms, exclusions, broad and narrow variants and tuning tips. Use when sourcing candidates.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: hiring
   source: https://hermes-ide.com/prompts/write-sourcing-search-strings
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write sourcing search strings
@@ -35,7 +35,7 @@ Platforms: [PLATFORMS]
    - Core skills: the two or three must-haves expressed as the terms people write, with synonyms and abbreviations grouped.
    - Context signals: industries, domains or achievements that indicate fit.
    - Exclusions: noise terms (hiring, recruiter, jobs, intern, student, if appropriate) and excluded companies.
-2. Write strings for each platform in [PLATFORMS], each in a code block:
+2. Write strings for each platform in [PLATFORMS] that fits the role, each in a code block. If a platform is a poor fit (for example GitHub for a sales, finance or healthcare role, where few candidates have public profiles), skip it in one line and name a better source of public profiles for this role, such as a professional register, association directory or portfolio site, with a web X-ray string for it.
    - LinkedIn keyword search: Boolean with uppercase AND, OR, NOT, quotation marks for phrases and parentheses for groups; note which parts belong in the title or company filters instead of the keyword box when using Recruiter.
    - GitHub user search: qualifiers such as type:user, language:, location:, followers:> and repos:>, plus bio keywords, noting that many strong people have little public code.
    - Web X-ray (Google or Bing): site: targeting public profile URLs or portfolio sites, with exclusions for directory and job pages, kept under the engine's word limit.

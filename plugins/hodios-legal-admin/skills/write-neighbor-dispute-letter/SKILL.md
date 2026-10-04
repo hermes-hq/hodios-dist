@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: legal-correspondence
   source: https://hermes-ide.com/prompts/write-neighbor-dispute-letter
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a letter to a neighbour about a dispute

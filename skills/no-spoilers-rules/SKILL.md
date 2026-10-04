@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: assistant-setup
   source: https://hermes-ide.com/prompts/no-spoilers-rules
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # No-spoilers rules

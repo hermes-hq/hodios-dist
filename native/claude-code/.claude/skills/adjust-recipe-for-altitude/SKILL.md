@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: cooking
   source: https://hermes-ide.com/prompts/adjust-recipe-for-altitude
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Adjust a recipe for high altitude

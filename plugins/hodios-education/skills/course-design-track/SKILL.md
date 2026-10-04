@@ -11,7 +11,7 @@ metadata:
   kind: workflow
   category: course-design
   source: https://hermes-ide.com/prompts/course-design-track
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Course design track

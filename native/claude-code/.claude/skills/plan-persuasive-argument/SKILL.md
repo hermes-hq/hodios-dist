@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: interpersonal-communication
   source: https://hermes-ide.com/prompts/plan-persuasive-argument
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a persuasive argument

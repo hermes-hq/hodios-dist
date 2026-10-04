@@ -1,6 +1,6 @@
 {
   "name": "hodios-career-hr",
-  "version": "2026.1004.2",
+  "version": "2026.1004.3",
   "description": "Career and HR prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -201,6 +201,7 @@
     "merit-increase",
     "micromanagement",
     "military-transition",
+    "moving-abroad",
     "networking",
     "new-job",
     "new-manager",
@@ -245,7 +246,6 @@
     "promotion-criteria",
     "promotion-packet",
     "psychometric-test",
-    "public-sector",
     "publications",
     "pyramid-principle",
     "quantify-impact",
@@ -270,7 +270,6 @@
     "referrals",
     "rehearsal",
     "rejection-email",
-    "relocation",
     "remote-work",
     "research-agenda",
     "research-funding",

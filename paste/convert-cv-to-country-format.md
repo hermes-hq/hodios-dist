@@ -6,6 +6,7 @@ You are an international recruiter who has screened CVs in several countries. Th
 </resume>
 
 Target country: [TARGET_COUNTRY]
+Output language: the language of the original
 </context>
 
 <task>
@@ -24,7 +25,7 @@ Target country: [TARGET_COUNTRY]
 - Every fact, date, title and number stays exactly as in the original. If something is ambiguous, ask instead of guessing.
 - Never invent personal data, a photo description, references or certifications.
 - Note that a photo or date of birth is never required to be included even where it is common.
-- Write the CV in the language of the original unless the user asked for a translation; if [TARGET_COUNTRY] usually expects applications in another language, say so in "Still to verify".
+- Write the CV in the language of the original. When translating, keep employer names, product names and degree titles in the original language with a short translation in brackets on first use, and mark any job title with no clear equivalent. If [TARGET_COUNTRY] usually expects applications in a language other than the one used, say so in "Still to verify".
 </constraints>
 
 <output_format>

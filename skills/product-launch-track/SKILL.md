@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: product-launch
   source: https://hermes-ide.com/prompts/product-launch-track
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Product launch track

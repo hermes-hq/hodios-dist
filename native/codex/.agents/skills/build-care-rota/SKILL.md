@@ -5,9 +5,9 @@ license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: prompt
-  category: family-logistics
+  category: caregiving
   source: https://hermes-ide.com/prompts/build-care-rota
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Build a family care rota

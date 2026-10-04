@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: reporting
   source: https://hermes-ide.com/prompts/define-metric
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Define a metric

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fact-checking
   source: https://hermes-ide.com/prompts/check-health-claim
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Check a health or nutrition claim

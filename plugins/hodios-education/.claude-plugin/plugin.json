@@ -1,6 +1,6 @@
 {
   "name": "hodios-education",
-  "version": "2026.1004.2",
+  "version": "2026.1004.3",
   "description": "Learning and education prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -222,6 +222,7 @@
     "historiography",
     "holiday-club",
     "home-education",
+    "home-learning",
     "homeschooling",
     "homework",
     "human-geography",

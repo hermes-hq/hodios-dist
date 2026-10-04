@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: entrepreneurship
   source: https://hermes-ide.com/prompts/start-freelance-business
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Start a freelance business

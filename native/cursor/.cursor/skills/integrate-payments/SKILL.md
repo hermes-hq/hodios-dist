@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: implementation
   source: https://hermes-ide.com/prompts/integrate-payments
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Integrate payments

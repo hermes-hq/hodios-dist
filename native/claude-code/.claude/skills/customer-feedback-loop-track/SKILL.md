@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: user-feedback
   source: https://hermes-ide.com/prompts/customer-feedback-loop-track
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Customer feedback loop track

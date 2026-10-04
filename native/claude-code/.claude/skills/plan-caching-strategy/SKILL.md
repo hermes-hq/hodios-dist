@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: performance
   source: https://hermes-ide.com/prompts/plan-caching-strategy
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a caching strategy

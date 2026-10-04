@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: compliance
   source: https://hermes-ide.com/prompts/assess-ai-act-obligations
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Assess EU AI Act obligations

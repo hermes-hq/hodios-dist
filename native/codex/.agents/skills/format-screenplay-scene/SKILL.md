@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: screenwriting
   source: https://hermes-ide.com/prompts/format-screenplay-scene
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Format a screenplay scene

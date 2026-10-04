@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: blogging
   source: https://hermes-ide.com/prompts/write-blog-post-draft
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a blog post draft

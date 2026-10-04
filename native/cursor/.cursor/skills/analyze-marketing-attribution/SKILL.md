@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/analyze-marketing-attribution
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Compare marketing attribution models

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: migration
   source: https://hermes-ide.com/prompts/migrate-javascript-to-typescript
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Migrate JavaScript to TypeScript

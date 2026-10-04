@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/write-report-card-comments
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write report card comments

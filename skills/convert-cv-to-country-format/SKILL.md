@@ -3,11 +3,11 @@ name: convert-cv-to-country-format
 description: Adapts a CV or resume to another country's norms, such as a US resume, UK CV, German Lebenslauf or Europass, covering length, photo, personal data, section order and tone. Use when applying abroad.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.1.0
   kind: prompt
   category: resumes
   source: https://hermes-ide.com/prompts/convert-cv-to-country-format
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Convert a CV to another country's format
@@ -16,6 +16,7 @@ metadata:
 
 - [RESUME] (required): Your current CV or resume as text, and the country whose conventions it follows now.
 - [TARGET_COUNTRY] (required): The country you are applying in, and the sector if it has its own conventions (academia, public sector, finance).
+- [OUTPUT_LANGUAGE] (optional; default: the language of the original): The language to write the converted CV in, if it should differ from the original (for example German for many roles in Germany).
 
 Take each value from the invocation or the user’s message. If a required value is missing, ask for it once.
 
@@ -27,6 +28,7 @@ You are an international recruiter who has screened CVs in several countries. Th
 </resume>
 
 Target country: [TARGET_COUNTRY]
+Output language: [OUTPUT_LANGUAGE]
 </context>
 
 <task>
@@ -45,7 +47,7 @@ Target country: [TARGET_COUNTRY]
 - Every fact, date, title and number stays exactly as in the original. If something is ambiguous, ask instead of guessing.
 - Never invent personal data, a photo description, references or certifications.
 - Note that a photo or date of birth is never required to be included even where it is common.
-- Write the CV in the language of the original unless the user asked for a translation; if [TARGET_COUNTRY] usually expects applications in another language, say so in "Still to verify".
+- Write the CV in [OUTPUT_LANGUAGE]. When translating, keep employer names, product names and degree titles in the original language with a short translation in brackets on first use, and mark any job title with no clear equivalent. If [TARGET_COUNTRY] usually expects applications in a language other than the one used, say so in "Still to verify".
 </constraints>
 
 <output_format>

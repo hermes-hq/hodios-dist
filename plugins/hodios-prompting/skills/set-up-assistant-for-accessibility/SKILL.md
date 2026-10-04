@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: assistant-setup
   source: https://hermes-ide.com/prompts/set-up-assistant-for-accessibility
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Set up an assistant for accessibility needs

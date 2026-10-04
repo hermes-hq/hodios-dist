@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: translation
   source: https://hermes-ide.com/prompts/transcreate-marketing-copy
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Transcreate marketing copy

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: advertising
   source: https://hermes-ide.com/prompts/plan-local-advertising
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan local advertising for a small business

@@ -9,11 +9,11 @@ arguments:
 argument-hint: <questions> <candidate_background> [job_posting]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: job-search
   source: https://hermes-ide.com/prompts/answer-application-questions
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Answer job application questions
@@ -50,8 +50,8 @@ $job_posting
    - Motivation and "why us": two or three reasons specific to this employer and role, each tied to something in the posting or the candidate's own history. If no genuine specific reason is available, write a placeholder sentence and ask for one instead of inventing praise.
    - Situational: the approach, the trade-off considered, and the first concrete step.
    - Knockout questions: answer factually from the background; for salary, give the user a range question to research rather than a number.
-4. Respect each limit. Aim for 85 to 100 percent of a word limit; for a character limit, count characters including spaces. If no limit is given, keep the answer to 150 to 250 words and say you assumed it.
-5. After each answer, give its word count and one line on what makes it specific.
+4. Respect each limit. Aim for 85 to 100 percent of a word limit; for a character limit, aim for 85 to 95 percent, counting spaces and punctuation, because forms cut off at the limit. If no limit is given, keep the answer to 150 to 250 words and say you assumed it.
+5. After each answer, give its length in the form's own unit (words or characters) as an estimate, and one line on what makes it specific. Tell the user once to confirm each length with the form's counter or a word counter before pasting, since your counts can be off by a few percent.
 </task>
 
 <constraints>
@@ -65,7 +65,7 @@ $job_posting
 ## Plan
 Table: Question | Type | What it tests | Evidence chosen.
 ## Answers
-For each question: the question in bold, the answer, then "Words: N of limit" and one line on what makes it specific.
+For each question: the question in bold, the answer, then "Length: about N words of limit" or "Length: about N characters of limit", and one line on what makes it specific.
 ## Gaps to fill
 Numbered questions for the user, each saying which answer it would strengthen.
 </output_format>

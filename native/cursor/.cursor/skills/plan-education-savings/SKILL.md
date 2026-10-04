@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: financial-planning
   source: https://hermes-ide.com/prompts/plan-education-savings
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan saving for a child's education

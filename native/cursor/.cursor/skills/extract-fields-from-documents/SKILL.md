@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/extract-fields-from-documents
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Extract fields from documents into a table

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: career-growth
   source: https://hermes-ide.com/prompts/plan-transition-to-manager
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan your move to first-time manager

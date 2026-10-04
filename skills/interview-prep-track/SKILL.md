@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: interview-prep
   source: https://hermes-ide.com/prompts/interview-prep-track
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Interview prep track

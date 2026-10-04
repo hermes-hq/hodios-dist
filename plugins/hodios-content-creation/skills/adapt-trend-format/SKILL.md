@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: video
   source: https://hermes-ide.com/prompts/adapt-trend-format
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Adapt a trend to your niche

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fiction
   source: https://hermes-ide.com/prompts/punch-up-dialogue
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Punch up dialogue

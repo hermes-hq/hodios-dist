@@ -1,5 +1,5 @@
 interface:
   display_name: Write a classroom newsletter
-  short_description: Writes a weekly or monthly classroom newsletter for families covering what students learned, how to help at home, dates and reminders, readable on a phone and easy to translate.
+  short_description: Writes a weekly or monthly class newsletter for families with what students learned and a question to ask at home, a five-minute home activity, dates to act on and a short message version.
 policy:
   allow_implicit_invocation: false

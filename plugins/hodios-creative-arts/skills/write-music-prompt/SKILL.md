@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: music
   source: https://hermes-ide.com/prompts/write-music-prompt
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a prompt for an AI music generator

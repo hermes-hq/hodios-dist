@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: newsletters
   source: https://hermes-ide.com/prompts/grow-newsletter
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Grow a newsletter

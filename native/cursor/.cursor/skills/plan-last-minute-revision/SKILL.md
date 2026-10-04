@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: exam-prep
   source: https://hermes-ide.com/prompts/plan-last-minute-revision
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan last-minute revision

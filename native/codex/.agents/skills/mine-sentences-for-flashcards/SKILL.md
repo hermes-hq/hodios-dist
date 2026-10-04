@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: language-learning
   source: https://hermes-ide.com/prompts/mine-sentences-for-flashcards
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Mine sentences for flashcards

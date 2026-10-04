@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fiction
   source: https://hermes-ide.com/prompts/draft-scene-from-beats
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Draft a scene from beats

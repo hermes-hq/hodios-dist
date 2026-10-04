@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: family-logistics
   source: https://hermes-ide.com/prompts/write-house-sitter-guide
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a house, pet or babysitter guide

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: conversation-practice
   source: https://hermes-ide.com/prompts/practice-small-talk
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Practise small talk

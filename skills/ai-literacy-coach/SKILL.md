@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: prompt-engineering
   source: https://hermes-ide.com/prompts/ai-literacy-coach
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # AI literacy coach

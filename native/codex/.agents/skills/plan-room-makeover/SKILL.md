@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: home-improvement
   source: https://hermes-ide.com/prompts/plan-room-makeover
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a room makeover

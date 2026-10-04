@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: photography
   source: https://hermes-ide.com/prompts/plan-photography-learning
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan learning photography

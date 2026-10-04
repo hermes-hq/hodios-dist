@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: fitness
   source: https://hermes-ide.com/prompts/design-yoga-sequence
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Design a yoga sequence

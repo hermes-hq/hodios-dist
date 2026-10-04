@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: fundraising
   source: https://hermes-ide.com/prompts/nonprofit-advisor
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Nonprofit advisor

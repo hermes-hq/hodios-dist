@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: migration
   source: https://hermes-ide.com/prompts/migrate-test-framework-track
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Migrate a test suite to another framework

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: localization
   source: https://hermes-ide.com/prompts/build-localization-glossary
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Build a localization glossary

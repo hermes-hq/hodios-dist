@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: vehicles
   source: https://hermes-ide.com/prompts/plan-learner-driver-practice
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan learner driver practice

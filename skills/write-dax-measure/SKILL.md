@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: reporting
   source: https://hermes-ide.com/prompts/write-dax-measure
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a DAX measure

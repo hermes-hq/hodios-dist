@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fitness
   source: https://hermes-ide.com/prompts/assess-fitness-baseline
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Assess your fitness baseline

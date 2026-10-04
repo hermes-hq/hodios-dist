@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: photography
   source: https://hermes-ide.com/prompts/edit-photo-step-by-step
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Edit a photo step by step

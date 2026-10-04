@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: business-strategy
   source: https://hermes-ide.com/prompts/prioritize-strategic-initiatives
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Prioritise strategic initiatives

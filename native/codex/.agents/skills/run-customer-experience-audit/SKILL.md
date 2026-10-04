@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: operations
   source: https://hermes-ide.com/prompts/run-customer-experience-audit
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Run a customer experience audit

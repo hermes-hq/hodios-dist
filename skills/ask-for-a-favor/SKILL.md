@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: interpersonal-communication
   source: https://hermes-ide.com/prompts/ask-for-a-favor
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Ask for a favour

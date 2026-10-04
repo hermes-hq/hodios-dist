@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: seo
   source: https://hermes-ide.com/prompts/build-internal-linking-plan
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Build an internal linking plan

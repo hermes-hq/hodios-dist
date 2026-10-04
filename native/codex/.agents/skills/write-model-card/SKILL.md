@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: ai-ml
   source: https://hermes-ide.com/prompts/write-model-card
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a model card

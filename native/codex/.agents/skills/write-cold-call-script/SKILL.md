@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: sales
   source: https://hermes-ide.com/prompts/write-cold-call-script
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a cold call script

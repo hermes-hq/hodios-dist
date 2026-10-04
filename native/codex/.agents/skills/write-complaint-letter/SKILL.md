@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: legal-correspondence
   source: https://hermes-ide.com/prompts/write-complaint-letter
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a complaint or demand letter

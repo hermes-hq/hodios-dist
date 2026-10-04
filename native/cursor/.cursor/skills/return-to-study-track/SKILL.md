@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: decision-making
   source: https://hermes-ide.com/prompts/return-to-study-track
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Return to study track

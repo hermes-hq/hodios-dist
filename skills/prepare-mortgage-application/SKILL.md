@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: financial-planning
   source: https://hermes-ide.com/prompts/prepare-mortgage-application
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Prepare a mortgage application

@@ -12,7 +12,7 @@ metadata:
   kind: workflow
   category: fitness
   source: https://hermes-ide.com/prompts/fitness-program-track
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Fitness programme track

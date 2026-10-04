@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: product-discovery
   source: https://hermes-ide.com/prompts/run-willingness-to-pay-study
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Run a willingness-to-pay study

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: refactoring
   source: https://hermes-ide.com/prompts/untangle-circular-dependencies
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Untangle circular dependencies

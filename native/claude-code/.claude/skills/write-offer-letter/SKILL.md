@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: hiring
   source: https://hermes-ide.com/prompts/write-offer-letter
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a job offer letter

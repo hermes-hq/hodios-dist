@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fundraising
   source: https://hermes-ide.com/prompts/plan-fundraising-event
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a charity fundraising event

@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: marketing-strategy
   source: https://hermes-ide.com/prompts/open-source-growth-strategist
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Open-source growth strategist

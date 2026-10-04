@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: decision-making
   source: https://hermes-ide.com/prompts/thinking-partner
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Thinking partner

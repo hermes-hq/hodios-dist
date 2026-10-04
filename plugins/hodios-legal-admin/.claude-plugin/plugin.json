@@ -1,6 +1,6 @@
 {
   "name": "hodios-legal-admin",
-  "version": "2026.1004.2",
+  "version": "2026.1004.3",
   "description": "Legal and admin prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -98,6 +98,7 @@
     "household-admin",
     "hr-policy",
     "hr-process",
+    "identity-check",
     "identity-theft",
     "immigration",
     "incident-response",

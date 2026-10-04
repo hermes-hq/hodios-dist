@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: nutrition
   source: https://hermes-ide.com/prompts/plan-nutrition-targets
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan nutrition targets

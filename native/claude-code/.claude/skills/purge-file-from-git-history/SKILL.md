@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: git
   source: https://hermes-ide.com/prompts/purge-file-from-git-history
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Purge a file from git history

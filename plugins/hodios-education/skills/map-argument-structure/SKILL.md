@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: tutoring
   source: https://hermes-ide.com/prompts/map-argument-structure
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Map an argument's structure

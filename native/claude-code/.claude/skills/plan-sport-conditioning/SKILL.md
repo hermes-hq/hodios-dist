@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: fitness
   source: https://hermes-ide.com/prompts/plan-sport-conditioning
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan sport conditioning

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: email-marketing
   source: https://hermes-ide.com/prompts/write-event-email-sequence
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write an event email sequence

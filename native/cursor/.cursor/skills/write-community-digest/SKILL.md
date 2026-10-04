@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: newsletters
   source: https://hermes-ide.com/prompts/write-community-digest
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a community digest

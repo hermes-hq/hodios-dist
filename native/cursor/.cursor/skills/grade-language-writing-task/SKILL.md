@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: language-learning
   source: https://hermes-ide.com/prompts/grade-language-writing-task
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Grade a language-exam writing task

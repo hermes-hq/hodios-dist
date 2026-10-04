@@ -5,9 +5,9 @@ license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: prompt
-  category: relationships
+  category: event-planning
   source: https://hermes-ide.com/prompts/plan-wedding
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a wedding

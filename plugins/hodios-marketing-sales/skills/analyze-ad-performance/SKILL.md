@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: advertising
   source: https://hermes-ide.com/prompts/analyze-ad-performance
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Analyse ad performance

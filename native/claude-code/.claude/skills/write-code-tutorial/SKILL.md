@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: docs
   source: https://hermes-ide.com/prompts/write-code-tutorial
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a step-by-step code tutorial

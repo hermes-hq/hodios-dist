@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: literature-review
   source: https://hermes-ide.com/prompts/literature-review-track
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Literature review track

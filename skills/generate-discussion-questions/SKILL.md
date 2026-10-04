@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/generate-discussion-questions
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Generate discussion questions

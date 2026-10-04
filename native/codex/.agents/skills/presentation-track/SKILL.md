@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: presentations
   source: https://hermes-ide.com/prompts/presentation-track
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Presentation track

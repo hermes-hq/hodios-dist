@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: video
   source: https://hermes-ide.com/prompts/plan-video-series
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a video series

@@ -1,6 +1,6 @@
 {
   "name": "hodios-software-engineering",
-  "version": "2026.1004.2",
+  "version": "2026.1004.3",
   "description": "Software engineering prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -767,7 +767,6 @@
     "success-metrics",
     "sunset",
     "supervision-trees",
-    "supply-chain",
     "support-deflection",
     "symbolication",
     "synthetic-data",

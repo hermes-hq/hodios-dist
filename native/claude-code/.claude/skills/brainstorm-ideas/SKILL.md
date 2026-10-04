@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: brainstorming
   source: https://hermes-ide.com/prompts/brainstorm-ideas
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Brainstorm ideas

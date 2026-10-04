@@ -5,9 +5,9 @@ license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: prompt
-  category: family-logistics
+  category: caregiving
   source: https://hermes-ide.com/prompts/plan-parent-care-conversation
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a care conversation with an ageing parent

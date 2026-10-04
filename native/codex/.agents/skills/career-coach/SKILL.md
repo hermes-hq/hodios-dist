@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: career-growth
   source: https://hermes-ide.com/prompts/career-coach
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Career coach

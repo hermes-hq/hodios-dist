@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: tutoring
   source: https://hermes-ide.com/prompts/coach-personal-statement
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Coach a personal statement

@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: research-methods
   source: https://hermes-ide.com/prompts/lab-manager
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Lab manager

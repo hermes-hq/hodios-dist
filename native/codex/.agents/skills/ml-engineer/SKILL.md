@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: ai-ml
   source: https://hermes-ide.com/prompts/ml-engineer
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Machine-learning engineer

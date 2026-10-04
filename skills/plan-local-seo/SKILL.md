@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: seo
   source: https://hermes-ide.com/prompts/plan-local-seo
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan local SEO

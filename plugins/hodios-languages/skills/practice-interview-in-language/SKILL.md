@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: conversation-practice
   source: https://hermes-ide.com/prompts/practice-interview-in-language
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Practise a job interview in a foreign language

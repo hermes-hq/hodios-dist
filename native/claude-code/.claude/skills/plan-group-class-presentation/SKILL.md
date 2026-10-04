@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: presentations
   source: https://hermes-ide.com/prompts/plan-group-class-presentation
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a group class presentation

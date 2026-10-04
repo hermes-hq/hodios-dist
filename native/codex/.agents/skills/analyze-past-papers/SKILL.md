@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: exam-prep
   source: https://hermes-ide.com/prompts/analyze-past-papers
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Analyse past exam papers

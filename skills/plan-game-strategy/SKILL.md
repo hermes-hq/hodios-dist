@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: video-games
   source: https://hermes-ide.com/prompts/plan-game-strategy
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a game strategy

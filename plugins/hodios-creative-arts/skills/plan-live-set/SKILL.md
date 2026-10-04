@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: music
   source: https://hermes-ide.com/prompts/plan-live-set
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a live set

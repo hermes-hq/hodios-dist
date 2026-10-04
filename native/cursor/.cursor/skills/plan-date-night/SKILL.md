@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: relationships
   source: https://hermes-ide.com/prompts/plan-date-night
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan date nights

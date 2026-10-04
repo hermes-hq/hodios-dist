@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: incident
   source: https://hermes-ide.com/prompts/build-incident-timeline
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Build an incident timeline

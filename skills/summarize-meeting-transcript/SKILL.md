@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: meetings
   source: https://hermes-ide.com/prompts/summarize-meeting-transcript
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Summarise a meeting transcript

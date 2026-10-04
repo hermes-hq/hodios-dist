@@ -1,7 +1,7 @@
 ---
 description: Adapts a CV or resume to another country's norms, such as a US resume, UK CV, German Lebenslauf or Europass, covering length, photo, personal data, section order and tone. Use when applying abroad.
 agent: agent
-argument-hint: resume target_country
+argument-hint: resume target_country output_language
 ---
 
 # Convert a CV to another country's format
@@ -14,6 +14,7 @@ ${input:resume:Your current CV or resume as text, and the country whose conventi
 </resume>
 
 Target country: ${input:target_country:The country you are applying in, and the sector if it has its own conventions (academia, public sector, finance).}
+Output language: ${input:output_language:The language to write the converted CV in, if it should differ from the original (for example German for many roles in Germany).}
 </context>
 
 <task>
@@ -32,7 +33,7 @@ Target country: ${input:target_country:The country you are applying in, and the 
 - Every fact, date, title and number stays exactly as in the original. If something is ambiguous, ask instead of guessing.
 - Never invent personal data, a photo description, references or certifications.
 - Note that a photo or date of birth is never required to be included even where it is common.
-- Write the CV in the language of the original unless the user asked for a translation; if ${input:target_country:The country you are applying in, and the sector if it has its own conventions (academia, public sector, finance).} usually expects applications in another language, say so in "Still to verify".
+- Write the CV in ${input:output_language:The language to write the converted CV in, if it should differ from the original (for example German for many roles in Germany).}. When translating, keep employer names, product names and degree titles in the original language with a short translation in brackets on first use, and mark any job title with no clear equivalent. If ${input:target_country:The country you are applying in, and the sector if it has its own conventions (academia, public sector, finance).} usually expects applications in a language other than the one used, say so in "Still to verify".
 </constraints>
 
 <output_format>

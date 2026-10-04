@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: interpersonal-communication
   source: https://hermes-ide.com/prompts/set-boundary
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Set a boundary

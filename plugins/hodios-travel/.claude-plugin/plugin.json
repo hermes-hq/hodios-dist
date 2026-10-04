@@ -1,6 +1,6 @@
 {
   "name": "hodios-travel",
-  "version": "2026.1004.2",
+  "version": "2026.1004.3",
   "description": "Travel prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -136,7 +136,6 @@
     "public-transport",
     "rail-travel",
     "rainy-day-plans",
-    "relocation",
     "remote-work",
     "respectful-travel",
     "responsible-travel",

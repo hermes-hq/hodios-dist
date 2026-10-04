@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: visual-art
   source: https://hermes-ide.com/prompts/choose-art-supplies
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Choose art supplies

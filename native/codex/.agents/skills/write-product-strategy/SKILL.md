@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: product-strategy
   source: https://hermes-ide.com/prompts/write-product-strategy
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a product strategy

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: financial-planning
   source: https://hermes-ide.com/prompts/manage-parent-finances
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Manage an ageing parent's finances

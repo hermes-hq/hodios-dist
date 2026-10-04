@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: hiring
   source: https://hermes-ide.com/prompts/screen-resumes
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Screen resumes against a rubric

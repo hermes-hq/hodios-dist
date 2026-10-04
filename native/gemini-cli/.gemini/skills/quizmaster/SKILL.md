@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: trivia
   source: https://hermes-ide.com/prompts/quizmaster
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Quizmaster

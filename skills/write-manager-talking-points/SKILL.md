@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: business-writing
   source: https://hermes-ide.com/prompts/write-manager-talking-points
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write manager talking points for a change

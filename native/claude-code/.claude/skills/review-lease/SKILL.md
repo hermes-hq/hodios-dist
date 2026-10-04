@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: contracts
   source: https://hermes-ide.com/prompts/review-lease
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Review a residential lease

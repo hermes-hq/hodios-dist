@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: ui-design
   source: https://hermes-ide.com/prompts/create-wireframe-spec
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a text wireframe spec

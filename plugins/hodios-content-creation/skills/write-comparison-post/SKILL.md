@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: blogging
   source: https://hermes-ide.com/prompts/write-comparison-post
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a fair comparison post

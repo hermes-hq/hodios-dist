@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: course-design
   source: https://hermes-ide.com/prompts/design-capstone-project
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Design a higher-education capstone

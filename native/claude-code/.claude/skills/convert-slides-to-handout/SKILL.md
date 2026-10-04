@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: presentations
   source: https://hermes-ide.com/prompts/convert-slides-to-handout
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Convert slides into a handout

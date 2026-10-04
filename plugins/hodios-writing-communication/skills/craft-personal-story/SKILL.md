@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: public-speaking
   source: https://hermes-ide.com/prompts/craft-personal-story
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Craft a personal story

@@ -5,9 +5,9 @@ license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: workflow
-  category: task-management
+  category: event-planning
   source: https://hermes-ide.com/prompts/community-event-planning-track
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Community event planning track

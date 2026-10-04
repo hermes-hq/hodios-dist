@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: interview-prep
   source: https://hermes-ide.com/prompts/prepare-system-design-interview
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Prepare for a system design interview

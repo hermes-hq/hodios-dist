@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: course-design
   source: https://hermes-ide.com/prompts/design-microlearning-series
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Design a microlearning series

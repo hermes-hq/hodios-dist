@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: cooking
   source: https://hermes-ide.com/prompts/plan-dinner-party-menu
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a dinner party menu

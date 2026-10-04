@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: customer-support
   source: https://hermes-ide.com/prompts/write-help-center-article
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a help-centre article

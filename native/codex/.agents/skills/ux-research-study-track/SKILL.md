@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: ux-research
   source: https://hermes-ide.com/prompts/ux-research-study-track
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # UX research study track

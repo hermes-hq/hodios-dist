@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: interpersonal-communication
   source: https://hermes-ide.com/prompts/give-upward-feedback
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Give feedback to your manager

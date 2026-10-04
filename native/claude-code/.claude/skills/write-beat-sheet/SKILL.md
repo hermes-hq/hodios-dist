@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: screenwriting
   source: https://hermes-ide.com/prompts/write-beat-sheet
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a beat sheet

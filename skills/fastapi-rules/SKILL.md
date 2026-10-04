@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: conventions
   source: https://hermes-ide.com/prompts/fastapi-rules
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # FastAPI rules

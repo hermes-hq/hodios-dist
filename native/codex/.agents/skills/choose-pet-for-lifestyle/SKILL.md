@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: pet-care
   source: https://hermes-ide.com/prompts/choose-pet-for-lifestyle
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Choose a pet that fits your life

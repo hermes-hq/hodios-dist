@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: video
   source: https://hermes-ide.com/prompts/plan-livestream-run-of-show
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a livestream run of show

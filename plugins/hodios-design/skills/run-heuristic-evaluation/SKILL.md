@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: ux-research
   source: https://hermes-ide.com/prompts/run-heuristic-evaluation
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Run a heuristic evaluation

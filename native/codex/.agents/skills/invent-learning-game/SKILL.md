@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: kids-activities
   source: https://hermes-ide.com/prompts/invent-learning-game
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Invent a learning game

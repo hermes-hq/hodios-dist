@@ -7,7 +7,7 @@ metadata:
   kind: style
   category: output-styles
   source: https://hermes-ide.com/prompts/screen-reader-friendly
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Screen-reader-friendly

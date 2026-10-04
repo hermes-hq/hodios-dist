@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/write-lesson-plan
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a lesson plan

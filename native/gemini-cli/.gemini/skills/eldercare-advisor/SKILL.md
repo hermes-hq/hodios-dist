@@ -5,9 +5,9 @@ license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: persona
-  category: family-logistics
+  category: caregiving
   source: https://hermes-ide.com/prompts/eldercare-advisor
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Eldercare advisor

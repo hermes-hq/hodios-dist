@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: job-search
   source: https://hermes-ide.com/prompts/address-selection-criteria
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Address selection criteria

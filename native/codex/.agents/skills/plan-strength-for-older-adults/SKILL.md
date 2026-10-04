@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fitness
   source: https://hermes-ide.com/prompts/plan-strength-for-older-adults
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan strength and balance training for older adults

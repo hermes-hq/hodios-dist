@@ -5,14 +5,15 @@ license: CC0-1.0
 arguments:
   - resume
   - target_country
-argument-hint: <resume> <target_country>
+  - output_language
+argument-hint: <resume> <target_country> [output_language]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.1.0
   kind: prompt
   category: resumes
   source: https://hermes-ide.com/prompts/convert-cv-to-country-format
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Convert a CV to another country's format
@@ -21,6 +22,7 @@ metadata:
 
 - `resume` (required): Your current CV or resume as text, and the country whose conventions it follows now.
 - `target_country` (required): The country you are applying in, and the sector if it has its own conventions (academia, public sector, finance).
+- `output_language` (optional; default: the language of the original): The language to write the converted CV in, if it should differ from the original (for example German for many roles in Germany).
 
 Arguments fill these in order. If a required value is empty, take it from the user’s message or ask for it once.
 
@@ -32,6 +34,7 @@ $resume
 </resume>
 
 Target country: $target_country
+Output language: $output_language
 </context>
 
 <task>
@@ -50,7 +53,7 @@ Target country: $target_country
 - Every fact, date, title and number stays exactly as in the original. If something is ambiguous, ask instead of guessing.
 - Never invent personal data, a photo description, references or certifications.
 - Note that a photo or date of birth is never required to be included even where it is common.
-- Write the CV in the language of the original unless the user asked for a translation; if $target_country usually expects applications in another language, say so in "Still to verify".
+- Write the CV in $output_language. When translating, keep employer names, product names and degree titles in the original language with a short translation in brackets on first use, and mark any job title with no clear equivalent. If $target_country usually expects applications in a language other than the one used, say so in "Still to verify".
 </constraints>
 
 <output_format>

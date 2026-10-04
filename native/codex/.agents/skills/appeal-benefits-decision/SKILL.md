@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: legal-correspondence
   source: https://hermes-ide.com/prompts/appeal-benefits-decision
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Appeal a benefits decision

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: marketing-strategy
   source: https://hermes-ide.com/prompts/design-referral-program
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Design a referral programme

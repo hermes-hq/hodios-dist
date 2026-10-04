@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: presentations
   source: https://hermes-ide.com/prompts/plan-slide-visuals
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan slide visuals

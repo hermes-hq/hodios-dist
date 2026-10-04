@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: investing
   source: https://hermes-ide.com/prompts/check-portfolio-diversification
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Check portfolio diversification

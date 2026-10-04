@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: social-media
   source: https://hermes-ide.com/prompts/social-media-manager
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Social media manager

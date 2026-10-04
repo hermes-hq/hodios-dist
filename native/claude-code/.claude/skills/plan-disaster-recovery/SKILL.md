@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: devops
   source: https://hermes-ide.com/prompts/plan-disaster-recovery
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan backups and disaster recovery
@@ -33,10 +33,10 @@ Disaster-recovery plans fail on the things nobody listed: backups that were neve
 <task>
 Write a backup and disaster-recovery plan for:
 $system
-Recovery point objective: Only if rpo was provided: $rpo
-Recovery time objective: Only if rto was provided: $rto
+Only if rpo was provided: Recovery point objective (maximum data loss): $rpo
+Only if rto was provided: Recovery time objective (maximum time to restore): $rto
 
-1. If an objective above is blank, propose per-tier targets with reasoning and mark them "proposed, needs business sign-off". Do not present them as decided.
+1. If a recovery point objective or a recovery time objective is not stated above, propose per-tier targets for whichever is missing with reasoning and mark them "proposed, needs business sign-off". Do not present them as decided.
 2. Inventory every component and data store. Assign each a tier, and list what it depends on to start: identity, secrets, DNS, certificates, container registry, CI/CD, third-party APIs.
 3. Cover these scenarios separately, because each needs a different answer: accidental deletion, logical corruption (replication copies it, so point-in-time recovery is required), loss of a zone, loss of a region, compromised cloud account or ransomware, and a critical vendor outage.
 4. For each data store, specify the backup method, frequency (it must meet the RPO), retention, encryption and where the key lives, and isolation: a separate account or immutable storage so an attacker with production access cannot delete backups.

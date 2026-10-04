@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: kids-activities
   source: https://hermes-ide.com/prompts/plan-family-game-night
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a family game night

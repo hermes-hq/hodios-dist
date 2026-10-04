@@ -7,7 +7,7 @@ metadata:
   kind: style
   category: output-styles
   source: https://hermes-ide.com/prompts/plain
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plain language

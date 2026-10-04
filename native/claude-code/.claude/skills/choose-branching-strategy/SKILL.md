@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: git
   source: https://hermes-ide.com/prompts/choose-branching-strategy
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Choose a branching strategy

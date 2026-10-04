@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: statistics
   source: https://hermes-ide.com/prompts/make-fermi-estimate
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Make a Fermi estimate

@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: writing
   source: https://hermes-ide.com/prompts/write-tech-blog-post
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a technical blog post

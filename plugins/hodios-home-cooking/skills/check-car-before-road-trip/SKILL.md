@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: vehicles
   source: https://hermes-ide.com/prompts/check-car-before-road-trip
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Check a car before a road trip

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: statistics
   source: https://hermes-ide.com/prompts/build-composite-index
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Build a composite index

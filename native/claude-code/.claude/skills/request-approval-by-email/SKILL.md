@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: email
   source: https://hermes-ide.com/prompts/request-approval-by-email
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Request approval by email

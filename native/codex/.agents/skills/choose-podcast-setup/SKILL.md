@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: podcasting
   source: https://hermes-ide.com/prompts/choose-podcast-setup
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Choose a podcast recording setup

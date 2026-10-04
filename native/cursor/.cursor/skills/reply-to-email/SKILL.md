@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: email
   source: https://hermes-ide.com/prompts/reply-to-email
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Reply to an email

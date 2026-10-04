@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: marketing-strategy
   source: https://hermes-ide.com/prompts/create-lead-magnet
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Create a lead magnet

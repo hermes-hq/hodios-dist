@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: operations
   source: https://hermes-ide.com/prompts/plan-visual-merchandising
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan retail visual merchandising

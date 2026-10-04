@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: local-culture
   source: https://hermes-ide.com/prompts/learn-local-etiquette
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Learn local etiquette

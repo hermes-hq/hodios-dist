@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: business-writing
   source: https://hermes-ide.com/prompts/ask-for-help-in-team-chat
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Ask for help in team chat

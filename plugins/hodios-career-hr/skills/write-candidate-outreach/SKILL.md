@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: hiring
   source: https://hermes-ide.com/prompts/write-candidate-outreach
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write candidate outreach

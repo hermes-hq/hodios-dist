@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: conversation-practice
   source: https://hermes-ide.com/prompts/practice-presentation-in-language
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Rehearse a presentation in your target language

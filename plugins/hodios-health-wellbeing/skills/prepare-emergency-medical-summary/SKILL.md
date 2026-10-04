@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: medical-prep
   source: https://hermes-ide.com/prompts/prepare-emergency-medical-summary
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Prepare an emergency medical summary

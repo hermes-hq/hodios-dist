@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: learning
   source: https://hermes-ide.com/prompts/plan-learning-path
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a learning path for a technology

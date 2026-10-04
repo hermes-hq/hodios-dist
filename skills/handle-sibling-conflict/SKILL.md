@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: parenting
   source: https://hermes-ide.com/prompts/handle-sibling-conflict
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Handle recurring sibling fights

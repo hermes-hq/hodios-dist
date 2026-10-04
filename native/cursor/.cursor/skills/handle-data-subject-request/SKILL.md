@@ -3,11 +3,11 @@ name: handle-data-subject-request
 description: Guides a small organisation through answering a personal-data access or deletion request, covering identity checks, where to search, exemptions to check, deadlines and the reply.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.1.0
   kind: prompt
   category: compliance
   source: https://hermes-ide.com/prompts/handle-data-subject-request
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Handle a personal data request
@@ -15,7 +15,7 @@ metadata:
 ## Inputs
 
 - [REQUEST_TEXT] (required): The request as received (email, letter, form or a note of a phone call), the date it arrived, how it arrived, and anything you know about the requester (customer, ex-employee, job applicant, someone acting for another person). Remove details you do not need to share.
-- [SYSTEMS] (optional): Where personal data may be held - CRM, email accounts, shared drives, HR and payroll, accounting, support desk, chat tools, CCTV, backups, paper files, and vendors who hold data for you - and which law you work under if you know it (for example UK GDPR, EU GDPR, CCPA/CPRA). Optional.
+- [SYSTEMS] (optional): Where personal data may be held (CRM, email, shared drives, HR, accounting, booking system, mailing list, messaging apps on work phones, CCTV, backups, paper, vendors), the countries of the organisation and the requester, and the law if known. Optional.
 
 Take each value from the invocation or the user’s message. If a required value is missing, ask for it once.
 
@@ -36,9 +36,9 @@ Where data may be held, and the applicable law:
 [SYSTEMS]
 </systems>
 
-1. Classify the request: access, deletion or erasure, correction, restriction, objection (including to direct marketing), portability, opt-out of sale or sharing, or several. Note whether it is clear enough to act on. If not, draft a short clarification question, but say that asking usually should not be used to delay and that the clock may still be running.
+1. Classify the request: access, deletion or erasure, correction, restriction, objection (including to direct marketing), portability, opt-out of sale or sharing, or several. Quote the words that show it. An objection to marketing ("stop texting me") should be acted on straight away by suppressing the contact on every marketing list, not held until the full response. Note whether it is clear enough to act on. If not, draft a short clarification question, but say that asking usually should not be used to delay and that the clock may still be running.
 2. Deadline: identify the law you are assuming (from the input, or from the requester's and organisation's location; if unknown, say so) and the common response period under it, the day it starts (often receipt, or receipt of identity verification), and any extension mechanism. Calculate dates from the receipt date shown, show the calculation, and mark "verify".
-3. Identity check: proportionate verification. Use information already held (reply from the account email, confirm two details already on file) rather than asking for new ID documents by default. For requests made on behalf of someone else, check authority.
+3. Identity check: proportionate verification. Use information already held (reply from the account email, confirm two details already on file) rather than asking for new ID documents by default. For requests made on behalf of someone else (a partner, relative, ex or solicitor), check written authority from the person the data is about and reply to that person through details already on file.
 4. Search plan: a table of every system to search, search terms (name, email, phone, customer ID, nicknames, mentions in free text), who searches, and evidence of the search. Include vendors holding data on the organisation's behalf, email and chat, and backups.
 5. Exemptions and redactions to check: other people's personal data in the records, legal privilege, confidential references, information about crime prevention or legal claims, manifestly unfounded or excessive requests, and for deletion: data the organisation must keep (tax, accounting, employment records, legal holds, ongoing disputes). Frame each as "check whether this applies", not as a conclusion.
 6. Response checklist: for access, what to provide (copies of the data plus purposes, categories, recipients, retention, source, rights, complaint route) and in what format, securely; for deletion, what is deleted, what is kept and why, which vendors are told, and suppression lists for marketing.
@@ -56,6 +56,7 @@ Where data may be held, and the applicable law:
 - Do not invent the applicable law, deadline, exemption or fee. State the assumption and mark it "verify". Do not cite article numbers unless the user supplied them.
 - Never recommend ignoring, deleting or altering records to avoid disclosure after a request arrives; that can be an offence in some jurisdictions. Records found must be handled as they were at the time of the request, apart from routine changes.
 - Never include other people's personal data in a draft response; flag where redaction is needed.
+- Never disclose anything to someone asking about another person without verified authority. If the request could put someone at risk, such as a possible abusive partner seeking a person's address, contact details or notes, flag it for the owner and say no data leaves the organisation until that is resolved; if anyone is in immediate danger, contact local emergency services.
 - If the request comes from a current or former employee in a dispute, is linked to a complaint or litigation, involves special category data, children, or very large volumes, recommend a data protection professional or lawyer early.
 - Keep drafts plain, polite and specific; the requester may forward them to a regulator.
 - Separate what you verified from what you inferred. Mark inferences as such.

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: career-growth
   source: https://hermes-ide.com/prompts/write-resignation-letter
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a resignation letter

@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: email
   source: https://hermes-ide.com/prompts/ask-for-feedback-by-email
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Ask for feedback by email

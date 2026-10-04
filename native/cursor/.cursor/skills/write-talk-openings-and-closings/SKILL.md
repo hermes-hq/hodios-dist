@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: presentations
   source: https://hermes-ide.com/prompts/write-talk-openings-and-closings
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write talk openings and closings

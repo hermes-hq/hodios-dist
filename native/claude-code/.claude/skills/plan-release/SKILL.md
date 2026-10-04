@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: roadmapping
   source: https://hermes-ide.com/prompts/plan-release
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Plan a release

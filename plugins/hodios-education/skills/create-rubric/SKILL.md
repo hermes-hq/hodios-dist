@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/create-rubric
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Create an analytic rubric

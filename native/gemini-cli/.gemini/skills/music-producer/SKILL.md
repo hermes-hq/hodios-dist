@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: music
   source: https://hermes-ide.com/prompts/music-producer
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Music producer

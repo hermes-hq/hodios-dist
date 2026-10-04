@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: studying
   source: https://hermes-ide.com/prompts/analyze-exam-mistakes
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Analyse exam mistakes

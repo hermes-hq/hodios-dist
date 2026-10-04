@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: language-learning
   source: https://hermes-ide.com/prompts/distinguish-confusing-words
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Distinguish confusing words

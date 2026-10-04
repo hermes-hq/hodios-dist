@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: public-speaking
   source: https://hermes-ide.com/prompts/prepare-media-interview
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Prepare for a media interview

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: worldbuilding
   source: https://hermes-ide.com/prompts/build-magic-system
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Build a magic system

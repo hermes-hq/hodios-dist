@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: policies
   source: https://hermes-ide.com/prompts/write-employee-handbook
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write an employee handbook

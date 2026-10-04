@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: video
   source: https://hermes-ide.com/prompts/video-editor
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Video editor

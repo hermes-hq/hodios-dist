@@ -1,6 +1,6 @@
 {
   "name": "hodios-health-wellbeing",
-  "version": "2026.1004.2",
+  "version": "2026.1004.3",
   "description": "Health and wellbeing prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -53,7 +53,6 @@
     "care-homes",
     "care-plan",
     "care-transitions",
-    "caregiving",
     "carer-burnout",
     "carers",
     "cbt",
@@ -197,6 +196,7 @@
     "midwife-appointment",
     "mobility",
     "mood-tracking",
+    "moving-abroad",
     "mri",
     "nanda-i",
     "new-diagnosis",
@@ -256,7 +256,6 @@
     "reflection",
     "reflective-listening",
     "relapse-prevention",
-    "relocation",
     "repair",
     "respite",
     "retiring",

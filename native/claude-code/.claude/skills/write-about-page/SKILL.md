@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: copywriting
   source: https://hermes-ide.com/prompts/write-about-page
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write an About page

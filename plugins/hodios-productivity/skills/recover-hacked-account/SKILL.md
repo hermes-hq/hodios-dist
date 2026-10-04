@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: digital-safety
   source: https://hermes-ide.com/prompts/recover-hacked-account
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Recover a hacked account

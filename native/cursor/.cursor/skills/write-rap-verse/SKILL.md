@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: music
   source: https://hermes-ide.com/prompts/write-rap-verse
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Write a rap verse

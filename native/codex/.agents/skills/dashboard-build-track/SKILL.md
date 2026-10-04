@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: data-visualization
   source: https://hermes-ide.com/prompts/dashboard-build-track
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Dashboard build track

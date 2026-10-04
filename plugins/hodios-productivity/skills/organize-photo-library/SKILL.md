@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: tech-help
   source: https://hermes-ide.com/prompts/organize-photo-library
-  catalog: 2026.1004.2
+  catalog: 2026.1004.3
 ---
 
 # Organise a photo library

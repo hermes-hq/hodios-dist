@@ -1,6 +1,6 @@
 {
   "name": "hodios-gaming-fun",
-  "version": "2026.1004.2",
+  "version": "2026.1004.3",
   "description": "Gaming and fun prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -52,7 +52,7 @@
     "drama-games",
     "encounter-design",
     "escape-room",
-    "event-planning",
+    "events",
     "facilitation",
     "factions",
     "family-fun",
