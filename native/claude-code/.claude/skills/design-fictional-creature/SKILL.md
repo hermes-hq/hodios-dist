@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: worldbuilding
   source: https://hermes-ide.com/prompts/design-fictional-creature
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design a fictional creature

@@ -3,11 +3,11 @@ name: review-iac-plan
 description: Reviews a Terraform, OpenTofu or other IaC plan for destructive changes, security exposure, cost surprises and changes outside the stated intent. Use before running apply, especially in production.
 license: CC0-1.0
 metadata:
-  version: 1.1.0
+  version: 1.1.1
   kind: prompt
   category: devops
   source: https://hermes-ide.com/prompts/review-iac-plan
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Review an infrastructure plan before apply

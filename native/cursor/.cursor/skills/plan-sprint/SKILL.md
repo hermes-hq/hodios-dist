@@ -3,11 +3,11 @@ name: plan-sprint
 description: Builds a sprint plan from a backlog and real capacity, with a sprint goal, committed and stretch items, dependencies, risks and what it deliberately leaves out. Use before sprint planning.
 license: CC0-1.0
 metadata:
-  version: 1.1.0
+  version: 1.1.1
   kind: prompt
   category: planning
   source: https://hermes-ide.com/prompts/plan-sprint
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan a sprint

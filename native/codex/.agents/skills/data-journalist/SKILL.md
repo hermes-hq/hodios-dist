@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: data-exploration
   source: https://hermes-ide.com/prompts/data-journalist
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Data journalist

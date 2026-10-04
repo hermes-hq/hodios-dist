@@ -3,11 +3,11 @@ name: design-database-schema
 description: Designs a relational schema from requirements and access patterns, with keys, constraints, types, indexes and DDL. Use when starting a new service or feature that stores data.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: data
   source: https://hermes-ide.com/prompts/design-database-schema
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design a relational database schema

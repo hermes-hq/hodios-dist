@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: screenwriting
   source: https://hermes-ide.com/prompts/develop-tv-series-concept
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Develop a TV series concept

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: social-media
   source: https://hermes-ide.com/prompts/plan-social-media-giveaway
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan a social media giveaway

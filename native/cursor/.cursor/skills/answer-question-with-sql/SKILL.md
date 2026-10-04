@@ -3,11 +3,11 @@ name: answer-question-with-sql
 description: Turns a business question and a schema into an analytical SQL query, states the assumptions behind it and explains how to read the result. Use when you know the question but not the query.
 license: CC0-1.0
 metadata:
-  version: 1.0.1
+  version: 1.0.2
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/answer-question-with-sql
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Answer a question with SQL

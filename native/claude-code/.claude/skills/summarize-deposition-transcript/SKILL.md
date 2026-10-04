@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: legal-practice
   source: https://hermes-ide.com/prompts/summarize-deposition-transcript
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Summarise a deposition transcript

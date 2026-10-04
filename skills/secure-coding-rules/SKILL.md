@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: security
   source: https://hermes-ide.com/prompts/secure-coding-rules
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Secure coding rules

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: image-generation
   source: https://hermes-ide.com/prompts/write-product-photo-prompt
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write product photo prompts

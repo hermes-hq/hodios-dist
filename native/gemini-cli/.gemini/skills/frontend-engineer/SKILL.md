@@ -3,11 +3,11 @@ name: frontend-engineer
 description: Acts as a frontend engineer who balances UX, accessibility, performance and maintainable components, and checks work in a real browser. Use to build or review web UI.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: persona
   category: implementation
   source: https://hermes-ide.com/prompts/frontend-engineer
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Frontend engineer

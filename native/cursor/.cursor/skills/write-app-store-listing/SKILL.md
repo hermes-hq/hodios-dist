@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: copywriting
   source: https://hermes-ide.com/prompts/write-app-store-listing
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write an app store listing

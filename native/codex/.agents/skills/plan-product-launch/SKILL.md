@@ -3,11 +3,11 @@ name: plan-product-launch
 description: Builds a launch plan sized to the launch tier, with a readiness checklist by function, owners, a dated communications timeline, go or no-go criteria, a rollback plan and success metrics.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: product-launch
   source: https://hermes-ide.com/prompts/plan-product-launch
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan a product launch

@@ -14,7 +14,7 @@ metadata:
   kind: workflow
   category: reporting
   source: https://hermes-ide.com/prompts/data-report-build-track
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Build a data report file end to end

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: seo
   source: https://hermes-ide.com/prompts/audit-technical-seo
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Audit technical SEO

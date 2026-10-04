@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: content-strategy
   source: https://hermes-ide.com/prompts/plan-thought-leadership
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan a thought leadership programme

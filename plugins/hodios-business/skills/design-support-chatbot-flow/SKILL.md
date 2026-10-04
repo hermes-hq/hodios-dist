@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: customer-support
   source: https://hermes-ide.com/prompts/design-support-chatbot-flow
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design a support chatbot flow

@@ -3,11 +3,11 @@ name: model-unit-economics
 description: Computes CAC, LTV, payback and contribution margin from your inputs, sanity-checks them for common errors and shows which lever matters most. Use before scaling spend or pitching investors.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: entrepreneurship
   source: https://hermes-ide.com/prompts/model-unit-economics
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Model unit economics

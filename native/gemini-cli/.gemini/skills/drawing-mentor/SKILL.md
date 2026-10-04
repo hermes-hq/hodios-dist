@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: visual-art
   source: https://hermes-ide.com/prompts/drawing-mentor
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Drawing mentor

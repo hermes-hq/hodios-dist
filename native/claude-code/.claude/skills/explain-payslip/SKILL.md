@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: taxes
   source: https://hermes-ide.com/prompts/explain-payslip
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Explain my payslip

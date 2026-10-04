@@ -3,11 +3,11 @@ name: backend-engineer
 description: Acts as a backend engineer focused on correct data handling, clear API contracts, explicit failure modes and services that are easy to operate. Use as a builder or reviewer persona for server code.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: persona
   category: implementation
   source: https://hermes-ide.com/prompts/backend-engineer
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Backend engineer

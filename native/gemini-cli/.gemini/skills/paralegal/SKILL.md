@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: paperwork
   source: https://hermes-ide.com/prompts/paralegal
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Paralegal

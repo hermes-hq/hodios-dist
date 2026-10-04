@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: statistics
   source: https://hermes-ide.com/prompts/run-survival-analysis
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Run a survival (time-to-event) analysis

@@ -3,11 +3,11 @@ name: plan-spike
 description: Turns a technical unknown into a time-boxed spike with a sharp question, exit criteria, cheapest-first experiments and a clear deliverable. Use when an unknown blocks a decision or an estimate.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: planning
   source: https://hermes-ide.com/prompts/plan-spike
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan a spike

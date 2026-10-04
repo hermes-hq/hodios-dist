@@ -3,11 +3,11 @@ name: technical
 description: Raises the technical depth of any answer, from precise terminology to expert density that assumes domain knowledge, skips basics and states mechanisms, units and limits exactly.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: style
   category: output-styles
   source: https://hermes-ide.com/prompts/technical
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Technical

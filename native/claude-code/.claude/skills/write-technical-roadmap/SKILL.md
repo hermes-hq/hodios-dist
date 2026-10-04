@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: planning
   source: https://hermes-ide.com/prompts/write-technical-roadmap
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a technical roadmap

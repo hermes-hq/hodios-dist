@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: branding
   source: https://hermes-ide.com/prompts/brand-strategist
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Brand strategist

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: note-taking
   source: https://hermes-ide.com/prompts/triage-reading-list
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Triage a reading list

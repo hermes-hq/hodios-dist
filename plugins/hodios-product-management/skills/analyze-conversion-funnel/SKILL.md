@@ -8,11 +8,11 @@ arguments:
 argument-hint: <funnel_data> [product_flow]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: product-metrics
   source: https://hermes-ide.com/prompts/analyze-conversion-funnel
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Analyse a conversion funnel

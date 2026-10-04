@@ -3,11 +3,11 @@ name: run-retrospective
 description: Plans a team retrospective with a format chosen for the team's situation, timed activities, facilitation prompts, ways to handle tricky dynamics and a follow-up for actions.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: meetings
   source: https://hermes-ide.com/prompts/run-retrospective
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan a team retrospective

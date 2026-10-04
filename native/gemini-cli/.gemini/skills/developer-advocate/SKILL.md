@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: writing
   source: https://hermes-ide.com/prompts/developer-advocate
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Developer advocate

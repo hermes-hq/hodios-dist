@@ -3,11 +3,11 @@ name: thorough
 description: Increases the depth of any answer, from adding the key reasoning behind it to exhaustive coverage with alternatives, edge cases, trade-offs and sources. For readers who want the full picture.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: style
   category: output-styles
   source: https://hermes-ide.com/prompts/thorough
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Thorough

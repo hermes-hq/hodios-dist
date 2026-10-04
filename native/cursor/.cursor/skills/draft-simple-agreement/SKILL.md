@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: contracts
   source: https://hermes-ide.com/prompts/draft-simple-agreement
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Draft a simple agreement

@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: newsletters
   source: https://hermes-ide.com/prompts/weekly-newsletter-issue-track
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Weekly newsletter issue track

@@ -1,6 +1,6 @@
 {
   "_hermes_bundle_version": 2,
-  "source": "hodios@2026.1004.1",
+  "source": "hodios@2026.1004.2",
   "items": [
     {
       "id": "academic",
@@ -942,10 +942,13 @@
     {
       "id": "add-rate-limiting",
       "kind": "prompt",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "title": "Add rate limiting to an API",
       "description": "Adds rate limiting to API endpoints with a fitting algorithm, keys, per-tier limits, standard headers, 429 responses and tests. Use when protecting endpoints from abuse or overload.",
       "category": "implementation",
+      "aliases": [
+        "sec-rate-limit"
+      ],
       "tags": [
         "rate-limiting",
         "token-bucket",
@@ -998,7 +1001,7 @@
           "plan-load-test"
         ]
       },
-      "hash": "sha256:4012e5811ebf2d364a540196c76b6a8aefa75f3cb18ea77f254c0dd594cbca7e"
+      "hash": "sha256:72d7b3a01fdc40447a0f9d33fbcee211df18301c75aa272962f121cb08bd1815"
     },
     {
       "id": "add-regression-test",
@@ -1908,10 +1911,13 @@
     {
       "id": "analyze-competitors",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Analyse competitors",
       "description": "Builds a competitor comparison of target customer, messaging, pricing, strengths and gaps, and finds openings for differentiation and how to win against each. Use for strategy or battlecards.",
       "category": "marketing-strategy",
+      "aliases": [
+        "product-competitive"
+      ],
       "tags": [
         "competitive-analysis",
         "battlecards",
@@ -1943,7 +1949,7 @@
           "build-ideal-customer-profile"
         ]
       },
-      "hash": "sha256:9af81a5e83d029e2e35883c510dff10f958187d333fa4b834e0f5d3be6d9b304"
+      "hash": "sha256:b07c27f7040813ec74f532a53db5a2a6896700c9596d1ea4eb76ca66fd67d67c"
     },
     {
       "id": "analyze-content-performance",
@@ -1989,10 +1995,13 @@
     {
       "id": "analyze-conversion-funnel",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Analyse a conversion funnel",
       "description": "Analyses a conversion funnel step by step to find the biggest leak, the segments where it differs, likely causes and the experiments or fixes worth trying first. For PMs and growth teams.",
       "category": "product-metrics",
+      "aliases": [
+        "biz-funnel"
+      ],
       "tags": [
         "conversion-funnel",
         "drop-off",
@@ -2029,7 +2038,7 @@
           "growth-marketer"
         ]
       },
-      "hash": "sha256:67a0b5ff9d4392f1d7e6fce4770f22b3d65df3bd25a39a4d3ccf5e5304db9f51"
+      "hash": "sha256:7cb9ff3b512f707e7115fd5f0f67386640cbad4827203c0a92d5edde0675be13"
     },
     {
       "id": "analyze-diet-log",
@@ -3114,10 +3123,13 @@
     {
       "id": "answer-question-with-sql",
       "kind": "prompt",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "title": "Answer a question with SQL",
       "description": "Turns a business question and a schema into an analytical SQL query, states the assumptions behind it and explains how to read the result. Use when you know the question but not the query.",
       "category": "data-exploration",
+      "aliases": [
+        "data-query"
+      ],
       "tags": [
         "analytics-sql",
         "window-functions",
@@ -3160,7 +3172,7 @@
           "build-cohort-analysis"
         ]
       },
-      "hash": "sha256:bbab9a04f7fd69cc041919eed6924b3fb0dbabf82303d480100ddd7cf9af573f"
+      "hash": "sha256:18ca8648fe4ba91f1865f10bf3f160aef4aaf33605a096abfad889a94fc1a0f6"
     },
     {
       "id": "answer-salary-expectations",
@@ -4430,10 +4442,13 @@
     {
       "id": "audit-dependencies",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Triage dependency vulnerabilities",
       "description": "Triages dependency scan findings by reachability and exploitability, gives the upgrade path, and justifies anything safe to defer. Use when a scanner reports more than the team can fix at once.",
       "category": "security",
+      "aliases": [
+        "sec-deps"
+      ],
       "tags": [
         "cve",
         "supply-chain",
@@ -4463,15 +4478,18 @@
           "security-auditor"
         ]
       },
-      "hash": "sha256:31eb9ff4e961cc2e127a9ce283f0f037c6dcaa92e5875b307147f163a4172c33"
+      "hash": "sha256:fb463cff70db49a4fc01f8cec57addb32b237d70520b22fb87c31c67be47f152"
     },
     {
       "id": "audit-design-consistency",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Audit design consistency across screens",
       "description": "Inventories spacing, type, colour, radii and component variants across screens, finds near-duplicates and plans their consolidation. Use before building or cleaning up a design system.",
       "category": "design-systems",
+      "aliases": [
+        "design-system"
+      ],
       "tags": [
         "ui-inventory",
         "design-debt",
@@ -4506,7 +4524,7 @@
           "product-designer"
         ]
       },
-      "hash": "sha256:4fa5282cdf575b58413fb0bc57eb3179ece5e4b0c8245b5a4ac54b3bbe1c1e0b"
+      "hash": "sha256:e5c507afedd9063a6c7118a6c38e62c26f397200bb41de898e18ce71d9317f1a"
     },
     {
       "id": "audit-documentation",
@@ -4670,10 +4688,13 @@
     {
       "id": "audit-on-page-seo",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Audit on-page SEO",
       "description": "Audits a page's content and HTML for on-page SEO issues (intent match, title, headings, internal links, images, structured data) with prioritised fixes. Use before publishing a page.",
       "category": "seo",
+      "aliases": [
+        "product-seo-audit"
+      ],
       "tags": [
         "on-page-seo",
         "structured-data",
@@ -4704,7 +4725,7 @@
           "write-seo-content-brief"
         ]
       },
-      "hash": "sha256:2355bf14d3dca97a29ad7ae374f8175eb8e7060a6c3d8ff84bc2d84ffe1ebe87"
+      "hash": "sha256:1ef812ba2856d6f6afdebd79836a492ca317990977b1e0a53185bcd86de27aad"
     },
     {
       "id": "audit-search-ads-account",
@@ -5233,10 +5254,13 @@
     {
       "id": "backend-engineer",
       "kind": "persona",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Backend engineer",
       "description": "Acts as a backend engineer focused on correct data handling, clear API contracts, explicit failure modes and services that are easy to operate. Use as a builder or reviewer persona for server code.",
       "category": "implementation",
+      "aliases": [
+        "backend-eng"
+      ],
       "tags": [
         "api-design",
         "data-integrity",
@@ -5249,7 +5273,7 @@
         "review"
       ],
       "body": "You are a backend engineer. You build the parts of a system that hold the truth: the data, the rules about it, and the contracts other services and clients depend on. You assume every network call can fail, every request can arrive twice, and every input can be wrong, and you design so that none of these corrupt data or surprise a caller.\n\nHow you work:\n- Read the existing code, schema, migrations and API definitions before changing anything. Follow the project's layering, error types and conventions.\n- Start with the data: what the source of truth is, who may write it, which invariants must always hold, and how they are enforced. Prefer the database to enforce them (constraints, unique indexes, foreign keys, transactions at the right isolation level) over application checks alone.\n- Design API contracts deliberately: resource and field names, validation rules, status codes, error shape, pagination, idempotency and versioning. Changes to a published contract are additive by default; breaking changes need a migration path for clients.\n- Make writes safe to retry: idempotency keys on operations with side effects, conditional updates or optimistic locking where concurrent writes are possible, and an outbox or similar pattern when a database write and a message must both happen.\n- For every outbound call, set a timeout, decide what happens on failure, and retry only transient errors with backoff and jitter, within the caller's deadline.\n- Keep request paths fast and bounded: no unbounded queries, N+1 queries, or slow external calls on the hot path; move slow or bulk work to background jobs with visibility into progress and failures.\n- Validate input at the boundary, authorise every access to a resource (not only authenticate the user), and never build SQL, shell commands or file paths from unsanitised input.\n- Make the service operable: structured logs with request and correlation ids, metrics for rate, errors and latency, health checks that reflect real readiness, and configuration that is explicit and validated at startup.\n- Ask before running migrations, backfills or any command against a shared or production database, and before changing a published contract.\n- Write tests at the level that gives confidence: unit tests for rules, integration tests against a real database for queries and transactions, and contract tests for APIs other teams use. Run them before saying the work is done.\n\nWhat you flag:\n- Lost updates, check-then-act races, missing transactions, and writes that can leave data half-done.\n- Non-idempotent handlers behind retries or at-least-once queues.\n- Schema changes that lock large tables or break running code during deploy, and migrations without a rollback or backfill plan.\n- Missing authorisation checks, mass assignment, and sensitive data in logs or error responses.\n- Unbounded result sets, missing indexes for new query patterns, and N+1 access patterns.\n- Silent failures: swallowed exceptions, fire-and-forget calls, and errors without context.\n\nYour habits:\n- You state the guarantees a design gives (at-least-once, exactly-once effect, read-your-writes) and the ones it does not.\n- You show the request and response for API changes, and the migration for schema changes.\n- You ask about expected load, data volume and consistency needs when they would change the design, rather than guessing.\n- You keep changes small and reversible, and you name the rollback.",
-      "hash": "sha256:9d3ecf2c4d7e284bca7e6d4a6c3b277f84788610246296a71d9900fd15f83393"
+      "hash": "sha256:610bfefc8fd2e541f6166026c388a4ff2c26f5f8bd257ffab0a360b67e893eb3"
     },
     {
       "id": "baking-instructor",
@@ -5450,10 +5474,13 @@
     {
       "id": "beginner-friendly",
       "kind": "style",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Beginner friendly",
       "description": "Adapts answers for newcomers by defining jargon, explaining why each step matters and avoiding assumed knowledge, from light glossing to full guidance. Use when the reader is new to the topic.",
       "category": "output-styles",
+      "aliases": [
+        "beginner"
+      ],
       "tags": [
         "plain-language",
         "jargon-free"
@@ -5481,7 +5508,7 @@
           "instruction": "Assume no prior knowledge and that the reader is easily blocked. Give the big picture, then very small numbered steps with exactly what to type or click and what they should see after each. Explain every term and acronym. Say what to do if something looks different. End with what they learned and one small next step."
         }
       ],
-      "hash": "sha256:3a7ef2590ae83460f92c5ea7bad8a03bf87d01a1427d1acb7425391ddf41f8ba"
+      "hash": "sha256:8b900380f22ce760fc61163707f2639fa8c1be367566bc73e736cbbe3b6d2f6b"
     },
     {
       "id": "bilingual",
@@ -5535,10 +5562,13 @@
     {
       "id": "bisect-regression",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Bisect a regression",
       "description": "Finds the commit or input that introduced a regression by writing an automated good/bad check first, then bisecting. Use when something that used to work is broken and the cause is unclear.",
       "category": "debugging",
+      "aliases": [
+        "git-bisect"
+      ],
       "tags": [
         "git-bisect",
         "regression",
@@ -5572,7 +5602,7 @@
           "debugger"
         ]
       },
-      "hash": "sha256:08dd7fa0ca304aa34e57234538454771c3f7e042cded4c09a88eaa246b8a5d6d"
+      "hash": "sha256:fc3a4c2dfb05cbcaee2b6f8fb147c31278e483aa0e56dda1ee1a534b25e30b45"
     },
     {
       "id": "blog-post-track",
@@ -8269,10 +8299,13 @@
     {
       "id": "build-outcome-roadmap",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Build an outcome roadmap",
       "description": "Builds a now, next, later roadmap organised by outcomes rather than features, showing the bets, evidence and confidence behind each and what is deliberately left off.",
       "category": "roadmapping",
+      "aliases": [
+        "planning-roadmap"
+      ],
       "tags": [
         "now-next-later",
         "outcome-based-roadmap",
@@ -8310,7 +8343,7 @@
           "write-product-strategy"
         ]
       },
-      "hash": "sha256:379821e5c7ade9a51364613a98d9987a15e339a7bce88e4da30dec54ce61ebfb"
+      "hash": "sha256:386f598b3d7cece1aad94897cdc21149627d6290c83680a7f252fc6ad00494ab"
     },
     {
       "id": "build-packing-list",
@@ -15158,10 +15191,13 @@
     {
       "id": "contract-review-track",
       "kind": "workflow",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Contract review track",
       "description": "Reviews a contract in gated steps, from a plain summary to risk flags by severity, questions for the other side, redline priorities and a brief for a lawyer.",
       "category": "contracts",
+      "aliases": [
+        "legal-document-review"
+      ],
       "tags": [
         "contract-negotiation",
         "redlining",
@@ -15237,7 +15273,7 @@
           "paralegal"
         ]
       },
-      "hash": "sha256:7c2588d674e492af6f4dc8684170978f0d23566a9da33591d9216a52aa162278"
+      "hash": "sha256:30959aa45076e53ac5c1ae763b03a769ff124c2fc83f25ad34d85cdb92589352"
     },
     {
       "id": "conventional-commits-rules",
@@ -17173,10 +17209,13 @@
     {
       "id": "create-wireframe-spec",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Write a text wireframe spec",
       "description": "Writes a low-fidelity text wireframe for one screen with layout regions, components, content hierarchy, all states and responsive behaviour. Use before visual design or to brief a developer.",
       "category": "ui-design",
+      "aliases": [
+        "design-wireframe"
+      ],
       "tags": [
         "wireframe",
         "information-architecture",
@@ -17220,7 +17259,7 @@
           "product-designer"
         ]
       },
-      "hash": "sha256:dc8944637e36f60619f89cac89951a429630ec658051acd9604dc1d33ed2775f"
+      "hash": "sha256:2816167099f953dd3fb5177d5c1403710da1bf59eebcec3cd9c23583f1e90467"
     },
     {
       "id": "critique-artwork",
@@ -18357,10 +18396,13 @@
     {
       "id": "database-administrator",
       "kind": "persona",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Database administrator",
       "description": "Acts as a production DBA focused on data integrity, backups that restore, safe schema changes, query plans, capacity and least-privilege access. Use for Postgres, MySQL or similar in production.",
       "category": "data",
+      "aliases": [
+        "database-specialist"
+      ],
       "tags": [
         "backups",
         "query-plans",
@@ -18383,7 +18425,7 @@
           "plan-disaster-recovery"
         ]
       },
-      "hash": "sha256:1302b59531fa502bad29b8815715f0e0e5d524cf58cb99f43e363c04a53dd177"
+      "hash": "sha256:b062ec3b000ce797673317288578e6dea06d64c45f4460abf0dbac4938bce0b1"
     },
     {
       "id": "database-migration-rules",
@@ -18864,10 +18906,13 @@
     {
       "id": "decisive",
       "kind": "style",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Decisive",
       "description": "Makes answers commit, from marking a recommended option to a single clear recommendation with the deciding reason and the condition that would change it. Still states uncertainty.",
       "category": "output-styles",
+      "aliases": [
+        "opinionated"
+      ],
       "tags": [
         "recommendations",
         "decision-support",
@@ -18912,7 +18957,7 @@
           "candid-feedback-rules"
         ]
       },
-      "hash": "sha256:a5f50a8078438d0e3efb49dfe36139366088b2aeab9b4159464f7ce6804f7e3d"
+      "hash": "sha256:d78ac45f0100274280842dbc407f3c4854e8b9b20fd02508c35efaaa3fc01098"
     },
     {
       "id": "decline-feature-request",
@@ -19637,10 +19682,13 @@
     {
       "id": "define-slos",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Define SLOs and burn-rate alerts",
       "description": "Defines SLIs, SLOs and an error-budget policy from a service's user journeys, with multi-window burn-rate alert rules. Use when alerting is noisy or reliability targets are vague.",
       "category": "incident",
+      "aliases": [
+        "incident-sla"
+      ],
       "tags": [
         "slo",
         "error-budget",
@@ -19676,7 +19724,7 @@
           "write-runbook"
         ]
       },
-      "hash": "sha256:85749f15a223c115c5ba662767e09d521337d6f5d7374c3e394cbaeef09dee25"
+      "hash": "sha256:96fd125f8af17ee9ef93120181d9c0e4c328f2c111c2d7d9935ab16f370837cd"
     },
     {
       "id": "delegate-task",
@@ -19834,10 +19882,13 @@
     {
       "id": "design-ab-test",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Design an A/B test",
       "description": "Designs an A/B test plan with a hypothesis, primary and guardrail metrics, minimum detectable effect, sample size, duration, randomisation unit, stop rules and an analysis plan.",
       "category": "product-metrics",
+      "aliases": [
+        "biz-experiment"
+      ],
       "tags": [
         "ab-testing",
         "guardrail-metrics",
@@ -19883,15 +19934,18 @@
           "growth-marketer"
         ]
       },
-      "hash": "sha256:fe5dab92b079f91fae83ff29ac484ba9337f8f4d842e98b733882e175dd40cf1"
+      "hash": "sha256:10865e2b3485ee0f968f8b8a6a4e4a640f932e42fce31a2cfe2da4d2e5cf4c06"
     },
     {
       "id": "design-agent-architecture",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Design an LLM agent architecture",
       "description": "Designs an LLM agent system, deciding first whether an agent is needed, then single or multi-agent, tools, memory, guardrails, human checkpoints, evals and cost limits.",
       "category": "ai-ml",
+      "aliases": [
+        "ai-agent-design"
+      ],
       "tags": [
         "agentic-systems",
         "multi-agent",
@@ -19943,7 +19997,7 @@
           "ml-engineer"
         ]
       },
-      "hash": "sha256:dfbff177d7860cfe1500c0c38bc7efa6435e271a3ee4c8e50be5098e57897397"
+      "hash": "sha256:b304df266e0df9af5b6f673acd66a8b38d3d78d8414c475b80d4ddce6d0b9019"
     },
     {
       "id": "design-ai-resistant-assignment",
@@ -20914,10 +20968,13 @@
     {
       "id": "design-dashboard",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Design a KPI dashboard",
       "description": "Designs a KPI dashboard from the decisions it must support, covering audience, questions, metric definitions, one chart per question, filters and layout. Use before building it in a BI tool.",
       "category": "data-visualization",
+      "aliases": [
+        "data-dashboard"
+      ],
       "tags": [
         "kpi",
         "wireframe",
@@ -20958,15 +21015,18 @@
           "choose-chart-type"
         ]
       },
-      "hash": "sha256:2af4b8ad95f886498bc015a91c305557f03107b6446e9189789b3ba6ca5dbdc4"
+      "hash": "sha256:602d3f47dd80330c5dc24de55255022be0ad36219776d6457e415582be441f6b"
     },
     {
       "id": "design-data-pipeline",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Design a data pipeline",
       "description": "Designs a batch or streaming data pipeline sized to stated volumes, covering sources, schedule, idempotency, late data, backfills and monitoring. Use before building or replacing a pipeline.",
       "category": "data",
+      "aliases": [
+        "data-pipeline"
+      ],
       "tags": [
         "idempotency",
         "backfill",
@@ -21004,7 +21064,7 @@
           "data-engineer"
         ]
       },
-      "hash": "sha256:fdd7980e386b46fde68633b3d4e34f1dd49b8bcd6a5f1114c48c044d3bf26599"
+      "hash": "sha256:65d25a72ab4d9649edfa62b98a87aa748a57e5ee4b678f74f32ad6ee7dd69095"
     },
     {
       "id": "design-data-table",
@@ -21052,10 +21112,13 @@
     {
       "id": "design-database-schema",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Design a relational database schema",
       "description": "Designs a relational schema from requirements and access patterns, with keys, constraints, types, indexes and DDL. Use when starting a new service or feature that stores data.",
       "category": "data",
+      "aliases": [
+        "data-schema"
+      ],
       "tags": [
         "data-modeling",
         "ddl",
@@ -21097,7 +21160,7 @@
           "optimize-sql-query"
         ]
       },
-      "hash": "sha256:11e1aef717565720ced0565bbe765f95669f4bbba8b2a685ffbe47d693ab464d"
+      "hash": "sha256:f6fb2795378a871c0e4d15edb90a72d6942d5b8f26513375ba2d833dc8c20666"
     },
     {
       "id": "design-deployment-strategy",
@@ -21349,10 +21412,13 @@
     {
       "id": "design-event-driven-system",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Design an event-driven system",
       "description": "Designs an event-driven flow with event schemas, topics, partition keys, idempotent consumers, an outbox, retries, dead letters and replay. Use when moving synchronous calls onto a broker.",
       "category": "architecture",
+      "aliases": [
+        "arch-event-driven"
+      ],
       "tags": [
         "event-driven",
         "outbox-pattern",
@@ -21400,7 +21466,7 @@
           "implement-background-job"
         ]
       },
-      "hash": "sha256:f569b7cf7853f2cbaa809180e4273f363ccee5044b73c978f50de1379d0e04b7"
+      "hash": "sha256:efd0545b2a8f5fa069a601290200c2bb401fcbedf4ea7cf238b7d352d188b5e7"
     },
     {
       "id": "design-fictional-creature",
@@ -23147,10 +23213,13 @@
     {
       "id": "design-pricing",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Design pricing and packaging",
       "description": "Designs pricing and packaging - value metric, tiers, fences and anchors - from customer value rather than cost, with a plan to test willingness to pay. Use when launching or repricing a product.",
       "category": "business-strategy",
+      "aliases": [
+        "product-pricing"
+      ],
       "tags": [
         "packaging",
         "value-metric",
@@ -23190,7 +23259,7 @@
           "management-consultant"
         ]
       },
-      "hash": "sha256:4adc0a1785c4b22ef1d90150d8cd6dab3bc951b12d64b779329b434ce6b65274"
+      "hash": "sha256:55c1b9d33648644e2c272f7cf5a79eaa6607fdc1fe4ec257b793d16fba287e4b"
     },
     {
       "id": "design-pricing-page",
@@ -23331,10 +23400,13 @@
     {
       "id": "design-rag-pipeline",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Design a RAG pipeline",
       "description": "Designs a retrieval-augmented generation pipeline from a corpus and its real questions, covering chunking, hybrid retrieval, reranking, citations and evals. Use before building or rebuilding RAG.",
       "category": "ai-ml",
+      "aliases": [
+        "ai-integration"
+      ],
       "tags": [
         "retrieval",
         "embeddings",
@@ -23373,7 +23445,7 @@
           "ml-engineer"
         ]
       },
-      "hash": "sha256:8fa91307d58fd904f958e713ba08da5910820c5c7b3b32eb48cf1d318b8e9611"
+      "hash": "sha256:2d621b0a57bae4e31e62437f16f8a9d5d81c3315fb35ec1a665a23160c29aa67"
     },
     {
       "id": "design-referral-program",
@@ -24748,10 +24820,13 @@
     {
       "id": "devops-engineer",
       "kind": "persona",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "DevOps engineer",
       "description": "Acts as a DevOps engineer who automates the second time, keeps pipelines fast and reproducible, and makes every change reversible. Use for CI/CD, infrastructure and release work.",
       "category": "devops",
+      "aliases": [
+        "devops-eng"
+      ],
       "tags": [
         "pipelines",
         "infrastructure-as-code",
@@ -24764,7 +24839,7 @@
         "operate"
       ],
       "body": "You are a DevOps engineer who has run on-call for the systems you build. You care about how software gets from a commit to production and how it behaves once it is there: builds that are fast and give the same result every time, deploys that are boring, and failures that are noticed and undone quickly. You do something by hand once to understand it, and automate it the second time.\n\nHow you work:\n- Read what exists before proposing anything: the pipeline definitions, Dockerfiles, infrastructure code, deployment manifests, scripts and runbooks. Fit changes to the team's current tools unless there is a stated reason to change them.\n- Treat infrastructure and pipelines as code: in version control, reviewed, and applied by automation, never edited by hand in a console. Show the plan or diff (`terraform plan`, `kubectl diff`, a dry run) before anything is applied.\n- Make builds reproducible: pin tool and base-image versions, use lockfiles, and avoid steps that depend on the network state or time of day. Cache what is expensive and safe to cache, and know what invalidates each cache.\n- Keep the feedback loop short: run the fastest checks first, parallelise independent jobs, and fail early with a clear message. You know roughly how long each stage takes and treat a slow pipeline as a defect.\n- Design every change to be reversible: deploys roll back with one action, database changes follow expand-and-contract, risky features ship behind flags, and you say what the rollback is before the change goes out.\n- Prefer small, frequent releases with progressive delivery (canary, percentage rollout, blue-green) over big-bang cutovers, gated on health signals rather than on the clock.\n- Make systems observable before they are needed: structured logs, the four golden signals, alerts on symptoms users feel, and dashboards that answer \"is the last deploy the problem?\".\n- Run read-only commands freely to investigate. Ask before any command that changes shared state: applying infrastructure, deploying, deleting resources, rotating secrets or running migrations.\n\nWhat you flag:\n- Secrets in code, pipeline logs, images or environment files; long-lived credentials where short-lived or workload identity would do; over-broad IAM permissions.\n- Mutable tags (`latest`), unpinned actions or images, and build steps that download and run scripts without verification.\n- Manual steps in a release, snowflake servers, and drift between environments or between code and what is deployed.\n- Deploys with no health check, no rollback path, or that require downtime the team has not agreed to.\n- Single points of failure, missing backups or backups that have never been restored, and alerts nobody would act on.\n- Cost surprises: idle resources, unbounded autoscaling, log volumes nobody reads.\n\nYour habits:\n- You give the exact command or config, and say what it changes and how to undo it.\n- You estimate blast radius before acting, and you start with the smallest one.\n- You write runbooks as you go, because the next incident will happen at 3 a.m.\n- You explain trade-offs in terms of reliability, speed and cost, and you say plainly when the simple setup is enough.\n- You never claim a pipeline or deployment works until you have seen it run.",
-      "hash": "sha256:74500570d990c3448e55bec1cdb55a59fedbf347ea156cb8f1e8b3fbf47e49f5"
+      "hash": "sha256:68a46e0ee98af143da61a4e709a9075184eaa39ac7c894afc86ab39e1e47c0af"
     },
     {
       "id": "diagnose-car-warning",
@@ -25078,10 +25153,13 @@
     {
       "id": "diff-only",
       "kind": "style",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Diff only",
       "description": "Shapes code answers as minimal changes to existing code instead of whole rewritten files, from a diff with a short note to a bare unified diff. Use when reviewing or applying code edits.",
       "category": "output-styles",
+      "aliases": [
+        "diff-format"
+      ],
       "tags": [
         "code-changes",
         "unified-diff"
@@ -25109,7 +25187,7 @@
           "instruction": "Output only a single fenced diff block that applies cleanly with git apply, with nothing outside it. Never include unchanged hunks, reformatting or edits unrelated to the request. If no change is needed, output an empty diff block and nothing else."
         }
       ],
-      "hash": "sha256:deaee1d19f58c6af7f75d2e1d67e53d867e30b9b0683cba419c09b4a8910bcd3"
+      "hash": "sha256:924148b9ae2a630e8debbdbdf361e29c1cbbe7cf1819849682e2739adc28db87"
     },
     {
       "id": "differentiate-lesson",
@@ -25817,10 +25895,13 @@
     {
       "id": "document-public-api",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Document a public API",
       "description": "Writes reference docs for a module's exported functions, classes or endpoints in the native doc-comment format, covering real behaviour, errors and edge cases. Use before a release.",
       "category": "docs",
+      "aliases": [
+        "doc-api"
+      ],
       "tags": [
         "api-reference",
         "doc-comments"
@@ -25853,7 +25934,7 @@
           "technical-writer"
         ]
       },
-      "hash": "sha256:51c22c0ae1797609169b8f4f51ea125bf5dfa39eb9c90e558ff069639bc60066"
+      "hash": "sha256:c39194da9f760403103255c6f6d50289897a9f6884a175037a417a34923d7bb8"
     },
     {
       "id": "dotnet-engineer",
@@ -28302,10 +28383,13 @@
     {
       "id": "explain-contract-clause",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Explain a contract clause",
       "description": "Explains one contract clause such as an indemnity, liability cap, non-compete or auto-renewal in plain language, shows how it plays out in real scenarios and lists what to ask about it.",
       "category": "contracts",
+      "aliases": [
+        "legal-contract-analysis"
+      ],
       "tags": [
         "plain-language",
         "indemnity",
@@ -28340,7 +28424,7 @@
           "legal-information-guide"
         ]
       },
-      "hash": "sha256:d7b31ad9f674b84edfbcc27eeb597e4e227e80c9e96ed66dc27c9963c17c0854"
+      "hash": "sha256:cdb361864fe169f4c3606bf377863e3e4d92ea1728afc69404a03e4a221b327b"
     },
     {
       "id": "explain-crypto-risks",
@@ -29328,10 +29412,13 @@
     {
       "id": "explain-stack-trace",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Explain a stack trace",
       "description": "Explains an error and its stack trace in plain words, finds the frame that matters, and ranks the likely causes with the next checks to run. Use when an exception or crash is hard to read.",
       "category": "debugging",
+      "aliases": [
+        "debug-error-trace"
+      ],
       "tags": [
         "exception",
         "crash",
@@ -29363,7 +29450,7 @@
           "find-root-cause"
         ]
       },
-      "hash": "sha256:3e6674c302bf98d6d4ad6b0db495b9cfc994d443a1b9284cee8aac8a20ec1d94"
+      "hash": "sha256:07135bdb397e76f75141d07505524132489478ae022ce603060358794cbf8bba"
     },
     {
       "id": "explain-statistical-concept",
@@ -30319,10 +30406,13 @@
     {
       "id": "feature-track",
       "kind": "workflow",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Feature track",
       "description": "Takes a feature from open questions to a reviewed implementation in six gated steps, saving each step's artifact to the repo. Use for any change bigger than a quick fix.",
       "category": "planning",
+      "aliases": [
+        "product-feature-e2e"
+      ],
       "tags": [
         "spec-driven",
         "requirements"
@@ -30385,7 +30475,7 @@
           "text": "# Step 6: Implement\n\nCarry out the plan one step at a time. After each step, run its verification and report the real result. If reality differs from the plan, stop and say how before continuing. Finish with what changed, what was verified, and anything left open."
         }
       ],
-      "hash": "sha256:0a441a73550313074e070cef1d2b3117d5745c912c821c53c186a1dff33b7d3c"
+      "hash": "sha256:ffb3bf0c193796c984a5e8a70b819ca988900fd681db2f0605390173420ab213"
     },
     {
       "id": "fiction-writing-mentor",
@@ -30421,10 +30511,13 @@
     {
       "id": "fill-test-gaps",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Find and fill the riskiest test gaps",
       "description": "Finds untested behaviour that matters most, ranked by risk rather than coverage percentage, and writes tests for the top gaps. Use when a module feels under-tested or before a risky change.",
       "category": "testing",
+      "aliases": [
+        "test-coverage"
+      ],
       "tags": [
         "test-coverage",
         "risk-based-testing"
@@ -30461,7 +30554,7 @@
           "write-unit-tests"
         ]
       },
-      "hash": "sha256:fd78229a4111612f0c7bcc6ade936a368a57ded2639fd9ef146c5188113a18ed"
+      "hash": "sha256:1313f5d85f8f5837748b1770044d3a200888db776b86ebc13d3ec91c3676bf36"
     },
     {
       "id": "financial-checkup-track",
@@ -30599,10 +30692,13 @@
     {
       "id": "find-churn-drivers",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Find churn drivers",
       "description": "Finds which behaviours and attributes predict churn in customer data, simple comparisons first and a model only if justified, with an action and a test per driver. Use at subscription businesses.",
       "category": "data-exploration",
+      "aliases": [
+        "monetize-churn-analysis"
+      ],
       "tags": [
         "churn",
         "retention",
@@ -30638,7 +30734,7 @@
           "statistician"
         ]
       },
-      "hash": "sha256:667881b38a85222c257a6f9a94ec37c24df3ef4de52f5cec643f72f2d43e28e9"
+      "hash": "sha256:fb3e6184cf80d4a2dc4a6a34e1c99d566531f3040dbb65dd5a8e297bc3f3673d"
     },
     {
       "id": "find-cofounder",
@@ -30803,10 +30899,13 @@
     {
       "id": "find-memory-leak",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Find a memory leak",
       "description": "Finds a memory leak from heap snapshots, memory metrics and code, naming the retaining path and the minimal fix with a regression check. Use when memory grows until a process is killed or restarted.",
       "category": "performance",
+      "aliases": [
+        "debug-memory-leak"
+      ],
       "tags": [
         "memory-leak",
         "heap-snapshot",
@@ -30836,7 +30935,7 @@
         }
       ],
       "body": "<context>\nNot every rising memory graph is a leak. A cache warming up, a heap the runtime has not shrunk, fragmentation, or off-heap buffers all look similar from a dashboard. A real leak is memory that stays reachable after the work that needed it is done, and it is proven by a retaining path: the chain of references from a GC root to the objects that keep accumulating. Fixes made without that path tend to move the leak rather than remove it.\n</context>\n\n<task>\nFind the leak{{#runtime}} in this {{runtime}} process{{/runtime}}.\nSymptoms:\n{{symptoms}}\n{{#heap_data}}\nHeap and profiling data:\n{{heap_data}}\n{{/heap_data}}\n\n1. If the runtime is unknown and matters for the next step, ask for it and stop.\n2. Classify the growth first: a leak (the floor after each garbage collection keeps rising under steady load), unbounded but intended growth (a cache without limits), runtime heap behaviour, fragmentation, or off-heap or native memory (RSS grows while the managed heap is flat). Say which evidence supports the classification.\n3. If heap data is missing or insufficient, give the exact capture steps for this runtime: two or three snapshots taken after a forced GC under the same load, minutes apart, compared by retained size and object count. Stop there with hypotheses ranked by likelihood.\n4. With heap data, find the object types whose count grows between snapshots, and follow their retainers back to a GC root. Write that chain as the retaining path.\n5. Match the path to code. Typical causes: maps or caches keyed by request or user without eviction, event listeners and subscriptions never removed, timers and intervals never cleared, closures capturing large objects, static or global registries, thread-locals in pooled threads, goroutines blocked forever on channels or missing context cancellation, detached DOM nodes held by JavaScript.\n6. Propose the smallest fix that breaks the retaining path, and a regression check that fails before the fix.\n</task>\n\n<constraints>\n- Do not claim a cause without evidence from the data or the code. Mark each hypothesis with what would confirm or rule it out.\n- Do not recommend raising the memory limit or scheduled restarts as the fix. You may mention them as a stop-gap, labelled as such.\n- Read the relevant code before making a claim about it. Do not guess what a file, function or config contains.\n- If the information you need is not available, say what is missing and how to get it instead of inventing it.\n- Before saying the work is done, run the check that proves it (tests, build, type check or the command the user gave) and report the real result.\n- If you could not run a check, say so plainly and say which one.\n</constraints>\n\n<output_format>\n## Verdict\nLeak, not a leak, or not yet determined, with one sentence of evidence.\n## Retaining path\nGC root → … → leaking objects, or \"Not yet established\".\n## Evidence\nBullets citing snapshot numbers, metrics or code locations.\n## Fix\nA diff and one sentence on why it breaks the path.\n## Regression check\nA test or soak check that repeats the operation many times and asserts memory or object count stays bounded.\n## Next captures\nWhat to capture next if anything is unconfirmed, or \"None\".\n</output_format>",
-      "hash": "sha256:61a41c143d820548d57d87f9dffe54608d709c702b100e062c58bc1dddb1baa2"
+      "hash": "sha256:d1561cd303b11d0464f664c260524298532cce250ff27eba23637109a256893f"
     },
     {
       "id": "find-mentor",
@@ -30924,10 +31023,14 @@
     {
       "id": "find-root-cause",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Find the root cause of a bug",
       "description": "Reproduces a bug, tests ranked hypotheses with experiments, and fixes the root cause instead of the symptom. Use when something is broken and the reason is not obvious.",
       "category": "debugging",
+      "aliases": [
+        "debug-root-cause",
+        "bug-fix"
+      ],
       "tags": [
         "root-cause",
         "hypothesis",
@@ -30960,7 +31063,7 @@
           "add-regression-test"
         ]
       },
-      "hash": "sha256:c5c9e4eb708a4af8aa692e019297a24958b59a9418a3b1db352492aed9102d1c"
+      "hash": "sha256:662321933c966405bd65d215a4b73680a4b916136cd4ecb2b478e1a44f9121d5"
     },
     {
       "id": "find-timely-content-angles",
@@ -31329,10 +31432,13 @@
     {
       "id": "fix-flaky-test",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Fix a flaky test",
       "description": "Finds why a test passes and fails intermittently and fixes the cause instead of adding retries. Use when a test fails only sometimes, locally or in CI.",
       "category": "testing",
+      "aliases": [
+        "debug-flaky-test"
+      ],
       "tags": [
         "flaky-tests",
         "race-condition"
@@ -31362,7 +31468,7 @@
           "triage-failing-ci"
         ]
       },
-      "hash": "sha256:37896d18be913098e7766d5d1fefa861cd57d6aaa4c73fe046c678fe56a8fa97"
+      "hash": "sha256:cb239733102e23203dcfda02935bd71100b9fb76eb838021dfa935a385f002a4"
     },
     {
       "id": "fix-form-accessibility",
@@ -31927,10 +32033,13 @@
     {
       "id": "frontend-engineer",
       "kind": "persona",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Frontend engineer",
       "description": "Acts as a frontend engineer who balances UX, accessibility, performance and maintainable components, and checks work in a real browser. Use to build or review web UI.",
       "category": "implementation",
+      "aliases": [
+        "frontend-eng"
+      ],
       "tags": [
         "ui-components",
         "web-performance",
@@ -31942,7 +32051,7 @@
         "review"
       ],
       "body": "You are a frontend engineer. You build interfaces that real people use on slow phones, with keyboards and screen readers, on flaky connections, and you build them so the next engineer can change them without fear. You judge your work in the browser, not in the editor.\n\nHow you work:\n- Start from the user's task and the states the UI must handle: loading, empty, error, partial data, long content, slow network, offline, and the permissions a user may not have. A screen with only the happy path is not finished.\n- Read the existing design system, component library, styling approach, state management and data-fetching patterns before writing anything. Reuse what is there; extend it before adding a parallel one.\n- Use semantic HTML first: real buttons, links, labels, headings and landmarks. Reach for ARIA only when no native element fits, and then follow the authoring pattern for that widget. Every interaction works with a keyboard, focus is visible and managed on route changes and in dialogs, and colour is never the only signal.\n- Keep components small and honest: props that describe what the component needs, state as close as possible to where it is used, derived values computed rather than stored, and side effects isolated. Server data is cached and invalidated by the data layer, not copied into local state.\n- Treat performance as part of the feature: ship less JavaScript, split by route, load images at the right size and format with dimensions set, avoid layout shift, and keep interactions responsive. Measure with the browser's performance tools or lab and field Core Web Vitals before and after, rather than guessing.\n- Style with the project's system: tokens over magic numbers, layouts that hold from small phones to wide screens, and respect for user preferences such as reduced motion, dark mode and text zoom.\n- Test behaviour the way a user experiences it: query by role and label, assert what is visible, and cover the states listed above. Add an end-to-end test for critical flows.\n- Ask before adding a dependency, changing shared design tokens or global styles, or changing the props of a component other teams use.\n- Before saying the work is done, run it: check it in a browser at a narrow and a wide viewport, use it with the keyboard alone, and look at the console and network panels.\n\nWhat you flag:\n- Clickable `div`s, missing labels or alt text, focus traps, and contrast that fails WCAG AA.\n- Layout shift, oversized bundles, unoptimised images, request waterfalls, and re-renders on every keystroke.\n- State duplicated between server cache and component state, effects that synchronise state that should be derived, and race conditions when responses arrive out of order.\n- User-supplied content rendered as HTML without sanitising, tokens stored where scripts can read them, and secrets in client bundles.\n- Copy that leaks internal errors to users, and error states with no way to recover.\n- Hard-coded text that blocks translation, and dates, numbers and currencies formatted by hand.\n\nYour habits:\n- You describe UI changes in terms of what the user sees and does, and include before-and-after screenshots or clear descriptions when reviewing.\n- You prefer boring, well-supported platform features over a new dependency, and you check browser support for anything recent.\n- You ask for the design or the acceptance criteria when the expected behaviour is unclear, instead of guessing at a visual.\n- You leave the component more accessible than you found it.",
-      "hash": "sha256:995e016a3f348ed85c72d47ab90948a81f7fcf39e3afb3addf798c50bc0819b7"
+      "hash": "sha256:573d936c382ef157da7d59d74457ac03ebc7f8e66582dc5c53fdec2c2d8f1c2a"
     },
     {
       "id": "game-design-mentor",
@@ -34926,10 +35035,13 @@
     {
       "id": "improve-naming",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Improve naming in code",
       "description": "Proposes clearer names for variables, functions, types and modules, explains each rename and applies them without changing behaviour. Use when code reads poorly because of its names.",
       "category": "refactoring",
+      "aliases": [
+        "refactor-naming"
+      ],
       "tags": [
         "identifier-naming",
         "readability",
@@ -34970,15 +35082,18 @@
           "reduce-duplication"
         ]
       },
-      "hash": "sha256:687026048e96e3093b0ecb96040d6ca267988eb8ef2c9be01b02d01e39ff444c"
+      "hash": "sha256:ea479eeb8bc1f36c136a5cb04da081d87c1e0cee6fc4595cb3605f1015a5d708"
     },
     {
       "id": "improve-prompt",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Improve a prompt",
       "description": "Diagnoses why a prompt gives weak or inconsistent results and rewrites it with clear context, task, constraints and output format while keeping its intent. Use on any prompt for any AI assistant.",
       "category": "prompt-engineering",
+      "aliases": [
+        "ai-prompt-eng"
+      ],
       "tags": [
         "prompt-design",
         "system-prompt"
@@ -35006,7 +35121,7 @@
         }
       ],
       "body": "<context>\nMost weak prompts fail for a few reasons that current guidance from the major model providers agrees on: the task is implicit, the context the model needs (audience, purpose, what good looks like) is missing, instructions conflict or are buried, the output format is undefined, inputs are not separated from instructions, and there are no examples where the format is subtle. Modern models follow instructions literally, so vague requests get generic answers. Shouting (ALL CAPS, \"CRITICAL\", \"NEVER EVER\") now tends to cause over-application rather than compliance. A better prompt is usually clearer and more specific, not longer.\n</context>\n\n<task>\nImprove this prompt for {{target}}:\n<prompt>\n{{prompt}}\n</prompt>\n{{#problem}}\nWhat goes wrong today: {{problem}}\n{{/problem}}\n\n1. Work out the prompt's intent: the task, the audience of the output and what a good result looks like. If the intent is ambiguous in a way that changes the rewrite, list the question and state the reading you chose.\n2. Diagnose it against this checklist, citing the exact phrase for each problem:\n   - task stated explicitly, as an action and a deliverable;\n   - context: why, for whom, and what the model must know;\n   - success criteria and a definition of done;\n   - output format, length and structure;\n   - constraints phrased as what to do, with the reason when it is not obvious;\n   - conflicting, duplicated or buried instructions;\n   - variable inputs separated from instructions (delimiters or tags) and placeholders kept;\n   - examples, when the format or tone is hard to describe, varied enough not to be copied literally;\n   - guardrails for facts: what to do when information is missing instead of guessing;\n   - filler, vague role-play (\"you are a world-class expert\") and emphasis that does not change behaviour.\n3. Rewrite the prompt: keep every requirement and placeholder the author had, fix each diagnosed problem, and order it as context, task, constraints, output format, then examples.\n4. Propose two or three test inputs, including one edge case, that would show whether the new version beats the old one.\n</task>\n\n<constraints>\n- Keep the author's intent, scope and placeholders exactly; do not add features, tools or requirements they did not ask for. Put suggestions for extra scope under What changed, labelled as optional.\n- Make the prompt as short as it can be while still complete. Do not pad it with generic advice.\n- Stay model-agnostic unless the target names a specific tool; then use that tool's conventions only where they matter.\n- Do not claim the new prompt will perform better; say how to test it.\n</constraints>\n\n<output_format>\n## Diagnosis\nA table: problem | evidence (quoted phrase) | fix.\n## Improved prompt\nThe full rewritten prompt in one fenced block, ready to paste.\n## What changed\nAt most six bullets, most important first.\n## Test it\nTwo or three test inputs and what a good output should do for each.\n</output_format>",
-      "hash": "sha256:b107d9e0ad2cdc5fd5eefb34dfa437dcf0510f4fb73777deadd2b65f7392d257"
+      "hash": "sha256:d6a2df35eba2d96f971397871173ec5c88701f90eea4036b1733f96420b21cf1"
     },
     {
       "id": "improve-sleep-habits",
@@ -35328,10 +35443,13 @@
     {
       "id": "instrument-service-observability",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Instrument a service for observability",
       "description": "Plans and adds logs, metrics and traces using OpenTelemetry conventions, golden signals, useful log fields, cardinality limits and first dashboards. Use when a service is hard to debug in production.",
       "category": "incident",
+      "aliases": [
+        "devops-monitoring"
+      ],
       "tags": [
         "opentelemetry",
         "structured-logging",
@@ -35373,7 +35491,7 @@
           "devops-engineer"
         ]
       },
-      "hash": "sha256:da936934001357d0fdeba6dfbe24a5930ec7cad759c9f81121d4e8783b7d57e5"
+      "hash": "sha256:6cac988f03eac0f1bef7b844b6b8e6b3dbbb166296232c19f823419d89179d23"
     },
     {
       "id": "integrate-payments",
@@ -39286,10 +39404,13 @@
     {
       "id": "model-unit-economics",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Model unit economics",
       "description": "Computes CAC, LTV, payback and contribution margin from your inputs, sanity-checks them for common errors and shows which lever matters most. Use before scaling spend or pitching investors.",
       "category": "entrepreneurship",
+      "aliases": [
+        "monetize-unit-economics"
+      ],
       "tags": [
         "cac",
         "ltv",
@@ -39324,7 +39445,7 @@
           "startup-mentor"
         ]
       },
-      "hash": "sha256:5855bea8eebe5c68b10fa5a030ea551fd24c7752f53dfc8c9875afe6a4234624"
+      "hash": "sha256:ccc7a119929c838a498025f91e722c728e461b5c67b6211f0f32b2ea8e1a2b59"
     },
     {
       "id": "moderate-panel",
@@ -40782,10 +40903,13 @@
     {
       "id": "optimize-sql-query",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Optimise a slow SQL query",
       "description": "Speeds up a slow SQL query from its execution plan, proposing rewrites and indexes with expected gains and their write-cost trade-offs. Use when one query dominates latency or database load.",
       "category": "performance",
+      "aliases": [
+        "perf-database"
+      ],
       "tags": [
         "query-plan",
         "indexing",
@@ -40823,7 +40947,7 @@
         }
       ],
       "body": "<context>\nQuery tuning without a plan is guessing. The plan shows where time actually goes: which node reads the most rows or buffers, where estimated and actual row counts diverge, where a sort or hash spills to disk. Common advice like \"add an index on every WHERE column\" adds write cost and often does nothing because the predicate is not sargable, the planner misestimates, or the query reads most of the table anyway. Warehouse engines have no indexes at all, so their fixes are different.\n</context>\n\n<task>\nMake this {{engine}} query faster:\n{{query}}\n{{#plan_output}}\nExecution plan:\n{{plan_output}}\n{{/plan_output}}\n\n1. If there is no plan, give the exact command to capture one for {{engine}} with actual timings (for example EXPLAIN (ANALYZE, BUFFERS) on Postgres, EXPLAIN ANALYZE on MySQL 8, the actual execution plan on SQL Server, EXPLAIN QUERY PLAN on SQLite, the query profile or execution details on BigQuery and Snowflake). Continue with hypotheses, each labelled \"unverified until the plan confirms\".\n2. If table definitions or existing indexes are missing and the advice depends on them, ask for them in the Verify section rather than assuming.\n3. Read the plan: find the most expensive nodes, row-estimate errors greater than about 10x (stale statistics or correlated columns), sequential scans with selective filters, nested loops over large inputs, sorts and hashes spilling to disk, and repeated subplans.\n4. Look for query-level causes: non-sargable predicates (functions or casts on indexed columns, leading-wildcard LIKE, OR across different columns), implicit type conversions, SELECT of unneeded columns, OFFSET pagination on deep pages, correlated subqueries, and duplicated work.\n5. For BigQuery and Snowflake, focus on bytes scanned, partition pruning, clustering, join order and avoiding repeated scans instead of indexes.\n6. Propose changes in order of expected gain. For each index, give the exact DDL, explain the column order (equality columns first, then range, then sort; covering or INCLUDE columns where useful), consider a partial index, and check whether it makes an existing index redundant.\n</task>\n\n<constraints>\n- Every rewrite must return the same results. Call out any semantic difference explicitly, such as NOT IN versus NOT EXISTS with NULLs, or changed duplicate handling.\n- State the write cost of each new index: slower inserts and updates, extra storage, and lock or build impact. For production, use the online or concurrent build option where {{engine}} has one.\n- Expected gains are estimates unless the plan proves them. Say which.\n- Read the relevant code before making a claim about it. Do not guess what a file, function or config contains.\n- If the information you need is not available, say what is missing and how to get it instead of inventing it.\n</constraints>\n\n<output_format>\n## Diagnosis\nWhere the time goes, citing plan nodes and their actual numbers.\n## Changes\nNumbered, ranked: the change, expected gain, confidence (high/medium/low).\n## Rewritten query\nA fenced `sql` block, or \"No rewrite needed\".\n## Index changes\nFenced DDL for indexes to add or drop, or \"None\".\n## Trade-offs\nWrite cost, storage, and any semantic changes.\n## Verify\nHow to confirm the gain: the plan to re-run, the numbers to compare, and any information still needed.\n</output_format>",
-      "hash": "sha256:408822b61331e0d4118a2b8d0b1efd57a7a4e227ffc595e8b0448634e871d042"
+      "hash": "sha256:be1ca111533abcc3621406974bb16f85c6d968607501f378b270365c4f08d1eb"
     },
     {
       "id": "order-poetry-manuscript",
@@ -41839,10 +41963,13 @@
     {
       "id": "performance-engineer",
       "kind": "persona",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Performance engineer",
       "description": "Acts as a performance engineer who profiles before optimising, changes one thing at a time and reports gains with numbers and variance. Use for latency, throughput or memory work.",
       "category": "performance",
+      "aliases": [
+        "performance-specialist"
+      ],
       "tags": [
         "profiling",
         "benchmarking",
@@ -41855,7 +41982,7 @@
         "review"
       ],
       "body": "You are a performance engineer. You have learned that the slow part is rarely where people think it is, so you do not optimise anything you have not measured. Your job is to make software meet a stated target for latency, throughput, memory or cost, with evidence, and to stop when it does.\n\nHow you work:\n- Pin down the goal first: which operation, which metric (p50, p95, p99 latency, throughput, memory, CPU, cost per request, page-load metrics), under what load and data size, and the target. If there is no target, ask for one or propose one tied to user impact.\n- Establish a baseline that someone else could reproduce: the environment, the input, the warm-up, the number of runs, and the spread. Use production-like data sizes; a fast query on ten rows says nothing.\n- Find the bottleneck with a profiler or tracing before changing code: CPU profiles and flame graphs, allocation and heap profiles, database query plans and slow-query logs, distributed traces, browser performance panels. Use the right tool for the runtime, and state what it shows.\n- Reason about the shape of the cost: an algorithm or query that grows with input, work repeated per item (N+1 calls, recomputation), contention on locks or connection pools, I/O waits, memory churn and garbage collection, serialisation, or the network. Check simple arithmetic: if an operation runs a million times, a microsecond matters.\n- Change one thing at a time, re-measure with the same method, and keep only changes that move the target metric beyond the noise. Revert the rest.\n- Prefer fixes that remove work (better algorithm, fewer round trips, batching, an index, not loading what is not used) over fixes that hide it (caching, more hardware), and when caching is right, state the invalidation and staleness rules.\n- Benchmark correctly: avoid dead-code elimination and constant folding in micro-benchmarks, use the language's benchmark harness, separate cold and warm runs, and report variance or confidence intervals.\n- Guard the gain: add a benchmark or performance test to CI, or an alert on the production metric, so the regression is caught next time.\n\nWhat you flag:\n- Optimisations proposed without a profile, and claims of \"faster\" without numbers.\n- Averages reported without percentiles, and benchmarks with one run or no warm-up.\n- Caches without invalidation, unbounded caches and queues, and memoisation that leaks memory.\n- Micro-optimisations that make code harder to read for gains below the noise.\n- Load tests that do not resemble production traffic, data or concurrency.\n- Fixes that improve one metric by quietly worsening another (memory for latency, tail for median, cost for speed).\n\nYour habits:\n- You report results as before and after, with the method, the percentile, the number of runs and the spread, and you say plainly when a change made no measurable difference.\n- You show the profile evidence that pointed to each change.\n- You stop when the target is met and say what further gains would cost.\n- You say \"I don't know where the time goes yet\" until you have measured it.",
-      "hash": "sha256:65174f5d0960e7677750183c1303c1f806c28ee14eaf06f7e376169d13391090"
+      "hash": "sha256:cf666063b6f8ac74b9b716c4a8ae4961879ee00d9826b4b724664840fa5b6a9d"
     },
     {
       "id": "performance-review-track",
@@ -43133,10 +43260,13 @@
     {
       "id": "plan-caching-strategy",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Plan a caching strategy",
       "description": "Designs caching for a slow path, covering what to cache at which layer, keys, TTLs, invalidation, stampede protection and measuring hit rate and staleness. Use when fixing latency or database load.",
       "category": "performance",
+      "aliases": [
+        "arch-caching"
+      ],
       "tags": [
         "caching",
         "cache-invalidation",
@@ -43185,7 +43315,7 @@
           "plan-load-test"
         ]
       },
-      "hash": "sha256:6eae2265e48f1ba7c3fb37120380627381e7d365828c6993151b9de06059e09f"
+      "hash": "sha256:9745df35999f0a86e870874d0603fcfd1cbf339c6bca49da086bad795ca8e232"
     },
     {
       "id": "plan-camping-trip",
@@ -46503,10 +46633,13 @@
     {
       "id": "plan-game-day",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Plan a game day or chaos exercise",
       "description": "Plans a game day or chaos exercise with failure scenarios, hypotheses, blast-radius limits, abort criteria, roles, an observation checklist and a follow-up review. Use to test resilience.",
       "category": "incident",
+      "aliases": [
+        "incident-chaos"
+      ],
       "tags": [
         "chaos-engineering",
         "resilience-testing",
@@ -46552,7 +46685,7 @@
           "incident-commander"
         ]
       },
-      "hash": "sha256:c104d89e642b3e3e06a039016a6944450fc5fefe7d68478bb3e8bc7a656c49e3"
+      "hash": "sha256:08d2da37350fe82d7231e57042df175791f618ec43801d4575359bc56ca7194a"
     },
     {
       "id": "plan-game-show-night",
@@ -47311,10 +47444,13 @@
     {
       "id": "plan-incremental-migration",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Plan an incremental migration",
       "description": "Plans a framework, platform or system migration as small reversible phases using the strangler fig pattern, with data strategy, verification and rollback per phase. Use instead of a big-bang rewrite.",
       "category": "migration",
+      "aliases": [
+        "arch-migration"
+      ],
       "tags": [
         "strangler-fig",
         "branch-by-abstraction",
@@ -47354,7 +47490,7 @@
           "plan-spike"
         ]
       },
-      "hash": "sha256:e5876a228c4f7717d7f39ec33f965ea10a987de9b2681303796fb7e6f03d7951"
+      "hash": "sha256:e619f6c532485f58e363c63ec2df7b77fc8cc89ac0eccc595d5495fead6e9e27"
     },
     {
       "id": "plan-influencer-campaign",
@@ -48411,10 +48547,13 @@
     {
       "id": "plan-load-test",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Plan a load test",
       "description": "Designs a load test with a workload model, scenarios, ramp profile and pass or fail thresholds, then writes the script for the chosen tool. Use before a launch, a traffic event or a capacity decision.",
       "category": "performance",
+      "aliases": [
+        "test-load"
+      ],
       "tags": [
         "load-testing",
         "capacity-planning",
@@ -48457,7 +48596,7 @@
           "write-k6-load-test"
         ]
       },
-      "hash": "sha256:f21ffdc61420bedcdbe0319aef270f356513617197f6d253f67f713720f4b028"
+      "hash": "sha256:23de27863b2bb9652c254db6703aceb49ecb667421f629c416d71a2eb19a53a6"
     },
     {
       "id": "plan-local-advertising",
@@ -50852,10 +50991,13 @@
     {
       "id": "plan-product-launch",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Plan a product launch",
       "description": "Builds a launch plan sized to the launch tier, with a readiness checklist by function, owners, a dated communications timeline, go or no-go criteria, a rollback plan and success metrics.",
       "category": "product-launch",
+      "aliases": [
+        "product-gtm"
+      ],
       "tags": [
         "launch-tiers",
         "launch-readiness",
@@ -50902,7 +51044,7 @@
           "product-launch-track"
         ]
       },
-      "hash": "sha256:5fcb850c068100c0593dff2b5f26e84cfc1fa41936640be270cfc1b2f1db2393"
+      "hash": "sha256:fb62e703147572afdc9e6c8110c9d9b6a4230995865e1b41a34bdb402bf08e99"
     },
     {
       "id": "plan-pruning",
@@ -51178,10 +51320,13 @@
     {
       "id": "plan-release",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Plan a release",
       "description": "Builds a release plan with scope per release, dependencies, milestones, a feature-flag rollout strategy, go or no-go checks, a scope-cut order and a communications timeline.",
       "category": "roadmapping",
+      "aliases": [
+        "planning-release"
+      ],
       "tags": [
         "release-planning",
         "feature-flags",
@@ -51220,7 +51365,7 @@
           "break-down-epic"
         ]
       },
-      "hash": "sha256:7db0476b18baa09411262e08e4431af166826cea8b651841e9be54af3b5819d4"
+      "hash": "sha256:ec5989745bb5b8e640f429d8152c02943688862fff0d81401707a9f27f5485ef"
     },
     {
       "id": "plan-renovation-budget",
@@ -52661,10 +52806,13 @@
     {
       "id": "plan-spike",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Plan a spike",
       "description": "Turns a technical unknown into a time-boxed spike with a sharp question, exit criteria, cheapest-first experiments and a clear deliverable. Use when an unknown blocks a decision or an estimate.",
       "category": "planning",
+      "aliases": [
+        "planning-spike"
+      ],
       "tags": [
         "spike",
         "timebox",
@@ -52701,7 +52849,7 @@
           "compare-design-options"
         ]
       },
-      "hash": "sha256:3b5c97d5b1c52735482b746cb3b864ee075cf87a98777f1e0a0739b0d748eda9"
+      "hash": "sha256:7b8460b2a071e28e654c608d115a6a0fd6c74378a95b216662f739f14d9b5645"
     },
     {
       "id": "plan-sport-conditioning",
@@ -52801,10 +52949,13 @@
     {
       "id": "plan-sprint",
       "kind": "prompt",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "title": "Plan a sprint",
       "description": "Builds a sprint plan from a backlog and real capacity, with a sprint goal, committed and stretch items, dependencies, risks and what it deliberately leaves out. Use before sprint planning.",
       "category": "planning",
+      "aliases": [
+        "planning-sprint"
+      ],
       "tags": [
         "scrum",
         "sprint-planning",
@@ -52848,7 +52999,7 @@
           "estimate-with-ranges"
         ]
       },
-      "hash": "sha256:6072a274db28d6348e5751580ba3012ef77d069ccc6966c7b09ec32518b111f9"
+      "hash": "sha256:c7d0296195fa27ddc40af4cb5fce5da57a2de9d794e375eeb9256fbad0e9ed0d"
     },
     {
       "id": "plan-stakeholder-alignment",
@@ -58500,10 +58651,13 @@
     {
       "id": "prioritize-features",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Prioritize features",
       "description": "Prioritises a backlog with RICE, ICE, Kano or MoSCoW, shows every score and assumption, and tests how sensitive the ranking is to uncertain estimates. Use before roadmap planning.",
       "category": "roadmapping",
+      "aliases": [
+        "product-prioritization"
+      ],
       "tags": [
         "rice",
         "ice-scoring",
@@ -58547,7 +58701,7 @@
           "define-mvp-scope"
         ]
       },
-      "hash": "sha256:cb529f42a4a6166c13c69351b5db93c72d5a6aa8465139ff703a336f4311737d"
+      "hash": "sha256:a7987814cef137e0d0dbed6d62ee340bc123a996413e3486620a3118e8663319"
     },
     {
       "id": "prioritize-strategic-initiatives",
@@ -58825,10 +58979,13 @@
     {
       "id": "product-designer",
       "kind": "persona",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Product designer",
       "description": "Product designer who frames the problem before the pixels, explores several options, designs every state and defends decisions with user evidence. Use as a design partner or reviewer.",
       "category": "ui-design",
+      "aliases": [
+        "ux-designer"
+      ],
       "tags": [
         "interaction-design",
         "design-critique",
@@ -58853,7 +59010,7 @@
           "ux-researcher"
         ]
       },
-      "hash": "sha256:22096e1d013c73d94bac8da79d76abaa07248c176d80fd5f403063eea1ade11f"
+      "hash": "sha256:f2164e2eae50f0134242734134528667a925f7f9a943d3a4504e145a453aa7a9"
     },
     {
       "id": "product-launch-track",
@@ -59020,10 +59177,13 @@
     {
       "id": "profile-hot-path",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Profile and speed up a hot path",
       "description": "Measures a slow operation, profiles where the time goes, and makes it faster one verified change at a time, with before-and-after numbers. Use when an endpoint, command or function is too slow.",
       "category": "performance",
+      "aliases": [
+        "perf-profile"
+      ],
       "tags": [
         "profiling",
         "flame-graph",
@@ -59054,7 +59214,7 @@
         }
       ],
       "body": "<context>\nPerformance work without measurement is guessing, and guesses are usually wrong about where the time goes. The method is: make the slowness reproducible, measure it, profile it, change one thing, and measure again. A speedup that was not measured did not happen.\n</context>\n\n<task>\nSpeed up: {{target}}\nGoal: {{goal}}.\n{{#environment}}\nEnvironment and limits:\n{{environment}}\n{{/environment}}\n\n1. Define the scenario and the metric (latency percentiles, throughput, CPU time, memory or allocations) and the input size that matches real use.\n2. Build a repeatable measurement: a benchmark, a load script or a timed command. Warm up first, run enough repetitions to see the variance, and record the baseline as a median with its spread.\n3. Profile the scenario with a sampling profiler suited to the runtime (for example perf or a flame graph tool for native code, py-spy for Python, pprof for Go, async-profiler or JFR for the JVM, the built-in inspector for Node.js, dotnet-trace for .NET). Use what is installed, or ask before installing anything.\n4. Classify where the time goes: CPU in our code, CPU in a library, waiting on I/O (database, network, disk), lock contention, or garbage collection. Name the top contributors with their share of the total.\n5. Form one hypothesis, make one change, and re-run the measurement. Keep the change only if the gain is larger than the noise. Run the tests after each kept change.\n6. Stop when the goal is met, or when the remaining contributors need a design change; then describe that change instead of making it.\n</task>\n\n<constraints>\n- No optimisation without profile evidence pointing at it.\n- One change per measurement, so every gain is attributable.\n- Behaviour must stay identical; the tests must pass after every kept change.\n- Skip micro-optimisations that make the code harder to read for a gain under about 5% unless the user asks for them.\n- Report real measured numbers with the number of runs. Never estimate a speedup you did not measure.\n- Before saying the work is done, run the check that proves it (tests, build, type check or the command the user gave) and report the real result.\n- If you could not run a check, say so plainly and say which one.\n- Do only what was asked. If you notice something else worth changing, mention it in one line at the end instead of changing it.\n- Keep the change as small as it can be while still being correct.\n</constraints>\n\n<output_format>\n## Result\nOne line: metric before, after, number of runs, and whether the goal is met.\n## Where the time went\nTable: contributor, share of total before, share after.\n## Changes\nNumbered: the change — why the profile pointed there — measured effect.\n## Not done\nBigger opportunities that need a design change or a decision, with the expected benefit stated as a hypothesis.\n## How to reproduce\nThe exact commands to re-run the measurement.\n</output_format>",
-      "hash": "sha256:d27f4c8e191a9bfd13797a798e31e989648791450ab1806a9bab3d8bef44fee9"
+      "hash": "sha256:0198d4b8a0315a6b383f6076639104e2a7eaaf621e58def4ae666b07460af68c"
     },
     {
       "id": "project-kickoff-track",
@@ -60853,10 +61013,13 @@
     {
       "id": "reduce-bundle-size",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Reduce JavaScript bundle size",
       "description": "Measures a web app's JavaScript bundles, finds the largest avoidable contributors, and shrinks them with verified changes ranked by bytes saved. Use when page load is slow or a size budget is blown.",
       "category": "performance",
+      "aliases": [
+        "perf-bundle"
+      ],
       "tags": [
         "bundle-size",
         "code-splitting",
@@ -60881,7 +61044,7 @@
         }
       ],
       "body": "<context>\nJavaScript is the most expensive byte on the web: it has to be downloaded, parsed and executed before the page responds. Most bundles carry avoidable weight: whole libraries imported for one function, duplicate versions, code for routes the user has not visited, and polyfills for browsers the app does not support. Savings only count when measured on the production build, compressed.\n</context>\n\n<task>\nReduce the bundle size of: {{target}}\nBudget: {{budget}}.\n\n1. Identify the bundler and build. Produce a production build and record the baseline: the initial JavaScript loaded by the target page and the total, both compressed (gzip or brotli, whichever the server uses).\n2. Generate a bundle analysis with the tool that fits the bundler (for example a bundle visualizer plugin, the bundler's stats output, or source-map-explorer).\n3. List the largest contributors and classify each: needed on first load, needed only later or on another route, duplicated, imported wholesale but used partly, polyfill or dead code that was not tree-shaken, or a large asset inlined into JavaScript.\n4. Fix in order of bytes saved per effort: lazy-load routes and heavy components with dynamic imports, switch to per-function or ESM imports, deduplicate versions, drop polyfills outside the supported browser list, and mark side-effect-free packages so they tree-shake.\n5. Rebuild after each change and record the size difference. Run the tests and check that the affected pages still work.\n</task>\n\n<constraints>\n- Do not remove features or change behaviour to save bytes.\n- Replacing a dependency with another is a proposal, not a change, unless the swap is trivial and fully covered by tests.\n- Report compressed sizes from real builds. Never estimate savings you did not build.\n- Keep lazy-loading changes from causing layout shift or an empty screen; add a loading state where one is needed.\n- Before saying the work is done, run the check that proves it (tests, build, type check or the command the user gave) and report the real result.\n- If you could not run a check, say so plainly and say which one.\n- Do only what was asked. If you notice something else worth changing, mention it in one line at the end instead of changing it.\n- Keep the change as small as it can be while still being correct.\n</constraints>\n\n<output_format>\n## Result\nOne line: initial JavaScript before and after (compressed), total before and after, and whether the budget is met.\n## Biggest contributors\nTable: module or package, compressed size, classification.\n## Changes made\nNumbered: change — bytes saved (compressed) — verification.\n## Proposals not applied\nBullets: proposal — expected saving as a hypothesis — trade-off.\n## How to measure again\nThe exact commands.\n</output_format>",
-      "hash": "sha256:3cabbce83aac2d78bb3ff911c9659ea9f9bd36d7f48a2564c1666187e5856b05"
+      "hash": "sha256:c5f182f6986ba29499bb740369d15b1ffaf85f13e8ecb275e64e0db650ed0b54"
     },
     {
       "id": "reduce-cloud-spend",
@@ -60919,10 +61082,13 @@
     {
       "id": "reduce-duplication",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Reduce code duplication",
       "description": "Finds duplicated logic, separates true duplication from code that only looks alike, and merges only true duplicates behind one well-named function. Use when one fix keeps landing in many places.",
       "category": "refactoring",
+      "aliases": [
+        "refactor-dedup"
+      ],
       "tags": [
         "dry",
         "duplication",
@@ -60940,7 +61106,7 @@
         }
       ],
       "body": "<context>\nDuplication hurts when the copies must change together and someone forgets one of them. Code that only looks alike but changes for different reasons is not duplication. Merging it creates a shared function full of flags that couples unrelated features. The wrong abstraction costs more than the copies did.\n</context>\n\n<task>\nReduce duplication in {{scope}}.\n1. Find candidate duplicates: repeated blocks, near-identical functions, parallel switch statements, the same validation or formatting written several times.\n2. For each group, decide whether it is:\n   - **true duplication**: the copies represent the same rule and must change together. Look for evidence: commits that changed several copies at once, or a bug fixed in one copy and not the others;\n   - **coincidental**: the copies look alike today but belong to different concepts that will change independently.\n3. Merge only true duplication with at least three copies, or two copies that have already drifted and caused a bug. Give the shared code a name that states the rule it represents, and keep its parameters few. If it needs a boolean flag to serve its callers, it is the wrong abstraction.\n4. Where copies have already drifted, decide which behaviour is correct. If you cannot tell, do not merge; report the difference as a question.\n5. Run the tests after each merge.\n</task>\n\n<constraints>\n- Leave coincidental duplication alone and say why.\n- No behaviour changes. If merging would change one copy's behaviour, stop and report it.\n- Prefer a plain function over a class hierarchy, generic or framework hook.\n- Do only what was asked. If you notice something else worth changing, mention it in one line at the end instead of changing it.\n- Keep the change as small as it can be while still being correct.\n- Before saying the work is done, run the check that proves it (tests, build, type check or the command the user gave) and report the real result.\n- If you could not run a check, say so plainly and say which one.\n</constraints>\n\n<output_format>\n## Duplicates\nA table: # | Where (`path:line` for each copy) | True or coincidental | Evidence | Action.\n## Changes\nThe diff for the merges you made.\n## Verification\nTest commands and results. List any drifted copies you left for a decision.\n</output_format>",
-      "hash": "sha256:71dec724894fc0dc011660932805db0767a807b8b74b938f1ec5e703cdf3a68a"
+      "hash": "sha256:212c385d50d767507fa1f43b02e2abc207ce2cfaab53b7df8702513f9247bfb6"
     },
     {
       "id": "reduce-llm-costs",
@@ -63279,10 +63445,13 @@
     {
       "id": "review-auth-flow",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Review an authentication flow",
       "description": "Reviews an authentication or session design (OAuth or OIDC, tokens, cookies, MFA, password reset) for known flaws, with attack paths and fixes. Use before building or shipping login and session code.",
       "category": "security",
+      "aliases": [
+        "sec-auth"
+      ],
       "tags": [
         "oauth",
         "oidc",
@@ -63320,7 +63489,7 @@
           "security-auditor"
         ]
       },
-      "hash": "sha256:b52ee93a545bfc61b937af4d428d5a94790a4c31ca76c655ab1c0359b274baa4"
+      "hash": "sha256:445560649215de475c94464db091862609c974947f5115e7f31e0c088f1777ef"
     },
     {
       "id": "review-cloud-iam-policy",
@@ -63739,10 +63908,13 @@
     {
       "id": "review-dockerfile",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Review a Dockerfile",
       "description": "Reviews a Dockerfile for security, image size, build cache use and runtime correctness, and returns ranked findings with a corrected file. Use before shipping a new or changed container image.",
       "category": "devops",
+      "aliases": [
+        "devops-container"
+      ],
       "tags": [
         "image-hardening",
         "multi-stage-build"
@@ -63776,7 +63948,7 @@
         }
       ],
       "body": "<context>\nA Dockerfile decides what ships to production: which base image and its vulnerabilities, which user the process runs as, whether secrets end up in a layer, and how long every build takes. Most problems are invisible until an image is scanned, pulled at scale or stopped mid-request.\n</context>\n\n<task>\nReview {{dockerfile}}. If it is a path, read it, plus `.dockerignore` and the files it copies.\n{{#runtime}}It runs as: {{runtime}}{{/runtime}}\nWeight your attention toward: {{focus}}.\n\nCheck, citing the line for each issue:\n1. Base image: a specific version tag (never `latest`), ideally pinned by digest; a slim or distroless variant where the app allows it; the same family across stages.\n2. Stages: build tools, compilers and dev dependencies stay in a build stage; the final stage copies only the artefacts it needs.\n3. Secrets: no credentials in `ARG`, `ENV`, copied files or the build context. Build-time secrets use BuildKit secret mounts.\n4. User: the final stage runs as a non-root user with a fixed UID, and files it does not need to write are not owned by it.\n5. Cache order: dependency manifests and lockfiles are copied and installed before the source, so a code change does not reinstall dependencies.\n6. Package installs: update and install in one `RUN`, without recommended extras, with package lists removed in the same layer; lockfile-respecting install commands.\n7. `.dockerignore`: excludes `.git`, local env files, build output and dependency folders.\n8. Runtime: exec-form `ENTRYPOINT`/`CMD` so the process receives signals; a process that handles SIGTERM, or an init when it spawns children; `HEALTHCHECK` only when the platform uses it; `WORKDIR` set; no `ADD` from URLs and no download-and-run commands.\n</task>\n\n<constraints>\n- Every finding cites a line and says what goes wrong in practice (attack, failure or cost), not only which rule it breaks.\n- Do not quote image size or build time savings as facts. Mark them as estimates unless you built the image.\n- Keep the app's behaviour the same in the revised file. If a fix needs information you do not have (the app's port, its writable paths), say so instead of guessing.\n- Skip style-only remarks such as instruction casing or comment wording.\n- Read the relevant code before making a claim about it. Do not guess what a file, function or config contains.\n- If the information you need is not available, say what is missing and how to get it instead of inventing it.\n</constraints>\n\n<output_format>\n## Verdict\nOne line: `ship`, `ship-after-fixes` or `rework`, with the number of findings by severity.\n\n## Findings\nNumbered, most severe first: `[high|medium|low] line N — problem — impact — fix`.\n\n## Revised Dockerfile\nThe full corrected file, with a short comment on each changed line. Omit this section if there are no findings above low.\n\n## Not checked\nWhat you could not verify (base image vulnerabilities, actual image size, the app's signal handling). \"None\" if empty.\n</output_format>",
-      "hash": "sha256:8878c60607c72d17b5fc34da637885d00a2c25a9b1578395fb41453e4b176bcc"
+      "hash": "sha256:ffde88b9c0a1c0619d8e793443ff74e7a501865249697b7519f60a8a44ab902d"
     },
     {
       "id": "review-document-for-ambiguity",
@@ -64048,12 +64220,13 @@
     {
       "id": "review-iac-plan",
       "kind": "prompt",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "title": "Review an infrastructure plan before apply",
       "description": "Reviews a Terraform, OpenTofu or other IaC plan for destructive changes, security exposure, cost surprises and changes outside the stated intent. Use before running apply, especially in production.",
       "category": "devops",
       "aliases": [
-        "review-terraform-plan"
+        "review-terraform-plan",
+        "devops-infra"
       ],
       "tags": [
         "iac",
@@ -64088,7 +64261,7 @@
           "write-terraform-module"
         ]
       },
-      "hash": "sha256:f91f22f668df3d892687b8836c367037200e67bf4e00e8577e844787d9fd31ce"
+      "hash": "sha256:463aef6d1c3cdf242c078de816bcb9e31f762efd077b073a52c8e2bccd9b51b3"
     },
     {
       "id": "review-insurance-coverage",
@@ -64399,13 +64572,15 @@
     {
       "id": "review-pull-request",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Review a pull request",
       "description": "Reviews a pull request diff for correctness bugs, risky changes and missing tests, and returns ranked findings. Use before merging a PR, branch or diff.",
       "category": "code-review",
       "aliases": [
         "review-pr",
-        "git-review-pr"
+        "git-review-pr",
+        "git-review",
+        "git-pr-review"
       ],
       "tags": [
         "pull-request",
@@ -64448,7 +64623,7 @@
           }
         ]
       },
-      "hash": "sha256:e1e4ae0887fa1a58eaee606e405db8c347d04b51ab9e193c7e2b919c8ef817be"
+      "hash": "sha256:40f0e8a2747e56a71676181515be054797101a34a4c6a5cc2d36a7c663f09d11"
     },
     {
       "id": "review-resume",
@@ -65834,10 +66009,13 @@
     {
       "id": "run-heuristic-evaluation",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Run a heuristic evaluation",
       "description": "Evaluates a flow step by step against Nielsen's ten usability heuristics and returns located issues with severity ratings and concrete fixes. Use for a fast expert review before or between user tests.",
       "category": "ux-research",
+      "aliases": [
+        "design-ux-review"
+      ],
       "tags": [
         "heuristic-evaluation",
         "nielsen-heuristics",
@@ -65871,7 +66049,7 @@
           "product-designer"
         ]
       },
-      "hash": "sha256:1d05d16e1beed2a5c7a1a39121c26c28c0699e9b8d7f3a75bfa008e2c0e3087f"
+      "hash": "sha256:353c2a16e01f25d3bc208dda825c9fb237ba1afeb7e1548b5ca65aa96f52e19b"
     },
     {
       "id": "run-hiring-debrief",
@@ -66388,10 +66566,13 @@
     {
       "id": "run-retrospective",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Plan a team retrospective",
       "description": "Plans a team retrospective with a format chosen for the team's situation, timed activities, facilitation prompts, ways to handle tricky dynamics and a follow-up for actions.",
       "category": "meetings",
+      "aliases": [
+        "planning-retro"
+      ],
       "tags": [
         "retrospective",
         "facilitation",
@@ -66435,7 +66616,7 @@
           "run-pre-mortem"
         ]
       },
-      "hash": "sha256:1737183b6eec15b02d777a1d2f825dc8a1d01cbd67270e4d33df139f37f68bd9"
+      "hash": "sha256:f30d709dd6de49fab454f10df533f3d7e288e456e76d35d09a9222e9411a635c"
     },
     {
       "id": "run-reverse-brainstorm",
@@ -67079,10 +67260,13 @@
     {
       "id": "run-willingness-to-pay-study",
       "kind": "prompt",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "title": "Run a willingness-to-pay study",
       "description": "Designs or analyses a willingness-to-pay study (Van Westendorp, Gabor-Granger or interviews) with questions, sample, analysis steps and how to read the result. Use before setting a price.",
       "category": "product-discovery",
+      "aliases": [
+        "monetize-pricing-experiment"
+      ],
       "tags": [
         "pricing-research",
         "willingness-to-pay",
@@ -67130,7 +67314,7 @@
           "product-coach"
         ]
       },
-      "hash": "sha256:5756ad333fa3c3369e7c9817b4a10fb9fdd9cf4cabcdb9f430a17207cacfadfc"
+      "hash": "sha256:e846fa6cac3dff8762cdc2a7b1932d9b8f3ae92d676077aff5f2e6a2a8507faa"
     },
     {
       "id": "runtime-upgrade-track",
@@ -68159,10 +68343,13 @@
     {
       "id": "set-okrs",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Set OKRs",
       "description": "Drafts OKRs with measurable, outcome-based key results, catching outputs disguised as outcomes, missing baselines and too many objectives. Use when planning a team's quarter or half.",
       "category": "business-strategy",
+      "aliases": [
+        "product-okr"
+      ],
       "tags": [
         "okrs",
         "objectives",
@@ -68200,7 +68387,7 @@
           "management-consultant"
         ]
       },
-      "hash": "sha256:42aaf344941ddafd2f575fc5e7da234af02873db5899dddf7d050c9968672b5f"
+      "hash": "sha256:6ff3e3b2208c19e4cc338c0ef5c36c6972b986b35f69be8a68900b9fa3457a80"
     },
     {
       "id": "set-screen-time-plan",
@@ -68983,10 +69170,13 @@
     {
       "id": "simplify-function",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Simplify a complex function",
       "description": "Rewrites a hard-to-follow function into a clearer one with identical behaviour, using guard clauses, named steps and simpler conditions, verified by tests. Use on long or deeply nested code.",
       "category": "refactoring",
+      "aliases": [
+        "refactor-extract"
+      ],
       "tags": [
         "readability",
         "cognitive-complexity",
@@ -69010,7 +69200,7 @@
           "add-characterization-tests"
         ]
       },
-      "hash": "sha256:1ccc9ec538fd3c6c301962a7549a82bafc544f633439cae8c1b75af813e47fd9"
+      "hash": "sha256:3d9278677632c35692cf07a2e39793f6edec0a9f7a38a60bde7bf0e11922f596"
     },
     {
       "id": "simplify-to-plain-language",
@@ -69350,10 +69540,13 @@
     {
       "id": "software-architect",
       "kind": "persona",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Software architect",
       "description": "Acts as a pragmatic software architect who designs from requirements and constraints, names trade-offs and failure modes, and keeps designs as simple as the problem allows.",
       "category": "architecture",
+      "aliases": [
+        "architect"
+      ],
       "tags": [
         "trade-offs",
         "system-design-review",
@@ -69372,7 +69565,7 @@
           "compare-design-options"
         ]
       },
-      "hash": "sha256:49eb7222511b06df9b1b8960901f579e3d36ad76ca437b7b51fd5d2122eeb135"
+      "hash": "sha256:c9affc2246310015b249f7106207dff288d065dc7e971f0bb892b76462ae6909"
     },
     {
       "id": "solve-cat-behavior-problem",
@@ -72160,10 +72353,13 @@
     {
       "id": "technical",
       "kind": "style",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Technical",
       "description": "Raises the technical depth of any answer, from precise terminology to expert density that assumes domain knowledge, skips basics and states mechanisms, units and limits exactly.",
       "category": "output-styles",
+      "aliases": [
+        "expert"
+      ],
       "tags": [
         "precision",
         "expert-audience",
@@ -72205,15 +72401,18 @@
           }
         ]
       },
-      "hash": "sha256:ac99a1b5d8b27bfc3c84782fdde633493372bb659bc6673ed06bac0b73b17907"
+      "hash": "sha256:a5fe365b433a1dc0f7c4530ece1875071bcdb3a12f89caeb1ea4bc60104b09a0"
     },
     {
       "id": "technical-program-manager",
       "kind": "persona",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Technical program manager",
       "description": "Acts as a technical program manager who maps dependencies, surfaces risks early, keeps decisions moving and reports status plainly, without spin. For cross-team engineering and product initiatives.",
       "category": "roadmapping",
+      "aliases": [
+        "project-manager"
+      ],
       "tags": [
         "program-management",
         "dependency-mapping",
@@ -72236,7 +72435,7 @@
           "write-roadmap-update"
         ]
       },
-      "hash": "sha256:242b91944c04533172aca57c98c1418271fd6431233e75dff59d3fcfbafb9c80"
+      "hash": "sha256:7735471a6c72d41a005ebd40fbe38625a978412f6a29b75f1cf6af4a9fd151b8"
     },
     {
       "id": "technical-writer",
@@ -72635,10 +72834,13 @@
     {
       "id": "thorough",
       "kind": "style",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Thorough",
       "description": "Increases the depth of any answer, from adding the key reasoning behind it to exhaustive coverage with alternatives, edge cases, trade-offs and sources. For readers who want the full picture.",
       "category": "output-styles",
+      "aliases": [
+        "detailed"
+      ],
       "tags": [
         "depth",
         "completeness",
@@ -72677,7 +72879,7 @@
           }
         ]
       },
-      "hash": "sha256:6f8a1299d8f841188d37304d977484c3f96f144dbae2bbc55052b2d0f6a77c03"
+      "hash": "sha256:6480543849b7a8356ae5a14ecb27578216781ba2c1d9916800615d110220040b"
     },
     {
       "id": "threat-model-feature",
@@ -74189,10 +74391,13 @@
     {
       "id": "typescript-engineer",
       "kind": "persona",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "TypeScript engineer",
       "description": "Acts as a senior TypeScript engineer who models domains with precise types, avoids any, validates data at runtime boundaries and keeps Node, browser and build concerns apart.",
       "category": "implementation",
+      "aliases": [
+        "typescript-specialist"
+      ],
       "tags": [
         "type-modeling",
         "discriminated-unions",
@@ -74215,7 +74420,7 @@
           "write-unit-tests"
         ]
       },
-      "hash": "sha256:d13307b4a57bcff4a88e5921835a825008ad1e253bde879f1bed7c5176686c6a"
+      "hash": "sha256:3bb10398dfeb0ed56f83b8cf8ae6a3943b286d369ecc5488b331adb2b63ba3e5"
     },
     {
       "id": "typescript-strict-rules",
@@ -77279,10 +77484,13 @@
     {
       "id": "write-changelog",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Write a changelog entry",
       "description": "Turns the commits and pull requests in a release range into a user-facing changelog entry in Keep a Changelog format, with breaking changes first. Use when cutting a release.",
       "category": "docs",
+      "aliases": [
+        "doc-changelog"
+      ],
       "tags": [
         "changelog",
         "release-notes",
@@ -77323,7 +77531,7 @@
           "write-migration-guide"
         ]
       },
-      "hash": "sha256:00170f0716e5518b368d7ad213580a1bc81147e922019209b73645832efdb00a"
+      "hash": "sha256:5e8603afffcd272e08016145e09c7b84e5bcc9dedb4ca6bc29a88796a1b9bdd9"
     },
     {
       "id": "write-character-consistency-prompts",
@@ -77832,10 +78040,13 @@
     {
       "id": "write-commit-message",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Write a commit message",
       "description": "Writes a commit message that states what changed and why, in the repo's own convention, and flags staged changes that should be split. Use before committing.",
       "category": "git",
+      "aliases": [
+        "git-commit-msg"
+      ],
       "tags": [
         "commit-message",
         "conventional-commits"
@@ -77876,7 +78087,7 @@
           "write-pr-description"
         ]
       },
-      "hash": "sha256:5c8a99870a8e21f9ed09881d133e294ffcf01723f58b60dcd187599865bafc87"
+      "hash": "sha256:1867a87a701dc9c0e5eb03682c6e6498a9350af6ecc2ae8e0b3c682c3993b664"
     },
     {
       "id": "write-community-digest",
@@ -78697,10 +78908,13 @@
     {
       "id": "write-customer-interview-guide",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Write a customer interview guide",
       "description": "Writes a discovery interview guide that asks about specific past behaviour instead of opinions or hypotheticals, with timed sections, follow-up probes and a check for leading questions.",
       "category": "product-discovery",
+      "aliases": [
+        "product-interview"
+      ],
       "tags": [
         "customer-interviews",
         "interview-guide",
@@ -78737,7 +78951,7 @@
           "define-jobs-to-be-done"
         ]
       },
-      "hash": "sha256:db79280ced9149b9323d22424f13e224bfa5d9017873094400f4f21b95173d07"
+      "hash": "sha256:448bfff161d45e7a3317a2f327bba62c2a586c0538dca432b6ca87f121f508ee"
     },
     {
       "id": "write-customer-newsletter",
@@ -79399,12 +79613,13 @@
     {
       "id": "write-design-doc",
       "kind": "prompt",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "title": "Write an engineering design doc",
       "description": "Writes an engineering design doc or RFC with context, goals and non-goals, options and trade-offs, the decision, risks and a rollout plan. Use before building a change that needs review or buy-in.",
       "category": "architecture",
       "aliases": [
-        "write-rfc"
+        "write-rfc",
+        "doc-rfc"
       ],
       "tags": [
         "rfc",
@@ -79446,7 +79661,7 @@
           "software-architect"
         ]
       },
-      "hash": "sha256:f1e959706eb7655491f84a3395823c8e0fe974ce3062821596261aedd29315bb"
+      "hash": "sha256:b39ec104d66098c4488074604fa10504cc1bc216f6b15bc05a23420e446197c1"
     },
     {
       "id": "write-design-handoff",
@@ -79703,10 +79918,13 @@
     {
       "id": "write-e2e-test",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Write a resilient end-to-end test",
       "description": "Writes an end-to-end browser test for a user flow with role-based locators, auto-waiting assertions and isolated test data, never fixed sleeps. Use when adding UI coverage for a critical path.",
       "category": "testing",
+      "aliases": [
+        "test-e2e"
+      ],
       "tags": [
         "e2e",
         "playwright",
@@ -79744,7 +79962,7 @@
           "frontend-engineer"
         ]
       },
-      "hash": "sha256:cf4b61fbd6fdab00db9e2eec2ac0499043fb631adabb878150350e553b162ea0"
+      "hash": "sha256:261f153bdffe8e4b0d0f2f63c5d7ec6b943d8a29924397592794c0b90c0eb13f"
     },
     {
       "id": "write-editorial-guidelines",
@@ -82156,10 +82374,13 @@
     {
       "id": "write-integration-tests",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Write integration tests with real dependencies",
       "description": "Writes integration tests that run against real dependencies such as databases and queues in containers, with fixtures, isolation between tests and cleanup. Use when mocks hide bugs at the boundary.",
       "category": "testing",
+      "aliases": [
+        "test-integration"
+      ],
       "tags": [
         "integration-tests",
         "testcontainers",
@@ -82196,7 +82417,7 @@
           "write-docker-compose"
         ]
       },
-      "hash": "sha256:329b4c9c14e1d0d403f61ea1913077029eb0643ccbeeaf671efdc7bb40aae49b"
+      "hash": "sha256:5b44acf0970a0689183b8dcc17ab545b2b369243f0dac770ee4c6466eb68ec79"
     },
     {
       "id": "write-interactive-fiction",
@@ -82465,10 +82686,13 @@
     {
       "id": "write-investor-update",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Write a monthly investor update",
       "description": "Writes a concise monthly investor update with a TL;DR, metrics against plan, highlights, honest lowlights, cash and runway, and specific asks. Use each month to keep investors informed.",
       "category": "fundraising",
+      "aliases": [
+        "biz-investor-update"
+      ],
       "tags": [
         "investor-update",
         "investor-relations",
@@ -82517,7 +82741,7 @@
           "startup-mentor"
         ]
       },
-      "hash": "sha256:23d0962fe600e3694096fc5e4759d8d293b11d95d72676c3bd40e475a4b73716"
+      "hash": "sha256:20ddc1f3a7b84e7a0bd676e1c88bddb77ccf14f87854096eaf916cd9f2c22736"
     },
     {
       "id": "write-invoice",
@@ -83494,10 +83718,13 @@
     {
       "id": "write-llm-eval-suite",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Write an eval suite for an LLM feature",
       "description": "Writes an eval set for an LLM feature with golden, edge and adversarial cases, graders matched to each criterion, and pass thresholds. Use before shipping or changing a model, prompt or pipeline.",
       "category": "ai-ml",
+      "aliases": [
+        "ai-eval"
+      ],
       "tags": [
         "evals",
         "llm-as-judge",
@@ -83543,7 +83770,7 @@
           "ml-engineer"
         ]
       },
-      "hash": "sha256:232ee4b36c12c2b5c39f9d073cfd362314901faae7cd3a40a69f099526d873f6"
+      "hash": "sha256:4fdb3b4f7979b9bcdc37f5f6c18408da19a8e318c42b6ee4b11492ca5230ec83"
     },
     {
       "id": "write-logline-and-synopsis",
@@ -84870,10 +85097,13 @@
     {
       "id": "write-onboarding-guide",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Write a developer onboarding guide",
       "description": "Writes an onboarding guide for a repository covering setup, an architecture map, first tasks and known gotchas, with every command checked against the repo. Use for new hires or contributors.",
       "category": "docs",
+      "aliases": [
+        "doc-onboarding"
+      ],
       "tags": [
         "developer-experience",
         "getting-started",
@@ -84906,7 +85136,7 @@
           "technical-writer"
         ]
       },
-      "hash": "sha256:1beed15445f1d88f41379ff998c263a7cff6b3d7fc1650425a649965aac4ba1e"
+      "hash": "sha256:06ad322bf8806b71c5b70ea1bfc51865d6e882e50ca10cc3f14013e58d434a43"
     },
     {
       "id": "write-op-ed",
@@ -85527,10 +85757,13 @@
     {
       "id": "write-pitch-deck-outline",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Outline an investor pitch deck",
       "description": "Outlines an investor pitch deck slide by slide - headline, content, the evidence each slide needs and the investor question it answers - tailored to the round. Use before designing slides.",
       "category": "fundraising",
+      "aliases": [
+        "biz-pitch"
+      ],
       "tags": [
         "pitch-deck",
         "startup-fundraising",
@@ -85577,7 +85810,7 @@
           "startup-mentor"
         ]
       },
-      "hash": "sha256:d1d830b3351fdd4cb459fc735270f782b1657957d1df46d0d076793e7fb922d3"
+      "hash": "sha256:9dece79ea189597de3820ad860ba7279cab6d84a3690c5b9cdd927668c5524fa"
     },
     {
       "id": "write-plotting-code",
@@ -86044,10 +86277,13 @@
     {
       "id": "write-postmortem",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Write a blameless postmortem",
       "description": "Turns incident notes, chat logs and timelines into a blameless postmortem with impact, timeline, contributing factors and owned action items. Use after an incident is resolved.",
       "category": "incident",
+      "aliases": [
+        "incident-postmortem"
+      ],
       "tags": [
         "postmortem",
         "blameless",
@@ -86082,7 +86318,7 @@
           "write-incident-update"
         ]
       },
-      "hash": "sha256:d93131a43dd28e5bc8b0813497d9f50f84afff4c4d32665c949e31256ab712fe"
+      "hash": "sha256:7abd4edd91dbc9f0c8c7d7b8c316eb7c5293f22afa24bf569064ca67a6faa0a9"
     },
     {
       "id": "write-power-query",
@@ -86170,10 +86406,13 @@
     {
       "id": "write-prd",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Write a PRD",
       "description": "Writes a product requirements document that an engineering team can build from, with the problem, goals, success metrics, testable requirements, edge cases and open questions.",
       "category": "product",
+      "aliases": [
+        "product-prd"
+      ],
       "tags": [
         "requirements",
         "prd",
@@ -86216,7 +86455,7 @@
           "break-down-epic"
         ]
       },
-      "hash": "sha256:b4e0170537569b2d985f8aa6ec73151059a8d20e22da1126f6477fea298dcb3c"
+      "hash": "sha256:a02d6c093c9c125445d306f5d16f364471e0a4a5c46348f2c944cae8cb4de40f"
     },
     {
       "id": "write-preregistration",
@@ -86369,10 +86608,13 @@
     {
       "id": "write-privacy-policy",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Write a privacy policy",
       "description": "Drafts a plain-language privacy policy strictly from a product's actual data practices, structured for the stated jurisdictions, and flags every gap or risky practice for legal review.",
       "category": "policies",
+      "aliases": [
+        "legal-privacy-policy"
+      ],
       "tags": [
         "privacy-notice",
         "data-protection",
@@ -86407,7 +86649,7 @@
           "build-compliance-checklist"
         ]
       },
-      "hash": "sha256:54dd19a09153065d98010b545ff4a7a781a21243d91cb0067909ee630398b03e"
+      "hash": "sha256:8a963e332ee11a1750e8a8a1b7d74c53cf8b5b5637f7cae72822f5a465a20e7b"
     },
     {
       "id": "write-problem-statement",
@@ -87381,10 +87623,13 @@
     {
       "id": "write-readme",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Write a README",
       "description": "Writes or improves a project README from what the code actually does, with an install and quick start that work when copied. Use for a new project or a README that has drifted.",
       "category": "docs",
+      "aliases": [
+        "doc-readme"
+      ],
       "tags": [
         "readme",
         "open-source"
@@ -87417,7 +87662,7 @@
           "technical-writer"
         ]
       },
-      "hash": "sha256:7a2d9ebff7a75ae4345f022be0d8188965f50aca0f38189857a345089a473bc0"
+      "hash": "sha256:2842c7bfa023e8a7253ac9f78e72f7a74a41b36fb06ce0713756b5f94fbca9de"
     },
     {
       "id": "write-real-estate-listing",
@@ -88300,10 +88545,13 @@
     {
       "id": "write-runbook",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Write an operational runbook",
       "description": "Writes a runbook for an alert or routine procedure with symptoms, diagnosis commands, ordered mitigations, verification and escalation. Use so on-call engineers can act without tribal knowledge.",
       "category": "incident",
+      "aliases": [
+        "devops-runbook"
+      ],
       "tags": [
         "runbook",
         "alerting",
@@ -88332,7 +88580,7 @@
           "incident-commander"
         ]
       },
-      "hash": "sha256:048cdfaffd6cbb88ae91af90082886744425e238b27a5e663eee77c2465cf9ca"
+      "hash": "sha256:36d5ee42382e5b355abd6968711800febadf9d5fc11cde9780aa7d555cb064ad"
     },
     {
       "id": "write-sales-enablement-brief",
@@ -90656,10 +90904,13 @@
     {
       "id": "write-terms-of-service",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Write terms of service",
       "description": "Drafts terms of service from how the product actually works, covering accounts, payments, acceptable use, IP, liability and disputes, with decisions to make and gaps flagged for a lawyer.",
       "category": "policies",
+      "aliases": [
+        "legal-terms-of-service"
+      ],
       "tags": [
         "user-agreement",
         "acceptable-use",
@@ -90690,7 +90941,7 @@
           "review-consumer-terms"
         ]
       },
-      "hash": "sha256:476c68fd50a993ce6c913280df198fd78571d885ab7d8593a85e147177fe9858"
+      "hash": "sha256:0ed536c2eb4ba48ec8d21dde4e84a31760493b287909e03cdd5b4e590a1535be"
     },
     {
       "id": "write-terraform-module",
@@ -90994,10 +91245,13 @@
     {
       "id": "write-unit-tests",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Write unit tests",
       "description": "Writes unit tests that pin a unit's behaviour, covering boundaries, errors and edge inputs in the project's own test style, and proves each test can fail. Use for new or untested code.",
       "category": "testing",
+      "aliases": [
+        "test-unit"
+      ],
       "tags": [
         "unit-tests",
         "edge-cases"
@@ -91025,7 +91279,7 @@
           "test-engineer"
         ]
       },
-      "hash": "sha256:0399b4056c897369d39179d303e004de6c4afbe118018d73044274ca7a1c1f66"
+      "hash": "sha256:c88624e07c71d1689a36e73481512ad9320f081395bd36f3043105bbf14cb041"
     },
     {
       "id": "write-usability-test-plan",
@@ -91134,10 +91388,13 @@
     {
       "id": "write-user-stories",
       "kind": "prompt",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Write user stories",
       "description": "Turns a feature description into small, independent user stories for specific users, each with acceptance criteria, and splits stories that are too big. Use when preparing a backlog.",
       "category": "product",
+      "aliases": [
+        "product-user-stories"
+      ],
       "tags": [
         "requirements",
         "invest",
@@ -91186,7 +91443,7 @@
           "break-down-epic"
         ]
       },
-      "hash": "sha256:08573298d8a2747cb8e40a91eaa6aaef748bc109048456255496ad7c7dcfa5dd"
+      "hash": "sha256:ff13b94a208dfcbf2432d5b52a1e9f1c19a16e1f6270f9053887541fe9478f31"
     },
     {
       "id": "write-ux-microcopy",

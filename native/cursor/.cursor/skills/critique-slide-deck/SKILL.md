@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: presentations
   source: https://hermes-ide.com/prompts/critique-slide-deck
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Critique a slide deck

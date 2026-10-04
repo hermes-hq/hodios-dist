@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: translation
   source: https://hermes-ide.com/prompts/handle-foreign-language-letter
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Handle an official letter in a foreign language

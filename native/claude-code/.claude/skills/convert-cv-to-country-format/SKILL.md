@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: resumes
   source: https://hermes-ide.com/prompts/convert-cv-to-country-format
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Convert a CV to another country's format

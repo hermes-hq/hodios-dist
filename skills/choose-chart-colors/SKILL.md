@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data-visualization
   source: https://hermes-ide.com/prompts/choose-chart-colors
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Choose accessible chart colours

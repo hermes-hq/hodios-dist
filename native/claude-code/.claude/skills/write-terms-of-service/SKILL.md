@@ -8,11 +8,11 @@ arguments:
 argument-hint: <product> [jurisdictions]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: policies
   source: https://hermes-ide.com/prompts/write-terms-of-service
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write terms of service

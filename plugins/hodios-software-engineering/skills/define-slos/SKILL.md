@@ -9,11 +9,11 @@ arguments:
 argument-hint: <service> <user_journeys> [current_metrics]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: incident
   source: https://hermes-ide.com/prompts/define-slos
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Define SLOs and burn-rate alerts

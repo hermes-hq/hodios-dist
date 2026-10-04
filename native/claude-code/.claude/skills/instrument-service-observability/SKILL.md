@@ -9,11 +9,11 @@ arguments:
 argument-hint: <service> [stack] [existing_tooling]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: incident
   source: https://hermes-ide.com/prompts/instrument-service-observability
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Instrument a service for observability

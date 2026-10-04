@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/analyze-sales-data
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Analyse sales performance

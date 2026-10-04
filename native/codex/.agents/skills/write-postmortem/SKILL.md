@@ -3,11 +3,11 @@ name: write-postmortem
 description: Turns incident notes, chat logs and timelines into a blameless postmortem with impact, timeline, contributing factors and owned action items. Use after an incident is resolved.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: incident
   source: https://hermes-ide.com/prompts/write-postmortem
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a blameless postmortem

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: literature-review
   source: https://hermes-ide.com/prompts/extract-data-for-meta-analysis
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Extract effect-size data for a meta-analysis

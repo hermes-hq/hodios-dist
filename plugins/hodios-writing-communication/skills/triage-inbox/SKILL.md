@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: email
   source: https://hermes-ide.com/prompts/triage-inbox
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Triage an inbox

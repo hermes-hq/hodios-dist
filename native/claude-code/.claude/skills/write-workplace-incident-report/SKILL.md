@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: business-writing
   source: https://hermes-ide.com/prompts/write-workplace-incident-report
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a workplace incident report

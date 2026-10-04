@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: graphic-design
   source: https://hermes-ide.com/prompts/design-book-cover-brief
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a book cover design brief

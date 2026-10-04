@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: product-metrics
   source: https://hermes-ide.com/prompts/define-activation-metric
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Define an activation metric

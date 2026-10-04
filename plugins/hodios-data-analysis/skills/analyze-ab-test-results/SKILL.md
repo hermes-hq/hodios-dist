@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: statistics
   source: https://hermes-ide.com/prompts/analyze-ab-test-results
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Analyse A/B test results

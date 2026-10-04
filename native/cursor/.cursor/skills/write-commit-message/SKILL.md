@@ -3,11 +3,11 @@ name: write-commit-message
 description: Writes a commit message that states what changed and why, in the repo's own convention, and flags staged changes that should be split. Use before committing.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: git
   source: https://hermes-ide.com/prompts/write-commit-message
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a commit message

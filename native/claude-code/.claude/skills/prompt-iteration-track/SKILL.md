@@ -12,7 +12,7 @@ metadata:
   kind: workflow
   category: prompt-engineering
   source: https://hermes-ide.com/prompts/prompt-iteration-track
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Prompt iteration track

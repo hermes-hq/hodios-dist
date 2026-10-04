@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: job-search
   source: https://hermes-ide.com/prompts/ausbildung-application-track
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Bewerbung für eine Ausbildung, Schritt für Schritt

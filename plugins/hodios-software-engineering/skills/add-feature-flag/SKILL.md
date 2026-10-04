@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: implementation
   source: https://hermes-ide.com/prompts/add-feature-flag
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Put a change behind a feature flag

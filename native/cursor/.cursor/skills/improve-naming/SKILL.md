@@ -3,11 +3,11 @@ name: improve-naming
 description: Proposes clearer names for variables, functions, types and modules, explains each rename and applies them without changing behaviour. Use when code reads poorly because of its names.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: refactoring
   source: https://hermes-ide.com/prompts/improve-naming
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Improve naming in code

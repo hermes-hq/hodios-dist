@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: ux-research
   source: https://hermes-ide.com/prompts/build-user-personas
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Build evidence-based user personas

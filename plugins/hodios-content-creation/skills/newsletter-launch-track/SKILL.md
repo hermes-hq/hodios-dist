@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: newsletters
   source: https://hermes-ide.com/prompts/newsletter-launch-track
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Newsletter launch track

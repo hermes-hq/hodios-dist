@@ -3,11 +3,11 @@ name: plan-load-test
 description: Designs a load test with a workload model, scenarios, ramp profile and pass or fail thresholds, then writes the script for the chosen tool. Use before a launch, a traffic event or a capacity decision.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: performance
   source: https://hermes-ide.com/prompts/plan-load-test
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan a load test

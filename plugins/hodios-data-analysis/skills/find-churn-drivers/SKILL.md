@@ -8,11 +8,11 @@ arguments:
 argument-hint: <customer_data> <churn_definition>
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/find-churn-drivers
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Find churn drivers

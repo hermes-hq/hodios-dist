@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: editing
   source: https://hermes-ide.com/prompts/build-self-editing-checklist
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Build a self-editing checklist

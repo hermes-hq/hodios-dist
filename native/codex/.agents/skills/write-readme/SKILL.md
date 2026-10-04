@@ -3,11 +3,11 @@ name: write-readme
 description: Writes or improves a project README from what the code actually does, with an install and quick start that work when copied. Use for a new project or a README that has drifted.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: docs
   source: https://hermes-ide.com/prompts/write-readme
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a README

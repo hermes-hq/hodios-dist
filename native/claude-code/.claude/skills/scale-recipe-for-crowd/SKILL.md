@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: cooking
   source: https://hermes-ide.com/prompts/scale-recipe-for-crowd
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Scale a recipe for a crowd

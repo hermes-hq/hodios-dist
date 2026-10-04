@@ -3,11 +3,11 @@ name: plan-incremental-migration
 description: Plans a framework, platform or system migration as small reversible phases using the strangler fig pattern, with data strategy, verification and rollback per phase. Use instead of a big-bang rewrite.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: migration
   source: https://hermes-ide.com/prompts/plan-incremental-migration
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan an incremental migration

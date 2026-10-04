@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: devops
   source: https://hermes-ide.com/prompts/containerize-app-track
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Containerise an existing app

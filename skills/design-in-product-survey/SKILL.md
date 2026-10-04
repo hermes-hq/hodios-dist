@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: user-feedback
   source: https://hermes-ide.com/prompts/design-in-product-survey
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design an in-product survey

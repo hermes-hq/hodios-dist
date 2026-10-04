@@ -3,11 +3,11 @@ name: feature-track
 description: Takes a feature from open questions to a reviewed implementation in six gated steps, saving each step's artifact to the repo. Use for any change bigger than a quick fix.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: workflow
   category: planning
   source: https://hermes-ide.com/prompts/feature-track
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Feature track

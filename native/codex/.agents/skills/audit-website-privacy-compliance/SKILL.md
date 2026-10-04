@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: compliance
   source: https://hermes-ide.com/prompts/audit-website-privacy-compliance
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Audit a website's privacy compliance

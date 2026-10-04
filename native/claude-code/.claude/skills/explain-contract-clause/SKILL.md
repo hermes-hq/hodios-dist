@@ -8,11 +8,11 @@ arguments:
 argument-hint: <clause> [context]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: contracts
   source: https://hermes-ide.com/prompts/explain-contract-clause
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Explain a contract clause

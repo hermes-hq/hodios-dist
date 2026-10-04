@@ -9,11 +9,11 @@ arguments:
 argument-hint: <idea> [context] [length]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: product
   source: https://hermes-ide.com/prompts/write-prd
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a PRD

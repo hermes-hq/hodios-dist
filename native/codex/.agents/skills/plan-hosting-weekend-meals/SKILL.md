@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: meal-planning
   source: https://hermes-ide.com/prompts/plan-hosting-weekend-meals
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan meals for a weekend with guests

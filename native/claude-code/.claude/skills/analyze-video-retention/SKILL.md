@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: video
   source: https://hermes-ide.com/prompts/analyze-video-retention
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Analyze video retention

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: financial-planning
   source: https://hermes-ide.com/prompts/improve-credit-score
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Improve a credit score

@@ -9,11 +9,11 @@ arguments:
 argument-hint: <corpus> <example_questions> [constraints]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: ai-ml
   source: https://hermes-ide.com/prompts/design-rag-pipeline
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design a RAG pipeline

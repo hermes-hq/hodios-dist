@@ -3,11 +3,11 @@ name: document-public-api
 description: Writes reference docs for a module's exported functions, classes or endpoints in the native doc-comment format, covering real behaviour, errors and edge cases. Use before a release.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: docs
   source: https://hermes-ide.com/prompts/document-public-api
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Document a public API

@@ -3,11 +3,11 @@ name: write-runbook
 description: Writes a runbook for an alert or routine procedure with symptoms, diagnosis commands, ordered mitigations, verification and escalation. Use so on-call engineers can act without tribal knowledge.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: incident
   source: https://hermes-ide.com/prompts/write-runbook
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write an operational runbook

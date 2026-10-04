@@ -3,11 +3,11 @@ name: fill-test-gaps
 description: Finds untested behaviour that matters most, ranked by risk rather than coverage percentage, and writes tests for the top gaps. Use when a module feels under-tested or before a risky change.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: testing
   source: https://hermes-ide.com/prompts/fill-test-gaps
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Find and fill the riskiest test gaps

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: video
   source: https://hermes-ide.com/prompts/write-documentary-outline
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a short documentary outline

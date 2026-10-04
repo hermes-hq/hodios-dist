@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: marketing-strategy
   source: https://hermes-ide.com/prompts/fractional-cmo
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Fractional CMO

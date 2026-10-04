@@ -3,11 +3,11 @@ name: write-terms-of-service
 description: Drafts terms of service from how the product actually works, covering accounts, payments, acceptable use, IP, liability and disputes, with decisions to make and gaps flagged for a lawyer.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: policies
   source: https://hermes-ide.com/prompts/write-terms-of-service
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write terms of service

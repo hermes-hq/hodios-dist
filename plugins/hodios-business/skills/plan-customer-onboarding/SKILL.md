@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: customer-support
   source: https://hermes-ide.com/prompts/plan-customer-onboarding
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan B2B customer onboarding

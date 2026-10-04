@@ -3,11 +3,11 @@ name: find-root-cause
 description: Reproduces a bug, tests ranked hypotheses with experiments, and fixes the root cause instead of the symptom. Use when something is broken and the reason is not obvious.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: debugging
   source: https://hermes-ide.com/prompts/find-root-cause
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Find the root cause of a bug

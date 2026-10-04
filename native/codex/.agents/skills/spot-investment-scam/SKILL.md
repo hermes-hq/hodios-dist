@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: investing
   source: https://hermes-ide.com/prompts/spot-investment-scam
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Check an offer for investment scam signs

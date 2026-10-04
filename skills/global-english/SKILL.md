@@ -7,7 +7,7 @@ metadata:
   kind: style
   category: output-styles
   source: https://hermes-ide.com/prompts/global-english
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Global English

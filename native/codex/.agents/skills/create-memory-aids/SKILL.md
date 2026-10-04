@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: studying
   source: https://hermes-ide.com/prompts/create-memory-aids
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Create memory aids for lists and facts

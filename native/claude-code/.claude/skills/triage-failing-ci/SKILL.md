@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: debugging
   source: https://hermes-ide.com/prompts/triage-failing-ci
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Triage a failing CI build

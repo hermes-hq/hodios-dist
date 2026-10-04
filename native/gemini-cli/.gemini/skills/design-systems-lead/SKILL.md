@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: design-systems
   source: https://hermes-ide.com/prompts/design-systems-lead
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design systems lead

@@ -8,11 +8,11 @@ arguments:
 argument-hint: <screens> [design_system]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: design-systems
   source: https://hermes-ide.com/prompts/audit-design-consistency
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Audit design consistency across screens

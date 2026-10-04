@@ -8,11 +8,11 @@ arguments:
 argument-hint: <page> <target_keyword>
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: seo
   source: https://hermes-ide.com/prompts/audit-on-page-seo
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Audit on-page SEO

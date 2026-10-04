@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: design-systems
   source: https://hermes-ide.com/prompts/define-iconography
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Define an icon system

@@ -11,11 +11,11 @@ arguments:
 argument-hint: "[company] [month] <metrics> <news> [asks]"
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: fundraising
   source: https://hermes-ide.com/prompts/write-investor-update
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a monthly investor update

@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: digital-safety
   source: https://hermes-ide.com/prompts/secure-personal-accounts
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Secure your personal accounts

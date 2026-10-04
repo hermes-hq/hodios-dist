@@ -3,11 +3,11 @@ name: review-dockerfile
 description: Reviews a Dockerfile for security, image size, build cache use and runtime correctness, and returns ranked findings with a corrected file. Use before shipping a new or changed container image.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: devops
   source: https://hermes-ide.com/prompts/review-dockerfile
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Review a Dockerfile

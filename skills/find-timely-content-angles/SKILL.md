@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: content-strategy
   source: https://hermes-ide.com/prompts/find-timely-content-angles
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Find timely content angles

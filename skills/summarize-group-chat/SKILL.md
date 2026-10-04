@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: summarization
   source: https://hermes-ide.com/prompts/summarize-group-chat
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Summarise a group chat

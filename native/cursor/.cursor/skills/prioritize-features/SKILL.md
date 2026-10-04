@@ -3,11 +3,11 @@ name: prioritize-features
 description: Prioritises a backlog with RICE, ICE, Kano or MoSCoW, shows every score and assumption, and tests how sensitive the ranking is to uncertain estimates. Use before roadmap planning.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: roadmapping
   source: https://hermes-ide.com/prompts/prioritize-features
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Prioritize features

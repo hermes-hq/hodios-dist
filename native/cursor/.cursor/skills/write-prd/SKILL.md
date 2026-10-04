@@ -3,11 +3,11 @@ name: write-prd
 description: Writes a product requirements document that an engineering team can build from, with the problem, goals, success metrics, testable requirements, edge cases and open questions.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: product
   source: https://hermes-ide.com/prompts/write-prd
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a PRD

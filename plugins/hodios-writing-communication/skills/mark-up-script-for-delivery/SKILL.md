@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: public-speaking
   source: https://hermes-ide.com/prompts/mark-up-script-for-delivery
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Mark up a script for delivery

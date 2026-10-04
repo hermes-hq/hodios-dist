@@ -9,11 +9,11 @@ arguments:
 argument-hint: <symptoms> [heap_data] [runtime]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: performance
   source: https://hermes-ide.com/prompts/find-memory-leak
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Find a memory leak

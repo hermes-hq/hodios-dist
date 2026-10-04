@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: reporting
   source: https://hermes-ide.com/prompts/design-report-template
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design a report template

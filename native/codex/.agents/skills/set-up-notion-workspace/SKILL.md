@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: note-taking
   source: https://hermes-ide.com/prompts/set-up-notion-workspace
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Set up a Notion workspace

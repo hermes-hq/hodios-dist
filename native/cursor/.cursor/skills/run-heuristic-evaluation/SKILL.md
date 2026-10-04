@@ -3,11 +3,11 @@ name: run-heuristic-evaluation
 description: Evaluates a flow step by step against Nielsen's ten usability heuristics and returns located issues with severity ratings and concrete fixes. Use for a fast expert review before or between user tests.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: ux-research
   source: https://hermes-ide.com/prompts/run-heuristic-evaluation
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Run a heuristic evaluation

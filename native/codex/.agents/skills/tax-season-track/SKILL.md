@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: taxes
   source: https://hermes-ide.com/prompts/tax-season-track
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Tax season track

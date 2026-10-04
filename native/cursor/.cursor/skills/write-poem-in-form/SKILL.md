@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: poetry
   source: https://hermes-ide.com/prompts/write-poem-in-form
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a poem in a fixed form

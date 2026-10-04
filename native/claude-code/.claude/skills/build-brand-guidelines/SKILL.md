@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: branding
   source: https://hermes-ide.com/prompts/build-brand-guidelines
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write brand guidelines

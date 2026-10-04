@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: brainstorming
   source: https://hermes-ide.com/prompts/run-six-thinking-hats
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Run six thinking hats

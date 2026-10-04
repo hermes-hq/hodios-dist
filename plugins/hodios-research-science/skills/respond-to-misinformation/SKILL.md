@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: fact-checking
   source: https://hermes-ide.com/prompts/respond-to-misinformation
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Reply to someone sharing misinformation

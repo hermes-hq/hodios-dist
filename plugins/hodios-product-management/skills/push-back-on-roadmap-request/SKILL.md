@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: roadmapping
   source: https://hermes-ide.com/prompts/push-back-on-roadmap-request
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Push back on a roadmap request

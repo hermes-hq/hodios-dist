@@ -3,11 +3,11 @@ name: review-auth-flow
 description: Reviews an authentication or session design (OAuth or OIDC, tokens, cookies, MFA, password reset) for known flaws, with attack paths and fixes. Use before building or shipping login and session code.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: security
   source: https://hermes-ide.com/prompts/review-auth-flow
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Review an authentication flow

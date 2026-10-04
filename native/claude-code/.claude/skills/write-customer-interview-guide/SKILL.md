@@ -9,11 +9,11 @@ arguments:
 argument-hint: <learning_goals> [participant] [duration_minutes]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: product-discovery
   source: https://hermes-ide.com/prompts/write-customer-interview-guide
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a customer interview guide

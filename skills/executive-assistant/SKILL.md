@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: task-management
   source: https://hermes-ide.com/prompts/executive-assistant
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Executive assistant

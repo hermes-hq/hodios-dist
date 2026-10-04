@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: operations
   source: https://hermes-ide.com/prompts/map-business-process
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Map a business process

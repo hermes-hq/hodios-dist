@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: customer-support
   source: https://hermes-ide.com/prompts/customer-success-manager
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Customer success manager

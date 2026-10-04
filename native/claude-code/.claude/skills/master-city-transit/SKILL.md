@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: travel-logistics
   source: https://hermes-ide.com/prompts/master-city-transit
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Master a city's public transport

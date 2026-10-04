@@ -3,11 +3,11 @@ name: design-agent-architecture
 description: Designs an LLM agent system, deciding first whether an agent is needed, then single or multi-agent, tools, memory, guardrails, human checkpoints, evals and cost limits.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: ai-ml
   source: https://hermes-ide.com/prompts/design-agent-architecture
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design an LLM agent architecture

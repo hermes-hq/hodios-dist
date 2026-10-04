@@ -3,11 +3,11 @@ name: plan-game-day
 description: Plans a game day or chaos exercise with failure scenarios, hypotheses, blast-radius limits, abort criteria, roles, an observation checklist and a follow-up review. Use to test resilience.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: incident
   source: https://hermes-ide.com/prompts/plan-game-day
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan a game day or chaos exercise

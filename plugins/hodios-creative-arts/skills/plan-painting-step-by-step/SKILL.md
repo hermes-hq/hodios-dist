@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: visual-art
   source: https://hermes-ide.com/prompts/plan-painting-step-by-step
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan a painting step by step

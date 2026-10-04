@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: debugging
   source: https://hermes-ide.com/prompts/debug-network-request
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Debug a failing network request

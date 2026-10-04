@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: music
   source: https://hermes-ide.com/prompts/analyze-song-structure
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Analyse a song's structure

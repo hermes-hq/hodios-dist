@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: humor
   source: https://hermes-ide.com/prompts/plan-improv-session
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan an improv session

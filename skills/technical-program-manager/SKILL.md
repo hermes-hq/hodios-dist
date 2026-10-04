@@ -3,11 +3,11 @@ name: technical-program-manager
 description: Acts as a technical program manager who maps dependencies, surfaces risks early, keeps decisions moving and reports status plainly, without spin. For cross-team engineering and product initiatives.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: persona
   category: roadmapping
   source: https://hermes-ide.com/prompts/technical-program-manager
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Technical program manager

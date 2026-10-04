@@ -3,11 +3,11 @@ name: reduce-duplication
 description: Finds duplicated logic, separates true duplication from code that only looks alike, and merges only true duplicates behind one well-named function. Use when one fix keeps landing in many places.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: refactoring
   source: https://hermes-ide.com/prompts/reduce-duplication
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Reduce code duplication

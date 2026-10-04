@@ -9,11 +9,11 @@ arguments:
 argument-hint: <question> <schema> [dialect]
 disable-model-invocation: true
 metadata:
-  version: 1.0.1
+  version: 1.0.2
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/answer-question-with-sql
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Answer a question with SQL

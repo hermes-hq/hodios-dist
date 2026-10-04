@@ -3,11 +3,11 @@ name: design-dashboard
 description: Designs a KPI dashboard from the decisions it must support, covering audience, questions, metric definitions, one chart per question, filters and layout. Use before building it in a BI tool.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: data-visualization
   source: https://hermes-ide.com/prompts/design-dashboard
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design a KPI dashboard

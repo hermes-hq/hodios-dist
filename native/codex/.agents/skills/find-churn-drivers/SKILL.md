@@ -3,11 +3,11 @@ name: find-churn-drivers
 description: Finds which behaviours and attributes predict churn in customer data, simple comparisons first and a model only if justified, with an action and a test per driver. Use at subscription businesses.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/find-churn-drivers
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Find churn drivers

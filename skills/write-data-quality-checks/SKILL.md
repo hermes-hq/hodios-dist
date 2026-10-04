@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data
   source: https://hermes-ide.com/prompts/write-data-quality-checks
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write data-quality checks for a table

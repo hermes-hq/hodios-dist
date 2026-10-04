@@ -3,11 +3,11 @@ name: diff-only
 description: Shapes code answers as minimal changes to existing code instead of whole rewritten files, from a diff with a short note to a bare unified diff. Use when reviewing or applying code edits.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: style
   category: output-styles
   source: https://hermes-ide.com/prompts/diff-only
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Diff only

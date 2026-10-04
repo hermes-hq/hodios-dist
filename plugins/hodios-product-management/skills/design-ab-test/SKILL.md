@@ -10,11 +10,11 @@ arguments:
 argument-hint: <change> <primary_metric> [baseline_rate] [traffic_per_day]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: product-metrics
   source: https://hermes-ide.com/prompts/design-ab-test
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design an A/B test

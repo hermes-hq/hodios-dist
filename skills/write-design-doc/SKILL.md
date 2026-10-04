@@ -3,11 +3,11 @@ name: write-design-doc
 description: Writes an engineering design doc or RFC with context, goals and non-goals, options and trade-offs, the decision, risks and a rollout plan. Use before building a change that needs review or buy-in.
 license: CC0-1.0
 metadata:
-  version: 1.1.0
+  version: 1.1.1
   kind: prompt
   category: architecture
   source: https://hermes-ide.com/prompts/write-design-doc
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write an engineering design doc

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: seo
   source: https://hermes-ide.com/prompts/optimize-category-pages
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Optimise e-commerce category pages

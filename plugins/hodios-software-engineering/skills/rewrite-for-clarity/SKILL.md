@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: writing
   source: https://hermes-ide.com/prompts/rewrite-for-clarity
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Rewrite for clarity

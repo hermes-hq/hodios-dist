@@ -3,11 +3,11 @@ name: design-data-pipeline
 description: Designs a batch or streaming data pipeline sized to stated volumes, covering sources, schedule, idempotency, late data, backfills and monitoring. Use before building or replacing a pipeline.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: data
   source: https://hermes-ide.com/prompts/design-data-pipeline
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design a data pipeline

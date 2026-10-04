@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: local-culture
   source: https://hermes-ide.com/prompts/plan-food-exploration
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan food exploration

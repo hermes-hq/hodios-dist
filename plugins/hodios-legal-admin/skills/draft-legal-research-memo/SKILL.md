@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: legal-practice
   source: https://hermes-ide.com/prompts/draft-legal-research-memo
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Draft a legal research memo

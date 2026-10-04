@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: spreadsheets
   source: https://hermes-ide.com/prompts/write-power-query
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write Power Query (M) steps

@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: fact-checking
   source: https://hermes-ide.com/prompts/source-citation-rules
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Source and citation rules

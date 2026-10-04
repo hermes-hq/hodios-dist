@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: relationships
   source: https://hermes-ide.com/prompts/plan-marriage-proposal
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan a marriage proposal

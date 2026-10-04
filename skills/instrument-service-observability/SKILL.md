@@ -3,11 +3,11 @@ name: instrument-service-observability
 description: Plans and adds logs, metrics and traces using OpenTelemetry conventions, golden signals, useful log fields, cardinality limits and first dashboards. Use when a service is hard to debug in production.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: incident
   source: https://hermes-ide.com/prompts/instrument-service-observability
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Instrument a service for observability

@@ -3,11 +3,11 @@ name: decisive
 description: Makes answers commit, from marking a recommended option to a single clear recommendation with the deciding reason and the condition that would change it. Still states uncertainty.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: style
   category: output-styles
   source: https://hermes-ide.com/prompts/decisive
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Decisive

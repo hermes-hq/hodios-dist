@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: product-strategy
   source: https://hermes-ide.com/prompts/ai-product-manager
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # AI product manager

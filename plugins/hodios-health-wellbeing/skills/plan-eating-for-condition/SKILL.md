@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: nutrition
   source: https://hermes-ide.com/prompts/plan-eating-for-condition
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan eating for a diagnosed condition

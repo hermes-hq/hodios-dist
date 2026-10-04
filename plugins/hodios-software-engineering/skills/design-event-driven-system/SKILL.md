@@ -10,11 +10,11 @@ arguments:
 argument-hint: <workflow> [throughput] [broker] [consistency_needs]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: architecture
   source: https://hermes-ide.com/prompts/design-event-driven-system
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design an event-driven system

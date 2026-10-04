@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: writing
   source: https://hermes-ide.com/prompts/explain-tech-to-executives
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Explain a technical issue to executives

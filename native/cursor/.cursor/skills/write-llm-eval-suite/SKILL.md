@@ -3,11 +3,11 @@ name: write-llm-eval-suite
 description: Writes an eval set for an LLM feature with golden, edge and adversarial cases, graders matched to each criterion, and pass thresholds. Use before shipping or changing a model, prompt or pipeline.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: ai-ml
   source: https://hermes-ide.com/prompts/write-llm-eval-suite
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write an eval suite for an LLM feature

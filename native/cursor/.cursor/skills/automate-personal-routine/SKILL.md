@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: tech-help
   source: https://hermes-ide.com/prompts/automate-personal-routine
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Automate a personal routine

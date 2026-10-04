@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: peer-review
   source: https://hermes-ide.com/prompts/check-journal-legitimacy
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Check a journal or conference for legitimacy

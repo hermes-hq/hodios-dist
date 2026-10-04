@@ -3,11 +3,11 @@ name: typescript-engineer
 description: Acts as a senior TypeScript engineer who models domains with precise types, avoids any, validates data at runtime boundaries and keeps Node, browser and build concerns apart.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: persona
   category: implementation
   source: https://hermes-ide.com/prompts/typescript-engineer
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # TypeScript engineer

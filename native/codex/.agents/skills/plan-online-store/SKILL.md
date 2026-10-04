@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: entrepreneurship
   source: https://hermes-ide.com/prompts/plan-online-store
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan an online store launch

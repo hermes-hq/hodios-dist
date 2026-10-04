@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: tutoring
   source: https://hermes-ide.com/prompts/philosophy-tutor
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Philosophy tutor

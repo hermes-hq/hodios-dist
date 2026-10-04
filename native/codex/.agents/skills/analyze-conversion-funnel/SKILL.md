@@ -3,11 +3,11 @@ name: analyze-conversion-funnel
 description: Analyses a conversion funnel step by step to find the biggest leak, the segments where it differs, likely causes and the experiments or fixes worth trying first. For PMs and growth teams.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: product-metrics
   source: https://hermes-ide.com/prompts/analyze-conversion-funnel
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Analyse a conversion funnel

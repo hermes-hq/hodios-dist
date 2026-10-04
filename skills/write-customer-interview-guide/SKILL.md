@@ -3,11 +3,11 @@ name: write-customer-interview-guide
 description: Writes a discovery interview guide that asks about specific past behaviour instead of opinions or hypotheticals, with timed sections, follow-up probes and a check for leading questions.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: product-discovery
   source: https://hermes-ide.com/prompts/write-customer-interview-guide
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a customer interview guide

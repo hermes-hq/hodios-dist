@@ -9,11 +9,11 @@ arguments:
 argument-hint: <query> [plan_output] [engine]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: performance
   source: https://hermes-ide.com/prompts/optimize-sql-query
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Optimise a slow SQL query

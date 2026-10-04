@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: presentations
   source: https://hermes-ide.com/prompts/write-lightning-talk
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a lightning talk

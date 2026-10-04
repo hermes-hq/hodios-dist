@@ -3,11 +3,11 @@ name: fix-flaky-test
 description: Finds why a test passes and fails intermittently and fixes the cause instead of adding retries. Use when a test fails only sometimes, locally or in CI.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: testing
   source: https://hermes-ide.com/prompts/fix-flaky-test
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Fix a flaky test

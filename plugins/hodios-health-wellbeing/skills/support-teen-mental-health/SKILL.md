@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: mental-health
   source: https://hermes-ide.com/prompts/support-teen-mental-health
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Support a teenager's mental health

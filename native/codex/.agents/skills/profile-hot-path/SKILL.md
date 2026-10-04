@@ -3,11 +3,11 @@ name: profile-hot-path
 description: Measures a slow operation, profiles where the time goes, and makes it faster one verified change at a time, with before-and-after numbers. Use when an endpoint, command or function is too slow.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: performance
   source: https://hermes-ide.com/prompts/profile-hot-path
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Profile and speed up a hot path

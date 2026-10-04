@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: vehicles
   source: https://hermes-ide.com/prompts/inspect-used-car
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Inspect a used car

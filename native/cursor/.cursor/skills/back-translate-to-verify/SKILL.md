@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: translation
   source: https://hermes-ide.com/prompts/back-translate-to-verify
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Back-translate to verify a translation

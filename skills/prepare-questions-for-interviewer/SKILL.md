@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: interview-prep
   source: https://hermes-ide.com/prompts/prepare-questions-for-interviewer
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Prepare questions for the interviewer

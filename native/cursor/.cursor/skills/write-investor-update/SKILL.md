@@ -3,11 +3,11 @@ name: write-investor-update
 description: Writes a concise monthly investor update with a TL;DR, metrics against plan, highlights, honest lowlights, cash and runway, and specific asks. Use each month to keep investors informed.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: fundraising
   source: https://hermes-ide.com/prompts/write-investor-update
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a monthly investor update

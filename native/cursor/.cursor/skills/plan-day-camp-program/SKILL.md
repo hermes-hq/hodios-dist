@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: course-design
   source: https://hermes-ide.com/prompts/plan-day-camp-program
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan a themed day camp week

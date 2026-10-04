@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: marketing-strategy
   source: https://hermes-ide.com/prompts/write-holding-statement
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a crisis holding statement

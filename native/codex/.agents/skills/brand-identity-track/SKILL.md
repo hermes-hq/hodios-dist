@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: branding
   source: https://hermes-ide.com/prompts/brand-identity-track
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Brand identity track

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: performance
   source: https://hermes-ide.com/prompts/improve-web-vitals
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Improve Core Web Vitals

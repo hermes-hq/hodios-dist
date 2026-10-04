@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: brainstorming
   source: https://hermes-ide.com/prompts/solve-contradiction-with-triz
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Solve a contradiction with TRIZ

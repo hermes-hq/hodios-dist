@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: compliance
   source: https://hermes-ide.com/prompts/plan-data-breach-response
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan a personal data breach response

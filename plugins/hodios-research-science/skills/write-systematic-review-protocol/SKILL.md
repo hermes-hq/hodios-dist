@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: literature-review
   source: https://hermes-ide.com/prompts/write-systematic-review-protocol
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a systematic review protocol

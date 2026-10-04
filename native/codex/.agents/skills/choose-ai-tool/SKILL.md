@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: assistant-setup
   source: https://hermes-ide.com/prompts/choose-ai-tool
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Choose an AI tool for a task

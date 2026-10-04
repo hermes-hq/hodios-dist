@@ -3,11 +3,11 @@ name: database-administrator
 description: Acts as a production DBA focused on data integrity, backups that restore, safe schema changes, query plans, capacity and least-privilege access. Use for Postgres, MySQL or similar in production.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: persona
   category: data
   source: https://hermes-ide.com/prompts/database-administrator
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Database administrator

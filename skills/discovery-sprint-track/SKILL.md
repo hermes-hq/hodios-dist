@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: product-discovery
   source: https://hermes-ide.com/prompts/discovery-sprint-track
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Discovery sprint track

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: digital-safety
   source: https://hermes-ide.com/prompts/lock-down-social-privacy
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Lock down social media privacy

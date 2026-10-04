@@ -10,11 +10,11 @@ arguments:
 argument-hint: <backlog> <capacity> [sprint_length] [carry_over]
 disable-model-invocation: true
 metadata:
-  version: 1.1.0
+  version: 1.1.1
   kind: prompt
   category: planning
   source: https://hermes-ide.com/prompts/plan-sprint
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan a sprint

@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: cooking
   source: https://hermes-ide.com/prompts/compile-family-cookbook
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Compile a family cookbook

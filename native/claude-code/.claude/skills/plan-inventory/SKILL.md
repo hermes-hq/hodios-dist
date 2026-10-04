@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: operations
   source: https://hermes-ide.com/prompts/plan-inventory
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan small-business inventory

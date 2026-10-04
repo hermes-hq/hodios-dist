@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: accounting
   source: https://hermes-ide.com/prompts/calculate-break-even
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Calculate a break-even point

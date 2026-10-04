@@ -3,11 +3,11 @@ name: write-changelog
 description: Turns the commits and pull requests in a release range into a user-facing changelog entry in Keep a Changelog format, with breaking changes first. Use when cutting a release.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: docs
   source: https://hermes-ide.com/prompts/write-changelog
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a changelog entry

@@ -9,11 +9,11 @@ arguments:
 argument-hint: <company> [stage] [raise]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: fundraising
   source: https://hermes-ide.com/prompts/write-pitch-deck-outline
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Outline an investor pitch deck

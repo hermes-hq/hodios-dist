@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: operations
   source: https://hermes-ide.com/prompts/hospitality-manager
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Hospitality manager

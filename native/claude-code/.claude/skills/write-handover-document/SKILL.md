@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: business-writing
   source: https://hermes-ide.com/prompts/write-handover-document
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a handover document

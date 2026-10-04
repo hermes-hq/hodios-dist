@@ -9,11 +9,11 @@ arguments:
 argument-hint: <feature> [sample_inputs] [grader]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: ai-ml
   source: https://hermes-ide.com/prompts/write-llm-eval-suite
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write an eval suite for an LLM feature

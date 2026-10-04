@@ -3,11 +3,11 @@ name: define-slos
 description: Defines SLIs, SLOs and an error-budget policy from a service's user journeys, with multi-window burn-rate alert rules. Use when alerting is noisy or reliability targets are vague.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: incident
   source: https://hermes-ide.com/prompts/define-slos
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Define SLOs and burn-rate alerts

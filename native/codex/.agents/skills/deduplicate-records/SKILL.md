@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/deduplicate-records
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Deduplicate messy records

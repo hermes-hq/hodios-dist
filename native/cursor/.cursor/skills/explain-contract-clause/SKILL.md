@@ -3,11 +3,11 @@ name: explain-contract-clause
 description: Explains one contract clause such as an indemnity, liability cap, non-compete or auto-renewal in plain language, shows how it plays out in real scenarios and lists what to ask about it.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: contracts
   source: https://hermes-ide.com/prompts/explain-contract-clause
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Explain a contract clause

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: music
   source: https://hermes-ide.com/prompts/plan-song-arrangement
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan a song arrangement

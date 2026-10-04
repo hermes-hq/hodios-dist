@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: reporting
   source: https://hermes-ide.com/prompts/design-power-bi-data-model
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design a Power BI data model

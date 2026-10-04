@@ -9,11 +9,11 @@ arguments:
 argument-hint: <code> [domain_glossary] [conventions]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: refactoring
   source: https://hermes-ide.com/prompts/improve-naming
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Improve naming in code

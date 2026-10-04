@@ -8,11 +8,11 @@ arguments:
 argument-hint: <target> [format]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: docs
   source: https://hermes-ide.com/prompts/document-public-api
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Document a public API

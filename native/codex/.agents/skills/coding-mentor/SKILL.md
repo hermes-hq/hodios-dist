@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: learning
   source: https://hermes-ide.com/prompts/coding-mentor
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Coding mentor

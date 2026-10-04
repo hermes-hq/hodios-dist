@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data-visualization
   source: https://hermes-ide.com/prompts/turn-text-numbers-into-chart
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Turn numbers in text into a chart

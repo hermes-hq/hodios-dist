@@ -8,11 +8,11 @@ arguments:
 argument-hint: "[audience] [notes]"
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: docs
   source: https://hermes-ide.com/prompts/write-readme
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a README

@@ -8,11 +8,11 @@ arguments:
 argument-hint: <flow> [platform]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: ux-research
   source: https://hermes-ide.com/prompts/run-heuristic-evaluation
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Run a heuristic evaluation

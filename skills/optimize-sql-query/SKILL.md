@@ -3,11 +3,11 @@ name: optimize-sql-query
 description: Speeds up a slow SQL query from its execution plan, proposing rewrites and indexes with expected gains and their write-cost trade-offs. Use when one query dominates latency or database load.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: performance
   source: https://hermes-ide.com/prompts/optimize-sql-query
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Optimise a slow SQL query

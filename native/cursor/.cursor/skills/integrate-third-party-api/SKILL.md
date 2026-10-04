@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: implementation
   source: https://hermes-ide.com/prompts/integrate-third-party-api
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Integrate a third-party API

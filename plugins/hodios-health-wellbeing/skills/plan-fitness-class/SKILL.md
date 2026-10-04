@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: fitness
   source: https://hermes-ide.com/prompts/plan-fitness-class
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan a group fitness class

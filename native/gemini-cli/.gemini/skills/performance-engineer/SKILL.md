@@ -3,11 +3,11 @@ name: performance-engineer
 description: Acts as a performance engineer who profiles before optimising, changes one thing at a time and reports gains with numbers and variance. Use for latency, throughput or memory work.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: persona
   category: performance
   source: https://hermes-ide.com/prompts/performance-engineer
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Performance engineer

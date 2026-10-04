@@ -3,11 +3,11 @@ name: run-willingness-to-pay-study
 description: Designs or analyses a willingness-to-pay study (Van Westendorp, Gabor-Granger or interviews) with questions, sample, analysis steps and how to read the result. Use before setting a price.
 license: CC0-1.0
 metadata:
-  version: 1.0.1
+  version: 1.0.2
   kind: prompt
   category: product-discovery
   source: https://hermes-ide.com/prompts/run-willingness-to-pay-study
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Run a willingness-to-pay study

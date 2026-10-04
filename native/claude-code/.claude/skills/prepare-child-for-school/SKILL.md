@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: parenting
   source: https://hermes-ide.com/prompts/prepare-child-for-school
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Prepare a child for school

@@ -10,11 +10,11 @@ arguments:
 argument-hint: <feature> [users] [story_format] [with_criteria]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: product
   source: https://hermes-ide.com/prompts/write-user-stories
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write user stories

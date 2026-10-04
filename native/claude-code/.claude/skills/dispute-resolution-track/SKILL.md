@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: legal-correspondence
   source: https://hermes-ide.com/prompts/dispute-resolution-track
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Dispute resolution track

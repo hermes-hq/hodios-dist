@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: product-strategy
   source: https://hermes-ide.com/prompts/evaluate-ai-feature-opportunity
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Evaluate an AI feature opportunity

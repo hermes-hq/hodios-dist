@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: scientific-writing
   source: https://hermes-ide.com/prompts/design-scientific-figures
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan the figures for a paper

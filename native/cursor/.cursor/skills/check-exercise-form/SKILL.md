@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fitness
   source: https://hermes-ide.com/prompts/check-exercise-form
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Check exercise form

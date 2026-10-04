@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: editing
   source: https://hermes-ide.com/prompts/editor
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Editor

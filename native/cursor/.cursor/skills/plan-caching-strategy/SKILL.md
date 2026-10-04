@@ -3,11 +3,11 @@ name: plan-caching-strategy
 description: Designs caching for a slow path, covering what to cache at which layer, keys, TTLs, invalidation, stampede protection and measuring hit rate and staleness. Use when fixing latency or database load.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: performance
   source: https://hermes-ide.com/prompts/plan-caching-strategy
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan a caching strategy

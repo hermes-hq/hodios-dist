@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: email
   source: https://hermes-ide.com/prompts/correct-email-mistake
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Correct a mistake in an email

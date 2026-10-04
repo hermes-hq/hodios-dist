@@ -3,11 +3,11 @@ name: review-pull-request
 description: Reviews a pull request diff for correctness bugs, risky changes and missing tests, and returns ranked findings. Use before merging a PR, branch or diff.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: code-review
   source: https://hermes-ide.com/prompts/review-pull-request
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Review a pull request

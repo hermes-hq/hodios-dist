@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: video-games
   source: https://hermes-ide.com/prompts/write-game-design-document
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a game design document

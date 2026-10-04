@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: data-exploration
   source: https://hermes-ide.com/prompts/dataset-cleaning-track
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Clean a dataset with a scripted, auditable pipeline

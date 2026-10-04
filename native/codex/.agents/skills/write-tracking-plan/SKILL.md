@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: product-metrics
   source: https://hermes-ide.com/prompts/write-tracking-plan
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write an analytics tracking plan

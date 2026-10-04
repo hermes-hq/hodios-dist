@@ -7,7 +7,7 @@ metadata:
   kind: style
   category: output-styles
   source: https://hermes-ide.com/prompts/warm
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Warm

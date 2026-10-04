@@ -3,11 +3,11 @@ name: reduce-bundle-size
 description: Measures a web app's JavaScript bundles, finds the largest avoidable contributors, and shrinks them with verified changes ranked by bytes saved. Use when page load is slow or a size budget is blown.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: performance
   source: https://hermes-ide.com/prompts/reduce-bundle-size
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Reduce JavaScript bundle size

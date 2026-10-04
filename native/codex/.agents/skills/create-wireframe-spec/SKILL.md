@@ -3,11 +3,11 @@ name: create-wireframe-spec
 description: Writes a low-fidelity text wireframe for one screen with layout regions, components, content hierarchy, all states and responsive behaviour. Use before visual design or to brief a developer.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: ui-design
   source: https://hermes-ide.com/prompts/create-wireframe-spec
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a text wireframe spec

@@ -3,11 +3,11 @@ name: set-okrs
 description: Drafts OKRs with measurable, outcome-based key results, catching outputs disguised as outcomes, missing baselines and too many objectives. Use when planning a team's quarter or half.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: business-strategy
   source: https://hermes-ide.com/prompts/set-okrs
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Set OKRs

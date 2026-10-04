@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: statistics
   source: https://hermes-ide.com/prompts/estimate-causal-effect
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Estimate a causal effect from observational data

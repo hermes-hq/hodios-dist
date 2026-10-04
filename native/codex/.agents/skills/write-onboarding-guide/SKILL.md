@@ -3,11 +3,11 @@ name: write-onboarding-guide
 description: Writes an onboarding guide for a repository covering setup, an architecture map, first tasks and known gotchas, with every command checked against the repo. Use for new hires or contributors.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: docs
   source: https://hermes-ide.com/prompts/write-onboarding-guide
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a developer onboarding guide

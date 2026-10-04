@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: home-improvement
   source: https://hermes-ide.com/prompts/childproof-home
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Childproof a home

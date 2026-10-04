@@ -3,11 +3,11 @@ name: add-rate-limiting
 description: Adds rate limiting to API endpoints with a fitting algorithm, keys, per-tier limits, standard headers, 429 responses and tests. Use when protecting endpoints from abuse or overload.
 license: CC0-1.0
 metadata:
-  version: 1.1.0
+  version: 1.1.1
   kind: prompt
   category: implementation
   source: https://hermes-ide.com/prompts/add-rate-limiting
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Add rate limiting to an API

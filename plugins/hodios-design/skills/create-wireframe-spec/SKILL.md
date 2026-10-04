@@ -9,11 +9,11 @@ arguments:
 argument-hint: <screen_purpose> [content] [platform]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: ui-design
   source: https://hermes-ide.com/prompts/create-wireframe-spec
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a text wireframe spec

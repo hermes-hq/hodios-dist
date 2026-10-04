@@ -3,11 +3,11 @@ name: beginner-friendly
 description: Adapts answers for newcomers by defining jargon, explaining why each step matters and avoiding assumed knowledge, from light glossing to full guidance. Use when the reader is new to the topic.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: style
   category: output-styles
   source: https://hermes-ide.com/prompts/beginner-friendly
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Beginner friendly

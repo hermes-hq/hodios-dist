@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: assistant-setup
   source: https://hermes-ide.com/prompts/target-language-reply-rules
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Target-language reply rules

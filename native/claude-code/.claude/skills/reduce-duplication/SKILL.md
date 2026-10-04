@@ -7,11 +7,11 @@ arguments:
 argument-hint: <scope>
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: refactoring
   source: https://hermes-ide.com/prompts/reduce-duplication
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Reduce code duplication

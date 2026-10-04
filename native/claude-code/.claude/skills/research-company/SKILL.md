@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: job-search
   source: https://hermes-ide.com/prompts/research-company
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Research a company before applying

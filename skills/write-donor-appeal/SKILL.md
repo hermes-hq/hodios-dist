@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fundraising
   source: https://hermes-ide.com/prompts/write-donor-appeal
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a donor appeal

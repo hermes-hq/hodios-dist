@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: accounting
   source: https://hermes-ide.com/prompts/fractional-cfo
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Fractional CFO

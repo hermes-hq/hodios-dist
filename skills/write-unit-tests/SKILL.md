@@ -3,11 +3,11 @@ name: write-unit-tests
 description: Writes unit tests that pin a unit's behaviour, covering boundaries, errors and edge inputs in the project's own test style, and proves each test can fail. Use for new or untested code.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: testing
   source: https://hermes-ide.com/prompts/write-unit-tests
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write unit tests

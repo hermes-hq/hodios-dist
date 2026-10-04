@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: hiring
   source: https://hermes-ide.com/prompts/hiring-track
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Hiring track

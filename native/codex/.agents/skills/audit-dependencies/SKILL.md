@@ -3,11 +3,11 @@ name: audit-dependencies
 description: Triages dependency scan findings by reachability and exploitability, gives the upgrade path, and justifies anything safe to defer. Use when a scanner reports more than the team can fix at once.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: security
   source: https://hermes-ide.com/prompts/audit-dependencies
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Triage dependency vulnerabilities

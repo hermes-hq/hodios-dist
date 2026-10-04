@@ -3,11 +3,11 @@ name: write-privacy-policy
 description: Drafts a plain-language privacy policy strictly from a product's actual data practices, structured for the stated jurisdictions, and flags every gap or risky practice for legal review.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: policies
   source: https://hermes-ide.com/prompts/write-privacy-policy
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a privacy policy

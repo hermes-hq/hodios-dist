@@ -3,11 +3,11 @@ name: design-pricing
 description: Designs pricing and packaging - value metric, tiers, fences and anchors - from customer value rather than cost, with a plan to test willingness to pay. Use when launching or repricing a product.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: business-strategy
   source: https://hermes-ide.com/prompts/design-pricing
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design pricing and packaging

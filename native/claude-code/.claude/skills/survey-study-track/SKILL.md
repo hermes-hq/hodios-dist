@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: research-methods
   source: https://hermes-ide.com/prompts/survey-study-track
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Survey study track

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: career-growth
   source: https://hermes-ide.com/prompts/recover-from-layoff
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Recover from a layoff

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: prompt-engineering
   source: https://hermes-ide.com/prompts/design-prompt-chain
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design a prompt chain

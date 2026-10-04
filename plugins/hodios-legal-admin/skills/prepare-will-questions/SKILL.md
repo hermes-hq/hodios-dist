@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: paperwork
   source: https://hermes-ide.com/prompts/prepare-will-questions
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Prepare to make a will

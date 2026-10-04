@@ -9,11 +9,11 @@ arguments:
 argument-hint: <scope> [coverage_report] [max_tests]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: testing
   source: https://hermes-ide.com/prompts/fill-test-gaps
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Find and fill the riskiest test gaps

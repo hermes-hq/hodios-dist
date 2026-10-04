@@ -3,11 +3,11 @@ name: design-rag-pipeline
 description: Designs a retrieval-augmented generation pipeline from a corpus and its real questions, covering chunking, hybrid retrieval, reranking, citations and evals. Use before building or rebuilding RAG.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: ai-ml
   source: https://hermes-ide.com/prompts/design-rag-pipeline
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design a RAG pipeline

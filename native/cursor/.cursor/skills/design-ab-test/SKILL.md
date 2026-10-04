@@ -3,11 +3,11 @@ name: design-ab-test
 description: Designs an A/B test plan with a hypothesis, primary and guardrail metrics, minimum detectable effect, sample size, duration, randomisation unit, stop rules and an analysis plan.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: product-metrics
   source: https://hermes-ide.com/prompts/design-ab-test
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design an A/B test

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: ux-research
   source: https://hermes-ide.com/prompts/analyze-session-recordings
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Analyse session recordings and heatmaps

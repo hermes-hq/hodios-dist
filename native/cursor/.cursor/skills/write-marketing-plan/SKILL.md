@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: marketing-strategy
   source: https://hermes-ide.com/prompts/write-marketing-plan
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a one-year marketing plan

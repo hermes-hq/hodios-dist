@@ -3,11 +3,11 @@ name: write-user-stories
 description: Turns a feature description into small, independent user stories for specific users, each with acceptance criteria, and splits stories that are too big. Use when preparing a backlog.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: product
   source: https://hermes-ide.com/prompts/write-user-stories
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write user stories

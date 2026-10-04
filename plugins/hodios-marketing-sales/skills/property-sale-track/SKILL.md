@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: sales
   source: https://hermes-ide.com/prompts/property-sale-track
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Property sale track

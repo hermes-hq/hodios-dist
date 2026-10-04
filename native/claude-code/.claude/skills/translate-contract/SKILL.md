@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: translation
   source: https://hermes-ide.com/prompts/translate-contract
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Translate a contract

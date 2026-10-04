@@ -3,11 +3,11 @@ name: audit-design-consistency
 description: Inventories spacing, type, colour, radii and component variants across screens, finds near-duplicates and plans their consolidation. Use before building or cleaning up a design system.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: design-systems
   source: https://hermes-ide.com/prompts/audit-design-consistency
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Audit design consistency across screens

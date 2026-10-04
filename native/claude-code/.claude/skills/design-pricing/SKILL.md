@@ -9,11 +9,11 @@ arguments:
 argument-hint: <product> <customers> [competitors_pricing]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: business-strategy
   source: https://hermes-ide.com/prompts/design-pricing
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design pricing and packaging

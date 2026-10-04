@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: course-design
   source: https://hermes-ide.com/prompts/run-training-needs-analysis
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Run a training needs analysis

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: mental-health
   source: https://hermes-ide.com/prompts/guided-journaling
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Guided journaling session

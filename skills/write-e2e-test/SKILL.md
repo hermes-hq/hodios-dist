@@ -3,11 +3,11 @@ name: write-e2e-test
 description: Writes an end-to-end browser test for a user flow with role-based locators, auto-waiting assertions and isolated test data, never fixed sleeps. Use when adding UI coverage for a critical path.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: testing
   source: https://hermes-ide.com/prompts/write-e2e-test
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a resilient end-to-end test

@@ -8,11 +8,11 @@ arguments:
 argument-hint: <symptom> [evidence]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: debugging
   source: https://hermes-ide.com/prompts/find-root-cause
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Find the root cause of a bug

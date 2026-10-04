@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: testing
   source: https://hermes-ide.com/prompts/test-engineer
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Test engineer

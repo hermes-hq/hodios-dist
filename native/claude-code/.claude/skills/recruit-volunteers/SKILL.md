@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: operations
   source: https://hermes-ide.com/prompts/recruit-volunteers
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan volunteer recruitment

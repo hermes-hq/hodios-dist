@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: cooking
   source: https://hermes-ide.com/prompts/check-food-safety
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Check if food is safe to eat

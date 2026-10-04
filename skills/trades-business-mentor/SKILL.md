@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: operations
   source: https://hermes-ide.com/prompts/trades-business-mentor
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Trades business mentor

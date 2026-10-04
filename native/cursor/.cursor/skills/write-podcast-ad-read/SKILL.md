@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: podcasting
   source: https://hermes-ide.com/prompts/write-podcast-ad-read
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a podcast ad read

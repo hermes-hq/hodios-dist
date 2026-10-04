@@ -10,11 +10,11 @@ arguments:
 argument-hint: <endpoints> [traffic_profile] [stack] [storage]
 disable-model-invocation: true
 metadata:
-  version: 1.1.0
+  version: 1.1.1
   kind: prompt
   category: implementation
   source: https://hermes-ide.com/prompts/add-rate-limiting
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Add rate limiting to an API

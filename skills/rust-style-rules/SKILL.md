@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: conventions
   source: https://hermes-ide.com/prompts/rust-style-rules
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Rust style rules

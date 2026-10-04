@@ -14,7 +14,7 @@ metadata:
   kind: workflow
   category: reporting
   source: https://hermes-ide.com/prompts/analysis-project-track
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Analysis project track

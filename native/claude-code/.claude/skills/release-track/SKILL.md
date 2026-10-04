@@ -12,7 +12,7 @@ metadata:
   kind: workflow
   category: devops
   source: https://hermes-ide.com/prompts/release-track
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Release track

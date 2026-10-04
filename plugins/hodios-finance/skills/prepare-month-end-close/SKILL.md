@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: accounting
   source: https://hermes-ide.com/prompts/prepare-month-end-close
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Prepare a month-end close checklist

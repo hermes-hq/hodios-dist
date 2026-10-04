@@ -10,11 +10,11 @@ arguments:
 argument-hint: <problem> [constraints] [options] [template]
 disable-model-invocation: true
 metadata:
-  version: 1.1.0
+  version: 1.1.1
   kind: prompt
   category: architecture
   source: https://hermes-ide.com/prompts/write-design-doc
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write an engineering design doc

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: email-marketing
   source: https://hermes-ide.com/prompts/write-post-purchase-emails
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a post-purchase email flow

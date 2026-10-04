@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: peer-review
   source: https://hermes-ide.com/prompts/review-grant-proposal
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Review a grant proposal as a panel member

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: people-management
   source: https://hermes-ide.com/prompts/write-reference-letter
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a reference letter

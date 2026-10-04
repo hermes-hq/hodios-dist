@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: ai-ml
   source: https://hermes-ide.com/prompts/review-training-data
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Review a training dataset sample

@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: debugging
   source: https://hermes-ide.com/prompts/debugger
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Debugger

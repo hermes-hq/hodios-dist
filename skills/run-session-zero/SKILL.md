@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: tabletop-rpg
   source: https://hermes-ide.com/prompts/run-session-zero
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Run a session zero

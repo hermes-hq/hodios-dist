@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: screenwriting
   source: https://hermes-ide.com/prompts/script-consultant
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Script consultant

@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: sales
   source: https://hermes-ide.com/prompts/sales-coach
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Sales coach

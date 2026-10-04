@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: teaching
   source: https://hermes-ide.com/prompts/special-education-advisor
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Special education advisor

@@ -9,11 +9,11 @@ arguments:
 argument-hint: <requirements> [access_patterns] [database]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: data
   source: https://hermes-ide.com/prompts/design-database-schema
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design a relational database schema

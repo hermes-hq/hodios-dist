@@ -3,11 +3,11 @@ name: find-memory-leak
 description: Finds a memory leak from heap snapshots, memory metrics and code, naming the retaining path and the minimal fix with a regression check. Use when memory grows until a process is killed or restarted.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: performance
   source: https://hermes-ide.com/prompts/find-memory-leak
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Find a memory leak

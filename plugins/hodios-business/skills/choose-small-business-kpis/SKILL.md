@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: operations
   source: https://hermes-ide.com/prompts/choose-small-business-kpis
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Choose KPIs for a small business

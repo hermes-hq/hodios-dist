@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: prompt-engineering
   source: https://hermes-ide.com/prompts/write-task-prompt
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a reusable task prompt

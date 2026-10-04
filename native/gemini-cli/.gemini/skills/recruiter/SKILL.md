@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: hiring
   source: https://hermes-ide.com/prompts/recruiter
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Recruiter

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: spreadsheets
   source: https://hermes-ide.com/prompts/build-spreadsheet-chart
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Build a chart in a spreadsheet

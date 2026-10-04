@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: fact-checking
   source: https://hermes-ide.com/prompts/trace-quote-origin
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Trace a quote to its origin

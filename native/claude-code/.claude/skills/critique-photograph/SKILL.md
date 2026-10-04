@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: photography
   source: https://hermes-ide.com/prompts/critique-photograph
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Critique a photograph

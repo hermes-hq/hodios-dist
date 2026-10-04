@@ -9,11 +9,11 @@ arguments:
 argument-hint: <current> <target> [context]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: migration
   source: https://hermes-ide.com/prompts/plan-incremental-migration
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan an incremental migration

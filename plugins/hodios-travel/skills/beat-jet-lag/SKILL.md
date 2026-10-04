@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: travel-logistics
   source: https://hermes-ide.com/prompts/beat-jet-lag
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Beat jet lag

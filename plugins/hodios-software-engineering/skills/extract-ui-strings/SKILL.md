@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: localization
   source: https://hermes-ide.com/prompts/extract-ui-strings
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Extract hard-coded UI strings

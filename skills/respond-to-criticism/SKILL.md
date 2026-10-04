@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: interpersonal-communication
   source: https://hermes-ide.com/prompts/respond-to-criticism
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Respond to criticism

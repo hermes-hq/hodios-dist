@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: legal-correspondence
   source: https://hermes-ide.com/prompts/write-workplace-grievance
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a formal workplace grievance

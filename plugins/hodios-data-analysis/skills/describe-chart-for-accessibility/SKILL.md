@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: data-visualization
   source: https://hermes-ide.com/prompts/describe-chart-for-accessibility
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Describe a chart for accessibility

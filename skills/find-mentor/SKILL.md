@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: career-growth
   source: https://hermes-ide.com/prompts/find-mentor
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Find and approach a mentor

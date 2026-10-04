@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: contracts
   source: https://hermes-ide.com/prompts/summarize-contract
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Summarise a contract

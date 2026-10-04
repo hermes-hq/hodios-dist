@@ -3,11 +3,11 @@ name: write-integration-tests
 description: Writes integration tests that run against real dependencies such as databases and queues in containers, with fixtures, isolation between tests and cleanup. Use when mocks hide bugs at the boundary.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: testing
   source: https://hermes-ide.com/prompts/write-integration-tests
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write integration tests with real dependencies

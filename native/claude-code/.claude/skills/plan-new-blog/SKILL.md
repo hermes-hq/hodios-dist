@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: blogging
   source: https://hermes-ide.com/prompts/plan-new-blog
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan a new blog

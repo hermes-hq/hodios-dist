@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: public-speaking
   source: https://hermes-ide.com/prompts/prepare-for-tough-questions
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Prepare for tough questions

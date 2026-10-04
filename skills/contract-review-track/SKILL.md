@@ -3,11 +3,11 @@ name: contract-review-track
 description: Reviews a contract in gated steps, from a plain summary to risk flags by severity, questions for the other side, redline priorities and a brief for a lawyer.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: workflow
   category: contracts
   source: https://hermes-ide.com/prompts/contract-review-track
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Contract review track

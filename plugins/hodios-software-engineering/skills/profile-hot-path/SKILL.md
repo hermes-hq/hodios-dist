@@ -9,11 +9,11 @@ arguments:
 argument-hint: <target> [goal] [environment]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: performance
   source: https://hermes-ide.com/prompts/profile-hot-path
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Profile and speed up a hot path

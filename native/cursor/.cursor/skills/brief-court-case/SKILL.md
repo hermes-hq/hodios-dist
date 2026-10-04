@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: legal-practice
   source: https://hermes-ide.com/prompts/brief-court-case
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Brief a court case

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: vehicles
   source: https://hermes-ide.com/prompts/cut-driving-costs
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Cut the cost of running a car

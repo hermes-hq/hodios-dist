@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: presentations
   source: https://hermes-ide.com/prompts/presentation-designer
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Presentation designer

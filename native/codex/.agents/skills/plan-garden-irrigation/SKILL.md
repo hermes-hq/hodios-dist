@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: gardening
   source: https://hermes-ide.com/prompts/plan-garden-irrigation
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan garden irrigation

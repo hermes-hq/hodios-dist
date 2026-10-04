@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data-visualization
   source: https://hermes-ide.com/prompts/draw-process-diagram
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Draw a process diagram

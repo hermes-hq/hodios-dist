@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: hiring
   source: https://hermes-ide.com/prompts/write-take-home-assignment
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design a take-home assignment

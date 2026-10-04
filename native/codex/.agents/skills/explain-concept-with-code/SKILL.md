@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: learning
   source: https://hermes-ide.com/prompts/explain-concept-with-code
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Explain a concept with code

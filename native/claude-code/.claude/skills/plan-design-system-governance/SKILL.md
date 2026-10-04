@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: design-systems
   source: https://hermes-ide.com/prompts/plan-design-system-governance
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan design system governance

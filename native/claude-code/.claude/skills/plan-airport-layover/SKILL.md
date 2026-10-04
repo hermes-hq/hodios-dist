@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: travel-logistics
   source: https://hermes-ide.com/prompts/plan-airport-layover
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan an airport layover

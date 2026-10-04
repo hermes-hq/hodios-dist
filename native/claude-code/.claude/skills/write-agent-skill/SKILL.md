@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: meta
   source: https://hermes-ide.com/prompts/write-agent-skill
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write an agent skill

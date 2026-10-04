@@ -9,11 +9,11 @@ arguments:
 argument-hint: <prompt> [problem] [target]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: prompt-engineering
   source: https://hermes-ide.com/prompts/improve-prompt
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Improve a prompt

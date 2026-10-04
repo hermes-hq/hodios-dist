@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: assistant-setup
   source: https://hermes-ide.com/prompts/prepare-knowledge-files
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Prepare knowledge files for an assistant

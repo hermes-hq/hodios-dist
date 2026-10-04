@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: vehicles
   source: https://hermes-ide.com/prompts/plan-car-maintenance
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan car maintenance

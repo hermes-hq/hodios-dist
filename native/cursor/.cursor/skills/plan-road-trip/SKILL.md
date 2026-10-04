@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: trip-planning
   source: https://hermes-ide.com/prompts/plan-road-trip
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan a road trip

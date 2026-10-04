@@ -3,11 +3,11 @@ name: plan-release
 description: Builds a release plan with scope per release, dependencies, milestones, a feature-flag rollout strategy, go or no-go checks, a scope-cut order and a communications timeline.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: roadmapping
   source: https://hermes-ide.com/prompts/plan-release
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan a release

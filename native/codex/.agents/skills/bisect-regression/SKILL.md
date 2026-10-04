@@ -3,11 +3,11 @@ name: bisect-regression
 description: Finds the commit or input that introduced a regression by writing an automated good/bad check first, then bisecting. Use when something that used to work is broken and the cause is unclear.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: debugging
   source: https://hermes-ide.com/prompts/bisect-regression
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Bisect a regression

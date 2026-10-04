@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: puzzles
   source: https://hermes-ide.com/prompts/create-escape-room-puzzles
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Create escape-room puzzles

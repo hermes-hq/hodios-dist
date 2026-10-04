@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: migration
   source: https://hermes-ide.com/prompts/plan-monorepo-migration
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan a monorepo migration

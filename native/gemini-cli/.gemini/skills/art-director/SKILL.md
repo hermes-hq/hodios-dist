@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: graphic-design
   source: https://hermes-ide.com/prompts/art-director
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Art director

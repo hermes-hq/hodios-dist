@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: docs
   source: https://hermes-ide.com/prompts/audit-documentation
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Audit a documentation set

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/plan-first-week-of-school
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Plan the first week of school

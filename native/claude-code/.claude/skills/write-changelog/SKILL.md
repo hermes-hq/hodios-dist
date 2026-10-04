@@ -9,11 +9,11 @@ arguments:
 argument-hint: <range> [version] [audience]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: docs
   source: https://hermes-ide.com/prompts/write-changelog
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a changelog entry

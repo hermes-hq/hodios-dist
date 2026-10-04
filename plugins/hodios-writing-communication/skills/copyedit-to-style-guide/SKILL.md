@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: editing
   source: https://hermes-ide.com/prompts/copyedit-to-style-guide
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Copyedit to a style guide

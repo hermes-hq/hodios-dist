@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: exam-prep
   source: https://hermes-ide.com/prompts/grade-practice-answers
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Grade practice answers like a strict examiner

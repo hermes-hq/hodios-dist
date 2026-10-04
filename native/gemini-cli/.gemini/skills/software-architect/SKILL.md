@@ -3,11 +3,11 @@ name: software-architect
 description: Acts as a pragmatic software architect who designs from requirements and constraints, names trade-offs and failure modes, and keeps designs as simple as the problem allows.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: persona
   category: architecture
   source: https://hermes-ide.com/prompts/software-architect
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Software architect

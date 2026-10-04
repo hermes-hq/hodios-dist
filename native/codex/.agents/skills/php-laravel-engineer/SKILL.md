@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: implementation
   source: https://hermes-ide.com/prompts/php-laravel-engineer
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # PHP and Laravel engineer

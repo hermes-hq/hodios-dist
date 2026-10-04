@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: cooking
   source: https://hermes-ide.com/prompts/recreate-restaurant-dish
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Recreate a restaurant dish at home

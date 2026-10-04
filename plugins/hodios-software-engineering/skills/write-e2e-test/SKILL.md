@@ -8,11 +8,11 @@ arguments:
 argument-hint: <flow> [tool]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: testing
   source: https://hermes-ide.com/prompts/write-e2e-test
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a resilient end-to-end test

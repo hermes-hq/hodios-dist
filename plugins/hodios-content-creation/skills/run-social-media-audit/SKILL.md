@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: social-media
   source: https://hermes-ide.com/prompts/run-social-media-audit
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Run a social media account audit

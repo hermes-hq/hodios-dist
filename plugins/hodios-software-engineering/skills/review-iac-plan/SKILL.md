@@ -9,11 +9,11 @@ arguments:
 argument-hint: <plan_output> [intent] [environment]
 disable-model-invocation: true
 metadata:
-  version: 1.1.0
+  version: 1.1.1
   kind: prompt
   category: devops
   source: https://hermes-ide.com/prompts/review-iac-plan
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Review an infrastructure plan before apply

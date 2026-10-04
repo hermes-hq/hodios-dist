@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: prompt-engineering
   source: https://hermes-ide.com/prompts/build-prompt-test-set
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Build a test set for a prompt

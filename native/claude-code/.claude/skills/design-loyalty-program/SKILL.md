@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: marketing-strategy
   source: https://hermes-ide.com/prompts/design-loyalty-program
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design a customer loyalty programme

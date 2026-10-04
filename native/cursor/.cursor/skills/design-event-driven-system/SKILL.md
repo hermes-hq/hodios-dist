@@ -3,11 +3,11 @@ name: design-event-driven-system
 description: Designs an event-driven flow with event schemas, topics, partition keys, idempotent consumers, an outbox, retries, dead letters and replay. Use when moving synchronous calls onto a broker.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: architecture
   source: https://hermes-ide.com/prompts/design-event-driven-system
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design an event-driven system

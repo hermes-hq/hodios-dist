@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: accessibility
   source: https://hermes-ide.com/prompts/write-screen-reader-test-plan
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a screen-reader test plan

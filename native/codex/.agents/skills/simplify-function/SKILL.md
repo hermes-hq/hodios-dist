@@ -3,11 +3,11 @@ name: simplify-function
 description: Rewrites a hard-to-follow function into a clearer one with identical behaviour, using guard clauses, named steps and simpler conditions, verified by tests. Use on long or deeply nested code.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: refactoring
   source: https://hermes-ide.com/prompts/simplify-function
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Simplify a complex function

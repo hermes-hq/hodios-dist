@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: research-methods
   source: https://hermes-ide.com/prompts/run-thematic-analysis
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Run a reflexive thematic analysis

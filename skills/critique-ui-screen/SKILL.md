@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: ui-design
   source: https://hermes-ide.com/prompts/critique-ui-screen
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Critique a UI screen

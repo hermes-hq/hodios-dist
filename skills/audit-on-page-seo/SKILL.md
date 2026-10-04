@@ -3,11 +3,11 @@ name: audit-on-page-seo
 description: Audits a page's content and HTML for on-page SEO issues (intent match, title, headings, internal links, images, structured data) with prioritised fixes. Use before publishing a page.
 license: CC0-1.0
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: seo
   source: https://hermes-ide.com/prompts/audit-on-page-seo
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Audit on-page SEO

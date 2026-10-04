@@ -9,11 +9,11 @@ arguments:
 argument-hint: <product_and_segment> [method] [responses]
 disable-model-invocation: true
 metadata:
-  version: 1.0.1
+  version: 1.0.2
   kind: prompt
   category: product-discovery
   source: https://hermes-ide.com/prompts/run-willingness-to-pay-study
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Run a willingness-to-pay study

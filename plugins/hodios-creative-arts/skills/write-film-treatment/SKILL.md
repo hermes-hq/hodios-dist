@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: screenwriting
   source: https://hermes-ide.com/prompts/write-film-treatment
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Write a film or series treatment

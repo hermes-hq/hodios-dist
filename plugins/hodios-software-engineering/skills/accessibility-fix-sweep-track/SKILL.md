@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: accessibility
   source: https://hermes-ide.com/prompts/accessibility-fix-sweep-track
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Accessibility fix sweep for a web app

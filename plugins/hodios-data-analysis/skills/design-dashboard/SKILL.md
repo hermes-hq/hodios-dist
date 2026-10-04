@@ -10,11 +10,11 @@ arguments:
 argument-hint: <audience> <decisions> [available_data] [tool]
 disable-model-invocation: true
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   kind: prompt
   category: data-visualization
   source: https://hermes-ide.com/prompts/design-dashboard
-  catalog: 2026.1004.1
+  catalog: 2026.1004.2
 ---
 
 # Design a KPI dashboard
