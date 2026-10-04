@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: git
   source: https://hermes-ide.com/prompts/clean-up-commit-history
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Clean up a branch's commit history

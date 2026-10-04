@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: worldbuilding
   source: https://hermes-ide.com/prompts/worldbuilding-consultant
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Worldbuilding consultant

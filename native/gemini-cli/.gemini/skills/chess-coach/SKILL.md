@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: puzzles
   source: https://hermes-ide.com/prompts/chess-coach
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Chess coach

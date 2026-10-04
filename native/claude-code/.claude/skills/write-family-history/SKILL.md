@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: life-writing
   source: https://hermes-ide.com/prompts/write-family-history
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write a family history

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: product-metrics
   source: https://hermes-ide.com/prompts/build-experiment-backlog
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Build a growth experiment backlog

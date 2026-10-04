@@ -14,7 +14,7 @@ metadata:
   kind: workflow
   category: scientific-writing
   source: https://hermes-ide.com/prompts/thesis-track
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Thesis track

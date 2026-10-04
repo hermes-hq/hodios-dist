@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: fiction
   source: https://hermes-ide.com/prompts/novel-revision-track
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Novel revision track

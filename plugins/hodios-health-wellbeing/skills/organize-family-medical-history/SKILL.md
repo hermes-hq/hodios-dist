@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: medical-prep
   source: https://hermes-ide.com/prompts/organize-family-medical-history
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Organize a family medical history

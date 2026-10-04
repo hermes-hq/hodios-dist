@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: entrepreneurship
   source: https://hermes-ide.com/prompts/validate-business-idea
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Validate a business idea

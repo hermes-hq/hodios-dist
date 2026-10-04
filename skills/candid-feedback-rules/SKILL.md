@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: assistant-setup
   source: https://hermes-ide.com/prompts/candid-feedback-rules
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Candid feedback rules

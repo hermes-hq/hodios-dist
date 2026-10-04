@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: task-management
   source: https://hermes-ide.com/prompts/run-focus-session
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Run a focus session

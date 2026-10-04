@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: paperwork
   source: https://hermes-ide.com/prompts/apply-for-trademark
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Prepare a trademark application

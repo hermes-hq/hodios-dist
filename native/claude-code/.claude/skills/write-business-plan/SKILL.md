@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: entrepreneurship
   source: https://hermes-ide.com/prompts/write-business-plan
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write a lean business plan

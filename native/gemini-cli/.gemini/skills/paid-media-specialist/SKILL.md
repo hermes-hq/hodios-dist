@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: advertising
   source: https://hermes-ide.com/prompts/paid-media-specialist
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Paid media specialist

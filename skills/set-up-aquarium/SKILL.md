@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: pet-care
   source: https://hermes-ide.com/prompts/set-up-aquarium
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Set up a first aquarium

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: ui-design
   source: https://hermes-ide.com/prompts/review-design-for-dark-patterns
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Review a design for dark patterns

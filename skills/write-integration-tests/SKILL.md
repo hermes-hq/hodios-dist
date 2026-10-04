@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: testing
   source: https://hermes-ide.com/prompts/write-integration-tests
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write integration tests with real dependencies

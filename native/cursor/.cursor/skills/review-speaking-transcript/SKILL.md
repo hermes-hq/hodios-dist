@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: conversation-practice
   source: https://hermes-ide.com/prompts/review-speaking-transcript
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Review a speaking transcript

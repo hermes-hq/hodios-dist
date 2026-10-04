@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: copywriting
   source: https://hermes-ide.com/prompts/copywriter
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Copywriter

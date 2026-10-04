@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: reporting
   source: https://hermes-ide.com/prompts/write-okr-progress-report
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write an OKR progress report

@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: incident
   source: https://hermes-ide.com/prompts/observability-setup-track
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Add logs, metrics and traces to a service

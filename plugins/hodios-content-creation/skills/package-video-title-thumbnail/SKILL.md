@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: video
   source: https://hermes-ide.com/prompts/package-video-title-thumbnail
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Package a video title and thumbnail

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: sales
   source: https://hermes-ide.com/prompts/write-account-plan
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write a strategic account plan

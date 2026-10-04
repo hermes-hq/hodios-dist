@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: operations
   source: https://hermes-ide.com/prompts/prepare-supplier-negotiation
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Prepare a supplier negotiation

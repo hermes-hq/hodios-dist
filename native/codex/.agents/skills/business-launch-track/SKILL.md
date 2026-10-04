@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: entrepreneurship
   source: https://hermes-ide.com/prompts/business-launch-track
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Business launch track

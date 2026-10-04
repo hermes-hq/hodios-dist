@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: social-media
   source: https://hermes-ide.com/prompts/write-pinterest-pins
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write Pinterest pins

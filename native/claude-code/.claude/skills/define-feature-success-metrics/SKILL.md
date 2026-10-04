@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: product-metrics
   source: https://hermes-ide.com/prompts/define-feature-success-metrics
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Define feature success metrics

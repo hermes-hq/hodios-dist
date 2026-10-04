@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: email-marketing
   source: https://hermes-ide.com/prompts/audit-email-deliverability
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Audit email deliverability

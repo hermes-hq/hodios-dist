@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: copywriting
   source: https://hermes-ide.com/prompts/write-marketplace-listing
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write a marketplace product listing

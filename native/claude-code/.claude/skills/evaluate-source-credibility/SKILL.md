@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: fact-checking
   source: https://hermes-ide.com/prompts/evaluate-source-credibility
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Evaluate a source's credibility

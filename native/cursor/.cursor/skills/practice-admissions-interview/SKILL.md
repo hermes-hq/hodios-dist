@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: studying
   source: https://hermes-ide.com/prompts/practice-admissions-interview
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Practise an admissions interview

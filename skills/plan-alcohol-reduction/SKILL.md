@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: mental-health
   source: https://hermes-ide.com/prompts/plan-alcohol-reduction
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plan to cut down drinking

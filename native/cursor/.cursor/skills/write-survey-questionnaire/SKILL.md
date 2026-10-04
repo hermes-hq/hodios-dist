@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: research-methods
   source: https://hermes-ide.com/prompts/write-survey-questionnaire
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write a survey questionnaire

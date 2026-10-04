@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: email-marketing
   source: https://hermes-ide.com/prompts/plan-holiday-sale-campaign
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plan a holiday sale campaign

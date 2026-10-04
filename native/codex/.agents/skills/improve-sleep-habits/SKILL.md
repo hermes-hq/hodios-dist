@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: mental-health
   source: https://hermes-ide.com/prompts/improve-sleep-habits
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Build a two-week sleep plan

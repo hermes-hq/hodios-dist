@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: meal-planning
   source: https://hermes-ide.com/prompts/plan-freezer-meals
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plan a freezer meal stash

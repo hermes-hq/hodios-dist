@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: vehicles
   source: https://hermes-ide.com/prompts/car-advisor
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Car advisor

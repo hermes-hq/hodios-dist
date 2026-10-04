@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: statistics
   source: https://hermes-ide.com/prompts/analyze-likert-data
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Analyse Likert-scale data

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: meetings
   source: https://hermes-ide.com/prompts/prepare-for-one-on-one
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Prepare for a one-on-one with your manager

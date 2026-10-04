@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: reporting
   source: https://hermes-ide.com/prompts/compare-period-performance
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Compare performance across periods

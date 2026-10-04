@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: incident
   source: https://hermes-ide.com/prompts/write-runbook
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write an operational runbook

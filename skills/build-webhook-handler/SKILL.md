@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: implementation
   source: https://hermes-ide.com/prompts/build-webhook-handler
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Build a webhook handler

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: job-search
   source: https://hermes-ide.com/prompts/evaluate-job-offer
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Evaluate a job offer

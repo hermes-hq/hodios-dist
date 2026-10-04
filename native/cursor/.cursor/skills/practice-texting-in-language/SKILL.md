@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: conversation-practice
   source: https://hermes-ide.com/prompts/practice-texting-in-language
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Practise texting in a language

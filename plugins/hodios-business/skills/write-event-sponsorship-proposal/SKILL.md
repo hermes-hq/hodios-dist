@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: fundraising
   source: https://hermes-ide.com/prompts/write-event-sponsorship-proposal
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write an event sponsorship proposal

@@ -14,7 +14,7 @@ metadata:
   kind: workflow
   category: task-management
   source: https://hermes-ide.com/prompts/community-event-planning-track
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Community event planning track

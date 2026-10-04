@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: entrepreneurship
   source: https://hermes-ide.com/prompts/find-cofounder
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Find a co-founder

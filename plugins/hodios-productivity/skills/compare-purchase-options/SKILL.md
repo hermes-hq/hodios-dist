@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: decision-making
   source: https://hermes-ide.com/prompts/compare-purchase-options
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Compare products before buying

@@ -11,9 +11,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.0
   kind: prompt
-  category: image-generation
+  category: video-generation
   source: https://hermes-ide.com/prompts/write-video-generation-prompt
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write a video-generation prompt

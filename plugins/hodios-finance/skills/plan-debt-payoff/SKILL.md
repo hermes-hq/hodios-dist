@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: financial-planning
   source: https://hermes-ide.com/prompts/plan-debt-payoff
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plan a debt payoff

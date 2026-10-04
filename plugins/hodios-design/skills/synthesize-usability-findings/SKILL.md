@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: ux-research
   source: https://hermes-ide.com/prompts/synthesize-usability-findings
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Synthesize usability test findings

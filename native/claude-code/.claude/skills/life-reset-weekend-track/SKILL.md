@@ -12,7 +12,7 @@ metadata:
   kind: workflow
   category: task-management
   source: https://hermes-ide.com/prompts/life-reset-weekend-track
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Life reset weekend track

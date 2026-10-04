@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: code-review
   source: https://hermes-ide.com/prompts/code-reviewer
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Code reviewer

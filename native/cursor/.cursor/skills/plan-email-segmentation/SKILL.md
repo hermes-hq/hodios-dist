@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: email-marketing
   source: https://hermes-ide.com/prompts/plan-email-segmentation
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plan email list segmentation

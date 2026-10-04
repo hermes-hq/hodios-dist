@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: marketing-strategy
   source: https://hermes-ide.com/prompts/plan-influencer-campaign
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plan an influencer campaign

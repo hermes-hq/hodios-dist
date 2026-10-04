@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: tabletop-rpg
   source: https://hermes-ide.com/prompts/design-one-shot-adventure
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Design a one-shot adventure

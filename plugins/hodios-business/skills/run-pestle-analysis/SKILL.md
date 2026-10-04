@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: business-strategy
   source: https://hermes-ide.com/prompts/run-pestle-analysis
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Run a PESTLE analysis

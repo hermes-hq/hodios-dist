@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: decision-making
   source: https://hermes-ide.com/prompts/run-decision-journal
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Run a decision journal

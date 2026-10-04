@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: seo
   source: https://hermes-ide.com/prompts/seo-strategist
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # SEO strategist

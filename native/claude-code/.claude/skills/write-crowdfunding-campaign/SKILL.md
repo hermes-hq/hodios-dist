@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: fundraising
   source: https://hermes-ide.com/prompts/write-crowdfunding-campaign
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write a crowdfunding campaign

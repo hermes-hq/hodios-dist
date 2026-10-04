@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: summarization
   source: https://hermes-ide.com/prompts/summarize-discussion-positions
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Summarise the positions in a discussion

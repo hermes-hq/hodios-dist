@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: investing
   source: https://hermes-ide.com/prompts/explain-fund-document
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Explain a fund document

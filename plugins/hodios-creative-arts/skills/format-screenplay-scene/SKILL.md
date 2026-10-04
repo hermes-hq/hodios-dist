@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: screenwriting
   source: https://hermes-ide.com/prompts/format-screenplay-scene
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Format a screenplay scene

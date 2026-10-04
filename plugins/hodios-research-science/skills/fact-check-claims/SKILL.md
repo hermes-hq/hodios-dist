@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: fact-checking
   source: https://hermes-ide.com/prompts/fact-check-claims
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Fact-check claims in a text

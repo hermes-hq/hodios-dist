@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: home-improvement
   source: https://hermes-ide.com/prompts/plan-renovation-budget
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plan a renovation budget

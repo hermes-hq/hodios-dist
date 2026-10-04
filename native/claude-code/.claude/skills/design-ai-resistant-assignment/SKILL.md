@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/design-ai-resistant-assignment
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Redesign an assignment for the AI era

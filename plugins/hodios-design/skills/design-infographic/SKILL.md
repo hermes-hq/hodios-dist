@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: graphic-design
   source: https://hermes-ide.com/prompts/design-infographic
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plan an infographic

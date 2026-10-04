@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: home-improvement
   source: https://hermes-ide.com/prompts/plan-cleaning-schedule
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plan a household cleaning schedule

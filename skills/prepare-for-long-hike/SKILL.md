@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fitness
   source: https://hermes-ide.com/prompts/prepare-for-long-hike
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Prepare for a long hike

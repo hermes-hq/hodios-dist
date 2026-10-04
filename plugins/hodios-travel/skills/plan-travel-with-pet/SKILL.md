@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: travel-logistics
   source: https://hermes-ide.com/prompts/plan-travel-with-pet
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plan travel with a pet

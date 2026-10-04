@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: kids-activities
   source: https://hermes-ide.com/prompts/create-kids-craft
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Create a kids' craft project

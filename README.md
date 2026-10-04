@@ -1,6 +1,6 @@
 # hodios-dist
 
-**Hodios — prompts by Hermes IDE.** This repository is the generated install tree for catalog `2026.1004.0`: 1,996 entries (the curated tier, of 3,427 in the catalog) compiled into Agent Skills, Claude Code plugins and drop-in files for each tool. It is written only by the release bot.
+**Hodios — prompts by Hermes IDE.** This repository is the generated install tree for catalog `2026.1004.1`: 1,996 entries (the curated tier, of 3,601 in the catalog) compiled into Agent Skills, Claude Code plugins and drop-in files for each tool. It is written only by the release bot.
 
 The installers below download this whole repository, so it holds the curated tier only, at most 2,000 entries. Every other entry is in `catalog/v1/` and installs with the `hodios` CLI: `npx @hermes-hq/hodios search <words>`, then `npx @hermes-hq/hodios install <id> --target claude-code`.
 

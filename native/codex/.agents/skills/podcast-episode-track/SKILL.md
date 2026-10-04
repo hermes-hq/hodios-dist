@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: podcasting
   source: https://hermes-ide.com/prompts/podcast-episode-track
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Podcast episode track

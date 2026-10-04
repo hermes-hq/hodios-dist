@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: ux-research
   source: https://hermes-ide.com/prompts/service-designer
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Service designer

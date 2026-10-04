@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: prompt-engineering
   source: https://hermes-ide.com/prompts/diagnose-prompt-failures
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Diagnose prompt failures

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: email
   source: https://hermes-ide.com/prompts/write-farewell-message
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write a farewell message

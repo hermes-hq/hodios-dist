@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: product-metrics
   source: https://hermes-ide.com/prompts/analyze-conversion-funnel
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Analyse a conversion funnel

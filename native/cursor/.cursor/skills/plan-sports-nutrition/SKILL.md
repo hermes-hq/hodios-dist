@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: nutrition
   source: https://hermes-ide.com/prompts/plan-sports-nutrition
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plan sports fuelling and hydration

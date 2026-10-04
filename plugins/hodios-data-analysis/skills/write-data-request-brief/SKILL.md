@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/write-data-request-brief
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write a data request brief

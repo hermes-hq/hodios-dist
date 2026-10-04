@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: compliance
   source: https://hermes-ide.com/prompts/compliance-officer
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Compliance officer

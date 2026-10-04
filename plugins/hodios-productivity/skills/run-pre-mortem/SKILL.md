@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: decision-making
   source: https://hermes-ide.com/prompts/run-pre-mortem
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Run a pre-mortem

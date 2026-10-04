@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: refactoring
   source: https://hermes-ide.com/prompts/extract-module
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Extract a module

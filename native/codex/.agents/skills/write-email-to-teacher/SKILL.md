@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: parenting
   source: https://hermes-ide.com/prompts/write-email-to-teacher
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write an email to a teacher

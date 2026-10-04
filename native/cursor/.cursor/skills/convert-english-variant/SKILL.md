@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: editing
   source: https://hermes-ide.com/prompts/convert-english-variant
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Convert between English variants

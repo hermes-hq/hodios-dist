@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: financial-planning
   source: https://hermes-ide.com/prompts/financial-checkup-track
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Yearly financial check-up

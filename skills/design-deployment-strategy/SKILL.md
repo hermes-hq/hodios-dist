@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: devops
   source: https://hermes-ide.com/prompts/design-deployment-strategy
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Design a deployment strategy

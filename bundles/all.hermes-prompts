@@ -1,6 +1,6 @@
 {
   "_hermes_bundle_version": 2,
-  "source": "hodios@2026.1004.0",
+  "source": "hodios@2026.1004.1",
   "items": [
     {
       "id": "academic",
@@ -91332,10 +91332,8 @@
       "version": "1.0.0",
       "title": "Write a video-generation prompt",
       "description": "Writes prompts for AI video generators covering subject, action, camera movement, lighting, style, audio and consistency, with a shot-by-shot version for longer clips. Use with text-to-video tools.",
-      "category": "image-generation",
+      "category": "video-generation",
       "tags": [
-        "text-to-video",
-        "ai-video",
         "camera-movement",
         "shot-list"
       ],
@@ -91370,7 +91368,7 @@
           "build-image-style-guide"
         ]
       },
-      "hash": "sha256:878d37a19c04ad74cdf7bf3bf89cff6640049040d39d8cd0b82bf2b027a43c85"
+      "hash": "sha256:a0cb83b7718b8d0752bc66be671b346af65b5b9fdd6fdedd7a7b6d8f18fc298f"
     },
     {
       "id": "write-video-hooks",

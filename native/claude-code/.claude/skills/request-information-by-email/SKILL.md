@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: email
   source: https://hermes-ide.com/prompts/request-information-by-email
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Request information by email

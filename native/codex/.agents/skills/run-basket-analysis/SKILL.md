@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/run-basket-analysis
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Run a market basket analysis

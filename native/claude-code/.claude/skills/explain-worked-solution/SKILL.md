@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: tutoring
   source: https://hermes-ide.com/prompts/explain-worked-solution
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Explain a worked solution

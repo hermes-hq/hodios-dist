@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: tutoring
   source: https://hermes-ide.com/prompts/academic-integrity-rules
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Academic integrity rules

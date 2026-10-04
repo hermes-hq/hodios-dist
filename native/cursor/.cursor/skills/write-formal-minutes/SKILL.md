@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: meetings
   source: https://hermes-ide.com/prompts/write-formal-minutes
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write formal minutes

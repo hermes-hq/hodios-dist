@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: career-growth
   source: https://hermes-ide.com/prompts/build-development-plan
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Build an individual development plan

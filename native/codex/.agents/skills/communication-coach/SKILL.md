@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: interpersonal-communication
   source: https://hermes-ide.com/prompts/communication-coach
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Communication coach

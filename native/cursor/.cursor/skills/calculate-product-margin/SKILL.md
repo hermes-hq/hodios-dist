@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: accounting
   source: https://hermes-ide.com/prompts/calculate-product-margin
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Calculate product margin and break-even

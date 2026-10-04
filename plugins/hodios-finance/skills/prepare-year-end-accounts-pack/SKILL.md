@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: accounting
   source: https://hermes-ide.com/prompts/prepare-year-end-accounts-pack
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Prepare a year-end accounts pack

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: tech-help
   source: https://hermes-ide.com/prompts/explain-error-message
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Explain an error message

@@ -7,7 +7,7 @@ metadata:
   kind: style
   category: output-styles
   source: https://hermes-ide.com/prompts/casual
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Casual

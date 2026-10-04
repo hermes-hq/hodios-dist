@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: tabletop-rpg
   source: https://hermes-ide.com/prompts/create-npc
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Create an NPC

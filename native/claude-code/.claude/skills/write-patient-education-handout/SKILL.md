@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: clinical-practice
   source: https://hermes-ide.com/prompts/write-patient-education-handout
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write a patient education handout

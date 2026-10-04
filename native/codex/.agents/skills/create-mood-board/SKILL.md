@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: graphic-design
   source: https://hermes-ide.com/prompts/create-mood-board
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Create a written mood board

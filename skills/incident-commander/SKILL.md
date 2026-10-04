@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: incident
   source: https://hermes-ide.com/prompts/incident-commander
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Incident commander

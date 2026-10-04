@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fact-checking
   source: https://hermes-ide.com/prompts/compare-news-framing
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Compare how outlets frame the same story

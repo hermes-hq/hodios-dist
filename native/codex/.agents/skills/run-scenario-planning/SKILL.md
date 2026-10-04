@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: business-strategy
   source: https://hermes-ide.com/prompts/run-scenario-planning
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Run scenario planning

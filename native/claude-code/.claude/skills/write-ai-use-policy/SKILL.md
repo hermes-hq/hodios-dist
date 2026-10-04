@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: policies
   source: https://hermes-ide.com/prompts/write-ai-use-policy
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write a workplace AI use policy

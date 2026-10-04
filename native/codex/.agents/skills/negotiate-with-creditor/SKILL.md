@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: financial-planning
   source: https://hermes-ide.com/prompts/negotiate-with-creditor
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Negotiate with a creditor

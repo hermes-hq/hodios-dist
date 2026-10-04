@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: compliance
   source: https://hermes-ide.com/prompts/check-email-marketing-compliance
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Check email and SMS marketing compliance

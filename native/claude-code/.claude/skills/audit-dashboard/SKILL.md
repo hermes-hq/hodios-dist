@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: data-visualization
   source: https://hermes-ide.com/prompts/audit-dashboard
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Audit an existing dashboard

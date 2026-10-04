@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: security
   source: https://hermes-ide.com/prompts/review-llm-app-security
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Review an LLM app for security

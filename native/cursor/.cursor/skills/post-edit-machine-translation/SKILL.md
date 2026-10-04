@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: translation
   source: https://hermes-ide.com/prompts/post-edit-machine-translation
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Post-edit a machine translation

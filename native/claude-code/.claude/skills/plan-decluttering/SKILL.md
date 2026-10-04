@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: home-improvement
   source: https://hermes-ide.com/prompts/plan-decluttering
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plan a decluttering project

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fitness
   source: https://hermes-ide.com/prompts/plan-return-to-training
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plan a return to training

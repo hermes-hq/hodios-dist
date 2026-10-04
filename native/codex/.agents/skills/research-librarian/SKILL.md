@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: literature-review
   source: https://hermes-ide.com/prompts/research-librarian
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Research librarian

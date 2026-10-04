@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: local-culture
   source: https://hermes-ide.com/prompts/decode-foreign-menu
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Decode a foreign menu

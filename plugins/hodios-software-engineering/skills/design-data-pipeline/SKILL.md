@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: data
   source: https://hermes-ide.com/prompts/design-data-pipeline
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Design a data pipeline

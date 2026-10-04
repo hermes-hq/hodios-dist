@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: nutrition
   source: https://hermes-ide.com/prompts/evaluate-supplement
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Evaluate a supplement

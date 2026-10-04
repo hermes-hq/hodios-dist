@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: translation
   source: https://hermes-ide.com/prompts/translate-literary-passage
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Translate a literary passage

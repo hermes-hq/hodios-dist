@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: business-strategy
   source: https://hermes-ide.com/prompts/assess-competitive-advantage
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Assess competitive advantage

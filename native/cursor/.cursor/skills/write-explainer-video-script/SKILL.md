@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: video
   source: https://hermes-ide.com/prompts/write-explainer-video-script
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write an explainer video script

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: spreadsheets
   source: https://hermes-ide.com/prompts/build-commission-calculator
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Build a sales commission calculator

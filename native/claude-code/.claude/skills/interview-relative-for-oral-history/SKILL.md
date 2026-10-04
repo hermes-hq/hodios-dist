@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: life-writing
   source: https://hermes-ide.com/prompts/interview-relative-for-oral-history
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Interview a relative for an oral history

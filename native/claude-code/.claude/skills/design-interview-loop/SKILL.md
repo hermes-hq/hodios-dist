@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: hiring
   source: https://hermes-ide.com/prompts/design-interview-loop
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Design an interview loop

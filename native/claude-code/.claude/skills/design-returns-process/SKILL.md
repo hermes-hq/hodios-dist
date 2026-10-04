@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: operations
   source: https://hermes-ide.com/prompts/design-returns-process
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Design a returns and exchanges process

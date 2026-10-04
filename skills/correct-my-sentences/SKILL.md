@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: language-learning
   source: https://hermes-ide.com/prompts/correct-my-sentences
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Correct my sentences

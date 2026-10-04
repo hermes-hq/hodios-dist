@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: social-media
   source: https://hermes-ide.com/prompts/handle-social-media-backlash
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Handle a social media backlash

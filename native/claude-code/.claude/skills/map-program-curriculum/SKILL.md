@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: course-design
   source: https://hermes-ide.com/prompts/map-program-curriculum
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Map programme outcomes across courses

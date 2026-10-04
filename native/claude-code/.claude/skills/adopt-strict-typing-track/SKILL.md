@@ -14,7 +14,7 @@ metadata:
   kind: workflow
   category: migration
   source: https://hermes-ide.com/prompts/adopt-strict-typing-track
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Adopt strict type checking module by module

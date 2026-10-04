@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: tutoring
   source: https://hermes-ide.com/prompts/guide-math-proof
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Guide me through a proof

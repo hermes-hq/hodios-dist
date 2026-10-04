@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: travel-logistics
   source: https://hermes-ide.com/prompts/plan-camping-trip
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plan a camping trip

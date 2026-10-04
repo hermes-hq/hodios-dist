@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: incident
   source: https://hermes-ide.com/prompts/write-incident-update
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write an incident status update

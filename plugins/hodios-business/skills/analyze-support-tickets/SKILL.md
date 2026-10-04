@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: customer-support
   source: https://hermes-ide.com/prompts/analyze-support-tickets
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Analyse support tickets

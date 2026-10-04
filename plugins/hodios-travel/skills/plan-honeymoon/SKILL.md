@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: trip-planning
   source: https://hermes-ide.com/prompts/plan-honeymoon
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plan a honeymoon

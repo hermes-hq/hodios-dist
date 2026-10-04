@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: sales
   source: https://hermes-ide.com/prompts/prepare-renewal-conversation
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Prepare a renewal or upsell conversation

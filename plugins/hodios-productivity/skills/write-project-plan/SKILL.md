@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: task-management
   source: https://hermes-ide.com/prompts/write-project-plan
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write a project plan

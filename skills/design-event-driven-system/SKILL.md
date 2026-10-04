@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: architecture
   source: https://hermes-ide.com/prompts/design-event-driven-system
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Design an event-driven system

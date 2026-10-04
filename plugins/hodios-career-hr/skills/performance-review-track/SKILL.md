@@ -12,7 +12,7 @@ metadata:
   kind: workflow
   category: people-management
   source: https://hermes-ide.com/prompts/performance-review-track
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Performance review track

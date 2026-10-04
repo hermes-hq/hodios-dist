@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: editing
   source: https://hermes-ide.com/prompts/plain-language-rules
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plain language rules

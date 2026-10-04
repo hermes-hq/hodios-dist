@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: fitness
   source: https://hermes-ide.com/prompts/fitness-coach
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Fitness coach

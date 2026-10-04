@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: roadmapping
   source: https://hermes-ide.com/prompts/decline-feature-request
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Decline a feature request

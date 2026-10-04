@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: performance
   source: https://hermes-ide.com/prompts/performance-engineer
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Performance engineer

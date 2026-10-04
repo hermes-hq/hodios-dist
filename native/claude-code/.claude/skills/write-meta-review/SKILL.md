@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: peer-review
   source: https://hermes-ide.com/prompts/write-meta-review
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write an editor or area-chair meta-review

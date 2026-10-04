@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: ai-ml
   source: https://hermes-ide.com/prompts/plan-fine-tuning
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plan a fine-tuning project

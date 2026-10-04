@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: screenwriting
   source: https://hermes-ide.com/prompts/write-comedy-sketch
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write a comedy sketch

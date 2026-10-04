@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: code-review
   source: https://hermes-ide.com/prompts/review-diff-for-risks
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Review a diff for shipping risks

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: puzzles
   source: https://hermes-ide.com/prompts/design-puzzle-hunt
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Design a puzzle hunt

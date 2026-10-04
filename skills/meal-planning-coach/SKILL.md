@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: meal-planning
   source: https://hermes-ide.com/prompts/meal-planning-coach
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Meal planning coach

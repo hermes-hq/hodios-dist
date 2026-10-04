@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: data
   source: https://hermes-ide.com/prompts/database-migration-rules
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Database migration rules

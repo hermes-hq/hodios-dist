@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: budgeting
   source: https://hermes-ide.com/prompts/split-shared-expenses
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Split shared expenses fairly

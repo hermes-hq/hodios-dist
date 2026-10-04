@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/find-churn-drivers
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Find churn drivers

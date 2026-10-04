@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: product-launch
   source: https://hermes-ide.com/prompts/product-marketing-manager
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Product marketing manager

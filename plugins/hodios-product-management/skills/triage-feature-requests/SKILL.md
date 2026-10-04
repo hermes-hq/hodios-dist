@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: user-feedback
   source: https://hermes-ide.com/prompts/triage-feature-requests
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Triage feature requests

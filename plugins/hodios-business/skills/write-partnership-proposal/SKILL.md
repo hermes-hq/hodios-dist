@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: entrepreneurship
   source: https://hermes-ide.com/prompts/write-partnership-proposal
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write a partnership proposal

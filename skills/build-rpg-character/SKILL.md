@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: tabletop-rpg
   source: https://hermes-ide.com/prompts/build-rpg-character
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Build a tabletop RPG character

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: ai-ml
   source: https://hermes-ide.com/prompts/reduce-llm-costs
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Reduce LLM costs and latency

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: relationships
   source: https://hermes-ide.com/prompts/plan-anniversary
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plan an anniversary

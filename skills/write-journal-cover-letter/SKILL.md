@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: scientific-writing
   source: https://hermes-ide.com/prompts/write-journal-cover-letter
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write a journal submission cover letter

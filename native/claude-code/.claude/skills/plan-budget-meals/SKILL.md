@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: meal-planning
   source: https://hermes-ide.com/prompts/plan-budget-meals
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plan a week of meals on a tight budget

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: learning
   source: https://hermes-ide.com/prompts/create-coding-exercises
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Create graded coding exercises

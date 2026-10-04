@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: implementation
   source: https://hermes-ide.com/prompts/kotlin-android-engineer
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Kotlin Android engineer

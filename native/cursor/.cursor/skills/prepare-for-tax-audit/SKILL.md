@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: taxes
   source: https://hermes-ide.com/prompts/prepare-for-tax-audit
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Prepare for a tax inquiry or audit

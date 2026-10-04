@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data
   source: https://hermes-ide.com/prompts/generate-realistic-seed-data
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Generate realistic seed data

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: parenting
   source: https://hermes-ide.com/prompts/plan-co-parenting
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plan co-parenting logistics

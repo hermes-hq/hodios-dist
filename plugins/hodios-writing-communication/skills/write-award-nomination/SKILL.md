@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: business-writing
   source: https://hermes-ide.com/prompts/write-award-nomination
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write an award nomination

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: business-writing
   source: https://hermes-ide.com/prompts/write-faq-from-documents
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Write an FAQ from source documents

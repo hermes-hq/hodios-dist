@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: product-launch
   source: https://hermes-ide.com/prompts/plan-product-launch
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Plan a product launch

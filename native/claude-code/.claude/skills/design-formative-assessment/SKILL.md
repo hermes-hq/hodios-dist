@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/design-formative-assessment
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Design formative checks for a lesson

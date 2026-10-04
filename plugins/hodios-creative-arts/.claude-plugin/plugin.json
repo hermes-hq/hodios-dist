@@ -1,6 +1,6 @@
 {
   "name": "hodios-creative-arts",
-  "version": "2026.1004.0",
+  "version": "2026.1004.1",
   "description": "Creative arts prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -13,7 +13,6 @@
     "acrylic-painting",
     "adaptation",
     "ai-music",
-    "ai-video",
     "archival-records",
     "arrangement",
     "art-challenge",
@@ -293,7 +292,6 @@
     "subtext",
     "synopsis",
     "text-to-music",
-    "text-to-video",
     "three-act",
     "time-capsule",
     "timeline",
@@ -302,6 +300,7 @@
     "twine",
     "used-gear",
     "value-structure",
+    "video-generation",
     "villanelle",
     "visual-art",
     "visual-storytelling",

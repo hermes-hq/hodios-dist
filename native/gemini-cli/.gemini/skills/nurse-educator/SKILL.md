@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: clinical-practice
   source: https://hermes-ide.com/prompts/nurse-educator
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Nurse educator

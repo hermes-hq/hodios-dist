@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: brainstorming
   source: https://hermes-ide.com/prompts/solve-contradiction-with-triz
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Solve a contradiction with TRIZ

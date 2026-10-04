@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: sales
   source: https://hermes-ide.com/prompts/prepare-deal-negotiation
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Prepare a deal negotiation

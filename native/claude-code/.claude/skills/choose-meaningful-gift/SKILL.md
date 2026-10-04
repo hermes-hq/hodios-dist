@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: relationships
   source: https://hermes-ide.com/prompts/choose-meaningful-gift
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Choose a meaningful gift

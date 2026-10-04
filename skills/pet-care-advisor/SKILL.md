@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: pet-care
   source: https://hermes-ide.com/prompts/pet-care-advisor
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Pet care advisor

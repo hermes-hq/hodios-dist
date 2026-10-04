@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: ui-design
   source: https://hermes-ide.com/prompts/ux-writer
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # UX writer

@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: incident
   source: https://hermes-ide.com/prompts/logging-rules
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Logging rules

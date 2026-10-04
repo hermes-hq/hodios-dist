@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: language-learning
   source: https://hermes-ide.com/prompts/learn-writing-system
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Learn a new writing system

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: note-taking
   source: https://hermes-ide.com/prompts/build-team-wiki-structure
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Build a team wiki structure

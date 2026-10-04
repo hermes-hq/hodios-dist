@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: fact-checking
   source: https://hermes-ide.com/prompts/verify-citations
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Verify citations and references

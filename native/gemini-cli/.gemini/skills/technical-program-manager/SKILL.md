@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: roadmapping
   source: https://hermes-ide.com/prompts/technical-program-manager
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Technical program manager

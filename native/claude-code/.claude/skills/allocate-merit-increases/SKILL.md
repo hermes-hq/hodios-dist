@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: people-management
   source: https://hermes-ide.com/prompts/allocate-merit-increases
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Allocate merit increases

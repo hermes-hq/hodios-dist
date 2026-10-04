@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: summarization
   source: https://hermes-ide.com/prompts/summarize-video-transcript
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Summarise a video or podcast transcript

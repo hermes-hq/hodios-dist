@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: ui-design
   source: https://hermes-ide.com/prompts/design-notification-strategy
-  catalog: 2026.1004.0
+  catalog: 2026.1004.1
 ---
 
 # Design a notification strategy
