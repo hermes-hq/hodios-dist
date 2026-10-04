@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a data report file end to end
+  short_description: Builds a data report file end to end, confirming the question, scripting analysis and charts, drafting traceable findings and exporting a document or deck after review. Use to answer a data question.
+policy:
+  allow_implicit_invocation: false

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: podcasting
   source: https://hermes-ide.com/prompts/plan-podcast-season
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Plan a podcast season

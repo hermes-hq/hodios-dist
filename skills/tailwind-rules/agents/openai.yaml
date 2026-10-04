@@ -1,0 +1,5 @@
+interface:
+  display_name: Tailwind CSS rules
+  short_description: Standing rules for Tailwind CSS covering design tokens in the theme, class ordering, extracting components instead of repeated class strings, responsive and dark variants and visible focus states.
+policy:
+  allow_implicit_invocation: false

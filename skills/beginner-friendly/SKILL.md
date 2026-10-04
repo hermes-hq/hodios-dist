@@ -7,7 +7,7 @@ metadata:
   kind: style
   category: output-styles
   source: https://hermes-ide.com/prompts/beginner-friendly
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Beginner friendly

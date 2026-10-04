@@ -1,0 +1,5 @@
+interface:
+  display_name: Upgrade a project's language runtime
+  short_description: Upgrades a language runtime across code, lockfiles, Docker images, CI and docs, fixing deprecations and running the full suite at each gate. Use before a runtime version reaches end of life.
+policy:
+  allow_implicit_invocation: false

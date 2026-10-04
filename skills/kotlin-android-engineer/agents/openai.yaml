@@ -1,0 +1,5 @@
+interface:
+  display_name: Kotlin Android engineer
+  short_description: Acts as a senior Android engineer in Kotlin who uses coroutines and flows correctly, builds declarative UI, respects the lifecycle and battery, and tests view models and UI.
+policy:
+  allow_implicit_invocation: false

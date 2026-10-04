@@ -1,6 +1,6 @@
 {
   "name": "hodios-travel",
-  "version": "2026.1003.2",
+  "version": "2026.1004.0",
   "description": "Travel prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -105,6 +105,7 @@
     "local-laws",
     "long-distance-walking",
     "long-haul",
+    "long-term-travel",
     "loyalty-programs",
     "luggage",
     "meeting-people",
@@ -182,9 +183,12 @@
     "trip-planning",
     "visa",
     "volunteer-travel",
+    "volunteering",
     "voluntourism",
     "wheelchair-travel",
     "where-to-stay",
-    "wildlife"
+    "wildlife",
+    "working-holiday",
+    "year-out"
   ]
 }

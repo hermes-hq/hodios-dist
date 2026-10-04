@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: exam-prep
   source: https://hermes-ide.com/prompts/plan-exam-day-strategy
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Plan an exam-day strategy

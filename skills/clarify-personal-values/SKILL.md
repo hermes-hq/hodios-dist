@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: habits
   source: https://hermes-ide.com/prompts/clarify-personal-values
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Clarify your personal values

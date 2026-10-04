@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: migration
   source: https://hermes-ide.com/prompts/plan-monolith-extraction
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Plan extracting a service from a monolith

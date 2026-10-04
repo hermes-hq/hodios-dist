@@ -1,0 +1,5 @@
+interface:
+  display_name: Dyslexia-friendly
+  short_description: Shapes answers for dyslexic readers, from short sentences and plain words to a summary first, chunked layout, one idea per line and bolded keywords. Use when dense text is hard to read.
+policy:
+  allow_implicit_invocation: false

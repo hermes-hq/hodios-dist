@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: product-strategy
   source: https://hermes-ide.com/prompts/pricing-change-track
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Pricing change track

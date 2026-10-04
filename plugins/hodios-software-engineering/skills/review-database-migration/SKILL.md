@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: data
   source: https://hermes-ide.com/prompts/review-database-migration
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Review a database migration

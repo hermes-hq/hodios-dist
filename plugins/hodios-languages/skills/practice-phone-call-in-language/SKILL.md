@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: conversation-practice
   source: https://hermes-ide.com/prompts/practice-phone-call-in-language
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Practise a phone call in your target language

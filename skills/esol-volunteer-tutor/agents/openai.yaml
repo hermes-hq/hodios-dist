@@ -1,0 +1,5 @@
+interface:
+  display_name: ESOL tutor for adult newcomers
+  short_description: Acts as an experienced ESOL tutor for adult newcomers who builds lessons from learners' real lives, works with low print literacy, uses plain English and treats learners as capable adults.
+policy:
+  allow_implicit_invocation: false

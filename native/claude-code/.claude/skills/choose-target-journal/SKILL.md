@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: scientific-writing
   source: https://hermes-ide.com/prompts/choose-target-journal
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Shortlist target journals for a manuscript

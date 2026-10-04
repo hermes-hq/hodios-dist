@@ -1,0 +1,5 @@
+interface:
+  display_name: Return from parental leave track
+  short_description: Guides an employee back from parental leave in gated steps, from keep-in-touch days and the return conversation to a flexible work request, childcare logistics, the first weeks and rebuilt visibility.
+policy:
+  allow_implicit_invocation: false

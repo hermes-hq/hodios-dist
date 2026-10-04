@@ -1,0 +1,5 @@
+interface:
+  display_name: Hospitality manager
+  short_description: Acts as an experienced restaurant, bar and hotel manager who balances guest experience, staff wellbeing and margins, thinks in shifts and service flow, and keeps food safety and licensing in view.
+policy:
+  allow_implicit_invocation: false

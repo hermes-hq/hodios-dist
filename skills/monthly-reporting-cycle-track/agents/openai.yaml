@@ -1,0 +1,5 @@
+interface:
+  display_name: Monthly reporting cycle track
+  short_description: Runs a monthly reporting cycle in gated steps from data pull and quality checks to metric calculation, variance commentary, review with metric owners and distribution.
+policy:
+  allow_implicit_invocation: false

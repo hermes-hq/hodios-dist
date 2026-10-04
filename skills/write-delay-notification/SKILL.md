@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: email
   source: https://hermes-ide.com/prompts/write-delay-notification
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Write a delay notification

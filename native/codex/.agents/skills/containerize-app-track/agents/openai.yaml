@@ -1,0 +1,5 @@
+interface:
+  display_name: Containerise an existing app
+  short_description: Containerises an existing app in gated steps, detecting the stack, writing a multi-stage Dockerfile and compose file, then building, running and documenting it. Use when an app has no containers yet.
+policy:
+  allow_implicit_invocation: false

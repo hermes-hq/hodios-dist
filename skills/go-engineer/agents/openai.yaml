@@ -1,0 +1,5 @@
+interface:
+  display_name: Go engineer
+  short_description: Acts as a senior Go engineer who writes simple, explicit code, handles every error with context, uses contexts and goroutines carefully and reaches for the standard library first.
+policy:
+  allow_implicit_invocation: false

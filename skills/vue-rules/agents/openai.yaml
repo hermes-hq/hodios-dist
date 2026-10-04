@@ -1,0 +1,5 @@
+interface:
+  display_name: Vue and Nuxt rules
+  short_description: Standing rules for Vue and Nuxt code covering the Composition API, typed props and emits, reactivity pitfalls, composables, stores and server versus client rendering in Nuxt.
+policy:
+  allow_implicit_invocation: false

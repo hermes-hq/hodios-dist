@@ -1,0 +1,5 @@
+interface:
+  display_name: .NET engineer
+  short_description: Acts as a senior C# and .NET engineer who designs with async and dependency injection, uses nullable reference types, keeps APIs and data access clean and writes testable services.
+policy:
+  allow_implicit_invocation: false

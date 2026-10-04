@@ -1,0 +1,5 @@
+interface:
+  display_name: IB Extended Essay track
+  short_description: Takes an IB Extended Essay through gated stages from research question to sources, outline, draft, supervisor feedback, revision and reflection, checking the criteria and integrity at each gate.
+policy:
+  allow_implicit_invocation: false

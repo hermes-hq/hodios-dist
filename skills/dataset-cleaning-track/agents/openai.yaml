@@ -1,0 +1,5 @@
+interface:
+  display_name: Clean a dataset with a scripted, auditable pipeline
+  short_description: Cleans a dataset with a repeatable script in gated steps, profiling, proposing rules, applying and validating them, and exporting with an auditable cleaning log. Use for data that will be reused.
+policy:
+  allow_implicit_invocation: false

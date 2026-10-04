@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: entrepreneurship
   source: https://hermes-ide.com/prompts/evaluate-buying-a-business
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Evaluate buying a small business

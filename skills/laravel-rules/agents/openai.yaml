@@ -1,0 +1,5 @@
+interface:
+  display_name: Laravel rules
+  short_description: Standing rules for Laravel code covering thin controllers, form requests, policies, Eloquent relations and eager loading, queues, config caching and feature tests.
+policy:
+  allow_implicit_invocation: false

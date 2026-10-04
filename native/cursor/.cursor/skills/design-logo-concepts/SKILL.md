@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: branding
   source: https://hermes-ide.com/prompts/design-logo-concepts
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Generate logo concept directions

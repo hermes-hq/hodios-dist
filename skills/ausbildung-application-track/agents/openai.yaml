@@ -1,0 +1,5 @@
+interface:
+  display_name: Bewerbung für eine Ausbildung, Schritt für Schritt
+  short_description: "Begleitet Schulabgänger in fünf Schritten mit Freigabe durch eine Ausbildungsbewerbung: Berufscheck, Anschreiben, tabellarischer Lebenslauf, Einstellungstest und Vorstellungsgespräch."
+policy:
+  allow_implicit_invocation: false

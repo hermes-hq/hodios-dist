@@ -1,0 +1,5 @@
+interface:
+  display_name: Screen-reader-friendly
+  short_description: Shapes answers to read well with a screen reader, from descriptive link text to no tables or ASCII art, spelled-out symbols, described images and a fully linear structure.
+policy:
+  allow_implicit_invocation: false

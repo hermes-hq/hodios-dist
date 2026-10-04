@@ -1,0 +1,5 @@
+interface:
+  display_name: Pronunciation coach for intelligibility
+  short_description: Acts as a pronunciation coach who listens for the sounds and rhythms that block intelligibility, prioritises the few that matter most and drills them with short, encouraging practice.
+policy:
+  allow_implicit_invocation: false

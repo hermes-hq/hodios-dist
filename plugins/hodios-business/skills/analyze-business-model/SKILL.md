@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: business-strategy
   source: https://hermes-ide.com/prompts/analyze-business-model
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Analyse a business model

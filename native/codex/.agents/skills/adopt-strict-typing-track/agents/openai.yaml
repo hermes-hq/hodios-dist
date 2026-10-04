@@ -1,0 +1,5 @@
+interface:
+  display_name: Adopt strict type checking module by module
+  short_description: Moves a Python or TypeScript codebase to strict type checking one module at a time, fixing real bugs found and ratcheting config so coverage never slides back. Use to adopt strict mode safely.
+policy:
+  allow_implicit_invocation: false

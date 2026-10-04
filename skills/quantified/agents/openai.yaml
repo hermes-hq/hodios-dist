@@ -1,0 +1,5 @@
+interface:
+  display_name: Quantified
+  short_description: Makes answers lean on numbers, from concrete figures where they are known to ranges with units, base rates, stated assumptions and visible arithmetic for every claim. Never invents precision.
+policy:
+  allow_implicit_invocation: false

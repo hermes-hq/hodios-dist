@@ -1,0 +1,5 @@
+interface:
+  display_name: Life reset weekend track
+  short_description: Guides a weekend reset in gated steps - brain dump, a tidy of key spaces, inbox and phone clean-up, a money check, next month's plan and one restorative activity - without perfectionism.
+policy:
+  allow_implicit_invocation: false

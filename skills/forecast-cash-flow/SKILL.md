@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: accounting
   source: https://hermes-ide.com/prompts/forecast-cash-flow
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Forecast 13-week cash flow

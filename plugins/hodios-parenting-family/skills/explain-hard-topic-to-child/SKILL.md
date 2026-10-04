@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: parenting
   source: https://hermes-ide.com/prompts/explain-hard-topic-to-child
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Explain a hard topic to a child

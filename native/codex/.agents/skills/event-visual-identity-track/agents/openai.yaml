@@ -1,0 +1,5 @@
+interface:
+  display_name: Build an event visual identity
+  short_description: Builds a visual identity for a conference, festival or campaign in gated steps - concept, key visual, templates, signage and wayfinding, social assets and an on-site checklist.
+policy:
+  allow_implicit_invocation: false

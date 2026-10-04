@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: ux-research
   source: https://hermes-ide.com/prompts/plan-card-sort
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Plan a card sort

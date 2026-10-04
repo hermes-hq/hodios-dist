@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: planning
   source: https://hermes-ide.com/prompts/triage-issue-backlog
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Triage an issue backlog

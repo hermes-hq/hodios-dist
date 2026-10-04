@@ -1,0 +1,5 @@
+interface:
+  display_name: Swift iOS engineer
+  short_description: Acts as a senior iOS engineer in Swift who favours value types and structured concurrency, builds accessible SwiftUI, follows platform conventions and profiles before optimising.
+policy:
+  allow_implicit_invocation: false

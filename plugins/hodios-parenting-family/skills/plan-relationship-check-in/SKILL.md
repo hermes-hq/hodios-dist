@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: relationships
   source: https://hermes-ide.com/prompts/plan-relationship-check-in
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Plan a relationship check-in

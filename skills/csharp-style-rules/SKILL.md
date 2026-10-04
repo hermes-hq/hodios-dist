@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: conventions
   source: https://hermes-ide.com/prompts/csharp-style-rules
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # C# style rules

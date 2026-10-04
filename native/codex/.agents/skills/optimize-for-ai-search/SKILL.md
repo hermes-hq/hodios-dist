@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: seo
   source: https://hermes-ide.com/prompts/optimize-for-ai-search
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Optimise for AI search

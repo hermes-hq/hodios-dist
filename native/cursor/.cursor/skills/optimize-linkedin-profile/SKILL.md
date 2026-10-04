@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: resumes
   source: https://hermes-ide.com/prompts/optimize-linkedin-profile
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Optimize a LinkedIn profile

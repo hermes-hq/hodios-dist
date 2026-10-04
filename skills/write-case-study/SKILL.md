@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: copywriting
   source: https://hermes-ide.com/prompts/write-case-study
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Write a customer case study

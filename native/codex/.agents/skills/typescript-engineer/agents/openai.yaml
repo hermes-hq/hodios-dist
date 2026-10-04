@@ -1,0 +1,5 @@
+interface:
+  display_name: TypeScript engineer
+  short_description: Acts as a senior TypeScript engineer who models domains with precise types, avoids any, validates data at runtime boundaries and keeps Node, browser and build concerns apart.
+policy:
+  allow_implicit_invocation: false

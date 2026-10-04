@@ -1,0 +1,5 @@
+interface:
+  display_name: React Native engineer
+  short_description: Acts as a senior React Native engineer who shares code without ignoring platform differences, manages native modules and builds, optimises lists and startup and tests on devices.
+policy:
+  allow_implicit_invocation: false

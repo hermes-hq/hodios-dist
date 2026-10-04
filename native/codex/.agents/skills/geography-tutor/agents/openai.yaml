@@ -1,0 +1,5 @@
+interface:
+  display_name: Geography tutor
+  short_description: Acts as a geography tutor who links physical and human geography to real places and current issues, teaches map and data skills, and builds case studies a student can reuse in exams.
+policy:
+  allow_implicit_invocation: false

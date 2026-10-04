@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: gardening
   source: https://hermes-ide.com/prompts/plan-pollinator-garden
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Plan a pollinator garden

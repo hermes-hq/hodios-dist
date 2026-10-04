@@ -1,0 +1,5 @@
+interface:
+  display_name: Open-source growth strategist
+  short_description: Acts as a growth strategist for open-source projects who works the whole funnel from pitch to contributors, uses public evidence instead of telemetry and refuses manipulative tactics.
+policy:
+  allow_implicit_invocation: false

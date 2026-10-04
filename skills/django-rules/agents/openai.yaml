@@ -1,0 +1,5 @@
+interface:
+  display_name: Django rules
+  short_description: Standing rules for Django code covering app layout, where business logic lives, querysets without N+1, safe migrations, forms and validation, settings per environment and security defaults.
+policy:
+  allow_implicit_invocation: false

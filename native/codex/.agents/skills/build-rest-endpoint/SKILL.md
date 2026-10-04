@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: implementation
   source: https://hermes-ide.com/prompts/build-rest-endpoint
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Build a REST endpoint end to end

@@ -1,0 +1,5 @@
+interface:
+  display_name: Property sale track
+  short_description: Runs a residential property sale for an agent in gated steps - instruction and pricing, marketing launch, viewings, offers, then progression to completion - with a checklist at each gate.
+policy:
+  allow_implicit_invocation: false

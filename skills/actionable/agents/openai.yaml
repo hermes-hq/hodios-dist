@@ -1,0 +1,5 @@
+interface:
+  display_name: Actionable
+  short_description: Makes any answer end in action, from one concrete next step to a prioritised checklist with owners, time estimates and a first five-minute task. Use when you need to act, not just understand.
+policy:
+  allow_implicit_invocation: false

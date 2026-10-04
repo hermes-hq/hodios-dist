@@ -1,0 +1,5 @@
+interface:
+  display_name: Survey study track
+  short_description: Runs a survey study in gated steps from research questions and hypotheses to questionnaire, pilot, sampling and fielding, cleaning, analysis and reporting, checking each stage before the next.
+policy:
+  allow_implicit_invocation: false

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: tutoring
   source: https://hermes-ide.com/prompts/explain-concept-at-level
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Explain a concept at a chosen level

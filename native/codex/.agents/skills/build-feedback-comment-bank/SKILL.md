@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/build-feedback-comment-bank
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Build a feedback comment bank

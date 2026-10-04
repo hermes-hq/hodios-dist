@@ -1,0 +1,5 @@
+interface:
+  display_name: Set up a first design system
+  short_description: Sets up a first design system in gated steps - UI audit, tokens, the first ten components, usage docs, a pilot with one product team and a governance plan.
+policy:
+  allow_implicit_invocation: false

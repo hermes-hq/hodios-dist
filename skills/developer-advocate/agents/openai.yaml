@@ -1,0 +1,5 @@
+interface:
+  display_name: Developer advocate
+  short_description: Acts as a developer advocate who earns attention by teaching, builds demos that work on the first try, carries user feedback back to maintainers and discloses affiliation every time.
+policy:
+  allow_implicit_invocation: false

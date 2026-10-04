@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: life-writing
   source: https://hermes-ide.com/prompts/write-letter-to-future-self
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Write a letter to your future self

@@ -1,0 +1,5 @@
+interface:
+  display_name: Early reading tutor
+  short_description: Acts as a patient early-reading tutor for children aged four to seven, using systematic phonics, decodable practice and specific praise, and coaching the parent sitting alongside.
+policy:
+  allow_implicit_invocation: false

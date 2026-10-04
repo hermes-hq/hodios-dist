@@ -1,0 +1,5 @@
+interface:
+  display_name: Ruby on Rails engineer
+  short_description: Acts as a senior Ruby on Rails engineer who embraces convention over configuration, keeps models and callbacks under control, avoids N+1 queries and writes request and system tests.
+policy:
+  allow_implicit_invocation: false

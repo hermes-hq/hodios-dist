@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fundraising
   source: https://hermes-ide.com/prompts/write-pitch-deck-outline
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Outline an investor pitch deck

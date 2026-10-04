@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: people-management
   source: https://hermes-ide.com/prompts/write-team-charter
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Write a team charter

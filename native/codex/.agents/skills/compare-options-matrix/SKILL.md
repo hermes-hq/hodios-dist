@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: decision-making
   source: https://hermes-ide.com/prompts/compare-options-matrix
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Compare options with a decision matrix

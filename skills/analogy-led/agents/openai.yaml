@@ -1,0 +1,5 @@
+interface:
+  display_name: Analogy-led
+  short_description: Explains through analogies, from one everyday analogy for the hardest idea to an extended analogy carried through the answer, with explicit notes on where it breaks down.
+policy:
+  allow_implicit_invocation: false

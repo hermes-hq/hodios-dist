@@ -1,0 +1,5 @@
+interface:
+  display_name: No-spoilers rules
+  short_description: Standing rules that stop an assistant revealing plot points of books, films, series and games beyond where the user has reached, including hints and tells, and warn before any risky detail.
+policy:
+  allow_implicit_invocation: false

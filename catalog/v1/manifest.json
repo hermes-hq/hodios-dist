@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "catalog": "2026.1003.2",
-  "seq": 5,
+  "catalog": "2026.1004.0",
+  "seq": 6,
   "minClientVersion": "0.1.0",
   "objects": "o/{aa}/{sha256}",
   "tiers": {
     "curated": {
-      "list": "sha256:e1c3bbb695fb61f581541ef0a460406e7356a00d861a0719c5b945803a81c5a7",
-      "rows": 1900
+      "list": "sha256:dcdff4ee96ae3cd85cc0973bff64879c777b97bae96365ff23d5e03ffd3d0521",
+      "rows": 1996
     },
     "verified": {
-      "list": "sha256:363c63ab2a6d762b732d23c4f87de1d74859aadd4a77d4a5fc16a4fffa647454",
-      "rows": 670
+      "list": "sha256:a1e9f19d6cc6c7b7cecd87d3e1b946ce41279c7ccb7b310152d536bdb1b31837",
+      "rows": 1431
     }
   },
   "deltas": [],

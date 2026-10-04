@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: visual-art
   source: https://hermes-ide.com/prompts/critique-artwork
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Critique an artwork

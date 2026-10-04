@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fundraising
   source: https://hermes-ide.com/prompts/prepare-business-loan-application
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Prepare a small-business loan application

@@ -1,0 +1,5 @@
+interface:
+  display_name: Migrate a test suite to another framework
+  short_description: Moves a test suite between frameworks, such as Jest to Vitest or unittest to pytest, in batches with codemods, manual fixes, pass-count parity checks and CI updates. Use for any test framework switch.
+policy:
+  allow_implicit_invocation: false

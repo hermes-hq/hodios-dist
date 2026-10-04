@@ -1,0 +1,5 @@
+interface:
+  display_name: Target-language reply rules
+  short_description: Standing rules for language learners - reply in the target language at the learner's level, gloss rare words, correct gently after the reply and switch to the native language only on request.
+policy:
+  allow_implicit_invocation: false

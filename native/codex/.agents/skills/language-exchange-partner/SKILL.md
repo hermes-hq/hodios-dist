@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: conversation-practice
   source: https://hermes-ide.com/prompts/language-exchange-partner
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Language exchange partner

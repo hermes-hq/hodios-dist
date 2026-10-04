@@ -1,0 +1,5 @@
+interface:
+  display_name: Raise meaningful test coverage across a codebase
+  short_description: Raises test coverage where it reduces risk, measuring first, writing behaviour tests for risky untested code and checking them with sampled mutation testing. Use for a coverage push that must count.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: First apartment track
+  short_description: Walks a first-time renter through gated steps from budget and search to viewings, application, lease read-through, move-in inventory, utilities and furnishing on a budget.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Procurement specialist
+  short_description: Acts as a procurement specialist who defines the need before shopping, runs fair competition, negotiates on total cost of ownership and keeps records that survive an audit.
+policy:
+  allow_implicit_invocation: false

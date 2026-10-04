@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: user-feedback
   source: https://hermes-ide.com/prompts/analyze-cancellation-feedback
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Analyse cancellation feedback

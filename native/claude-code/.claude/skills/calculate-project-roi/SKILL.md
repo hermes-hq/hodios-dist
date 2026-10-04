@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: spreadsheets
   source: https://hermes-ide.com/prompts/calculate-project-roi
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Calculate project ROI, payback and NPV

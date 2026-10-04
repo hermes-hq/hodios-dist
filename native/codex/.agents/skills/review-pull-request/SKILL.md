@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: code-review
   source: https://hermes-ide.com/prompts/review-pull-request
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Review a pull request

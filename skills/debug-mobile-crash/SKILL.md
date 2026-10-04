@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: debugging
   source: https://hermes-ide.com/prompts/debug-mobile-crash
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Debug a mobile app crash

@@ -1,0 +1,105 @@
+Takes a first-time importer from "I found a supplier" to "the goods are checked and on my shelf": prove the supplier is real, prove the product with samples, agree terms with no gaps, book freight, clear customs, and inspect before accepting.
+
+Product: [PRODUCT]
+From [ORIGIN] to [DESTINATION]
+Budget for the first order: [BUDGET]
+
+Each step produces its artifacts and a gate checklist, then stops for the owner's approval; later steps build on approved versions. The owner may return weeks later with new information: continue from the step they name. Never invent supplier details, prices, duty rates, freight costs or inspection results; ask for them or label estimates. Tariff codes, duty rates, product safety rules, licences and labelling are always `[CHECK]` items for customs, a licensed broker or the relevant authority. Keep the order within [BUDGET] and say early if it cannot be. If the owner asks to skip approvals, confirm once, then run the remaining planning steps in one reply, stating the choice made at each skipped gate.
+
+## Steps
+
+Work through these steps in order. Do not skip a gate.
+
+1. supplier-vetting (discover)
+2. samples (verify)
+3. incoterms-and-quote (plan)
+4. freight-booking (operate)
+5. customs (operate)
+6. receiving-and-quality (verify)
+
+### Step 1: Supplier vetting
+
+Make sure the supplier is real and capable before any money moves.
+
+1. Ask what the owner knows: supplier name, profile or website, how they were found, quotes so far. With no supplier yet, give a short sourcing plan (where to look, how many to contact, what to ask) and stop.
+2. Give a vetting checklist: business registration, manufacturer or trading company, years trading, export experience to [DESTINATION], audit or certification documents, buyer references, and a video call showing production.
+3. List red flags: prices far below others, pressure to pay fast, bank details that do not match the company or change by email, no samples or documents, no fixed address.
+4. List the safety standards, certification, labelling and testing the product may need in [DESTINATION] as `[CHECK]` items, and ask whether the supplier has test reports.
+5. Write the first enquiry message covering the above, minimum order, lead time and sample terms.
+6. Gate checklist: identity verified, red flags reviewed, compliance listed, enquiry sent.
+
+Stop and wait for approval.
+
+**Gate:** stop here and wait for the user's approval before step 2 (samples).
+
+### Step 2: Samples
+
+Agree exactly what "good" looks like before ordering in volume.
+
+1. Write a specification sheet for the supplier to confirm: materials, dimensions and tolerances, colours, finish, packaging, labelling, carton marks and tests.
+2. Ask for production-line samples, not showroom pieces, and set what the test covers: measurements, function, durability, materials, packaging and any compliance lab test.
+3. Give a sample evaluation sheet: Spec item | Required | Sample result | Pass or fail | Note.
+4. Ask the owner for the results when they have them; do not assume results. With results, list the changes the supplier must make and whether a second sample is needed.
+5. Plan the golden sample: one approved sample, signed or sealed and photographed, kept by both sides as the reference for inspection.
+6. Gate checklist: specification agreed in writing, samples tested, golden sample approved, compliance tests arranged or confirmed.
+
+Stop and wait for approval.
+
+**Gate:** stop here and wait for the user's approval before step 3 (incoterms-and-quote).
+
+### Step 3: Incoterms and quote
+
+Agree terms with no gaps about cost, risk or quality.
+
+1. Explain EXW, FCA, FOB, CIF, DAP and DDP in a table: who pays each leg and where risk passes. FOB and CIF are sea-only terms; for containers or air, use FCA. Recommend one for this order; note that under DDP the supplier acts as importer, which the owner should confirm is workable `[CHECK]`.
+2. Build the quote request: unit price at the incoterm and named place, quantity, lead time, payment terms, packaging, the specification and golden sample as reference, inspection rights before shipment, and remedies if goods fail.
+3. Compare quotes on landed cost per unit, not unit price: estimate freight, insurance, duty `[DUTY RATE to confirm]`, import taxes and fees, and check the total against [BUDGET].
+4. Recommend low-risk payment terms for a first order (deposit, balance after a passed inspection) and paying only to company bank details confirmed by phone.
+5. Draft the purchase order.
+6. Gate checklist: incoterm agreed, landed cost within budget, bank details verified, purchase order signed.
+
+Stop and wait for approval.
+
+**Gate:** stop here and wait for the user's approval before step 4 (freight-booking).
+
+### Step 4: Freight booking and shipping documents
+
+Get the goods moving with the right paperwork.
+
+1. If the owner pays main freight, compare courier, air, sea groupage and full container for this order's size, and list what to send two or three forwarders for quotes.
+2. Arrange a pre-shipment inspection against the specification and golden sample before the balance is paid, with a checklist and an AQL sampling level agreed with the supplier.
+3. List the shipping documents and who provides each: commercial invoice, packing list, transport document, proof of origin if a duty preference may apply, certificates. Values and descriptions must match across them.
+4. Arrange cargo insurance if not included.
+5. Set key dates to track (ready, departure, arrival, customs, delivery) and who chases.
+6. Gate checklist: inspection passed, balance paid only after a pass, freight booked, documents consistent, insurance in place.
+
+Stop and wait for approval.
+
+**Gate:** stop here and wait for the user's approval before step 5 (customs).
+
+### Step 5: Customs clearance
+
+Clear the goods into [DESTINATION] without surprises.
+
+1. List what the owner needs to import in [DESTINATION]: importer registration number or equivalent, a customs broker or forwarder authorised to act for them, and a tariff classification for the product. Mark each `[CHECK]` with where to confirm.
+2. Explain how duty and import taxes will be calculated and paid, using the confirmed tariff code and rate when available, and how import VAT or sales tax may be recovered by registered businesses `[CHECK]`.
+3. Prepare the broker briefing: product description, tariff code proposed, value and incoterm, origin and proof of origin, any licence or certificate, and the documents attached.
+4. List what can go wrong at the border (inconsistent documents, a classification query, an inspection or hold, storage charges) and the first response to each.
+5. Gate checklist: broker appointed, classification confirmed, duty and taxes paid, goods released, delivery booked.
+
+Stop and wait for approval.
+
+**Gate:** stop here and wait for the user's approval before step 6 (receiving-and-quality).
+
+### Step 6: Receiving and quality checks
+
+Accept only what was ordered, and learn from the first import.
+
+1. Give a receiving checklist: carton count against the packing list, external damage noted on the delivery note before signing, photos, and quarantine of the goods until checked.
+2. Give a quality inspection plan on arrival: sample size by lot, checks against the specification and golden sample, defect categories (critical, major, minor), and the acceptance limit agreed in the purchase order.
+3. Ask for the results; do not invent them. With results, draft the supplier message for any shortfall or defects with evidence and the remedy requested, and an insurance claim note for transit damage.
+4. Compare the actual landed cost with the estimate and update the costing.
+5. Note lessons for the next order.
+6. Final checklist: goods received and inspected, stock booked in, claims raised if needed, actual landed cost recorded, lessons noted.
+
+This is the last step.

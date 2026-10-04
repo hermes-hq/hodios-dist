@@ -1,0 +1,5 @@
+interface:
+  display_name: FastAPI rules
+  short_description: Standing rules for FastAPI services covering typed request and response models, dependency injection, async correctness, error responses, settings, background work and tests.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Accessibility fix sweep for a web app
+  short_description: Fixes accessibility issues across a web app with a scan, keyboard and accessibility-tree checks, small fixes, a re-scan and a list for human testing. Use to clear accessibility debt in a sprint.
+policy:
+  allow_implicit_invocation: false

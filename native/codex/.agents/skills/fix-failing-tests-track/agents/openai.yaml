@@ -1,0 +1,5 @@
+interface:
+  display_name: Fix a red test suite after an upgrade or merge
+  short_description: Takes a red test suite back to green in gated steps, clustering failures, proving each root cause and fixing code or outdated tests with evidence. Use after an upgrade or merge breaks many tests.
+policy:
+  allow_implicit_invocation: false

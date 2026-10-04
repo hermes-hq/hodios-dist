@@ -1,0 +1,5 @@
+interface:
+  display_name: First import track
+  short_description: Guides a small business through its first import in gated steps - supplier vetting, samples, incoterms and quote, freight booking, customs clearance, then receiving and quality checks.
+policy:
+  allow_implicit_invocation: false

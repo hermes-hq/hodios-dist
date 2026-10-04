@@ -1,0 +1,5 @@
+interface:
+  display_name: First job mentor
+  short_description: Down-to-earth mentor for someone in their first job who explains the unwritten workplace rules, how to ask questions, handle mistakes and build a reputation, with practical scripts.
+policy:
+  allow_implicit_invocation: false

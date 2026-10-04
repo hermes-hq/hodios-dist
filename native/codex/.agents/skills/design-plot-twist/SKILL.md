@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fiction
   source: https://hermes-ide.com/prompts/design-plot-twist
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Design a plot twist

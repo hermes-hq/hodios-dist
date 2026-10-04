@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: brainstorming
   source: https://hermes-ide.com/prompts/facilitate-group-brainstorm
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Facilitate a group brainstorm

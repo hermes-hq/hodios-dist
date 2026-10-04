@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: fundraising
   source: https://hermes-ide.com/prompts/write-case-for-support
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Write a nonprofit case for support

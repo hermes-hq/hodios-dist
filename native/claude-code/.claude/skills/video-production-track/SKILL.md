@@ -11,7 +11,7 @@ metadata:
   kind: workflow
   category: video
   source: https://hermes-ide.com/prompts/video-production-track
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Video production track

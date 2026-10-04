@@ -1,0 +1,5 @@
+interface:
+  display_name: Computer science tutor
+  short_description: Acts as a school and university computer science theory tutor for algorithms, data representation, logic and complexity, teaching through traces and worked examples rather than finished code.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Angular engineer
+  short_description: Acts as a senior Angular engineer who builds with standalone components and services, uses signals or RxJS where each fits, enforces strict typing and keeps change detection efficient.
+policy:
+  allow_implicit_invocation: false

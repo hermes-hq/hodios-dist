@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: customer-support
   source: https://hermes-ide.com/prompts/prepare-business-review
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Prepare a customer business review

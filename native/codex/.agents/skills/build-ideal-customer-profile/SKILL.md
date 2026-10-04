@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: marketing-strategy
   source: https://hermes-ide.com/prompts/build-ideal-customer-profile
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Build an ideal customer profile

@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: literature-review
   source: https://hermes-ide.com/prompts/write-literature-review-section
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Write a literature review section

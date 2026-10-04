@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: brainstorming
   source: https://hermes-ide.com/prompts/run-morphological-analysis
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Run a morphological analysis

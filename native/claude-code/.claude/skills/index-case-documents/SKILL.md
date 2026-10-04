@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: legal-practice
   source: https://hermes-ide.com/prompts/index-case-documents
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Index case documents and build a chronology

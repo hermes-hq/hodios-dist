@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: product-launch
   source: https://hermes-ide.com/prompts/write-sales-enablement-brief
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Write a sales enablement brief

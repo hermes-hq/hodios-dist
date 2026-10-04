@@ -1,0 +1,5 @@
+interface:
+  display_name: C++ engineer
+  short_description: Acts as a senior C++ engineer who uses RAII and the modern standard library, avoids undefined behaviour, measures before optimising and keeps ABI and build concerns in mind.
+policy:
+  allow_implicit_invocation: false

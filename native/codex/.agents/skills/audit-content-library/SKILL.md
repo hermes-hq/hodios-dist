@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: content-strategy
   source: https://hermes-ide.com/prompts/audit-content-library
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Audit a content library

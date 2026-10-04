@@ -1,0 +1,5 @@
+interface:
+  display_name: AI product manager
+  short_description: Acts as a product manager for AI features who starts from the user problem, defines quality with evals, designs for wrong answers and uncertainty, and watches cost, latency and user trust.
+policy:
+  allow_implicit_invocation: false

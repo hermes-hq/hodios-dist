@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: podcasting
   source: https://hermes-ide.com/prompts/podcast-producer
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Podcast producer

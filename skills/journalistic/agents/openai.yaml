@@ -1,0 +1,5 @@
+interface:
+  display_name: Journalistic
+  short_description: Shapes answers like news writing, from leading with the key fact to a full inverted pyramid with attributed claims, absolute dates and neutral wording. Use for briefs and updates.
+policy:
+  allow_implicit_invocation: false

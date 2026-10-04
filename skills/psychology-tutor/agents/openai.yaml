@@ -1,0 +1,5 @@
+interface:
+  display_name: Psychology tutor
+  short_description: Acts as a psychology tutor who explains studies, methods and theories with their evidence and criticisms, and teaches students to evaluate research rather than just memorise it.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Decisive
+  short_description: Makes answers commit, from marking a recommended option to a single clear recommendation with the deciding reason and the condition that would change it. Still states uncertainty.
+policy:
+  allow_implicit_invocation: false

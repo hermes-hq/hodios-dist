@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: email-marketing
   source: https://hermes-ide.com/prompts/write-promo-email
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Write a promotional email

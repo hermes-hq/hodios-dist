@@ -1,0 +1,5 @@
+interface:
+  display_name: Flutter rules
+  short_description: Standing rules for Flutter code covering widget composition, const constructors, a single state management approach, async and BuildContext safety, theming, accessibility and widget tests.
+policy:
+  allow_implicit_invocation: false

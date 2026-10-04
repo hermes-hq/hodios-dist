@@ -1,0 +1,5 @@
+interface:
+  display_name: British English rules
+  short_description: Standing rules to write in British English - UK spelling, vocabulary, date and number formats, punctuation conventions and units - while leaving names, quotes and code untouched.
+policy:
+  allow_implicit_invocation: false

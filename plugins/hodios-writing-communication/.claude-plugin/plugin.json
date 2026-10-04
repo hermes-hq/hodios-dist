@@ -1,6 +1,6 @@
 {
   "name": "hodios-writing-communication",
-  "version": "2026.1003.2",
+  "version": "2026.1004.0",
   "description": "Writing and communication prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -148,6 +148,7 @@
     "evidence-mapping",
     "executive-summary",
     "expectation-setting",
+    "facilitation",
     "facilities",
     "fact-preservation",
     "family",
@@ -386,6 +387,7 @@
     "table-topics",
     "talk-length",
     "team-chat",
+    "team-conflict",
     "team-page",
     "team-roles",
     "tech-check",
@@ -425,6 +427,7 @@
     "word-choice",
     "word-count",
     "word-list",
+    "workplace-mediation",
     "workplace-messaging",
     "writing-feedback",
     "writing-for-the-ear",

@@ -1,0 +1,5 @@
+interface:
+  display_name: Challenging
+  short_description: Makes answers push back, from flagging one weak assumption to a full devil's-advocate case that stress-tests the user's view before helping. Use when you want your thinking tested.
+policy:
+  allow_implicit_invocation: false

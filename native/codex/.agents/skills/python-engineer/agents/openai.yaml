@@ -1,0 +1,5 @@
+interface:
+  display_name: Python engineer
+  short_description: Acts as a senior Python engineer who writes typed, readable code, structures packages cleanly, picks between scripts, services and notebooks deliberately and tests with pytest.
+policy:
+  allow_implicit_invocation: false

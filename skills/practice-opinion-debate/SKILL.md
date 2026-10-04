@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: conversation-practice
   source: https://hermes-ide.com/prompts/practice-opinion-debate
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Practise debating opinions

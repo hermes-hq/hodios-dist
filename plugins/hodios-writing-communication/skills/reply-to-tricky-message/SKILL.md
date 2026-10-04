@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: interpersonal-communication
   source: https://hermes-ide.com/prompts/reply-to-tricky-message
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Reply to a tricky message

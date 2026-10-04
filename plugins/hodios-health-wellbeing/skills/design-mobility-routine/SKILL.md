@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: fitness
   source: https://hermes-ide.com/prompts/design-mobility-routine
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Design a mobility routine

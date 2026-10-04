@@ -1,0 +1,5 @@
+interface:
+  display_name: Return to study track
+  short_description: Guides an adult thinking about going back to study through gated steps - whether it is worth it, choosing course and mode, funding and time, applying, and preparing for the first term.
+policy:
+  allow_implicit_invocation: false

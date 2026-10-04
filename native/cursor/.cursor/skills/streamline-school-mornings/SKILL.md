@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: family-logistics
   source: https://hermes-ide.com/prompts/streamline-school-mornings
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Streamline school mornings

@@ -1,0 +1,5 @@
+interface:
+  display_name: Digital declutter track
+  short_description: Runs a digital declutter in gated steps - subscriptions and accounts, files and downloads, photos, email, phone apps and notifications - and ends with a light routine to keep it tidy.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Peer tutoring launch track
+  short_description: Launches a school or university peer tutoring programme in gated steps, from goals and safeguarding to tutor training, matching, first sessions and an impact review after a term.
+policy:
+  allow_implicit_invocation: false

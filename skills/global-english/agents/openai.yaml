@@ -1,0 +1,5 @@
+interface:
+  display_name: Global English
+  short_description: Writes for non-native readers and machine translation, from dropping idioms to controlled English with short literal sentences, one term per concept and no cultural references.
+policy:
+  allow_implicit_invocation: false

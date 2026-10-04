@@ -1,0 +1,5 @@
+interface:
+  display_name: Weekly newsletter issue track
+  short_description: Produces one newsletter issue in approved steps, from collecting ideas and picking the lead to drafting, editing, subject lines, a test send and a numbers review a week later.
+policy:
+  allow_implicit_invocation: false

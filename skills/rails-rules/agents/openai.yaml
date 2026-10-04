@@ -1,0 +1,5 @@
+interface:
+  display_name: Ruby on Rails rules
+  short_description: Standing rules for Rails code covering conventions, strong parameters, restraint with callbacks, eager loading, deploy-safe migrations, background jobs and request specs.
+policy:
+  allow_implicit_invocation: false

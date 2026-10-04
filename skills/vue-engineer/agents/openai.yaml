@@ -1,0 +1,5 @@
+interface:
+  display_name: Vue engineer
+  short_description: Acts as a senior Vue engineer who uses the Composition API and single-file components idiomatically, handles reactivity and state carefully and follows Nuxt conventions when present.
+policy:
+  allow_implicit_invocation: false

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: performance
   source: https://hermes-ide.com/prompts/find-memory-leak
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Find a memory leak

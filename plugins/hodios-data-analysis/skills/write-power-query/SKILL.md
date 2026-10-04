@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: spreadsheets
   source: https://hermes-ide.com/prompts/write-power-query
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Write Power Query (M) steps

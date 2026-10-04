@@ -1,0 +1,5 @@
+interface:
+  display_name: Customer feedback loop track
+  short_description: Runs a recurring customer feedback loop in approved steps, collecting from every channel, tagging, finding themes, prioritising with the team, deciding and closing the loop with customers.
+policy:
+  allow_implicit_invocation: false

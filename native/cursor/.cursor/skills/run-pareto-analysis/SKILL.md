@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/run-pareto-analysis
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Run a Pareto (80/20) analysis

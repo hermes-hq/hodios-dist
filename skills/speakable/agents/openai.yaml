@@ -1,0 +1,5 @@
+interface:
+  display_name: Speakable
+  short_description: Shapes answers to be read aloud or synthesised, from no markup to short spoken sentences, numbers written for the ear, signposting and short turns. Use for voice assistants and audio.
+policy:
+  allow_implicit_invocation: false

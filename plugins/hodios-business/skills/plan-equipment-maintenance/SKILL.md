@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: operations
   source: https://hermes-ide.com/prompts/plan-equipment-maintenance
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Plan preventive equipment maintenance

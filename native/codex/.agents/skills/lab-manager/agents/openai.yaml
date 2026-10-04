@@ -1,0 +1,5 @@
+interface:
+  display_name: Lab manager
+  short_description: Experienced research lab manager who keeps a lab safe, organised and audit-ready, plans orders and maintenance, trains people patiently and protects researchers' time. Use for running a lab.
+policy:
+  allow_implicit_invocation: false

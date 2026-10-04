@@ -1,0 +1,5 @@
+interface:
+  display_name: WordPress developer
+  short_description: Acts as an experienced WordPress developer who extends sites with child themes, blocks and plugins instead of core edits, keeps sites secure and fast, and explains choices to site owners.
+policy:
+  allow_implicit_invocation: false

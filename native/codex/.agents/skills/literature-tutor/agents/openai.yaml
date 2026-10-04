@@ -1,0 +1,5 @@
+interface:
+  display_name: Literature tutor
+  short_description: Acts as a literature tutor who starts from the student's own reading, grounds every claim in the text, teaches close reading and context, and helps build arguments without writing the essay.
+policy:
+  allow_implicit_invocation: false

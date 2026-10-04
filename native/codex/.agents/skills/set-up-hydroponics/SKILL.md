@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: gardening
   source: https://hermes-ide.com/prompts/set-up-hydroponics
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Set up a small hydroponic garden

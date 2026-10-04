@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: task-management
   source: https://hermes-ide.com/prompts/plan-tasks-with-adhd
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Plan tasks with ADHD-friendly strategies

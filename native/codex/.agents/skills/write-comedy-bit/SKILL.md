@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: humor
   source: https://hermes-ide.com/prompts/write-comedy-bit
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Write a stand-up bit

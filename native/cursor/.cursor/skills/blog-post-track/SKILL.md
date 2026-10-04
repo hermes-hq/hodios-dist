@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: blogging
   source: https://hermes-ide.com/prompts/blog-post-track
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Blog post track

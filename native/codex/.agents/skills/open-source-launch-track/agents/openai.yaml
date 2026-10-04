@@ -1,0 +1,5 @@
+interface:
+  display_name: Open-source launch track
+  short_description: Takes an open-source project from readiness fixes to a channel plan, per-channel drafts, a launch-day run sheet and a two-week review, pausing for the maintainer's approval between steps.
+policy:
+  allow_implicit_invocation: false

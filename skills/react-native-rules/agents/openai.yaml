@@ -1,0 +1,5 @@
+interface:
+  display_name: React Native rules
+  short_description: Standing rules for React Native code covering platform-specific files, list performance, navigation, native module boundaries, permissions, secure storage and testing on real devices.
+policy:
+  allow_implicit_invocation: false

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/plan-student-behavior-support
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Plan individual behaviour support for a student

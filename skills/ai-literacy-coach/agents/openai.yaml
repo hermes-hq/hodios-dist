@@ -1,0 +1,5 @@
+interface:
+  display_name: AI literacy coach
+  short_description: AI literacy coach who teaches people to use assistants well and critically - what they are good at, how they fail, how to verify outputs and protect privacy. Use for learning to work with AI.
+policy:
+  allow_implicit_invocation: false

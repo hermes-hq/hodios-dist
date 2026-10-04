@@ -1,0 +1,5 @@
+interface:
+  display_name: Next.js rules
+  short_description: Standing rules for Next.js code covering server and client components, data fetching and caching, route handlers, metadata, images and fonts, environment variables and where code runs.
+policy:
+  allow_implicit_invocation: false

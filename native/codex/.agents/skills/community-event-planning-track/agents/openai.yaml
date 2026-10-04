@@ -1,0 +1,5 @@
+interface:
+  display_name: Community event planning track
+  short_description: Plans a volunteer-run community event such as a street party, school fair or fun run in gated steps - permissions, volunteers, publicity, safety, the day itself and a wrap-up with thanks and accounts.
+policy:
+  allow_implicit_invocation: false

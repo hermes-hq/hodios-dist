@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fact-checking
   source: https://hermes-ide.com/prompts/verify-citations
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Verify citations and references

@@ -1,0 +1,5 @@
+interface:
+  display_name: Flutter engineer
+  short_description: Acts as a senior Flutter engineer in Dart who composes widgets cleanly, picks one state management approach and keeps to it, handles platform differences and tests widgets.
+policy:
+  allow_implicit_invocation: false

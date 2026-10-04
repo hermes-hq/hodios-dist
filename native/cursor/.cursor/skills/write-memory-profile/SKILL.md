@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: assistant-setup
   source: https://hermes-ide.com/prompts/write-memory-profile
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Write a memory profile for your assistant

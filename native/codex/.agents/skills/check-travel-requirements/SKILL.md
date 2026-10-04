@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: travel-logistics
   source: https://hermes-ide.com/prompts/check-travel-requirements
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Check travel entry requirements

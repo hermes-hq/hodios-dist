@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: parenting
   source: https://hermes-ide.com/prompts/build-reading-routine-with-child
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Build a reading routine with a child

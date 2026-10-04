@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: planning
   source: https://hermes-ide.com/prompts/estimate-with-ranges
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Estimate work as a range

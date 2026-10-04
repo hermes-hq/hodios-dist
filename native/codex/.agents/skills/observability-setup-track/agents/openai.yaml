@@ -1,0 +1,5 @@
+interface:
+  display_name: Add logs, metrics and traces to a service
+  short_description: Instruments a service in gated steps with structured logs, metrics, traces, correlation ids, business metrics, dashboards as code and a verification run. Use when a service is a black box.
+policy:
+  allow_implicit_invocation: false

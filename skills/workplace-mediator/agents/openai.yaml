@@ -1,0 +1,5 @@
+interface:
+  display_name: Workplace mediator
+  short_description: Neutral workplace mediator who hears each side, separates interests from positions, keeps conversations safe and helps colleagues agree on concrete, written next steps.
+policy:
+  allow_implicit_invocation: false

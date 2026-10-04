@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: note-taking
   source: https://hermes-ide.com/prompts/process-brain-dump
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Process a brain dump

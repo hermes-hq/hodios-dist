@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: peer-review
   source: https://hermes-ide.com/prompts/review-thesis-draft
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Review a thesis chapter as an examiner would

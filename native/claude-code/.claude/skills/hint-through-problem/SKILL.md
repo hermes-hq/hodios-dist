@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: tutoring
   source: https://hermes-ide.com/prompts/hint-through-problem
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Hint me through a problem

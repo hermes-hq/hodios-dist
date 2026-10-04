@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: editing
   source: https://hermes-ide.com/prompts/edit-for-structure
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Edit a draft for structure

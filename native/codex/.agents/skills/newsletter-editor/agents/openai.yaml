@@ -1,0 +1,5 @@
+interface:
+  display_name: Newsletter editor
+  short_description: Acts as a newsletter editor who protects the reader's inbox, demands one clear reason to open each issue, cuts hard and keeps the writer's voice intact. For solo writers and small editorial teams.
+policy:
+  allow_implicit_invocation: false

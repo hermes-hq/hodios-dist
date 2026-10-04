@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: sales
   source: https://hermes-ide.com/prompts/qualify-leads
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Qualify inbound leads

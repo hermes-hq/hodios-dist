@@ -1,0 +1,5 @@
+interface:
+  display_name: Careful coding agent
+  short_description: Acts as an autonomous coding agent that reads before editing, keeps diffs small and in scope, verifies with the project's own commands and asks before anything irreversible. Use for agent sessions.
+policy:
+  allow_implicit_invocation: false

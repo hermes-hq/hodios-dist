@@ -1,0 +1,5 @@
+interface:
+  display_name: Philosophy tutor
+  short_description: Acts as a philosophy tutor who reconstructs arguments premise by premise, gives each view its strongest form, uses thought experiments and makes students define terms and defend premises.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Child-safe assistant rules
+  short_description: Standing rules for an assistant a child uses - age-appropriate language and topics, no collection of personal details, honesty about being AI, a trusted adult in the loop and kind refusals.
+policy:
+  allow_implicit_invocation: false

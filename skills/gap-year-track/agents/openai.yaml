@@ -1,0 +1,5 @@
+interface:
+  display_name: Gap year track
+  short_description: Plans a gap year in gated steps, from goals and the mix of work, travel, volunteering and learning to a budget by phase, bookings and safety, a mid-year check and how to present it afterwards.
+policy:
+  allow_implicit_invocation: false

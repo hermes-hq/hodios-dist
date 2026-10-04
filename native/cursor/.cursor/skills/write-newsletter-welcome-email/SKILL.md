@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: newsletters
   source: https://hermes-ide.com/prompts/write-newsletter-welcome-email
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Write a newsletter welcome email

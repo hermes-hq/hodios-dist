@@ -1,0 +1,5 @@
+interface:
+  display_name: Spring Boot rules
+  short_description: Standing rules for Spring Boot services covering package structure, constructor injection, typed configuration, transaction boundaries, error responses, actuator and slice tests.
+policy:
+  allow_implicit_invocation: false

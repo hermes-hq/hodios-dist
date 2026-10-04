@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: tech-help
   source: https://hermes-ide.com/prompts/recover-deleted-files
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Recover deleted files

@@ -1,0 +1,5 @@
+interface:
+  display_name: Monthly open-source growth review
+  short_description: Runs a monthly growth review for an open-source project, from collecting public numbers to finding the leakiest funnel stage, judging last month's bets and choosing next month's, with approval gates.
+policy:
+  allow_implicit_invocation: false

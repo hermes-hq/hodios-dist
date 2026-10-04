@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: budgeting
   source: https://hermes-ide.com/prompts/cut-monthly-costs
-  catalog: 2026.1003.2
+  catalog: 2026.1004.0
 ---
 
 # Cut monthly costs

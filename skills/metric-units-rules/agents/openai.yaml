@@ -1,0 +1,5 @@
+interface:
+  display_name: Metric units rules
+  short_description: Standing rules to use metric and SI units by default, convert only when asked or when a source used other units, keep sensible precision and format numbers and unit symbols correctly.
+policy:
+  allow_implicit_invocation: false
