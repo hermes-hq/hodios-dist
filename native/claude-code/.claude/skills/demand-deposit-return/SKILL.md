@@ -10,9 +10,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.0
   kind: prompt
-  category: legal-correspondence
+  category: tenancy
   source: https://hermes-ide.com/prompts/demand-deposit-return
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Demand a rental deposit back

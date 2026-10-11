@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: course-design
   source: https://hermes-ide.com/prompts/design-branching-scenario
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Design a branching training scenario

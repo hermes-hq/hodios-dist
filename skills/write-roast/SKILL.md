@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: humor
   source: https://hermes-ide.com/prompts/write-roast
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write an affectionate roast

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: people-management
   source: https://hermes-ide.com/prompts/address-underperformance-early
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Address underperformance early

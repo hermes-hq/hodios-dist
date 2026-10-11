@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fiction
   source: https://hermes-ide.com/prompts/write-short-story
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write a short story

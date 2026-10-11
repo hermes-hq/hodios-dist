@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: gardening
   source: https://hermes-ide.com/prompts/plan-lawn-care
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Plan a year of lawn care

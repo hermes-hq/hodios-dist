@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: people-management
   source: https://hermes-ide.com/prompts/run-exit-interview
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Run exit interviews and find themes

@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: research-methods
   source: https://hermes-ide.com/prompts/research-methodologist
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Research methodologist

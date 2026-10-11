@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: copywriting
   source: https://hermes-ide.com/prompts/marketing-claims-rules
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Marketing claims rules

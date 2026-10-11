@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: home-improvement
   source: https://hermes-ide.com/prompts/plan-diy-project
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Plan a DIY home project

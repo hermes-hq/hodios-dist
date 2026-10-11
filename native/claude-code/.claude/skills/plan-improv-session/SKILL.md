@@ -10,9 +10,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.0
   kind: prompt
-  category: humor
+  category: performing-arts
   source: https://hermes-ide.com/prompts/plan-improv-session
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Plan an improv session

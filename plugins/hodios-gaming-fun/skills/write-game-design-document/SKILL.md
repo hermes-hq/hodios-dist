@@ -10,9 +10,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.0
   kind: prompt
-  category: video-games
+  category: game-design
   source: https://hermes-ide.com/prompts/write-game-design-document
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write a game design document

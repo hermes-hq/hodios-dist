@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: local-culture
   source: https://hermes-ide.com/prompts/prepare-for-homestay
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Prepare for a homestay

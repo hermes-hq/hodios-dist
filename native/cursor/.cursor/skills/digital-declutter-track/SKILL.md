@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: tech-help
   source: https://hermes-ide.com/prompts/digital-declutter-track
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Digital declutter track

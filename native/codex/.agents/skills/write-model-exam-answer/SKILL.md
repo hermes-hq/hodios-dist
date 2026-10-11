@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: exam-prep
   source: https://hermes-ide.com/prompts/write-model-exam-answer
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write an annotated model exam answer

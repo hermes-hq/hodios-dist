@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: editing
   source: https://hermes-ide.com/prompts/check-tone-before-sending
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Check tone before sending

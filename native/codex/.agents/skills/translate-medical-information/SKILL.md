@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: translation
   source: https://hermes-ide.com/prompts/translate-medical-information
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Translate medical information

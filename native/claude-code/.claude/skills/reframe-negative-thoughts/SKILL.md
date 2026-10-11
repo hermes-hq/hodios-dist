@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: mental-health
   source: https://hermes-ide.com/prompts/reframe-negative-thoughts
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Reframe a negative thought

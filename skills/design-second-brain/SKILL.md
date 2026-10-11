@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: note-taking
   source: https://hermes-ide.com/prompts/design-second-brain
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Design a personal knowledge system

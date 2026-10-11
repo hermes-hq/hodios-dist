@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: blogging
   source: https://hermes-ide.com/prompts/pitch-freelance-article
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Pitch a freelance article

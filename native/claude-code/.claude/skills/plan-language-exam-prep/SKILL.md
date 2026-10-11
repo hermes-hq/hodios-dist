@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: language-learning
   source: https://hermes-ide.com/prompts/plan-language-exam-prep
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Plan language certificate preparation

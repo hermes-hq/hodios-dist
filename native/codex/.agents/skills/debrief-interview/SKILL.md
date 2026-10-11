@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: interview-prep
   source: https://hermes-ide.com/prompts/debrief-interview
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Debrief an interview

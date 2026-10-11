@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: presentations
   source: https://hermes-ide.com/prompts/shorten-presentation-for-time
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Shorten a presentation for a new time slot

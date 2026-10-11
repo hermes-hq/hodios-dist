@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: meta
   source: https://hermes-ide.com/prompts/write-subagent-brief
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write a subagent brief

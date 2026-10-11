@@ -1,6 +1,6 @@
 {
   "_hermes_bundle_version": 2,
-  "source": "hodios@2026.1004.3",
+  "source": "hodios@2026.1011.0",
   "items": [
     {
       "id": "academic",
@@ -1150,8 +1150,8 @@
         "high-altitude",
         "recipe-conversion",
         "food-science",
-        "cakes",
-        "bread"
+        "cake-baking",
+        "bread-baking"
       ],
       "stage": [
         "build"
@@ -1181,7 +1181,7 @@
           "baking-instructor"
         ]
       },
-      "hash": "sha256:931161eb1ea84e65f28d9664d4c5ea887e408e3bf372c6b8888d35bb5c8916ba"
+      "hash": "sha256:e6ac5d49950821a60996485e1747d86d01efe06668e794888dfa96f4459d20be"
     },
     {
       "id": "adopt-strict-typing-track",
@@ -3438,7 +3438,7 @@
       "version": "1.0.0",
       "title": "Appeal a denied insurance claim",
       "description": "Drafts an appeal of a denied insurance claim by matching the insurer's stated reason to the policy wording and the evidence, with deadlines and escalation options to an ombudsman or regulator.",
-      "category": "legal-correspondence",
+      "category": "insurance",
       "tags": [
         "insurance-claim",
         "claim-denial",
@@ -3477,7 +3477,7 @@
           "dispute-resolution-track"
         ]
       },
-      "hash": "sha256:de8f81602c036c17a3951d18a05b1db32baf1b64cd1da943a835dfb24a2dbb0c"
+      "hash": "sha256:4420b9e1f0ce19c49ac8785b14b02726bd212253aff44d4cc1a86bfcf4f4e99e"
     },
     {
       "id": "appeal-parking-ticket",
@@ -3525,12 +3525,11 @@
       "version": "1.0.0",
       "title": "Prepare a trademark application",
       "description": "Prepares a trademark application with a distinctiveness check, clearance search steps, goods and services classes, specimen guidance and the filing-route questions to settle.",
-      "category": "paperwork",
+      "category": "intellectual-property",
       "tags": [
         "trademark",
         "brand-protection",
-        "nice-classes",
-        "intellectual-property"
+        "nice-classes"
       ],
       "stage": [
         "plan",
@@ -3556,7 +3555,7 @@
           "respond-to-cease-and-desist"
         ]
       },
-      "hash": "sha256:a6212e0d725ab6e0d631a4d5bc0a7f5e55f05991575c11879be3b77e3f50847a"
+      "hash": "sha256:7bed391874829099201366f69cb3cc61e8d0adcd42c0d4c916a522506df0089b"
     },
     {
       "id": "appraise-study-quality",
@@ -5282,11 +5281,8 @@
       "version": "1.0.1",
       "title": "Baking instructor",
       "description": "Acts as a baking instructor who teaches ratios, temperatures and the chemistry of bread, pastry and cakes, and troubleshoots from what the baker saw. Use for any home-baking conversation.",
-      "category": "cooking",
+      "category": "baking",
       "tags": [
-        "bread",
-        "pastry",
-        "cakes",
         "food-science",
         "bakers-percentage"
       ],
@@ -5306,7 +5302,7 @@
           "chef-mentor"
         ]
       },
-      "hash": "sha256:00d9a863ea4cf61040a2fd704dd5a29d80b07cfb7da4ed50aa087d22a6658578"
+      "hash": "sha256:b96fff0613daa2479cedfcc5260ab209b8c68a8cac55230d6fc4f5fedbb90095"
     },
     {
       "id": "balance-combat-encounter",
@@ -5367,7 +5363,7 @@
       "version": "1.0.0",
       "title": "Beat jet lag",
       "description": "Builds a jet lag plan for your route around light, sleep timing, meals, caffeine and naps, before, during and after the flight. Use a few days before a long-haul trip across time zones.",
-      "category": "travel-logistics",
+      "category": "sleep",
       "tags": [
         "jet-lag",
         "long-haul",
@@ -5401,7 +5397,7 @@
           "travel-planner"
         ]
       },
-      "hash": "sha256:752925cb9bb26b0ea32332031db7b33932d7e344e0e4f94fbedc2506b4ecdd2a"
+      "hash": "sha256:efa409c0714441fb3e2e1fd11f5b10a49f86abd0ed8e5f5bdf3afebaf7b2b3e5"
     },
     {
       "id": "beat-procrastination",
@@ -7108,10 +7104,9 @@
       "version": "1.0.0",
       "title": "Build a creator rate card",
       "description": "Builds a creator rate card for sponsored posts, videos and bundles from audience size, engagement and usage rights, with negotiation ranges and add-ons. Use when setting or raising brand deal prices.",
-      "category": "social-media",
+      "category": "creator-business",
       "tags": [
         "rate-card",
-        "brand-deals",
         "usage-rights",
         "deal-negotiation",
         "sponsorship-pricing"
@@ -7146,7 +7141,7 @@
           "plan-creator-monetization"
         ]
       },
-      "hash": "sha256:a927886122a7c77f94558fd80c8fd34a1702621380a53fd90d71598a64aaa9ff"
+      "hash": "sha256:2d20433b0d3a1b4bfbfef7ae1c3cdda8605f0778d6a144e8199e9908f74da811"
     },
     {
       "id": "build-decision-tree",
@@ -7533,7 +7528,6 @@
         "home-inventory",
         "home-insurance",
         "contents-insurance",
-        "insurance-claims",
         "record-keeping"
       ],
       "stage": [
@@ -7561,7 +7555,7 @@
           "prepare-home-for-storm"
         ]
       },
-      "hash": "sha256:23ddff2664fe599653e4091d5947bf4bcd415c49305be63bd4cc9fb7943d5f68"
+      "hash": "sha256:a57a5cc5ee869b0ec38f6a9ccba6369378998ff575ffea80a6096eff65470d3d"
     },
     {
       "id": "build-house-viewing-checklist",
@@ -7573,7 +7567,7 @@
       "tags": [
         "house-viewing",
         "house-hunting",
-        "renting",
+        "renters",
         "home-buying",
         "red-flags",
         "damp"
@@ -7614,7 +7608,7 @@
           "moving-house-track"
         ]
       },
-      "hash": "sha256:f9ead90b5a7ee70c09581ef68e5f2c6e7809800fe0d8fe6bd82cc209a173346b"
+      "hash": "sha256:544527c90edc06a40a85a4def8f47171cad5680d1095d499137c7fc8bb4f0fbb"
     },
     {
       "id": "build-ideal-customer-profile",
@@ -9667,7 +9661,7 @@
         "symptom-diary",
         "health-tracking",
         "patient-advocacy",
-        "chronic-conditions"
+        "long-term-illness"
       ],
       "stage": [
         "plan",
@@ -9693,7 +9687,7 @@
           "explain-diagnosis"
         ]
       },
-      "hash": "sha256:cf4144c0f70a492c59898d7f4d9bd36f81b6553eca74a1b9f59a888606eaa5a7"
+      "hash": "sha256:49267f1e6a7f108ac8fc5114677497b3851fbe1c99ea8c7330062aadd79189d0"
     },
     {
       "id": "build-team-wiki-structure",
@@ -12360,9 +12354,8 @@
       "description": "Builds a checklist of entry requirements to verify for a trip, covering visa, passport validity, health and transit rules, with the official source to confirm each. Use weeks before travel.",
       "category": "travel-logistics",
       "tags": [
-        "visa",
-        "passport",
         "entry-requirements",
+        "passport",
         "transit"
       ],
       "stage": [
@@ -12404,7 +12397,7 @@
           "travel-planner"
         ]
       },
-      "hash": "sha256:3873756ad386befce87b49b8d3d299c76e35b2aa9e6a473efd1cc46af27e86f9"
+      "hash": "sha256:8597978ddf1d738f622eeb8ce0454dbd5efc8ab3788346903349117d15e168f7"
     },
     {
       "id": "check-used-device",
@@ -14422,7 +14415,7 @@
       "version": "1.1.0",
       "title": "Compare loan offers",
       "description": "Compares loan or credit offers on APR, total cost, fees, flexibility and risk, with a repayment schedule view, an affordability check and questions to ask each lender.",
-      "category": "financial-planning",
+      "category": "debt",
       "tags": [
         "apr",
         "total-cost-of-credit",
@@ -14457,7 +14450,7 @@
           "personal-finance-coach"
         ]
       },
-      "hash": "sha256:06faadab0f1f43d9a286a333df3bbd7fa899d2a382a0d1bad31e91f40bbc0334"
+      "hash": "sha256:f021f5e50249f669436a6819cdc1c368dbf8c873541b76104965f92c1467fae2"
     },
     {
       "id": "compare-mortgage-options",
@@ -17127,7 +17120,7 @@
         "storyboard",
         "shot-list",
         "visual-storytelling",
-        "comics"
+        "comic-art"
       ],
       "stage": [
         "plan",
@@ -17159,7 +17152,7 @@
           "build-image-style-guide"
         ]
       },
-      "hash": "sha256:fa0f1c31391214b782efc56d929f9301a788ebdd1d94d2f496121113209c1977"
+      "hash": "sha256:d14484a4fb9d3aadf3b3961fc7ec67129a3e067b305c9bf79d5a51d074c404c9"
     },
     {
       "id": "create-study-plan",
@@ -19781,7 +19774,7 @@
       "version": "1.0.0",
       "title": "Demand a rental deposit back",
       "description": "Writes a tenant's demand letter for an unreturned or unfairly reduced rental deposit, assessing each deduction against the evidence and listing the local deposit rules to verify.",
-      "category": "legal-correspondence",
+      "category": "tenancy",
       "tags": [
         "security-deposit",
         "tenant-rights",
@@ -19816,7 +19809,7 @@
           "dispute-resolution-track"
         ]
       },
-      "hash": "sha256:20ba4dfe1039c21b9f9a84498765bee93de5635cacbbb769325e157fb47f426b"
+      "hash": "sha256:b974c3791823a3dfb272e94f74c9ee81bdc4ae76b10239ac460a33e182bb416b"
     },
     {
       "id": "dependency-hygiene-rules",
@@ -20278,9 +20271,8 @@
       "version": "1.0.0",
       "title": "Design a board or card game",
       "description": "Designs a board or card game concept with a core loop, component list, rules draft, balance levers, a printable prototype and a staged playtest plan. Use to turn a theme into a testable game.",
-      "category": "tabletop-rpg",
+      "category": "game-design",
       "tags": [
-        "board-game-design",
         "card-games",
         "playtesting",
         "prototype",
@@ -20309,7 +20301,7 @@
           "design-game-mechanic"
         ]
       },
-      "hash": "sha256:24aa84b9b820ffc765d437aeaeba5d5596732886d69c402fecafc17574b06df2"
+      "hash": "sha256:cf1ce7e9d83450b99bdf212136ea519a6c2b2137cc3eeca6adfcc04a66334c06"
     },
     {
       "id": "design-book-cover-brief",
@@ -21739,7 +21731,7 @@
       "version": "1.0.0",
       "title": "Design a game economy",
       "description": "Designs a game economy with currencies, sources and sinks, progression pacing in numbers, monetization guardrails, exploit checks and telemetry to tune it. Use when designing or rebalancing a game.",
-      "category": "video-games",
+      "category": "game-design",
       "tags": [
         "game-economy",
         "sources-and-sinks",
@@ -21774,7 +21766,7 @@
           "game-design-mentor"
         ]
       },
-      "hash": "sha256:2f86dca6ac4c25801914fc90a88cc45b24b7e89529a7eac470cf3b877ae0253c"
+      "hash": "sha256:77af31525ae1c701cf26c07d470f5c9c15de9df82782e1f0928f1907a81d3f2b"
     },
     {
       "id": "design-game-level",
@@ -21782,9 +21774,8 @@
       "version": "1.0.0",
       "title": "Design a game level",
       "description": "Designs a game level with a goal, pacing beats, a layout description, encounters, secrets and a clear plan for how it teaches one mechanic, ready to greybox and playtest.",
-      "category": "video-games",
+      "category": "game-design",
       "tags": [
-        "level-design",
         "pacing",
         "greybox",
         "teaching-mechanics",
@@ -21817,7 +21808,7 @@
           "game-design-mentor"
         ]
       },
-      "hash": "sha256:edaed10974b541dcd7c0cd21313297990b25e4c0202b89cab08f5bca19eee601"
+      "hash": "sha256:0f761bc760544042955d5c388d4c8c6474234ac866c1bae2cd0210365c61a685"
     },
     {
       "id": "design-game-mechanic",
@@ -21825,10 +21816,9 @@
       "version": "1.0.0",
       "title": "Design a game mechanic",
       "description": "Designs a game mechanic or core loop with precise rules, player motivation, balance levers, failure cases and a paper-prototype test plan. Use for a game jam, a pitch or a prototype.",
-      "category": "video-games",
+      "category": "game-design",
       "tags": [
         "core-loop",
-        "game-design",
         "paper-prototype",
         "mda-framework"
       ],
@@ -21855,7 +21845,7 @@
           "play-text-adventure"
         ]
       },
-      "hash": "sha256:37b673637e9a006b8bee3cd278ea7d14e16d9def664c35f305a4e3cacf0f6c86"
+      "hash": "sha256:90f5ccb8c57763c03f8f12c1e134e119dae42b1d7a6ac026a996774a911ec3ad"
     },
     {
       "id": "design-garden-border",
@@ -22545,7 +22535,7 @@
       "version": "1.0.0",
       "title": "Design paid membership tiers",
       "description": "Designs paid membership tiers for Patreon, channel memberships or a paid newsletter with sustainable perks, pricing logic and a launch message. Use before launching or reworking memberships.",
-      "category": "content-strategy",
+      "category": "creator-business",
       "tags": [
         "memberships",
         "patreon",
@@ -22587,7 +22577,7 @@
           "content-strategist"
         ]
       },
-      "hash": "sha256:804fd41c88553a8da479e9b9d4460d1091dfbc47a3d67cd36af0e8e01d779af8"
+      "hash": "sha256:4b94194610e6dccf63ab3ff895fbac4a37c505485442e3d8d85b2dfdf5413e51"
     },
     {
       "id": "design-microlearning-series",
@@ -24800,7 +24790,7 @@
       "description": "Acts as a developer advocate who earns attention by teaching, builds demos that work on the first try, carries user feedback back to maintainers and discloses affiliation every time.",
       "category": "writing",
       "tags": [
-        "open-source",
+        "open-source-project",
         "technical-content",
         "developer-marketing",
         "demos",
@@ -24822,7 +24812,7 @@
           "write-conference-talk-proposal"
         ]
       },
-      "hash": "sha256:2de07905b524d590db8555768433fff438431d2673ccab94a001a56c756633b9"
+      "hash": "sha256:6c24acafbf6aa4a016da1b94cd2913fb2686398f00e68f7a2cc82127beee1c6a"
     },
     {
       "id": "devops-engineer",
@@ -25636,7 +25626,7 @@
       "version": "1.0.0",
       "title": "Dispute a credit report error",
       "description": "Drafts a dispute of an error on a credit report to the credit bureau and the lender that reported it, with an evidence list, a tracking log and follow-up steps if the error is not fixed.",
-      "category": "legal-correspondence",
+      "category": "debt",
       "tags": [
         "credit-report",
         "credit-bureau",
@@ -25672,7 +25662,7 @@
           "request-my-personal-data"
         ]
       },
-      "hash": "sha256:3fcdec4508c183e1b7f166c2b5723621bcac8e58c1a5dc71dac950b99ab65245"
+      "hash": "sha256:92761ca644959e0448b8898aa0f5f5e798361360c3516c906c6187c0b0827960"
     },
     {
       "id": "dispute-resolution-track",
@@ -26902,7 +26892,7 @@
       "version": "1.0.0",
       "title": "Engineer a restaurant menu",
       "description": "Analyses menu item sales and margins into stars, plowhorses, puzzles and dogs, and recommends pricing, placement, recipe and removal changes with the maths shown.",
-      "category": "operations",
+      "category": "hospitality",
       "tags": [
         "menu-engineering",
         "food-cost",
@@ -26937,7 +26927,7 @@
           "small-business-advisor"
         ]
       },
-      "hash": "sha256:3bf200d8d0b9f0fd920fb2923480ced5d1a076a0d8cb89c75359fa06f45203a5"
+      "hash": "sha256:22b23c4fe921518d35d83e9c5aa24ff25ac557d0164511756cb10c26da42dea5"
     },
     {
       "id": "engineering-manager",
@@ -27434,7 +27424,7 @@
         "build-vs-buy",
         "total-cost-of-ownership",
         "vendor-lock-in",
-        "open-source"
+        "open-source-project"
       ],
       "stage": [
         "plan",
@@ -27465,7 +27455,7 @@
           "write-adr"
         ]
       },
-      "hash": "sha256:1917f1206215d31c4cfc33c0d651a5696f1cd5b9f563655714b490022c46cc68"
+      "hash": "sha256:a67bbdfc7c33eb81e6952ca34cfdfe4dc785d97d763b6b823b6cdd279c4c3217"
     },
     {
       "id": "evaluate-buying-a-business",
@@ -31125,7 +31115,7 @@
       "category": "home-improvement",
       "tags": [
         "first-apartment",
-        "renting",
+        "renters",
         "flat-hunting",
         "rental-application",
         "move-in",
@@ -31217,7 +31207,7 @@
           "furnish-first-apartment"
         ]
       },
-      "hash": "sha256:89d20448636e4738d49417e85bf2378af82bebcf8256a59b2cde698fbe9ff5a9"
+      "hash": "sha256:c2fca13ba3aa766744c667c2a78011bc2621277024d6144b6b9d274bcb4ad0e8"
     },
     {
       "id": "first-job-mentor",
@@ -31699,9 +31689,8 @@
       "version": "1.0.0",
       "title": "Forecast a time series",
       "description": "Builds an honest baseline forecast (seasonal naive, ETS or similar) with a backtest and prediction intervals, and says when not to trust it. Use for demand, revenue or traffic planning.",
-      "category": "statistics",
+      "category": "forecasting",
       "tags": [
-        "forecasting",
         "backtesting",
         "prediction-intervals",
         "seasonality"
@@ -31741,7 +31730,7 @@
           "write-weekly-metrics-update"
         ]
       },
-      "hash": "sha256:14df7181dcf28f39b07c29b57827adc75607492cc9c16a90259b1787914cf619"
+      "hash": "sha256:5983dc47199ae67d896aeaf6b7b20cddd20d7bb4f66a802222b4a8b482b47929"
     },
     {
       "id": "formal",
@@ -32066,9 +32055,8 @@
       "version": "1.0.0",
       "title": "Game design mentor",
       "description": "Acts as a game design mentor who centres the player's experience, pushes for early prototypes and playtests, and teaches through examples drawn from many kinds of games.",
-      "category": "video-games",
+      "category": "game-design",
       "tags": [
-        "game-design",
         "playtesting",
         "prototyping",
         "player-experience",
@@ -32088,7 +32076,7 @@
           "write-game-design-document"
         ]
       },
-      "hash": "sha256:21fccacc37f602fdea28898f275307747446081a3e180186cd9e2c62868b19bc"
+      "hash": "sha256:73d465c09d0649b541c5ed169be3b578632bc3c09f9a0b98968a107880d9ce52"
     },
     {
       "id": "game-developer",
@@ -33066,9 +33054,8 @@
       "version": "1.0.0",
       "title": "Grant proposal track",
       "description": "Takes a research grant from funder fit to aims, approach, budget justification and a mock review with revisions, pausing for approval between steps. For researchers applying for funding.",
-      "category": "scientific-writing",
+      "category": "grant-writing",
       "tags": [
-        "grant-writing",
         "specific-aims",
         "funding",
         "budget-justification",
@@ -33154,7 +33141,7 @@
           "research-methodologist"
         ]
       },
-      "hash": "sha256:9d3fe5216fffc6647b5ef1dd3b56daca8303a0e6b64fc4efe54eb97e4d9f3808"
+      "hash": "sha256:0555fb34ad6ba0b16a008b4b30e1f9cce2e5c796f4fb3d5bb4864227a71a0a2b"
     },
     {
       "id": "grant-writer",
@@ -33162,9 +33149,8 @@
       "version": "1.0.0",
       "title": "Grant writer",
       "description": "Acts as a grant writer who reads funder priorities closely, builds logic models, writes measurable outcomes and backs every claim with evidence. For nonprofits, researchers and social enterprises.",
-      "category": "fundraising",
+      "category": "grant-writing",
       "tags": [
-        "grant-writing",
         "logic-model",
         "theory-of-change",
         "funder-research",
@@ -33182,7 +33168,7 @@
           "write-donor-appeal"
         ]
       },
-      "hash": "sha256:f214c5a77485043ae0699d9a3b6a652e4311e6747b14236da62fedf8d37e6af7"
+      "hash": "sha256:d38924ca2831616e6ebf494caa3ae933ea604a3e91932555379f19b2ed564863"
     },
     {
       "id": "grow-newsletter",
@@ -34349,7 +34335,7 @@
       "version": "1.0.0",
       "title": "Hospitality manager",
       "description": "Acts as an experienced restaurant, bar and hotel manager who balances guest experience, staff wellbeing and margins, thinks in shifts and service flow, and keeps food safety and licensing in view.",
-      "category": "operations",
+      "category": "hospitality",
       "tags": [
         "restaurant-management",
         "bar-management",
@@ -34375,7 +34361,7 @@
           "prepare-for-food-safety-inspection"
         ]
       },
-      "hash": "sha256:57f44bd25a4dcac55fffc9914ed6bf4f6528636cefc0e9216a18b2df4676cb65"
+      "hash": "sha256:b71aad55149433fc16e68aea26c4730cf0359a5c6ffacd249d0ac70b7716986c"
     },
     {
       "id": "host-trivia-night",
@@ -34427,7 +34413,7 @@
       "version": "1.0.0",
       "title": "HR business partner",
       "description": "Acts as an HR business partner who helps managers handle people issues fairly and consistently, documents properly and flags when legal or policy advice is needed.",
-      "category": "people-management",
+      "category": "hr-operations",
       "tags": [
         "employee-relations",
         "record-keeping",
@@ -34451,7 +34437,7 @@
           "leadership-coach"
         ]
       },
-      "hash": "sha256:60c2252aabe4214a02af277e0d55035ca93d385a46864312fff72ea497f46f11"
+      "hash": "sha256:90918ef086f6ce92967e5b6fb5e0667cc4a9ef168f5cd0e312db4289ca5baad6"
     },
     {
       "id": "idea-validation-track",
@@ -35006,9 +34992,8 @@
       "version": "1.0.0",
       "title": "Improve a credit score",
       "description": "Explains what drives credit scores or credit files in the person's country and builds a plan to improve theirs - payment history, utilisation, errors to dispute and a realistic timeline.",
-      "category": "financial-planning",
+      "category": "debt",
       "tags": [
-        "credit-score",
         "credit-report",
         "credit-utilisation",
         "dispute-errors",
@@ -35044,7 +35029,7 @@
           "personal-finance-coach"
         ]
       },
-      "hash": "sha256:d5cd739aab88f65e148409889c194672a65aef56895c3d5461269b244cf2e9e7"
+      "hash": "sha256:0a426dae4d3768c6c8372e8b0878437127b16e03bb3a74115258d0d209b096bb"
     },
     {
       "id": "improve-naming",
@@ -35143,9 +35128,8 @@
       "version": "1.0.0",
       "title": "Build a two-week sleep plan",
       "description": "Builds a two-week sleep plan from a sleep diary or description, covering a schedule, wind-down routine, bedroom changes, what to stop, a week-two adjustment and signs to see a doctor.",
-      "category": "mental-health",
+      "category": "sleep",
       "tags": [
-        "insomnia",
         "cbt-i",
         "sleep-diary",
         "sleep-efficiency",
@@ -35177,7 +35161,7 @@
           "sleep-coach"
         ]
       },
-      "hash": "sha256:1f17f4397e0a6ac5b0672d0a0aec64d94807e98f259b1d75a7895ff6651cde59"
+      "hash": "sha256:8a8350ddd4d429493233a68424bea80be46ce9f4660ee9c5787efbfea91e60cf"
     },
     {
       "id": "improve-web-vitals",
@@ -35639,10 +35623,8 @@
       "version": "1.0.0",
       "title": "Interior designer",
       "description": "Acts as an interior designer who starts from how you live, works within budgets and rental rules, and explains choices of layout, colour, light and materials. Use for any decorating conversation.",
-      "category": "home-improvement",
+      "category": "interior-design",
       "tags": [
-        "interior-design",
-        "decorating",
         "colour-palette",
         "lighting",
         "renter-friendly"
@@ -35660,7 +35642,7 @@
           "prepare-home-for-sale"
         ]
       },
-      "hash": "sha256:5360c0eb65253516479f75d18819b7a012d990dc2f177ed6391fb811bb2db41e"
+      "hash": "sha256:8f4f2b01b93c05f9737bcce3b5cb9a5ed701923d858c4be8862b67f151cd0c26"
     },
     {
       "id": "interpret-chart",
@@ -36453,7 +36435,7 @@
       "version": "1.0.0",
       "title": "Lab manager",
       "description": "Experienced research lab manager who keeps a lab safe, organised and audit-ready, plans orders and maintenance, trains people patiently and protects researchers' time. Use for running a lab.",
-      "category": "research-methods",
+      "category": "lab-work",
       "tags": [
         "lab-management",
         "lab-safety",
@@ -36478,7 +36460,7 @@
           "research-methodologist"
         ]
       },
-      "hash": "sha256:28e5681d9ac1a777fbd7d9d183825389acbc621e0e35bbfede24ea688de7a56c"
+      "hash": "sha256:9ad3f6c4836738c0ff72c5e531968c11dccfe1325183d5b04c1f8bbe683afb52"
     },
     {
       "id": "language-exchange-partner",
@@ -39526,7 +39508,7 @@
       "description": "Runs a monthly growth review for an open-source project, from collecting public numbers to finding the leakiest funnel stage, judging last month's bets and choosing next month's, with approval gates.",
       "category": "product-metrics",
       "tags": [
-        "open-source",
+        "open-source-project",
         "growth-review",
         "monthly-review",
         "growth-experiments",
@@ -39588,7 +39570,7 @@
           "open-source-growth-strategist"
         ]
       },
-      "hash": "sha256:a2a988f1e688d5949b5250777da7c5e3924c5fc859e7f0ecb7b372f19e40492d"
+      "hash": "sha256:c9ebf129036132a802f7e404e7ed7b15bc23a9fa9977626f694d837981784aeb"
     },
     {
       "id": "monthly-reporting-cycle-track",
@@ -39694,7 +39676,7 @@
       "tags": [
         "moving-house",
         "packing-plan",
-        "decluttering",
+        "clear-out",
         "change-of-address",
         "removals",
         "moving-abroad"
@@ -39762,7 +39744,7 @@
           "create-chore-chart"
         ]
       },
-      "hash": "sha256:d2b937d508396936a8a8e22e75e200c175a2e2436429233c528c79d37942e598"
+      "hash": "sha256:4f4e04d152d48b9835c2f37a49930f929286e8164a56ace2d95c62b0c0bcaea7"
     },
     {
       "id": "music-producer",
@@ -39984,7 +39966,7 @@
       "version": "1.1.0",
       "title": "Negotiate with a creditor",
       "description": "Prepares a negotiation with a creditor for a hardship plan, reduced payments or a settlement - budget summary, the ask, a call script and a letter - plus free debt-advice options.",
-      "category": "financial-planning",
+      "category": "debt",
       "tags": [
         "hardship-plan",
         "debt-settlement",
@@ -40023,7 +40005,7 @@
           "personal-finance-coach"
         ]
       },
-      "hash": "sha256:104d887872ee959ac754905965c5c9e41634fbdaef0dd4dfb2d589dd6a427a1f"
+      "hash": "sha256:ce7cfcd2c73bf650c2b68eb44067407187c82fe6ade59317e560504fad84edd0"
     },
     {
       "id": "negotiation-coach",
@@ -40382,7 +40364,7 @@
       "version": "1.0.0",
       "title": "Nonprofit advisor",
       "description": "Acts as an experienced nonprofit leader who advises on fundraising, programmes, boards and volunteers, thinks in mission and sustainability, and is candid about capacity.",
-      "category": "fundraising",
+      "category": "nonprofit",
       "tags": [
         "nonprofit-leadership",
         "board-governance",
@@ -40408,7 +40390,7 @@
           "grant-writer"
         ]
       },
-      "hash": "sha256:2f0ea72bfe0f67189f4e1b56f5521b1d79f94a8c099c508db70b504fa23ef630"
+      "hash": "sha256:29bbac96019679d8e1ea80bb8c543f12a4a642ff8882724e45f9e961dec36c52"
     },
     {
       "id": "novel-revision-track",
@@ -40657,7 +40639,7 @@
       "description": "Acts as a growth strategist for open-source projects who works the whole funnel from pitch to contributors, uses public evidence instead of telemetry and refuses manipulative tactics.",
       "category": "marketing-strategy",
       "tags": [
-        "open-source",
+        "open-source-project",
         "growth",
         "developer-marketing",
         "launches",
@@ -40678,7 +40660,7 @@
           "audit-readme-conversion"
         ]
       },
-      "hash": "sha256:0fe88d692028138a5edf86a2e60e124a03eaa5cc25ff8613846ab925b2d99ccf"
+      "hash": "sha256:534653b5359c2770cf30099305425b5e0156b051264e3fa22c47bedcc3bbcaef"
     },
     {
       "id": "open-source-launch-track",
@@ -40686,9 +40668,8 @@
       "version": "1.0.0",
       "title": "Open-source launch track",
       "description": "Takes an open-source project from readiness fixes to a channel plan, per-channel drafts, a launch-day run sheet and a two-week review, pausing for the maintainer's approval between steps.",
-      "category": "product-launch",
+      "category": "open-source",
       "tags": [
-        "open-source",
         "launch-plan",
         "show-hn",
         "launch-retro",
@@ -40754,7 +40735,7 @@
           "open-source-growth-strategist"
         ]
       },
-      "hash": "sha256:d323b4735dca3dd4cd079527269bcbdd3380469ef1c00fd4fadf9d41e18f33e5"
+      "hash": "sha256:3696c682414e34cf873e6f8666f1b2cdfef694f95c23f003468dcaedbe6bbff7"
     },
     {
       "id": "open-source-maintainer",
@@ -40762,9 +40743,8 @@
       "version": "1.0.0",
       "title": "Open-source maintainer",
       "description": "Acts as an experienced open-source maintainer who protects project scope, writes welcoming but firm replies, reviews contributions and keeps releases sustainable.",
-      "category": "docs",
+      "category": "open-source",
       "tags": [
-        "open-source",
         "community",
         "contributor-experience",
         "maintainer-burnout",
@@ -40785,7 +40765,7 @@
           "review-pull-request"
         ]
       },
-      "hash": "sha256:9a46b9ea1f7ceb59749ac4a399079694fb470cc744a76587dba119651b7865da"
+      "hash": "sha256:58f0efa0b4560ec393bb3d7217b71b4d03ccbbcae73b55ba478306a47a2a8a4c"
     },
     {
       "id": "optimize-category-pages",
@@ -41555,7 +41535,7 @@
       "version": "1.0.0",
       "title": "Pair wine with a menu",
       "description": "Suggests wine and non-alcoholic pairings for each course by flavour principles, with a pick within budget and a special-occasion option. Use when hosting or planning a meal.",
-      "category": "cooking",
+      "category": "drinks",
       "tags": [
         "wine-pairing",
         "non-alcoholic",
@@ -41589,7 +41569,7 @@
           "chef-mentor"
         ]
       },
-      "hash": "sha256:2bfef2d6575f1f3ae69682807aa26b82b86c87e05c5c17039e7d90b7555f881e"
+      "hash": "sha256:7a56204a9f579e6661fd85249a175937ae8a0f276293fc8cd5861058145c39e3"
     },
     {
       "id": "paper-writing-track",
@@ -42237,9 +42217,8 @@
       "version": "1.0.0",
       "title": "Pitch a brand sponsorship",
       "description": "Writes a sponsorship pitch that ties a creator's audience to a brand's goals, proposes a specific integration and sets clear next steps. Use when reaching out to brands for paid deals.",
-      "category": "content-strategy",
+      "category": "creator-business",
       "tags": [
-        "brand-deals",
         "sponsorship-pitch",
         "integration-concept",
         "brand-outreach"
@@ -42274,7 +42253,7 @@
           "write-podcast-ad-read"
         ]
       },
-      "hash": "sha256:3e3ea07333bc00fd56ebaaf570e4bd6b8b60c1c5a37a3f941e798cdbc3462456"
+      "hash": "sha256:ec4ec9a922cd88bfd8bbee0776446ee2b097c8476c580e4d7763ab95d24b68f3"
     },
     {
       "id": "pitch-creator-collaboration",
@@ -42374,10 +42353,9 @@
       "version": "1.0.0",
       "title": "Pitch a journalist",
       "description": "Writes a media pitch to a specific journalist or outlet with a newsworthy angle, why now, proof and an easy next step, plus one follow-up and a press-kit checklist. Use for founders and PR teams.",
-      "category": "marketing-strategy",
+      "category": "public-relations",
       "tags": [
         "media-pitch",
-        "public-relations",
         "earned-media",
         "press-kit",
         "news-angle"
@@ -42414,7 +42392,7 @@
           "pr-strategist"
         ]
       },
-      "hash": "sha256:32bccf782b916709c2472caf033fcd11afcdffa55806f2c167277c7f1695f886"
+      "hash": "sha256:10066172b2bc9e0a1082b038e3ba5633c7b091e4a12611867f014982253c788d"
     },
     {
       "id": "plain",
@@ -42589,7 +42567,7 @@
       "version": "1.0.0",
       "title": "Plan activity pacing",
       "description": "Plans activity pacing for chronic pain or fatigue, covering baselines, an energy budget, cautious increases and a flare plan, written to review with a clinician.",
-      "category": "medical-prep",
+      "category": "chronic-conditions",
       "tags": [
         "pacing",
         "chronic-pain",
@@ -42626,7 +42604,7 @@
           "health-navigator"
         ]
       },
-      "hash": "sha256:99ab4658b5e892b6d852526382b988091634b4ada173d6a2f5947ea60abf7118"
+      "hash": "sha256:d472259ced417432ba03abc26c931bd828fdaed33b4589167b7d9e93e9dda5cf"
     },
     {
       "id": "plan-ad-creative-tests",
@@ -43094,10 +43072,8 @@
       "version": "1.0.0",
       "title": "Plan a bread bake schedule",
       "description": "Plans a bread or sourdough bake around your day, timing feeding, mixing, folds, proofing and baking for your room temperature, with cues for when to move on. Use the day before you bake.",
-      "category": "cooking",
+      "category": "baking",
       "tags": [
-        "sourdough",
-        "bread",
         "fermentation",
         "cold-retard",
         "timeline"
@@ -43133,7 +43109,7 @@
           "baking-instructor"
         ]
       },
-      "hash": "sha256:b5fd62fbc27e9058e79a72fe2a0ee02932e56a61f06fcfd4b79f54dd6a9afb1c"
+      "hash": "sha256:9e47d95bdc520d9e1a75a327de26561b117ff13f47b76311b08e641d31490750"
     },
     {
       "id": "plan-budget-meals",
@@ -43344,10 +43320,8 @@
       "version": "1.0.0",
       "title": "Plan a camping trip",
       "description": "Plans a camping trip with site choice, a gear checklist, a menu with food storage, a weather and safety plan and leave-no-trace practices, matched to experience. Use a week or two before you go.",
-      "category": "travel-logistics",
+      "category": "outdoors",
       "tags": [
-        "camping",
-        "outdoors",
         "gear-checklist",
         "leave-no-trace",
         "campfire-cooking",
@@ -43380,7 +43354,7 @@
           "travel-planner"
         ]
       },
-      "hash": "sha256:9f62b9e1869f0341dc8a4393fa3a2598034072b96045362ca5696124c4d4ab2a"
+      "hash": "sha256:10b612584ca4bf46bfd1441efdc73dc7159ed3f77ee51821b09d726797e0a1bf"
     },
     {
       "id": "plan-capital-campaign",
@@ -43388,7 +43362,7 @@
       "version": "1.0.0",
       "title": "Plan a capital campaign",
       "description": "Plans a nonprofit capital campaign - a feasibility check, gift range chart, prospect needs, quiet and public phases, volunteer roles and a timeline.",
-      "category": "fundraising",
+      "category": "nonprofit",
       "tags": [
         "capital-campaign",
         "gift-range-chart",
@@ -43430,7 +43404,7 @@
           "nonprofit-advisor"
         ]
       },
-      "hash": "sha256:d295244d1e07673c1430d9f602920dc30fc8880e5761854ac1baaf67646ac290"
+      "hash": "sha256:5742583604aeff11f72244d81cde065532a082e0238e2b1d32b88f36494e50d8"
     },
     {
       "id": "plan-car-maintenance",
@@ -43772,9 +43746,8 @@
       "version": "1.0.0",
       "title": "Plan chronic condition self-management",
       "description": "Builds a self-management routine for a diagnosed chronic condition from the care team's plan, with daily tasks, tracking, a traffic-light action plan and appointment preparation.",
-      "category": "medical-prep",
+      "category": "chronic-conditions",
       "tags": [
-        "chronic-conditions",
         "self-management",
         "action-plan",
         "health-tracking",
@@ -43808,7 +43781,7 @@
           "doctor-visit-track"
         ]
       },
-      "hash": "sha256:a4d66c103b4a856e0513712ca2e666541aeade053e0fff2f50ad053440bb0349"
+      "hash": "sha256:116dda0085b1bf032009880e7538caf16001ce2def26a4b346a829dc955a8329"
     },
     {
       "id": "plan-cleaning-schedule",
@@ -43816,7 +43789,7 @@
       "version": "1.0.0",
       "title": "Plan a household cleaning schedule",
       "description": "Builds a cleaning schedule split into daily, weekly, monthly and seasonal tasks, sized to the home and shared fairly across the household by time. Use when the cleaning keeps falling on one person.",
-      "category": "home-improvement",
+      "category": "housekeeping",
       "tags": [
         "housework",
         "chore-chart",
@@ -43846,7 +43819,7 @@
           "plan-home-maintenance"
         ]
       },
-      "hash": "sha256:e72066a8bce8bc55a6526026e3e8fcc646fad4fdd21e02f76d4c15c37ce83992"
+      "hash": "sha256:c80d8c2882705d23a6ea1d24bbb8eddc273a290c39ef02ae3f47653b8a4a50f7"
     },
     {
       "id": "plan-cloud-migration",
@@ -44142,10 +44115,9 @@
       "version": "1.0.0",
       "title": "Plan creator monetization",
       "description": "Compares monetisation options for a creator's audience and niche, from sponsorships to products, memberships and services, with rough maths and a staged plan. Use before choosing how to earn.",
-      "category": "content-strategy",
+      "category": "creator-business",
       "tags": [
         "monetization",
-        "creator-economy",
         "revenue-model",
         "digital-products"
       ],
@@ -44182,7 +44154,7 @@
           "content-strategist"
         ]
       },
-      "hash": "sha256:338a267a2f4356bac0eb2aa75a607fcabe805244ae607722cf278c26e6cb41d5"
+      "hash": "sha256:725010136d59725ad5bb6ab770609aca843157d990a10f530eb889e6edc3a1f0"
     },
     {
       "id": "plan-cruise",
@@ -44521,7 +44493,7 @@
       "version": "1.0.1",
       "title": "Plan a debt payoff",
       "description": "Compares avalanche and snowball payoff orders month by month for a set of debts and one monthly payment, showing payoff dates, total interest and the trade-off between them.",
-      "category": "financial-planning",
+      "category": "debt",
       "tags": [
         "debt-avalanche",
         "debt-snowball",
@@ -44555,7 +44527,7 @@
           "personal-finance-coach"
         ]
       },
-      "hash": "sha256:153f190643a7c4469657bf3a1a1e8fabec6b53c70f969ad24c9def0d04d56d5f"
+      "hash": "sha256:6dbf13a8f7361ba501f5a24a7bbf279b93cbbc16f36b6f261561fe9324bb7118"
     },
     {
       "id": "plan-decluttering",
@@ -44563,7 +44535,7 @@
       "version": "1.0.0",
       "title": "Plan a decluttering project",
       "description": "Plans decluttering a room or home in short sessions, with the order to tackle spaces, clear keep, donate, sell and bin rules, and habits that stop the clutter coming back.",
-      "category": "home-improvement",
+      "category": "housekeeping",
       "tags": [
         "declutter",
         "minimalism",
@@ -44594,7 +44566,7 @@
           "organize-digital-files"
         ]
       },
-      "hash": "sha256:5da9f99d22602007b03cb19c526886dedf10c9dccaa12f092f74b8a1bd650acf"
+      "hash": "sha256:46ce36b53b4251b5cba52c7148163527837b246f8658604741111b81dd126cf7"
     },
     {
       "id": "plan-departure-day",
@@ -46472,7 +46444,6 @@
       "description": "Estimates what percentage of freelance income to set aside for tax, with every assumption stated, a simple saving routine and a payment calendar to confirm with an accountant.",
       "category": "taxes",
       "tags": [
-        "self-employed",
         "freelancers",
         "estimated-tax",
         "tax-reserve"
@@ -46507,7 +46478,7 @@
           "forecast-cash-flow"
         ]
       },
-      "hash": "sha256:5707aaa8a909f228678d181a7e2431fc32588f3eb9f06e84a8e90bc3bd61ba35"
+      "hash": "sha256:2b257f7467b17be29fed1281f9920f6ca2708b6fb4cd59c0baed4d982bf74974"
     },
     {
       "id": "plan-freezer-meals",
@@ -46519,7 +46490,7 @@
       "tags": [
         "freezer-meals",
         "batch-cooking",
-        "new-parents",
+        "early-parenthood",
         "carers",
         "food-storage"
       ],
@@ -46551,7 +46522,7 @@
           "chef-mentor"
         ]
       },
-      "hash": "sha256:259502d48a68d6e74b04f2fe85792c52143bc167bc65de0a4cf3cffe9c366cb4"
+      "hash": "sha256:0fc889d9419ba341a9e1e48bdcb492bb70bb935c8124892e6c1e2a08df72d9fb"
     },
     {
       "id": "plan-fruit-trees",
@@ -46608,7 +46579,7 @@
       "version": "1.0.0",
       "title": "Plan a charity fundraising event",
       "description": "Plans a charity fundraising event - gala, sponsored run, auction or community event - with an income target, budget, timeline, roles, sponsorship and a donor follow-up plan.",
-      "category": "fundraising",
+      "category": "nonprofit",
       "tags": [
         "fundraising-event",
         "charity-gala",
@@ -46649,7 +46620,7 @@
           "nonprofit-advisor"
         ]
       },
-      "hash": "sha256:43bdd04848571bd4f387a23908c74b65e909e85ea811375ff26eb7441a9fa989"
+      "hash": "sha256:e6e2c1e9ded2cb5b67ee5031cb8af1d8189260ebe8a8c7d50350f378c159cfa9"
     },
     {
       "id": "plan-game-day",
@@ -46887,7 +46858,7 @@
       "version": "1.0.0",
       "title": "Plan a giving day campaign",
       "description": "Plans a giving day or peer-to-peer fundraising campaign - goal, matching gift, ambassadors, a content calendar for before, during and after, and a supporter toolkit.",
-      "category": "fundraising",
+      "category": "nonprofit",
       "tags": [
         "giving-day",
         "peer-to-peer",
@@ -46929,7 +46900,7 @@
           "nonprofit-advisor"
         ]
       },
-      "hash": "sha256:b560b62ca9662c9801e151445057d41fa0d47a25e3828c8124b57cff9ae59885"
+      "hash": "sha256:5b7c2e404e758ca6f4a4be7d2b98e2d11b0c5df1c84a5a0bd902fc6e7d744ef6"
     },
     {
       "id": "plan-group-class-presentation",
@@ -47230,10 +47201,8 @@
       "version": "1.0.0",
       "title": "Plan a homeschool year",
       "description": "Plans a homeschool year for a child's age and interests across core subjects, with a weekly rhythm, resources, projects, checkpoints and record keeping. For homeschooling parents.",
-      "category": "course-design",
+      "category": "homeschooling",
       "tags": [
-        "homeschooling",
-        "home-education",
         "curriculum-planning",
         "portfolio",
         "record-keeping"
@@ -47271,7 +47240,7 @@
           "design-unit-plan"
         ]
       },
-      "hash": "sha256:558d76f8e3b375b26b3942107e815cc38eb643611c0fbcd79bae74f7510c88c3"
+      "hash": "sha256:d26da5cd9e9e4cf078a3c0a3130d2fe91a443566d226af441bfe6220327bbbd3"
     },
     {
       "id": "plan-honeymoon",
@@ -47427,7 +47396,7 @@
       "version": "1.0.0",
       "title": "Plan an improv session",
       "description": "Plans an improv session for a group's level and goal, with warm-ups, games that build toward scene work, side-coaching lines, opt-out rules and timings. Use for classes, troupes, schools and teams.",
-      "category": "humor",
+      "category": "performing-arts",
       "tags": [
         "improv",
         "warm-ups",
@@ -47460,7 +47429,7 @@
           "write-icebreaker-games"
         ]
       },
-      "hash": "sha256:63e64ae36aeee391172ee47041ee79b72587bff63d2c875dd9b55cfe5e64c99f"
+      "hash": "sha256:d874bb1d1926be106649e6175cf0fcf3d43088349f450129f697aa9c5967320c"
     },
     {
       "id": "plan-incremental-migration",
@@ -48527,7 +48496,7 @@
       "version": "1.0.0",
       "title": "Plan a livestream run of show",
       "description": "Plans a livestream or webinar run of show with timed segments, production cues, audience interaction, roles and contingency plans. Use when preparing a live broadcast.",
-      "category": "video",
+      "category": "livestreaming",
       "tags": [
         "livestream",
         "webinar",
@@ -48564,7 +48533,7 @@
           "repurpose-video-into-posts"
         ]
       },
-      "hash": "sha256:03058e6b04950ef04fe07bb7f1b66551289a744d6a6a19b52784c8db8e9b40f7"
+      "hash": "sha256:86ba377dbb2f478d88d94f8b3daab891c78182b6d791a2f5852eaf34a7c4da49"
     },
     {
       "id": "plan-load-test",
@@ -48767,7 +48736,7 @@
       "version": "1.0.0",
       "title": "Plan a long-distance walk",
       "description": "Plans a multi-day long-distance walk or pilgrimage route with daily stages, lodging, luggage transfer, a training ramp, kit and logistics to the start and from the finish. Use months before the walk.",
-      "category": "trip-planning",
+      "category": "outdoors",
       "tags": [
         "long-distance-walking",
         "pilgrimage",
@@ -48808,7 +48777,7 @@
           "travel-planner"
         ]
       },
-      "hash": "sha256:e651e470e068ad54003a2e730966082c509f587e7770f91894ba982d083a80a0"
+      "hash": "sha256:5ebfab9f8f4acfcef4f528691997f7157d8f2e55a3f9ab2ae02c3549d315355b"
     },
     {
       "id": "plan-market-entry",
@@ -49477,7 +49446,7 @@
       "description": "Plans the order of cities and the transport between them for a multi-stop trip, balancing travel time, cost and nights per stop, with what to book when. Use for backpacking and long trips.",
       "category": "trip-planning",
       "tags": [
-        "backpacking",
+        "shoestring-travel",
         "rail-travel",
         "open-jaw",
         "route-planning",
@@ -49516,7 +49485,7 @@
           "travel-planner"
         ]
       },
-      "hash": "sha256:e78a8b2abec0b5b9974def53849a7d2a6bdb54d32a350043068f41d0cf72480d"
+      "hash": "sha256:b6f45846e3d72b1dd922bd8ead82939f9b59f3390a6d46c6b6db70ae9241234c"
     },
     {
       "id": "plan-murder-mystery-party",
@@ -49762,10 +49731,10 @@
       "category": "trip-planning",
       "tags": [
         "national-parks",
-        "hiking",
+        "day-hikes",
         "permits",
         "wildlife",
-        "outdoors"
+        "wilderness"
       ],
       "stage": [
         "plan"
@@ -49806,7 +49775,7 @@
           "travel-planner"
         ]
       },
-      "hash": "sha256:cb87e5bb3b8d5e2ec54af90472a27bd8632468b860bab14e67f4d7c93bd191ac"
+      "hash": "sha256:7666e81350f28aa0e9cec2efd22e26269669769ee1c8030a2c868d5bc84ce536"
     },
     {
       "id": "plan-new-blog",
@@ -49857,7 +49826,7 @@
       "version": "1.0.0",
       "title": "Plan new-hire onboarding",
       "description": "Builds a 30-60-90 day onboarding plan for a new hire with goals per phase, people to meet, early wins, check-ins and success signals. Use before a new team member starts.",
-      "category": "people-management",
+      "category": "hr-operations",
       "tags": [
         "onboarding-plan",
         "30-60-90",
@@ -49888,7 +49857,7 @@
           "write-job-description"
         ]
       },
-      "hash": "sha256:71cae77bff7535292b95400fae90cf18f3b7f54365f97bd699adfdce8e57bcbc"
+      "hash": "sha256:9ddd199104702fb83f409b42f7928e4e4783569e50ed1567159051a952294fee"
     },
     {
       "id": "plan-new-pet-care",
@@ -50127,7 +50096,7 @@
       "version": "1.0.0",
       "title": "Plan an online store launch",
       "description": "Plans launching an online store - products and suppliers, platform, unit economics, store pages, payments and shipping, launch marketing and a 90-day plan. Use when starting to sell online.",
-      "category": "entrepreneurship",
+      "category": "ecommerce",
       "tags": [
         "shop-launch",
         "dropshipping",
@@ -50167,7 +50136,7 @@
           "small-business-advisor"
         ]
       },
-      "hash": "sha256:84b81c078442e77907384de504739956c5548b16dcddc00484d15d9cc904b500"
+      "hash": "sha256:eb89cc378eab3260a3312b474d5ebdf0ebc5bf01c57eabc6500101a7ca00d096"
     },
     {
       "id": "plan-painting-step-by-step",
@@ -51554,7 +51523,7 @@
       "category": "fitness",
       "tags": [
         "return-to-sport",
-        "postpartum",
+        "after-birth",
         "detraining",
         "post-illness",
         "graded-return"
@@ -51591,7 +51560,7 @@
           "fitness-coach"
         ]
       },
-      "hash": "sha256:a968607cdbdba167856927ff62621b829f11754baafe98b2084e470b0dc8ca88"
+      "hash": "sha256:efc2360cb2674025dbc7fc76922fed5724769713013031c7ebc57a6b844f40c9"
     },
     {
       "id": "plan-return-to-work",
@@ -51712,9 +51681,8 @@
       "version": "1.0.0",
       "title": "Plan a room layout",
       "description": "Plans a room layout from its dimensions and your needs, with zones, walkway clearances, furniture sizes, lighting and a text floor plan. Use before buying furniture or moving into a new place.",
-      "category": "home-improvement",
+      "category": "interior-design",
       "tags": [
-        "interior-design",
         "floor-plan",
         "furniture-layout",
         "lighting",
@@ -51745,7 +51713,7 @@
           "plan-renovation-budget"
         ]
       },
-      "hash": "sha256:76f9faf88cbe192fc2b7e5132375130f4c70949c45232764822efd6f1f2a977f"
+      "hash": "sha256:6e243484a5af7ee2e62bcbf0c135d696a5a737f02b0389a90f9994ea61a8559d"
     },
     {
       "id": "plan-room-makeover",
@@ -51753,10 +51721,8 @@
       "version": "1.0.0",
       "title": "Plan a room makeover",
       "description": "Plans a room makeover with a style direction, colour palette, layered lighting, key pieces, a prioritised shopping list and a budget split. Use before buying anything for a room refresh.",
-      "category": "home-improvement",
+      "category": "interior-design",
       "tags": [
-        "interior-design",
-        "decorating",
         "colour-palette",
         "lighting",
         "mood-board"
@@ -51794,7 +51760,7 @@
           "interior-designer"
         ]
       },
-      "hash": "sha256:ef1140df02c2663782ddbcaccb9ea6b374d1107b27afe9d71b9d07d535dd4b96"
+      "hash": "sha256:c1117e09e369857544d18d68fff48c84848830ef701af77f35b52206b184ac7c"
     },
     {
       "id": "plan-rtl-support",
@@ -53175,7 +53141,7 @@
       "version": "1.0.0",
       "title": "Plan individual behaviour support for a student",
       "description": "Drafts an individual behaviour support plan from ABC observations, with a hypothesised function, prevention, a replacement skill, responses and data to collect, for review with specialists.",
-      "category": "teaching",
+      "category": "special-education",
       "tags": [
         "behaviour-support",
         "functional-behaviour-assessment",
@@ -53217,7 +53183,7 @@
           "instructional-coach"
         ]
       },
-      "hash": "sha256:bde4359a266b4d97cceca077ca00dfc611f6274bbcaeaa819b8d2ebed8576ee3"
+      "hash": "sha256:5891100cc1d15a0f93db46542bef34392da9bdfdced186bcf666faf4b8daef8d"
     },
     {
       "id": "plan-substitute-lesson",
@@ -54642,11 +54608,9 @@
       "version": "1.0.0",
       "title": "PR strategist",
       "description": "Acts as a PR strategist who finds the real news angle, knows what journalists need, protects credibility and plans earned media around true stories. Use when seeking press coverage.",
-      "category": "marketing-strategy",
+      "category": "public-relations",
       "tags": [
-        "public-relations",
         "earned-media",
-        "media-relations",
         "news-angle",
         "crisis-communications"
       ],
@@ -54663,7 +54627,7 @@
           "write-messaging-framework"
         ]
       },
-      "hash": "sha256:853a2d38549845efd5ac0af27d7c1fdd2e7fbb0835537d10f7245cd8afc251e5"
+      "hash": "sha256:e9820b3a555d3db29d2d64f4ab0c6b15293d27a7eb5a26d4f5b491e226a86932"
     },
     {
       "id": "practice-admissions-interview",
@@ -55980,7 +55944,7 @@
         "big-sister",
         "regression",
         "jealousy",
-        "newborn"
+        "newborn-care"
       ],
       "stage": [
         "plan"
@@ -56014,7 +55978,7 @@
           "parenting-coach"
         ]
       },
-      "hash": "sha256:97aa6cc2f4af956b8d299584d4f2b9d45e3b62541d6486fbe557f2f545b0d93c"
+      "hash": "sha256:067121660872f185be31ac89930d472ec26fffc225a4197d2934025ae5855f88"
     },
     {
       "id": "prepare-child-for-school",
@@ -56064,11 +56028,8 @@
       "version": "1.0.0",
       "title": "Prepare a citizenship application",
       "description": "Organises a naturalisation application with the eligibility points to verify, a document checklist, language and civics test preparation, and a timeline back from the target date.",
-      "category": "paperwork",
+      "category": "immigration",
       "tags": [
-        "naturalisation",
-        "citizenship",
-        "immigration",
         "document-checklist"
       ],
       "stage": [
@@ -56099,7 +56060,7 @@
           "legal-information-guide"
         ]
       },
-      "hash": "sha256:de1b4263a7bdd44afded28121d6ab229323f99bb9a4735f9a611d3a2ee353c00"
+      "hash": "sha256:b5343f6d227c390a6dac28096d9fcf382c713ed04c93c3c8922264345c118368"
     },
     {
       "id": "prepare-citizenship-test",
@@ -56111,7 +56072,6 @@
       "tags": [
         "citizenship-test",
         "civics",
-        "naturalisation",
         "memory-aids",
         "official-study-guide"
       ],
@@ -56146,7 +56106,7 @@
           "make-flashcards"
         ]
       },
-      "hash": "sha256:10b6c0c405053f43d27417ae2f3bb22578f8a59085f8730703db5970f81aa4fb"
+      "hash": "sha256:d9291c885ba26f6fdd12d05bfeb96b1feab1dead655ac2ecc4796e2f61e85249"
     },
     {
       "id": "prepare-deal-negotiation",
@@ -56615,11 +56575,9 @@
       "version": "1.1.0",
       "title": "Prepare for a long hike",
       "description": "Prepares someone for a long or multi-day hike with a conditioning plan, pack weight targets, a gear checklist, a pacing plan and a safety plan. Use weeks before a big trail day or trek.",
-      "category": "fitness",
+      "category": "outdoors",
       "tags": [
-        "hiking",
         "trekking",
-        "backpacking",
         "altitude",
         "gear-checklist",
         "trail-safety"
@@ -56651,7 +56609,7 @@
           "fitness-coach"
         ]
       },
-      "hash": "sha256:7ae51a9e4c9bff72665be0a9f5e3ca1a4a43bcee1877d0053b1bc91d468e8642"
+      "hash": "sha256:49e0861a53380a9b333430f0e4ad9e3e172703f8bb693db16fdfdbccf094a6cd"
     },
     {
       "id": "prepare-for-meeting",
@@ -56701,13 +56659,10 @@
       "version": "1.0.1",
       "title": "Prepare for a new baby",
       "description": "Builds a preparation plan for a new baby from the due date, with a checklist by trimester, home setup, parental leave and paperwork, a support roster and warning signs that need a call.",
-      "category": "family-logistics",
+      "category": "pregnancy",
       "tags": [
-        "pregnancy",
-        "newborn",
         "parental-leave",
-        "safe-sleep",
-        "postpartum"
+        "safe-sleep"
       ],
       "stage": [
         "plan"
@@ -56740,7 +56695,7 @@
           "parenting-coach"
         ]
       },
-      "hash": "sha256:ef54b090802bc1ae6506a130a68737bce7710e5dd0ac93ff28b9414bc36f5eca"
+      "hash": "sha256:eab54073d70ce15968c7b101acf8eba66bb9edebb2fabd9ed93cbcd01f51cc59"
     },
     {
       "id": "prepare-for-one-on-one",
@@ -57058,7 +57013,7 @@
       "tags": [
         "home-staging",
         "selling-a-home",
-        "decluttering",
+        "clear-out",
         "listing-photos",
         "curb-appeal"
       ],
@@ -57089,7 +57044,7 @@
           "interior-designer"
         ]
       },
-      "hash": "sha256:86efc2db42c7b547d18babfab239466ff889e53ab5d8457036d0cb03eb0d8dad"
+      "hash": "sha256:ab2b5ca1267132c4c9ec55d902fbb0f7e2df175c4c3ff6abc1df7b9257055dcb"
     },
     {
       "id": "prepare-interview-presentation",
@@ -57238,7 +57193,7 @@
       "version": "1.0.0",
       "title": "Prepare for a media interview",
       "description": "Prepares a spokesperson for a press, radio or podcast interview with three key messages, proof points, bridging lines, likely hostile questions and a practice round.",
-      "category": "public-speaking",
+      "category": "public-relations",
       "tags": [
         "media-training",
         "key-messages",
@@ -57279,7 +57234,7 @@
           "speaking-coach"
         ]
       },
-      "hash": "sha256:138d281eb36c262857a60b8895d298f1b18c753e349a40cd60e78ef8168a9d5f"
+      "hash": "sha256:981c8e76acadb85a658107d88ab05e2d6a5b44c54310c78cfc567afc4f159ab5"
     },
     {
       "id": "prepare-month-end-close",
@@ -57330,7 +57285,7 @@
       "tags": [
         "first-time-buyer",
         "mortgage-broker",
-        "credit-score",
+        "credit-file",
         "home-buying"
       ],
       "stage": [
@@ -57360,7 +57315,7 @@
           "personal-finance-coach"
         ]
       },
-      "hash": "sha256:431de0f0179f712a6db28d9b26490474973e7f724d2984e828d5c2e5369d67e8"
+      "hash": "sha256:3adbd1b933284762b87b93282c8a2ab8a57a69bb6d7797ded91e7a834b9ac70b"
     },
     {
       "id": "prepare-open-book-exam",
@@ -57596,7 +57551,7 @@
       "description": "Prepares questions and notes for prenatal appointments at the current stage of pregnancy, with symptoms to report, decisions coming up and urgent signs that should not wait.",
       "category": "medical-prep",
       "tags": [
-        "pregnancy",
+        "prenatal",
         "antenatal-care",
         "midwife-appointment",
         "birth-preferences",
@@ -57625,7 +57580,7 @@
           "parenting-coach"
         ]
       },
-      "hash": "sha256:d9691980ffa1b752ca58a6c2996a44fa7d44ce1948e01fce14a6dd8c20428090"
+      "hash": "sha256:1b6a419b0c3f6b7ef0e5f7face03fb7210ddb12b98578db08965f6541b46445d"
     },
     {
       "id": "prepare-print-files",
@@ -58245,11 +58200,9 @@
       "version": "1.0.1",
       "title": "Prepare a visa application",
       "description": "Organises a visa or residence permit application into a requirement checklist to confirm on the official source, a document tracker, translations, a timeline and interview preparation.",
-      "category": "paperwork",
+      "category": "immigration",
       "tags": [
-        "visa",
         "residence-permit",
-        "immigration",
         "required-documents"
       ],
       "stage": [
@@ -58285,7 +58238,7 @@
           "legal-information-guide"
         ]
       },
-      "hash": "sha256:51435f18da818fd97ee5849103265589b025f5dfc6480977b0c5e99b00d0d2d3"
+      "hash": "sha256:e996cd98c38517527acb1371d04cc8f181b7aff3fb44206055c6ecc2556ff4f1"
     },
     {
       "id": "prepare-will-questions",
@@ -58555,7 +58508,7 @@
       "version": "1.0.0",
       "title": "Price your services",
       "description": "Prices services as hourly, day rate, project, retainer or value-based from costs, income target, utilisation and market anchors, with a quote template. For freelancers and agencies.",
-      "category": "entrepreneurship",
+      "category": "freelancing",
       "tags": [
         "day-rate",
         "retainers",
@@ -58597,7 +58550,7 @@
           "small-business-advisor"
         ]
       },
-      "hash": "sha256:629a88dca6262a67cef977450f44d9561bc7bcc5127f2fcac5c08548c18fe201"
+      "hash": "sha256:af4a17280c1b043e8174fb14f27560b4aade92c3f6c6750a28a9bb4a460d1730"
     },
     {
       "id": "pricing-change-track",
@@ -59500,7 +59453,7 @@
       "version": "1.0.1",
       "title": "Property sale track",
       "description": "Runs a residential property sale for an agent in gated steps - instruction and pricing, marketing launch, viewings, offers, then progression to completion - with a checklist at each gate.",
-      "category": "sales",
+      "category": "real-estate",
       "tags": [
         "estate-agent",
         "home-selling",
@@ -59580,7 +59533,7 @@
           "real-estate-agent"
         ]
       },
-      "hash": "sha256:2885d48e4451d4e3aa2d3272b739fcf370c147e0062f0eae5c93b7ef084c0d52"
+      "hash": "sha256:0cef001930b117a8f9d827c8d0e0665cb5a9ba62d1f780235b2d07731796c773"
     },
     {
       "id": "propose-flexible-work",
@@ -60449,7 +60402,7 @@
       "version": "1.0.0",
       "title": "Real-estate agent",
       "description": "Acts as an experienced residential real-estate agent who advises on pricing, marketing, showings and negotiation, stays fair-housing compliant and defers legal and mortgage questions.",
-      "category": "sales",
+      "category": "real-estate",
       "tags": [
         "home-selling",
         "home-buying",
@@ -60470,7 +60423,7 @@
           "prepare-deal-negotiation"
         ]
       },
-      "hash": "sha256:638942c1727cc6f34ae71fecf0c0ebf27de30670304a3b4bf0b99f3938ee3393"
+      "hash": "sha256:96f8a93d16addfb19fa22e81e5f59e5841389ba5b7af6af290f1a8a0c1a0611f"
     },
     {
       "id": "recipe-from-ingredients",
@@ -60836,7 +60789,7 @@
       "version": "1.0.0",
       "title": "Plan volunteer recruitment",
       "description": "Plans volunteer recruitment for a nonprofit or community group - role descriptions, outreach messages, proportionate screening, onboarding and retention - for the hours and roles needed.",
-      "category": "operations",
+      "category": "nonprofit",
       "tags": [
         "volunteer-management",
         "volunteer-recruitment",
@@ -60875,7 +60828,7 @@
           "nonprofit-advisor"
         ]
       },
-      "hash": "sha256:9bcaa90910d93e770154680a69eb2b3d2db1bf97388e923c05946fbab9fdd541"
+      "hash": "sha256:30447ac883980cfce24f2ef82af72da1e5b55ccce058ab9cd5914706ffe8690d"
     },
     {
       "id": "recruiter",
@@ -61783,10 +61736,9 @@
       "version": "1.0.0",
       "title": "Remove a stain safely",
       "description": "Gives a safe stain-removal method for a specific stain and material, gentlest option first, with what never to use or mix. Use as soon as something spills.",
-      "category": "home-improvement",
+      "category": "housekeeping",
       "tags": [
         "stain-removal",
-        "laundry",
         "upholstery",
         "carpet",
         "chemical-safety"
@@ -61809,7 +61761,7 @@
         }
       ],
       "body": "<context>\nYou are a textile conservator and former dry cleaner who knows that most stains are made permanent by the first wrong move: rubbing, hot water on a protein stain, a tumble dryer, or a harsh product on a delicate fibre. You match the method to the chemistry of the stain (protein, tannin, oil and grease, dye, wax, or combination) and to what the material can tolerate, and you always start with the gentlest option.\n\nStain: {{stain}}\nMaterial: {{material}}\n</context>\n\n<task>\n1. Classify the stain (protein such as blood, egg, milk or sweat; tannin such as tea, coffee, wine or fruit; oil and grease; dye or ink; wax or gum; combination) and say what that means for the method.\n2. Say what to do in the first minutes: lift off any solids, blot from the outside in without rubbing, and use cold water for protein stains.\n3. Give a step-by-step method, gentlest first, using household products where they work (cold water, a little washing-up liquid, an enzyme laundry detergent, white vinegar diluted, bicarbonate of soda, hydrogen peroxide 3% for whites that tolerate it, rubbing alcohol for some inks). For each step say how long to leave it, and what to check before moving to the next.\n4. Give one or two stronger options if the gentle ones fail, with when they are safe for this material.\n5. List what never to do on this stain and material, including heat and the tumble dryer until the stain is gone.\n6. Say when to stop and take it to a professional cleaner.\n</task>\n\n<constraints>\n- Test every product first on a hidden area (an inside seam, under a cushion) and wait for it to dry before using it on the stain. Say this before the method.\n- Follow the care label. For \"dry clean only\" items, silk, wool, leather, suede, acetate, vintage or valuable items, keep home treatment to blotting and cold water at most, and recommend a professional, telling them what the stain is.\n- Chemical safety, stated whenever it is relevant: never mix bleach with ammonia, vinegar or other acids, or with other cleaners, because it releases toxic gases; never mix hydrogen peroxide and vinegar in the same container; use one product at a time and rinse between products; ventilate the room; wear gloves for strong products; keep products away from children and pets.\n- Material limits: no chlorine bleach on wool, silk, spandex, leather or coloured fabrics; no acetone or nail varnish remover on acetate or triacetate, which it dissolves; no acids (vinegar, lemon) on marble, limestone or other natural stone.\n- For stains involving bodily fluids, mould, or unknown chemicals, include hygiene precautions (gloves, ventilation, washing hands). If the stain is from a leak (damp patch, rust or water marks on a ceiling or wall), say to fix the source first.\n- If the stain or material is unclear, ask what it is, or give the method that is safe for the most delicate likely material and say so.\n</constraints>\n\n<output_format>\n## Right now\n2 to 4 short steps.\n\n## Method\nNumbered steps, gentlest first, each with how long and what to check. Start with the patch-test step.\n\n## If that does not work\n## Never do this\nShort bullets specific to this stain and material.\n## When to get a professional\nOne or two lines.\n</output_format>",
-      "hash": "sha256:19ba226766830dbb646be6e0b2d00e0f8a86bb5c729de3b393fd637fc1dc66a3"
+      "hash": "sha256:1275b4367ded71cb4225adcf7448aec40dff15bb28fdf0c39221d9d29246c92c"
     },
     {
       "id": "reply-to-comments",
@@ -62301,9 +62253,8 @@
       "version": "1.0.1",
       "title": "Request a repair from your landlord",
       "description": "Writes a formal repair request to a landlord with the defect, its impact, dates, prior contact and a reasonable deadline, plus the next steps to research locally if nothing happens.",
-      "category": "legal-correspondence",
+      "category": "tenancy",
       "tags": [
-        "tenancy",
         "disrepair",
         "tenant-rights",
         "landlord-letters"
@@ -62341,7 +62292,7 @@
           "dispute-resolution-track"
         ]
       },
-      "hash": "sha256:1f29ac785805f33e5fdb9873e2d929ba17b2d51895dfefbf0d4dbaaa404354b3"
+      "hash": "sha256:037ba17dea884f744383bc8b06f17bbf33108b4c81f430a9bdd90d8e2c5d0111"
     },
     {
       "id": "request-my-personal-data",
@@ -62759,7 +62710,7 @@
       "version": "1.0.1",
       "title": "Respond to a debt collector",
       "description": "Drafts a written response to a debt collector that requests validation, disputes errors or proposes payment, after checking the letter for red flags and listing the rights to verify locally.",
-      "category": "legal-correspondence",
+      "category": "debt",
       "tags": [
         "debt-collection",
         "debt-validation",
@@ -62799,7 +62750,7 @@
           "legal-information-guide"
         ]
       },
-      "hash": "sha256:911375d42c7b0f24e057e553a6de34597f2624f3fb85723886f472558e342daa"
+      "hash": "sha256:9ff005a228a39f6ec93d1ef0e6991e55c644006ccea2e551fb176f09dbdc4a1a"
     },
     {
       "id": "respond-to-leaked-secret",
@@ -64121,7 +64072,7 @@
       "description": "Reviews a freelance or client services contract for scope, payment, IP, liability, termination and non-solicit issues, and lists the questions to raise before signing.",
       "category": "contracts",
       "tags": [
-        "freelancing",
+        "freelancers",
         "statement-of-work",
         "ip-assignment",
         "late-payment",
@@ -64159,7 +64110,7 @@
           "contract-review-track"
         ]
       },
-      "hash": "sha256:3766138a8315c98a2a1735c9c7920b627937f59bbecda40e9f9cc57a5cfea51f"
+      "hash": "sha256:91f2719aef7d8af8f67ce031a05e81e6a78058cd7c7f6df637a9a21888c3cce9"
     },
     {
       "id": "review-grant-proposal",
@@ -64307,7 +64258,7 @@
       "version": "1.0.0",
       "title": "Review household insurance coverage",
       "description": "Reviews a household's insurance - health, life, disability, home, car and liability - for gaps, overlaps and weak spots against its situation, with questions for a broker.",
-      "category": "financial-planning",
+      "category": "insurance",
       "tags": [
         "insurance-review",
         "life-cover",
@@ -64340,7 +64291,7 @@
           "personal-finance-coach"
         ]
       },
-      "hash": "sha256:fa4b27b82d5ee41dcaefc8c4c25c5831110805eede60782ed37f8c0b214bbf66"
+      "hash": "sha256:32023dffae309f7e8be09cbd6d36f9576509d196b12f120d290d0be467b1c271"
     },
     {
       "id": "review-launch-results",
@@ -64388,10 +64339,8 @@
       "version": "1.0.0",
       "title": "Review a residential lease",
       "description": "Reviews a residential lease from the tenant's side, covering rent, deposit, repairs, break clauses, renewal, fees and unusual terms, and lists questions to ask the landlord before signing.",
-      "category": "contracts",
+      "category": "tenancy",
       "tags": [
-        "tenancy",
-        "renting",
         "security-deposit",
         "break-clause"
       ],
@@ -64422,7 +64371,7 @@
           "legal-information-guide"
         ]
       },
-      "hash": "sha256:f667a17b0547e464992edb34b1aa36569c61cf1d848a167f99aa9c0ccf49d258"
+      "hash": "sha256:a674880a7d44cf36338dd54e9e2012b14b063ddcc248171bc94bd38707174f62"
     },
     {
       "id": "review-llm-app-security",
@@ -65764,8 +65713,7 @@
         "decision-journal",
         "calibration",
         "hindsight-bias",
-        "judgement",
-        "forecasting"
+        "judgement"
       ],
       "stage": [
         "plan",
@@ -65790,7 +65738,7 @@
           "thinking-partner"
         ]
       },
-      "hash": "sha256:d48022a9d625ea86d08b5c4426cccc35359e28d3928d7811d7f084684b68d3eb"
+      "hash": "sha256:a14c2d09eb939e28943343c491a422863a0df0f157f907f326598300a4899e22"
     },
     {
       "id": "run-energy-audit",
@@ -69377,9 +69325,8 @@
       "version": "1.0.0",
       "title": "Sleep coach",
       "description": "Acts as a sleep coach using sleep-hygiene and CBT-I principles, building routines gradually and referring to a doctor for signs of a sleep disorder. Use when you struggle to sleep.",
-      "category": "mental-health",
+      "category": "sleep",
       "tags": [
-        "insomnia",
         "cbt-i",
         "sleep-diary",
         "circadian-rhythm",
@@ -69397,7 +69344,7 @@
           "check-burnout-signs"
         ]
       },
-      "hash": "sha256:66c236ec5579a6623f93c72dc84620b255e17dd13201288cbbd60907425a48e4"
+      "hash": "sha256:8a750d05f2a82fb90e7c2647f004ae0484a11f91cab2fd9e5f7fde24aaab5e99"
     },
     {
       "id": "small-business-advisor",
@@ -70026,13 +69973,11 @@
       "version": "1.0.0",
       "title": "Special education advisor",
       "description": "Acts as an experienced special education advisor who helps teachers adapt instruction and plans for learners with additional needs, strengths-first and without diagnosing.",
-      "category": "teaching",
+      "category": "special-education",
       "tags": [
-        "special-education",
         "inclusion",
         "accommodations",
         "universal-design-for-learning",
-        "iep",
         "additional-needs"
       ],
       "stage": [
@@ -70048,7 +69993,7 @@
           "adapt-text-reading-level"
         ]
       },
-      "hash": "sha256:f369670c5259b8691b7423c51f21279b8fc43cd2335259a55689494421b489df"
+      "hash": "sha256:b867883bcdc421471dc553f18defa5c7b7a1da61535c667da1200af0caca569b"
     },
     {
       "id": "speechwriter",
@@ -70485,9 +70430,8 @@
       "version": "1.0.0",
       "title": "Start a freelance business",
       "description": "Sets up a freelance business - niche and offer, pricing model, portfolio, client acquisition, an admin and contract checklist, and a first-90-days plan. Use when going independent.",
-      "category": "entrepreneurship",
+      "category": "freelancing",
       "tags": [
-        "freelancing",
         "self-employment",
         "niche",
         "portfolio",
@@ -70527,7 +70471,7 @@
           "small-business-advisor"
         ]
       },
-      "hash": "sha256:7db8fc96594b50c5c1ca8c8d53d0c6c97b2e9ff1f46aa4c6f8a954b16df66200"
+      "hash": "sha256:03eca9aa65af7753a203f41118dd981a96492fdf6a2fd708adb8416d7d65b611"
     },
     {
       "id": "start-walking-program",
@@ -72072,7 +72016,7 @@
       "tags": [
         "tax-return",
         "tax-preparer",
-        "self-employed",
+        "freelancers",
         "filing-deadline",
         "record-keeping"
       ],
@@ -72139,7 +72083,7 @@
           "tax-educator"
         ]
       },
-      "hash": "sha256:528331fc4cfece3ae1a505f577afcd778712c0e109905a25ecd64247e7b58024"
+      "hash": "sha256:130db1babc05ca7b906fde7e76cd5e91691483bf7150d5e0c830e90a541413c7"
     },
     {
       "id": "teach-board-game-rules",
@@ -73028,7 +72972,7 @@
       "description": "Sets up a deductible-expense tracking system for self-employed people with categories to verify locally, receipt and mileage records, home-office notes and a monthly routine.",
       "category": "taxes",
       "tags": [
-        "self-employed",
+        "freelancers",
         "receipts",
         "mileage-log",
         "home-office"
@@ -73062,7 +73006,7 @@
           "bookkeeper"
         ]
       },
-      "hash": "sha256:873d0297ccf4d25f707bc2eece09bc364d8e5ecf0e577ded3c042b34710079e8"
+      "hash": "sha256:8242b1f7874acd3813c87d10c4b4be4b166a55303b4ba7c13e007ecbfa2682ed"
     },
     {
       "id": "track-fitness-progress",
@@ -73921,10 +73865,9 @@
       "version": "1.0.0",
       "title": "Triage an issue backlog",
       "description": "Triages a batch of issues for maintainers with duplicates, labels, severity, needs-info replies and what to close. Use when the tracker grows faster than the team can read it.",
-      "category": "planning",
+      "category": "open-source",
       "tags": [
         "issue-triage",
-        "open-source",
         "duplicates",
         "labels",
         "backlog"
@@ -73957,7 +73900,7 @@
           "triage-vulnerability-report"
         ]
       },
-      "hash": "sha256:2302f6966e05980bd7e5addc791f5e5a56dfd6f16775aa8685e9e95dae6b7c4c"
+      "hash": "sha256:53b761ca9f5ea7454bcfa2814a4e07c9a64e88900cd39e4afe51baceeb846ada"
     },
     {
       "id": "triage-production-alert",
@@ -74189,7 +74132,7 @@
       "category": "cooking",
       "tags": [
         "kitchen-fail",
-        "bread",
+        "bread-baking",
         "sauces",
         "food-science"
       ],
@@ -74220,7 +74163,7 @@
           "chef-mentor"
         ]
       },
-      "hash": "sha256:1695f5a391c2089d9e79f9641a24280fdf3b350f93072789fe9de095f5351c91"
+      "hash": "sha256:524afbc35731bf9716a8fd26082a81cfdc58b94679a610a8c49581980f396f79"
     },
     {
       "id": "turn-article-into-thread",
@@ -77402,7 +77345,7 @@
       "version": "1.0.0",
       "title": "Write a nonprofit case for support",
       "description": "Writes a nonprofit case for support - the need with evidence, the organisation's approach, its impact, what gifts make possible at each level and why now - plus short versions for reuse.",
-      "category": "fundraising",
+      "category": "nonprofit",
       "tags": [
         "case-for-support",
         "capital-campaign",
@@ -77443,7 +77386,7 @@
           "grant-writer"
         ]
       },
-      "hash": "sha256:a766635272c013c11c829a79a31512820ba6065578efc0d21e8d5ca402b99349"
+      "hash": "sha256:752e347dca6d7deff2e62fdbd06bbe9740e0b4a0e67eae2473e104e77c29f401"
     },
     {
       "id": "write-case-study",
@@ -78017,7 +77960,7 @@
       "version": "2.0.0",
       "title": "Write a comic script",
       "description": "Writes a print comic or vertical-scroll webcomic script in full-script format, panel by panel, with art direction, lettering, and page-turn or scroll reveals an artist can draw from.",
-      "category": "screenwriting",
+      "category": "comics",
       "tags": [
         "comic-script",
         "graphic-novel",
@@ -78063,7 +78006,7 @@
           "script-consultant"
         ]
       },
-      "hash": "sha256:440a8edc621651721998c277297084f8a75e2d265a26fda7167f7227f9f574f5"
+      "hash": "sha256:57b713000ff89f2bfb8e2f9fea2d189a1c62e84851929281fa0181a60c4d6e7e"
     },
     {
       "id": "write-commit-message",
@@ -78551,9 +78494,8 @@
       "version": "1.0.0",
       "title": "Write a CONTRIBUTING guide",
       "description": "Writes a CONTRIBUTING.md from a repository's real setup, covering the dev environment, tests, branch and commit rules, PR checklist, review process and where newcomers can start.",
-      "category": "docs",
+      "category": "open-source",
       "tags": [
-        "open-source",
         "contributing-md",
         "good-first-issue",
         "developer-experience",
@@ -78592,7 +78534,7 @@
           "write-agents-md"
         ]
       },
-      "hash": "sha256:43f14ca18c228a0c4333fab6610d88379e2c986676611c6d59f4f8accf053676"
+      "hash": "sha256:8dec47a90f74b02f8fa03660eab86219483fb9255857a4cd53e59889c8a413b0"
     },
     {
       "id": "write-course-syllabus",
@@ -79890,7 +79832,7 @@
       "version": "1.0.0",
       "title": "Write a donor appeal",
       "description": "Writes a donor appeal letter or email built on one person's story, the specific impact of a gift and a clear ask with amounts, plus subject lines and a follow-up. For nonprofits and charities.",
-      "category": "fundraising",
+      "category": "nonprofit",
       "tags": [
         "donor-appeal",
         "fundraising-letter",
@@ -79941,7 +79883,7 @@
           "grant-writer"
         ]
       },
-      "hash": "sha256:c4ee2dd8c2b60c65b19f7be7a499bece99599fe5286f2c327733b810dca21957"
+      "hash": "sha256:33d502b88b591c248fc1a4c7754f694448fc5fd3c565dab2ea98822382cf48ce"
     },
     {
       "id": "write-e2e-test",
@@ -80220,7 +80162,7 @@
       "version": "1.0.0",
       "title": "Write an employee handbook",
       "description": "Drafts a small company's first employee handbook covering culture, hours, leave, conduct, IT, complaints and discipline, with every point that depends on local employment law flagged to verify.",
-      "category": "policies",
+      "category": "hr-operations",
       "tags": [
         "hr-policy",
         "first-hires",
@@ -80250,7 +80192,7 @@
           "write-ai-use-policy"
         ]
       },
-      "hash": "sha256:e201988a6fd66e1ab6d999f9484abb3effbbda4f2ae506f7a2a3da189c612925"
+      "hash": "sha256:23569987a3a84a209b8eb80900c1ec67fd2a7940680cbf3ef67b93af3d168942"
     },
     {
       "id": "write-escalation-email",
@@ -80846,7 +80788,7 @@
       "version": "1.0.0",
       "title": "Write forecast commentary",
       "description": "Writes forecast commentary explaining the change from the last forecast with a bridge, drivers, quantified risks, confidence and decisions needed. Use for monthly or quarterly reforecasts.",
-      "category": "reporting",
+      "category": "forecasting",
       "tags": [
         "reforecast",
         "variance-bridge",
@@ -80878,7 +80820,7 @@
           "write-monthly-business-review"
         ]
       },
-      "hash": "sha256:c2849a2260f471336ecd0f32865fa7ea77e4fa8385a308078be631e39abf3c76"
+      "hash": "sha256:2e71baa4d142e396e04f64abc1fc588f031aab3d10c49e4265d8ac8b1ac7164d"
     },
     {
       "id": "write-formal-letter",
@@ -80987,9 +80929,8 @@
       "version": "1.0.0",
       "title": "Write a freelance marketplace profile",
       "description": "Writes a freelance marketplace profile or gig description with a niche headline, client outcomes, proof, service packages and the search terms clients use. Use when setting up or fixing a profile.",
-      "category": "resumes",
+      "category": "freelancing",
       "tags": [
-        "freelancing",
         "marketplace-profile",
         "gig-description",
         "service-packages",
@@ -81025,7 +80966,7 @@
           "write-portfolio-site-copy"
         ]
       },
-      "hash": "sha256:e87c6565bdad32ffb6f6dff653b30f89f769e2a7c17075b02819b74770f6a07c"
+      "hash": "sha256:a710f9a0ad553f14e67b7af1d8ab5315c7ce466a4178c277faa000db62062f85"
     },
     {
       "id": "write-game-design-document",
@@ -81033,7 +80974,7 @@
       "version": "1.0.0",
       "title": "Write a game design document",
       "description": "Writes a lean game design document with pillars, the core loop, mechanics, progression, content scope and a vertical slice plan, sized to the team and listing open questions to prototype.",
-      "category": "video-games",
+      "category": "game-design",
       "tags": [
         "game-design-document",
         "gdd",
@@ -81069,7 +81010,7 @@
           "game-design-mentor"
         ]
       },
-      "hash": "sha256:3252850622eded22744c4ac3ee1de084a9613ca5d7cbae3e2565ed86a5fd52c0"
+      "hash": "sha256:483934f12c7157196862b72fac8427dad38f8a0afd11b0243db3ba842844b012"
     },
     {
       "id": "write-game-quest",
@@ -81077,7 +81018,7 @@
       "version": "1.0.0",
       "title": "Write a video game quest",
       "description": "Designs a video game quest with objectives, branching dialogue, rewards, fail states and implementation notes that fit the game's existing systems. Use for RPGs, adventure games and mods.",
-      "category": "video-games",
+      "category": "game-design",
       "tags": [
         "quest-design",
         "narrative-design",
@@ -81112,7 +81053,7 @@
           "game-design-mentor"
         ]
       },
-      "hash": "sha256:123066af4aeed2483c2b785e1cc22b442b8e25e18e31407b879241aabbf8e5ab"
+      "hash": "sha256:d582ece807ee703d4e16c7970cb80c3fde539747700f8a8741a3d5fc734caaae"
     },
     {
       "id": "write-github-actions-workflow",
@@ -81262,9 +81203,8 @@
       "version": "1.0.0",
       "title": "Write a grant application",
       "description": "Writes grant application sections for a nonprofit or small business, mapped to the funder's criteria, word limits and budget rules, with a compliance checklist. Use when applying for a grant.",
-      "category": "fundraising",
+      "category": "grant-writing",
       "tags": [
-        "grant-writing",
         "logic-model",
         "budget-narrative",
         "funder-criteria"
@@ -81293,7 +81233,7 @@
         }
       ],
       "body": "<context>\nYou are an experienced grant writer. Reviewers score applications against published criteria, often quickly and side by side, so the strongest applications answer each question directly, mirror the funder's language and priorities, back every claim with evidence, and keep the budget consistent with the narrative and the rules. You never overstate the organisation's results, because funders check and remember.\n</context>\n\n<task>\nWrite the application.\n\n<organization>\n{{organization}}\n</organization>\n\n<project>\n{{project}}\n</project>\n\n<funder_criteria>\n{{funder_criteria}}\n</funder_criteria>\n\n1. Fit check: compare the project with the funder's priorities and eligibility rules. If there is a clear eligibility problem (wrong organisation type, location, project type or size), say so first and recommend whether to apply, adjust or skip.\n2. Compliance matrix: list every question, section, attachment and rule in the guidance, with its word or character limit and where it is answered.\n3. Draft each section the funder asks for, in its order and with its headings. Where the guidance is silent, use: need statement, project description, objectives, activities and timeline, outcomes and evaluation, organisational capacity, sustainability, and budget narrative.\n   - Need: the problem for the beneficiaries, with evidence from the input; why this organisation, why now.\n   - Objectives: specific, measurable and time-bound, linked to the funder's priorities.\n   - Outcomes and evaluation: a short logic model (inputs → activities → outputs → outcomes), with indicators, targets, data sources and when they are measured.\n   - Capacity: track record with numbers, team and partners.\n   - Sustainability: what continues after the grant and how it is funded.\n4. Respect every limit. Aim about 10% under each word or character limit, because your count is approximate, and show the approximate count next to the limit so the applicant can check it in the funder's form before submitting.\n5. Budget narrative: justify each line item, link it to activities, and check it against the rules (eligible costs, caps on overheads or salaries, match funding, in-kind contributions). Flag any line that may be ineligible and any mismatch between budget and narrative.\n6. Gaps and checks: missing facts, evidence to attach, letters of support, and anything to confirm with the funder.\n</task>\n\n<constraints>\n- Use only facts from the input. Never invent statistics, beneficiaries, outcomes, partners or past results; insert `[NEEDED: …]` and list it under Gaps.\n- Use the funder's own terms for priorities and sections; do not pad with generic mission language.\n- Keep the budget arithmetic exact and consistent with the narrative totals.\n- Grant terms, eligibility and tax treatment vary by funder and country. Where a rule is ambiguous, recommend confirming with the funder's programme officer rather than guessing.\n</constraints>\n\n<output_format>\n## Fit check\nThree to five bullets and a recommendation.\n\n## Compliance matrix\nTable: Requirement | Limit | Where answered | Status.\n\n## Draft sections\nEach funder section as a heading, the draft text, and `(about n words / limit)`.\n\n## Budget narrative\nTable: Line item | Amount | Justification | Rule check. Then the total and any flags.\n\n## Gaps and checks\nChecklist.\n</output_format>",
-      "hash": "sha256:9c20640136b851fd71db36437e7e0cea8398b0770506780c9ef036ad5489463d"
+      "hash": "sha256:bde9299f6fbee551ed1502b95f5363c94476c8dd87cc5a55c16424017b3eaf9b"
     },
     {
       "id": "write-grant-report",
@@ -81301,7 +81241,7 @@
       "version": "1.0.0",
       "title": "Write a grant report",
       "description": "Writes a grant progress or final report to a funder - outcomes against agreed indicators, stories shared with consent, spending against budget, challenges and learning - in the funder's format.",
-      "category": "fundraising",
+      "category": "grant-writing",
       "tags": [
         "grant-reporting",
         "funder-relations",
@@ -81343,7 +81283,7 @@
           "nonprofit-advisor"
         ]
       },
-      "hash": "sha256:acfe872f50983039c5f4f8466e4435718f20dda6ac21d9a77abb33045354d6f8"
+      "hash": "sha256:a5f58c38a87f8e1242ea478891bbd6a09bd28060ceab9f52457955b5db27da9c"
     },
     {
       "id": "write-guest-interview-questions",
@@ -81668,13 +81608,11 @@
       "version": "1.0.0",
       "title": "Write a crisis holding statement",
       "description": "Writes a crisis holding statement and reactive Q&A for media, customers and staff that says only what is confirmed, shows care, states actions and commits to an update time.",
-      "category": "marketing-strategy",
+      "category": "public-relations",
       "tags": [
         "crisis-communications",
         "holding-statement",
-        "media-relations",
-        "reactive-qa",
-        "public-relations"
+        "reactive-qa"
       ],
       "stage": [
         "build",
@@ -81710,7 +81648,7 @@
           "pr-strategist"
         ]
       },
-      "hash": "sha256:a1f14d6272ef5956028b8b69c62a23e2930cccbcef2ff47d51d89dc623e759dc"
+      "hash": "sha256:9f2926a5774421673b09e26e80308039d3e9ab973f25594d51711ade8c84c021"
     },
     {
       "id": "write-house-sitter-guide",
@@ -81896,10 +81834,8 @@
       "version": "1.0.0",
       "title": "Draft measurable IEP goals",
       "description": "Drafts measurable IEP or support-plan goals from a student's present levels, with baseline, condition, criterion, progress monitoring and accommodations for the team to discuss.",
-      "category": "teaching",
+      "category": "special-education",
       "tags": [
-        "iep",
-        "special-education",
         "smart-goals",
         "progress-monitoring",
         "accommodations",
@@ -81945,7 +81881,7 @@
           "special-education-advisor"
         ]
       },
-      "hash": "sha256:16b7efa3053cf52f2ab0a5214aa3b2d7953ce12277d5c755e5a8ccbd860379ea"
+      "hash": "sha256:a15fad031bf7883b8f9b63bf7128355efc1435e41858fcdecbba20e0325ee42d"
     },
     {
       "id": "write-image-edit-prompt",
@@ -82056,7 +81992,7 @@
       "version": "1.0.0",
       "title": "Write an annual impact report",
       "description": "Writes an annual impact report for a nonprofit or social enterprise - outcomes, stories, a financial summary and honest notes on what did not work - for donors or another audience.",
-      "category": "fundraising",
+      "category": "nonprofit",
       "tags": [
         "impact-report",
         "annual-report",
@@ -82103,7 +82039,7 @@
           "nonprofit-advisor"
         ]
       },
-      "hash": "sha256:f9cf281e173880d4544728bc72549f942cfb2af8073c29546f4d7112b88b39c7"
+      "hash": "sha256:ee9a0b8d5ce25f4e61a1424603596dcd584bcf549179f71185104f6cbfceb625"
     },
     {
       "id": "write-implementation-plan",
@@ -83022,7 +82958,7 @@
       "version": "1.0.0",
       "title": "Write a reproducible lab or field protocol",
       "description": "Turns rough procedure notes into a reproducible lab or field protocol with materials, numbered steps, timings, safety notes, controls and troubleshooting. For scientists and technicians.",
-      "category": "research-methods",
+      "category": "lab-work",
       "tags": [
         "lab-protocol",
         "standard-operating-procedure",
@@ -83053,7 +82989,7 @@
           "write-data-management-plan"
         ]
       },
-      "hash": "sha256:338a41194744870274142d5e3a5d19f23bfb7a12f23713b2c650a64f77db16e1"
+      "hash": "sha256:009b24bcc2fbc7cc86d415c83cc60ed22b3908a6fe6155d8b3ea919838153878"
     },
     {
       "id": "write-landing-page-copy",
@@ -83634,7 +83570,7 @@
       "version": "1.0.0",
       "title": "Build a real-estate listing presentation",
       "description": "Builds a listing presentation for a home seller with a pricing rationale from supplied comparables, a marketing plan, timeline, the value behind the fee and answers to common objections.",
-      "category": "sales",
+      "category": "real-estate",
       "tags": [
         "listing-presentation",
         "comparables",
@@ -83676,7 +83612,7 @@
           "real-estate-agent"
         ]
       },
-      "hash": "sha256:cbb87718d41d628691dce8dc9650bc2db9c1857c1710f9a6bee875c93fa041e4"
+      "hash": "sha256:d38cd316c8eebfd83f131ef26e128da190c04ebe4cc94855da7d609b95c4d423"
     },
     {
       "id": "write-literature-review-section",
@@ -83939,7 +83875,7 @@
       "version": "1.0.0",
       "title": "Write a marketplace product listing",
       "description": "Writes an Amazon, Etsy or eBay product listing with title, bullets, description and backend search terms or tags, kept within each marketplace's limits and listing rules.",
-      "category": "copywriting",
+      "category": "ecommerce",
       "tags": [
         "amazon-listing",
         "etsy",
@@ -83985,7 +83921,7 @@
           "copywriter"
         ]
       },
-      "hash": "sha256:55de2a5358c46f10a7b6df5e6896325b9c68718a7841a66d6ee62c9d1b554062"
+      "hash": "sha256:7cc355852900fabbb00be006c686a50ddd2a998cb40cb95b7aa6d9c069557f76"
     },
     {
       "id": "write-media-kit",
@@ -83993,10 +83929,9 @@
       "version": "1.0.0",
       "title": "Write a creator media kit",
       "description": "Writes a creator media kit with an audience snapshot, reach and engagement figures, formats, past partnerships, packages and rates. Use before approaching brands or answering their enquiries.",
-      "category": "content-strategy",
+      "category": "creator-business",
       "tags": [
         "media-kit",
-        "brand-deals",
         "rate-card",
         "audience-demographics"
       ],
@@ -84030,7 +83965,7 @@
           "write-podcast-ad-read"
         ]
       },
-      "hash": "sha256:bb0d5e32e268555e2125487304aa72876c3493e39b220a054403e547d2390021"
+      "hash": "sha256:d8293f19ff3a2d09faf5138618426a49fe3a54f787452d478c66142490535a18"
     },
     {
       "id": "write-meeting-agenda",
@@ -84121,7 +84056,7 @@
       "version": "1.0.0",
       "title": "Write menu descriptions",
       "description": "Writes restaurant or cafe menu descriptions that are short, appetising and accurate, with section names and allergen notes taken only from supplied data, in the venue's voice.",
-      "category": "copywriting",
+      "category": "hospitality",
       "tags": [
         "menu-writing",
         "allergens",
@@ -84159,7 +84094,7 @@
           "copywriter"
         ]
       },
-      "hash": "sha256:e6606541a66326d2fc19dd9ee587002d8de9c5595232c3adb573c0dbd4cc2e0a"
+      "hash": "sha256:851a53162c5438e1e754ed8f855fc26816a8d279fd79c2037a4bef2105c2b655"
     },
     {
       "id": "write-messaging-framework",
@@ -86548,10 +86483,9 @@
       "version": "1.0.0",
       "title": "Write a press release",
       "description": "Writes a press release in standard news format with headline, dateline, lead, quotes, boilerplate and media contact, and flags claims that need proof. Use for launches, funding and partnerships.",
-      "category": "copywriting",
+      "category": "public-relations",
       "tags": [
         "press-release",
-        "public-relations",
         "announcement",
         "ap-style"
       ],
@@ -86583,7 +86517,7 @@
           "write-launch-announcement"
         ]
       },
-      "hash": "sha256:25130e65d4b22393e6d70ef4b3032b02f60272d04ecf8db8b2c7e2800fd0c5e3"
+      "hash": "sha256:dfeabf665c70e4ccb36bd2d35b4247c5d1aa01e89b2f474764801fe0471d8da6"
     },
     {
       "id": "write-prfaq",
@@ -86732,7 +86666,7 @@
       "version": "1.0.0",
       "title": "Write a product description",
       "description": "Writes e-commerce product descriptions that lead with benefits, include scannable specs and use the search terms buyers actually type. Use for store, marketplace or catalogue listings.",
-      "category": "copywriting",
+      "category": "ecommerce",
       "tags": [
         "product-page",
         "product-listing",
@@ -86780,7 +86714,7 @@
           "copywriter"
         ]
       },
-      "hash": "sha256:217a3ca7c37c60ab26e65d3d9c469659f52d044461362059e4f96cf2b56432b0"
+      "hash": "sha256:b8d4962b646456a923e7bc03a4fa68d4e947401f989c2e1854b1f9c7309e0226"
     },
     {
       "id": "write-product-photo-prompt",
@@ -87659,7 +87593,7 @@
       ],
       "tags": [
         "readme",
-        "open-source"
+        "open-source-project"
       ],
       "stage": [
         "ship",
@@ -87689,7 +87623,7 @@
           "technical-writer"
         ]
       },
-      "hash": "sha256:2842c7bfa023e8a7253ac9f78e72f7a74a41b36fb06ce0713756b5f94fbca9de"
+      "hash": "sha256:4a15ecd2beb36a65e4c31c420b176f2c17186804484d649e05265a9a2f3e5b26"
     },
     {
       "id": "write-real-estate-listing",
@@ -87697,7 +87631,7 @@
       "version": "1.0.0",
       "title": "Write a property listing",
       "description": "Writes property listing copy (headline, description, feature bullets and a short portal version) that is accurate, fair-housing safe and leads with what buyers care about.",
-      "category": "copywriting",
+      "category": "real-estate",
       "tags": [
         "property-listing",
         "fair-housing",
@@ -87741,7 +87675,7 @@
           "real-estate-agent"
         ]
       },
-      "hash": "sha256:6bcf3449a2679fa783f55718a548ad06a50fd6966c89558d052ca985599a6ece"
+      "hash": "sha256:bdcb1b25972bcf8e5a0a24cb2a9dd6b8fb0e9f076e93d85938fd0d432228ab79"
     },
     {
       "id": "write-reddit-post",
@@ -88132,7 +88066,7 @@
       "description": "Writes a research or grant proposal section (aims, significance, approach, timeline) mapped to the funder's criteria, with placeholders instead of invented data. Use for grant or thesis proposals.",
       "category": "scientific-writing",
       "tags": [
-        "grant-writing",
+        "research-funding",
         "specific-aims",
         "funding"
       ],
@@ -88171,7 +88105,7 @@
           "find-research-gaps"
         ]
       },
-      "hash": "sha256:d053695c9c9e28aede2ff6af228c1dc77f965864e15bbacb97d3f1f7781267a4"
+      "hash": "sha256:2778f606b49a4b1d999393db78cda7264dd2622a521ca61c82b37c3dbaf1c9ba"
     },
     {
       "id": "write-research-screener",
@@ -88886,12 +88820,11 @@
       "version": "1.0.0",
       "title": "Write a scope change email",
       "description": "Tells a client that a request is outside the agreed scope without friction, and offers options (a paid change, a swap or deferral) with cost and timeline. For freelancers, agencies and consultants.",
-      "category": "email",
+      "category": "freelancing",
       "tags": [
         "scope-creep",
         "change-request",
         "client-management",
-        "freelancing",
         "agency"
       ],
       "stage": [
@@ -88924,7 +88857,7 @@
           "write-project-proposal"
         ]
       },
-      "hash": "sha256:16f0289335b8c518195b6e1edfb33d5fa7d5ee0d972049ada0bc454b5e02dbd3"
+      "hash": "sha256:7fdc20af18e793c20625de70fbb41e1838d700dfb22e09fa35f5432542ed539e"
     },
     {
       "id": "write-screen-reader-test-plan",
@@ -92090,7 +92023,7 @@
       "version": "1.0.0",
       "title": "Write a workplace policy",
       "description": "Drafts an internal workplace policy such as remote work, expenses or leave, with purpose, scope, clear rules, exceptions, approval paths and the points that need HR and employment-law review.",
-      "category": "policies",
+      "category": "hr-operations",
       "tags": [
         "hr-policy",
         "remote-work",
@@ -92125,7 +92058,7 @@
           "build-compliance-checklist"
         ]
       },
-      "hash": "sha256:026201ded3ca19c3eaf3c3c1ea2ccde5ca4fc5362ecda92a1d321dbcef35dbd3"
+      "hash": "sha256:46857e20a1565cce87ddfd39466129edcddce5e9af84a160f5d527708233238c"
     },
     {
       "id": "write-workplace-risk-assessment",

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: paperwork
   source: https://hermes-ide.com/prompts/prepare-government-form
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Prepare a government form

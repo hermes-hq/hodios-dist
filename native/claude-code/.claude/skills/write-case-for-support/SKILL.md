@@ -11,9 +11,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.0
   kind: prompt
-  category: fundraising
+  category: nonprofit
   source: https://hermes-ide.com/prompts/write-case-for-support
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write a nonprofit case for support

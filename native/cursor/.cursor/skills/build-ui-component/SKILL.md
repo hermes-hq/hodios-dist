@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: implementation
   source: https://hermes-ide.com/prompts/build-ui-component
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Build a reusable UI component

@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: architecture
   source: https://hermes-ide.com/prompts/staff-engineer
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Staff engineer

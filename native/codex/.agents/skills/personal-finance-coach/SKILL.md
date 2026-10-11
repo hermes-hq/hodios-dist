@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: budgeting
   source: https://hermes-ide.com/prompts/personal-finance-coach
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Personal finance coach

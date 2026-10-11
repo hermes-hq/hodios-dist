@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: testing
   source: https://hermes-ide.com/prompts/test-coverage-campaign-track
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Raise meaningful test coverage across a codebase

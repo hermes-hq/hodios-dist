@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: entrepreneurship
   source: https://hermes-ide.com/prompts/startup-mentor
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Startup mentor

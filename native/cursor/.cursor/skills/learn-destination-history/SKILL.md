@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: local-culture
   source: https://hermes-ide.com/prompts/learn-destination-history
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Learn a destination's history

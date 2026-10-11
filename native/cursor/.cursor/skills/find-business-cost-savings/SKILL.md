@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: operations
   source: https://hermes-ide.com/prompts/find-business-cost-savings
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Find small-business cost savings

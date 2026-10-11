@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: resumes
   source: https://hermes-ide.com/prompts/rewrite-resume-bullets
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Rewrite resume bullets

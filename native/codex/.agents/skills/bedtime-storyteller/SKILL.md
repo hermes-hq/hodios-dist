@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: kids-activities
   source: https://hermes-ide.com/prompts/bedtime-storyteller
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Bedtime storyteller

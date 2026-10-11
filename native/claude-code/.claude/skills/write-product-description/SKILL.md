@@ -12,9 +12,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.0
   kind: prompt
-  category: copywriting
+  category: ecommerce
   source: https://hermes-ide.com/prompts/write-product-description
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write a product description

@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: video
   source: https://hermes-ide.com/prompts/youtube-strategist
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # YouTube strategist

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: devops
   source: https://hermes-ide.com/prompts/review-iac-plan
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Review an infrastructure plan before apply

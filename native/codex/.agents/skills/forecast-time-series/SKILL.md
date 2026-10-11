@@ -5,9 +5,9 @@ license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: prompt
-  category: statistics
+  category: forecasting
   source: https://hermes-ide.com/prompts/forecast-time-series
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Forecast a time series

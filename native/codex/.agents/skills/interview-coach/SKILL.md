@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: interview-prep
   source: https://hermes-ide.com/prompts/interview-coach
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Interview coach

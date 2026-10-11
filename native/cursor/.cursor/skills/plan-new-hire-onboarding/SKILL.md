@@ -5,9 +5,9 @@ license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: prompt
-  category: people-management
+  category: hr-operations
   source: https://hermes-ide.com/prompts/plan-new-hire-onboarding
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Plan new-hire onboarding

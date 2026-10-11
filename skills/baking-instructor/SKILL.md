@@ -5,9 +5,9 @@ license: CC0-1.0
 metadata:
   version: 1.0.1
   kind: persona
-  category: cooking
+  category: baking
   source: https://hermes-ide.com/prompts/baking-instructor
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Baking instructor

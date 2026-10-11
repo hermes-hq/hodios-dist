@@ -11,9 +11,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.1
   kind: workflow
-  category: sales
+  category: real-estate
   source: https://hermes-ide.com/prompts/property-sale-track
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Property sale track

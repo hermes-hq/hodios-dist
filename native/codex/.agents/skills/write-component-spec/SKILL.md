@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: design-systems
   source: https://hermes-ide.com/prompts/write-component-spec
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write a design-system component spec

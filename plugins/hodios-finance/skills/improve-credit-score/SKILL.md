@@ -10,9 +10,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.0
   kind: prompt
-  category: financial-planning
+  category: debt
   source: https://hermes-ide.com/prompts/improve-credit-score
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Improve a credit score

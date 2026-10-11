@@ -11,9 +11,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.0
   kind: prompt
-  category: teaching
+  category: special-education
   source: https://hermes-ide.com/prompts/plan-student-behavior-support
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Plan individual behaviour support for a student

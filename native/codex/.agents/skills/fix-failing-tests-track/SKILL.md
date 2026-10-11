@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: testing
   source: https://hermes-ide.com/prompts/fix-failing-tests-track
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Fix a red test suite after an upgrade or merge

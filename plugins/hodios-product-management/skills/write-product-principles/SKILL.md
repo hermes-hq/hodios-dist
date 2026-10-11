@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: product-strategy
   source: https://hermes-ide.com/prompts/write-product-principles
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write product principles

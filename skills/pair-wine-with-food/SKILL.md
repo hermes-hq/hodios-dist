@@ -5,9 +5,9 @@ license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: prompt
-  category: cooking
+  category: drinks
   source: https://hermes-ide.com/prompts/pair-wine-with-food
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Pair wine with a menu

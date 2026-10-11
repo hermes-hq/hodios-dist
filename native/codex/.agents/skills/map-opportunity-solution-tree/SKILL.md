@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: product-discovery
   source: https://hermes-ide.com/prompts/map-opportunity-solution-tree
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Map an opportunity solution tree

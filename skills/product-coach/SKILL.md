@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: product-discovery
   source: https://hermes-ide.com/prompts/product-coach
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Product coach

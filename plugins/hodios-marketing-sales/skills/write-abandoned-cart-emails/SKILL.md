@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: email-marketing
   source: https://hermes-ide.com/prompts/write-abandoned-cart-emails
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write abandoned cart emails

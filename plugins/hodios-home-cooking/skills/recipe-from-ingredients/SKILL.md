@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: cooking
   source: https://hermes-ide.com/prompts/recipe-from-ingredients
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Suggest recipes from what you have

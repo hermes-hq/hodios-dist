@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/explore-dataset
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Explore a dataset

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: reporting
   source: https://hermes-ide.com/prompts/write-weekly-metrics-update
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write a weekly metrics update

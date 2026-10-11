@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: interpersonal-communication
   source: https://hermes-ide.com/prompts/rehearse-difficult-conversation
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Rehearse a difficult conversation

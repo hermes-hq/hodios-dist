@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: pet-care
   source: https://hermes-ide.com/prompts/introduce-pets
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Introduce a new pet to resident pets

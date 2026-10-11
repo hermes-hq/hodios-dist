@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: product-strategy
   source: https://hermes-ide.com/prompts/plan-feature-sunset
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Plan a feature sunset

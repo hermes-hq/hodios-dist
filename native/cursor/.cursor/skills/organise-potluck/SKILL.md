@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: meal-planning
   source: https://hermes-ide.com/prompts/organise-potluck
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Organise a potluck

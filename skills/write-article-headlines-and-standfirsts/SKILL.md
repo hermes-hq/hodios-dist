@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: blogging
   source: https://hermes-ide.com/prompts/write-article-headlines-and-standfirsts
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write article headlines and standfirsts

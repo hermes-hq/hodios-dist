@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: taxes
   source: https://hermes-ide.com/prompts/track-business-expenses
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Set up business expense tracking

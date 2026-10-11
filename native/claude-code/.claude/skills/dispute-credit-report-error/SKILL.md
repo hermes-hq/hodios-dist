@@ -11,9 +11,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.0
   kind: prompt
-  category: legal-correspondence
+  category: debt
   source: https://hermes-ide.com/prompts/dispute-credit-report-error
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Dispute a credit report error

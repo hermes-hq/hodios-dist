@@ -11,9 +11,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.0
   kind: prompt
-  category: trip-planning
+  category: outdoors
   source: https://hermes-ide.com/prompts/plan-long-distance-walk
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Plan a long-distance walk

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: statistics
   source: https://hermes-ide.com/prompts/explain-statistical-concept
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Explain a statistics concept

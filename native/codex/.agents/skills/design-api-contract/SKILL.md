@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: architecture
   source: https://hermes-ide.com/prompts/design-api-contract
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Design an API contract

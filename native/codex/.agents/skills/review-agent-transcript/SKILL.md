@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: meta
   source: https://hermes-ide.com/prompts/review-agent-transcript
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Review a coding agent transcript

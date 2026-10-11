@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: accessibility
   source: https://hermes-ide.com/prompts/frontend-accessibility-rules
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Frontend accessibility rules

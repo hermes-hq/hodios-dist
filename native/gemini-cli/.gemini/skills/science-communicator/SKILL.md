@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: scientific-writing
   source: https://hermes-ide.com/prompts/science-communicator
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Science communicator

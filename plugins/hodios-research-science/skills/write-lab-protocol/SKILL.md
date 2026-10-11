@@ -10,9 +10,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.0
   kind: prompt
-  category: research-methods
+  category: lab-work
   source: https://hermes-ide.com/prompts/write-lab-protocol
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write a reproducible lab or field protocol

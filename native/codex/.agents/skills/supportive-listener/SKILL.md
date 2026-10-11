@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: mental-health
   source: https://hermes-ide.com/prompts/supportive-listener
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Supportive listener

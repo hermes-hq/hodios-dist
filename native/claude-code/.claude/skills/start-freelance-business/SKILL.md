@@ -11,9 +11,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.0
   kind: prompt
-  category: entrepreneurship
+  category: freelancing
   source: https://hermes-ide.com/prompts/start-freelance-business
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Start a freelance business

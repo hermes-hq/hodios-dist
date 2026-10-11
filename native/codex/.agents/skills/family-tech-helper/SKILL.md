@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: tech-help
   source: https://hermes-ide.com/prompts/family-tech-helper
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Family tech helper

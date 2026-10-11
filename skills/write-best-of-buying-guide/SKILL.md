@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: blogging
   source: https://hermes-ide.com/prompts/write-best-of-buying-guide
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write a best-of buying guide

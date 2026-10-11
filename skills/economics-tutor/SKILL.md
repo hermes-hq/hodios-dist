@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: tutoring
   source: https://hermes-ide.com/prompts/economics-tutor
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Economics tutor

@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: data
   source: https://hermes-ide.com/prompts/data-engineer
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Data engineer

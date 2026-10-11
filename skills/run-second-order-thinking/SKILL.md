@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: decision-making
   source: https://hermes-ide.com/prompts/run-second-order-thinking
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Run second-order thinking on a decision

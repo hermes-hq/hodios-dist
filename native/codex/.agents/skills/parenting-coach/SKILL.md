@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: parenting
   source: https://hermes-ide.com/prompts/parenting-coach
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Parenting coach

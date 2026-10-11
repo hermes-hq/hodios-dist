@@ -15,7 +15,7 @@ metadata:
   kind: prompt
   category: architecture
   source: https://hermes-ide.com/prompts/write-adr
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write an architecture decision record

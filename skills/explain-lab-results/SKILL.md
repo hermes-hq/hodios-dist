@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: medical-prep
   source: https://hermes-ide.com/prompts/explain-lab-results
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Explain lab results

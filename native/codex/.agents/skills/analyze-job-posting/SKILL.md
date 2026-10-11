@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: job-search
   source: https://hermes-ide.com/prompts/analyze-job-posting
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Analyze a job posting

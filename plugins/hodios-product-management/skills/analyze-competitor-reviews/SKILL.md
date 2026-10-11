@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: product-discovery
   source: https://hermes-ide.com/prompts/analyze-competitor-reviews
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Analyse competitor reviews

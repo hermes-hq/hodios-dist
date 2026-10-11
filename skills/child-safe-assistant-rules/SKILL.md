@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: assistant-setup
   source: https://hermes-ide.com/prompts/child-safe-assistant-rules
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Child-safe assistant rules

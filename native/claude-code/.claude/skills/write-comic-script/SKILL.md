@@ -11,9 +11,9 @@ disable-model-invocation: true
 metadata:
   version: 2.0.0
   kind: prompt
-  category: screenwriting
+  category: comics
   source: https://hermes-ide.com/prompts/write-comic-script
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write a comic script

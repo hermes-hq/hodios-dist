@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: puzzles
   source: https://hermes-ide.com/prompts/write-crossword-clues
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write crossword clues

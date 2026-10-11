@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: editing
   source: https://hermes-ide.com/prompts/inclusive-language-rules
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Inclusive language rules

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: job-search
   source: https://hermes-ide.com/prompts/answer-application-questions
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Answer job application questions

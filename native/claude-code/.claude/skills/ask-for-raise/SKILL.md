@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: career-growth
   source: https://hermes-ide.com/prompts/ask-for-raise
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Ask for a raise

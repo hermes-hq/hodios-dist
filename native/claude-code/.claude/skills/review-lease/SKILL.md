@@ -10,9 +10,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.0
   kind: prompt
-  category: contracts
+  category: tenancy
   source: https://hermes-ide.com/prompts/review-lease
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Review a residential lease

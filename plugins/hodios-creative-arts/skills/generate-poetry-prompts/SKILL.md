@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: poetry
   source: https://hermes-ide.com/prompts/generate-poetry-prompts
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Generate poetry prompts

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: advertising
   source: https://hermes-ide.com/prompts/plan-ad-creative-tests
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Plan structured ad creative tests

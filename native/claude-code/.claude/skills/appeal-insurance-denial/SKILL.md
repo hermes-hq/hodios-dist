@@ -11,9 +11,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.0
   kind: prompt
-  category: legal-correspondence
+  category: insurance
   source: https://hermes-ide.com/prompts/appeal-insurance-denial
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Appeal a denied insurance claim

@@ -1,6 +1,6 @@
 {
   "name": "hodios-productivity",
-  "version": "2026.1004.3",
+  "version": "2026.1011.0",
   "description": "Productivity and personal life prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -173,7 +173,6 @@
     "follow-through",
     "follow-up",
     "follow-ups",
-    "forecasting",
     "forum-thread",
     "fraud",
     "fresh-start",

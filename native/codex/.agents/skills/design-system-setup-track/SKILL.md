@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: design-systems
   source: https://hermes-ide.com/prompts/design-system-setup-track
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Set up a first design system

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: copywriting
   source: https://hermes-ide.com/prompts/request-customer-testimonials
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Request and edit customer testimonials

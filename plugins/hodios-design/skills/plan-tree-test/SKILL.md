@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: ux-research
   source: https://hermes-ide.com/prompts/plan-tree-test
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Plan a tree test

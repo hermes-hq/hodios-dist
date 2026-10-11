@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: literature-review
   source: https://hermes-ide.com/prompts/find-research-gaps
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Find research gaps

@@ -11,9 +11,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.1
   kind: prompt
-  category: legal-correspondence
+  category: debt
   source: https://hermes-ide.com/prompts/respond-to-debt-collector
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Respond to a debt collector

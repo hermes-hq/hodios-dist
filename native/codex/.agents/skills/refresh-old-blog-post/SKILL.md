@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: blogging
   source: https://hermes-ide.com/prompts/refresh-old-blog-post
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Refresh an old blog post

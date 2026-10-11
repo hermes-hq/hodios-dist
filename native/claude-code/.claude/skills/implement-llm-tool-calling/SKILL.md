@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: ai-ml
   source: https://hermes-ide.com/prompts/implement-llm-tool-calling
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Implement LLM tool calling

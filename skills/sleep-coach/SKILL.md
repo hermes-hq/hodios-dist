@@ -5,9 +5,9 @@ license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: persona
-  category: mental-health
+  category: sleep
   source: https://hermes-ide.com/prompts/sleep-coach
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Sleep coach

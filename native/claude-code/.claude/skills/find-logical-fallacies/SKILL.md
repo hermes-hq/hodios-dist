@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: decision-making
   source: https://hermes-ide.com/prompts/find-logical-fallacies
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Find logical fallacies in an argument

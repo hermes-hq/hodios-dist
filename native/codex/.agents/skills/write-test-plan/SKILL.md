@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: testing
   source: https://hermes-ide.com/prompts/write-test-plan
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write a test plan

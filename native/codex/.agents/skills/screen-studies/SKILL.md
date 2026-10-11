@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: literature-review
   source: https://hermes-ide.com/prompts/screen-studies
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Screen titles and abstracts

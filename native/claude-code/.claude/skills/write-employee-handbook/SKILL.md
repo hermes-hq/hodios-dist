@@ -10,9 +10,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.0
   kind: prompt
-  category: policies
+  category: hr-operations
   source: https://hermes-ide.com/prompts/write-employee-handbook
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write an employee handbook

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: nutrition
   source: https://hermes-ide.com/prompts/compare-diet-approaches
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Compare eating approaches

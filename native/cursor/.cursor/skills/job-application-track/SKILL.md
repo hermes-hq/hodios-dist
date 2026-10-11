@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: job-search
   source: https://hermes-ide.com/prompts/job-application-track
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Job application track

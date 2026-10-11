@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: planning
   source: https://hermes-ide.com/prompts/break-down-epic
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Break down an epic

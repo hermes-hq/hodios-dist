@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: reporting
   source: https://hermes-ide.com/prompts/explain-budget-variance
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Explain budget variances

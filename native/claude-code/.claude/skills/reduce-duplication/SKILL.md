@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: refactoring
   source: https://hermes-ide.com/prompts/reduce-duplication
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Reduce code duplication

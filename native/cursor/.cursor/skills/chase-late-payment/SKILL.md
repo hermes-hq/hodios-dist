@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: accounting
   source: https://hermes-ide.com/prompts/chase-late-payment
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Chase a late payment

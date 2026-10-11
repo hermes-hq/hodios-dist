@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: assistant-setup
   source: https://hermes-ide.com/prompts/review-custom-instructions
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Review custom instructions

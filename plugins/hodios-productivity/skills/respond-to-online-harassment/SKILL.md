@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: digital-safety
   source: https://hermes-ide.com/prompts/respond-to-online-harassment
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Respond to online harassment

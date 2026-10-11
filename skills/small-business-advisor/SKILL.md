@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: entrepreneurship
   source: https://hermes-ide.com/prompts/small-business-advisor
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Small business advisor

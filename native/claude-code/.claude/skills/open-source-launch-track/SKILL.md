@@ -9,9 +9,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.0
   kind: workflow
-  category: product-launch
+  category: open-source
   source: https://hermes-ide.com/prompts/open-source-launch-track
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Open-source launch track

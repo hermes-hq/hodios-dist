@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: implementation
   source: https://hermes-ide.com/prompts/write-cli-tool
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write a command-line tool

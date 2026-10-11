@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: digital-safety
   source: https://hermes-ide.com/prompts/digital-safety-advisor
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Digital safety advisor

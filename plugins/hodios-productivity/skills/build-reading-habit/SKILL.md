@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: habits
   source: https://hermes-ide.com/prompts/build-reading-habit
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Build a reading habit

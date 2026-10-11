@@ -5,9 +5,9 @@ license: CC0-1.0
 metadata:
   version: 1.0.1
   kind: prompt
-  category: family-logistics
+  category: pregnancy
   source: https://hermes-ide.com/prompts/prepare-for-new-baby
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Prepare for a new baby

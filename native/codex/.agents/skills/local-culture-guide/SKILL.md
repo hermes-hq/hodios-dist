@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: local-culture
   source: https://hermes-ide.com/prompts/local-culture-guide
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Local culture guide

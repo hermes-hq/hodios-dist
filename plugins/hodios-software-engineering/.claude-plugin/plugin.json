@@ -1,6 +1,6 @@
 {
   "name": "hodios-software-engineering",
-  "version": "2026.1004.3",
+  "version": "2026.1011.0",
   "description": "Software engineering prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -452,6 +452,8 @@
     "large-files",
     "late-data",
     "latency",
+    "launch-plan",
+    "launch-retro",
     "layered-architecture",
     "lcp",
     "learning",
@@ -537,6 +539,7 @@
     "one-on-ones",
     "oom",
     "open-source",
+    "open-source-project",
     "openapi-spec",
     "opentelemetry",
     "operability",
@@ -716,6 +719,7 @@
     "session-management",
     "session-review",
     "shellcheck",
+    "show-hn",
     "signals",
     "site-owners",
     "site-security",

@@ -5,9 +5,9 @@ license: CC0-1.0
 metadata:
   version: 1.0.1
   kind: prompt
-  category: financial-planning
+  category: debt
   source: https://hermes-ide.com/prompts/plan-debt-payoff
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Plan a debt payoff

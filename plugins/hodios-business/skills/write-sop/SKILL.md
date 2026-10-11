@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: operations
   source: https://hermes-ide.com/prompts/write-sop
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write a standard operating procedure

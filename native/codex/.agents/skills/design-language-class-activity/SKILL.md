@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: language-learning
   source: https://hermes-ide.com/prompts/design-language-class-activity
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Design a communicative language activity

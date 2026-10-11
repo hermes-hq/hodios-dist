@@ -5,9 +5,9 @@ license: CC0-1.0
 metadata:
   version: 1.0.0
   kind: prompt
-  category: cooking
+  category: baking
   source: https://hermes-ide.com/prompts/plan-bread-bake-schedule
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Plan a bread bake schedule

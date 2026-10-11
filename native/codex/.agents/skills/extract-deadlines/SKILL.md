@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: summarization
   source: https://hermes-ide.com/prompts/extract-deadlines
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Extract deadlines and dates

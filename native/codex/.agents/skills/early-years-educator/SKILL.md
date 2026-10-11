@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: teaching
   source: https://hermes-ide.com/prompts/early-years-educator
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Early-years educator

@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: gardening
   source: https://hermes-ide.com/prompts/master-gardener
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Master gardener

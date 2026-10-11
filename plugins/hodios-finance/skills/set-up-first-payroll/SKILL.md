@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: accounting
   source: https://hermes-ide.com/prompts/set-up-first-payroll
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Set up payroll for a first employee

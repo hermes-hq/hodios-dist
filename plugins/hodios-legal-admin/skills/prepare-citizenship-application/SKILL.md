@@ -10,9 +10,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.0
   kind: prompt
-  category: paperwork
+  category: immigration
   source: https://hermes-ide.com/prompts/prepare-citizenship-application
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Prepare a citizenship application

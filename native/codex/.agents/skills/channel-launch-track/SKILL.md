@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: video
   source: https://hermes-ide.com/prompts/channel-launch-track
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Channel launch track

@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: family-logistics
   source: https://hermes-ide.com/prompts/moving-house-track
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Moving house track

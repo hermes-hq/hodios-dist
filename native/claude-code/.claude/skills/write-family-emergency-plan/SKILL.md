@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: family-logistics
   source: https://hermes-ide.com/prompts/write-family-emergency-plan
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write a family emergency plan

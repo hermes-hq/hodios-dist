@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: planning
   source: https://hermes-ide.com/prompts/engineering-manager
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Engineering manager

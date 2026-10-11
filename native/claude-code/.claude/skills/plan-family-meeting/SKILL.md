@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: family-logistics
   source: https://hermes-ide.com/prompts/plan-family-meeting
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Plan a family meeting

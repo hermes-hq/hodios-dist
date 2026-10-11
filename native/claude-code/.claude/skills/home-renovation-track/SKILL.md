@@ -12,7 +12,7 @@ metadata:
   kind: workflow
   category: home-improvement
   source: https://hermes-ide.com/prompts/home-renovation-track
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Home renovation track

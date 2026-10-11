@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: business-strategy
   source: https://hermes-ide.com/prompts/plan-market-entry
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Plan a market entry

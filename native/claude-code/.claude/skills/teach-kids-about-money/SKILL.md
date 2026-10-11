@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: financial-planning
   source: https://hermes-ide.com/prompts/teach-kids-about-money
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Plan money lessons for kids

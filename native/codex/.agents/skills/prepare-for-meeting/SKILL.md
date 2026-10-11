@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: meetings
   source: https://hermes-ide.com/prompts/prepare-for-meeting
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Prepare for a meeting

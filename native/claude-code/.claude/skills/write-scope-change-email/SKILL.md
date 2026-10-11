@@ -11,9 +11,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.0
   kind: prompt
-  category: email
+  category: freelancing
   source: https://hermes-ide.com/prompts/write-scope-change-email
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write a scope change email

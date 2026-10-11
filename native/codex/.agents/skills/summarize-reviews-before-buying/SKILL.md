@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: summarization
   source: https://hermes-ide.com/prompts/summarize-reviews-before-buying
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Summarise reviews before buying

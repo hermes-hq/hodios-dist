@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: assistant-setup
   source: https://hermes-ide.com/prompts/map-ai-use-cases
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Map where AI helps in your work

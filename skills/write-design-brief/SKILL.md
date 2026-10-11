@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: graphic-design
   source: https://hermes-ide.com/prompts/write-design-brief
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write a creative brief for a designer

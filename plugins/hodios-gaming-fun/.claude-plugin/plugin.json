@@ -1,6 +1,6 @@
 {
   "name": "hodios-gaming-fun",
-  "version": "2026.1004.3",
+  "version": "2026.1011.0",
   "description": "Gaming and fun prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -17,7 +17,6 @@
     "balancing",
     "best-man",
     "bingo",
-    "board-game-design",
     "board-games",
     "boss-strategy",
     "boxed-text",
@@ -49,7 +48,6 @@
     "deduction",
     "design-pillars",
     "dinner-party",
-    "drama-games",
     "encounter-design",
     "escape-room",
     "events",
@@ -79,11 +77,9 @@
     "house-rules",
     "humor",
     "icebreakers",
-    "improv",
     "indie-games",
     "interactive-fiction",
     "kids-party",
-    "level-design",
     "light-verse",
     "limericks",
     "lines-and-veils",
@@ -150,7 +146,6 @@
     "session-prep",
     "session-recap",
     "session-zero",
-    "side-coaching",
     "side-quests",
     "singalong",
     "solo-play",
@@ -179,7 +174,6 @@
     "whodunit",
     "word-play",
     "wordplay",
-    "workshop-plan",
     "would-you-rather"
   ]
 }

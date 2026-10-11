@@ -1,6 +1,6 @@
 {
   "name": "hodios-content-creation",
-  "version": "2026.1004.3",
+  "version": "2026.1011.0",
   "description": "Content creation prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -37,7 +37,6 @@
     "blogging",
     "book-criticism",
     "booking",
-    "brand-deals",
     "brand-outreach",
     "brand-safety",
     "brand-voice",
@@ -87,8 +86,8 @@
     "continuity",
     "contributor-guide",
     "creative-nonfiction",
+    "creator-business",
     "creator-collaboration",
-    "creator-economy",
     "creator-outreach",
     "creator-revenue",
     "crisis-communication",
@@ -170,6 +169,7 @@
     "line-editing",
     "link-roundup",
     "livestream",
+    "livestreaming",
     "long-form-to-short-form",
     "loop",
     "media-kit",

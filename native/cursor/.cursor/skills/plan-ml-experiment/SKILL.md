@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: ai-ml
   source: https://hermes-ide.com/prompts/plan-ml-experiment
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Plan a machine-learning experiment

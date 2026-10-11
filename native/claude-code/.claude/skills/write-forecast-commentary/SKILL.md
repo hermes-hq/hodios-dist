@@ -10,9 +10,9 @@ disable-model-invocation: true
 metadata:
   version: 1.0.0
   kind: prompt
-  category: reporting
+  category: forecasting
   source: https://hermes-ide.com/prompts/write-forecast-commentary
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Write forecast commentary

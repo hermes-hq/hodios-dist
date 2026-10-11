@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: legal-correspondence
   source: https://hermes-ide.com/prompts/cancel-contract-or-subscription
-  catalog: 2026.1004.3
+  catalog: 2026.1011.0
 ---
 
 # Cancel a contract or subscription
