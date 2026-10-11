@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: product-strategy
   source: https://hermes-ide.com/prompts/run-product-teardown
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Run a product teardown

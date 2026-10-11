@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: meal-planning
   source: https://hermes-ide.com/prompts/plan-school-lunches
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Plan a week of school lunches

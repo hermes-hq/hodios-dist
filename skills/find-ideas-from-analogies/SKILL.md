@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: brainstorming
   source: https://hermes-ide.com/prompts/find-ideas-from-analogies
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Find ideas from analogies

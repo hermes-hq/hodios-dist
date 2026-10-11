@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: mental-health
   source: https://hermes-ide.com/prompts/mindfulness-teacher
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Mindfulness teacher

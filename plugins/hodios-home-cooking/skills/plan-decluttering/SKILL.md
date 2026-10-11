@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: housekeeping
   source: https://hermes-ide.com/prompts/plan-decluttering
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Plan a decluttering project

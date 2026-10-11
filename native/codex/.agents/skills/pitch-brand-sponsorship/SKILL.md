@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: creator-business
   source: https://hermes-ide.com/prompts/pitch-brand-sponsorship
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Pitch a brand sponsorship

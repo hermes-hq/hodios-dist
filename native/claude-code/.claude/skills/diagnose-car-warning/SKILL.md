@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: vehicles
   source: https://hermes-ide.com/prompts/diagnose-car-warning
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Diagnose a car warning sign

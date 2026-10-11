@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: special-education
   source: https://hermes-ide.com/prompts/plan-student-behavior-support
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Plan individual behaviour support for a student

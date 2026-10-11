@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: forecasting
   source: https://hermes-ide.com/prompts/forecast-time-series
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Forecast a time series

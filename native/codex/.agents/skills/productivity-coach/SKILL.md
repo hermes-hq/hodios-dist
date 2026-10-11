@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: habits
   source: https://hermes-ide.com/prompts/productivity-coach
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Productivity coach

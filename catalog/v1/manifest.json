@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "catalog": "2026.1011.0",
-  "seq": 10,
+  "catalog": "2026.1011.1",
+  "seq": 11,
   "minClientVersion": "0.1.0",
   "objects": "o/{aa}/{sha256}",
   "tiers": {
@@ -10,8 +10,8 @@
       "rows": 1995
     },
     "verified": {
-      "list": "sha256:1edf9e39a279bcb965785bca648a09f9ac30a4d95c20f4b67dcb7ca5dc089984",
-      "rows": 5130
+      "list": "sha256:1c0e3646325033fd5252eb22b5621a29c193c1e4b7b5e4c5558fd0ab701d346a",
+      "rows": 8167
     }
   },
   "deltas": [],

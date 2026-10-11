@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: hiring
   source: https://hermes-ide.com/prompts/respond-to-candidate-counteroffer
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Respond to a candidate's counteroffer

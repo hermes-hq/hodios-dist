@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: public-relations
   source: https://hermes-ide.com/prompts/write-press-release
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Write a press release

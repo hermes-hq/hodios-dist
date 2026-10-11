@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: data-visualization
   source: https://hermes-ide.com/prompts/chart-design-rules
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Chart design rules

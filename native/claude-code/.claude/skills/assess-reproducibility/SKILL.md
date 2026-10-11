@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: peer-review
   source: https://hermes-ide.com/prompts/assess-reproducibility
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Assess a paper's reproducibility

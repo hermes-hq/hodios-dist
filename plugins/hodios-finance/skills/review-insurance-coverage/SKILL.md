@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: insurance
   source: https://hermes-ide.com/prompts/review-insurance-coverage
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Review household insurance coverage

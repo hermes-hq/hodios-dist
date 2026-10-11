@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: operations
   source: https://hermes-ide.com/prompts/run-five-whys
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Run a five-whys analysis

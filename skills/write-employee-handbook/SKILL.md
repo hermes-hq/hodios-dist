@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: hr-operations
   source: https://hermes-ide.com/prompts/write-employee-handbook
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Write an employee handbook

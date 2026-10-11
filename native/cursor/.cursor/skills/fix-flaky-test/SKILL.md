@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: testing
   source: https://hermes-ide.com/prompts/fix-flaky-test
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Fix a flaky test

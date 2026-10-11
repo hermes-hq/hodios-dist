@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: tutoring
   source: https://hermes-ide.com/prompts/plan-essay-argument
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Plan an essay argument

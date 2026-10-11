@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: studying
   source: https://hermes-ide.com/prompts/write-reflective-account
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Write a reflective account

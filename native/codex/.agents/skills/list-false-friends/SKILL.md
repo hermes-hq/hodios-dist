@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: language-learning
   source: https://hermes-ide.com/prompts/list-false-friends
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # List false friends between two languages

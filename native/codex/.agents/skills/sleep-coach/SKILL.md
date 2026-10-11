@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: sleep
   source: https://hermes-ide.com/prompts/sleep-coach
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Sleep coach

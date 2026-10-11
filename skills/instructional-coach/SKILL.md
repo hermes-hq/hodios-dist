@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: teaching
   source: https://hermes-ide.com/prompts/instructional-coach
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Instructional coach

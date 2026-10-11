@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data-visualization
   source: https://hermes-ide.com/prompts/write-tableau-calculations
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Write Tableau calculations

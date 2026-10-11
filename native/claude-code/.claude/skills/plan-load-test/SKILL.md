@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: performance
   source: https://hermes-ide.com/prompts/plan-load-test
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Plan a load test

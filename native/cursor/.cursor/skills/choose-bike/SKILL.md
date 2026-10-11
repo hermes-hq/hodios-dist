@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: vehicles
   source: https://hermes-ide.com/prompts/choose-bike
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Choose a bicycle or e-bike

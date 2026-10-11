@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: chronic-conditions
   source: https://hermes-ide.com/prompts/plan-chronic-condition-self-management
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Plan chronic condition self-management

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: pregnancy
   source: https://hermes-ide.com/prompts/prepare-for-new-baby
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Prepare for a new baby

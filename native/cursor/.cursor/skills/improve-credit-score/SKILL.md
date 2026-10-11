@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: debt
   source: https://hermes-ide.com/prompts/improve-credit-score
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Improve a credit score

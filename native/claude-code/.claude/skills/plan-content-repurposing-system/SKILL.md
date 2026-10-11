@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: content-strategy
   source: https://hermes-ide.com/prompts/plan-content-repurposing-system
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Plan a content repurposing system

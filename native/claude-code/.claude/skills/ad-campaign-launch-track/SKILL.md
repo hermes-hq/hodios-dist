@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: advertising
   source: https://hermes-ide.com/prompts/ad-campaign-launch-track
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Ad campaign launch track

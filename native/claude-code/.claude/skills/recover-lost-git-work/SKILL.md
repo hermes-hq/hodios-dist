@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: git
   source: https://hermes-ide.com/prompts/recover-lost-git-work
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Recover lost Git work

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: image-generation
   source: https://hermes-ide.com/prompts/plan-ai-art-series
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Plan an AI art series

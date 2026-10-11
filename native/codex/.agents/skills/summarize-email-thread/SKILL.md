@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: summarization
   source: https://hermes-ide.com/prompts/summarize-email-thread
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Summarise an email thread

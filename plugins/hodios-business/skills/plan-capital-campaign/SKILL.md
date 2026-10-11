@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: nonprofit
   source: https://hermes-ide.com/prompts/plan-capital-campaign
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Plan a capital campaign

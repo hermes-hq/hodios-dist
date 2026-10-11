@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: debt
   source: https://hermes-ide.com/prompts/dispute-credit-report-error
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Dispute a credit report error

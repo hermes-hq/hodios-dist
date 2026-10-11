@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: photography
   source: https://hermes-ide.com/prompts/choose-camera-gear
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Choose camera gear

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: game-design
   source: https://hermes-ide.com/prompts/design-game-level
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Design a game level

@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: assistant-setup
   source: https://hermes-ide.com/prompts/privacy-first-assistant-rules
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Privacy-first assistant rules

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: devops
   source: https://hermes-ide.com/prompts/write-kubernetes-manifests
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Write Kubernetes manifests

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: public-relations
   source: https://hermes-ide.com/prompts/pitch-journalist
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Pitch a journalist

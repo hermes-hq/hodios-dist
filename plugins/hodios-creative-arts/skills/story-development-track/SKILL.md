@@ -12,7 +12,7 @@ metadata:
   kind: workflow
   category: fiction
   source: https://hermes-ide.com/prompts/story-development-track
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Story development track

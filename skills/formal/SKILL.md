@@ -7,7 +7,7 @@ metadata:
   kind: style
   category: output-styles
   source: https://hermes-ide.com/prompts/formal
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Formal

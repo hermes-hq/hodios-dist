@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: travel-logistics
   source: https://hermes-ide.com/prompts/check-destination-safety
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Build a destination safety brief

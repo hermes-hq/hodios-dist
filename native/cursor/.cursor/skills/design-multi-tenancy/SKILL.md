@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: architecture
   source: https://hermes-ide.com/prompts/design-multi-tenancy
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Design a multi-tenant architecture

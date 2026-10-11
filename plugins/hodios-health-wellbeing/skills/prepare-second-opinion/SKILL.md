@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: medical-prep
   source: https://hermes-ide.com/prompts/prepare-second-opinion
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Prepare for a second opinion

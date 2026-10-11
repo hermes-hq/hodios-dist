@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: statistics
   source: https://hermes-ide.com/prompts/calculate-inter-rater-reliability
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Calculate inter-rater reliability

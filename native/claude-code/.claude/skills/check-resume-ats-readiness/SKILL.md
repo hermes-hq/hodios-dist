@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: resumes
   source: https://hermes-ide.com/prompts/check-resume-ats-readiness
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Check a resume for ATS readiness

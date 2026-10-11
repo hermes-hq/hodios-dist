@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: trivia
   source: https://hermes-ide.com/prompts/create-custom-bingo
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Create custom bingo cards

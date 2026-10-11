@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: editing
   source: https://hermes-ide.com/prompts/proofread-text
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Proofread a text

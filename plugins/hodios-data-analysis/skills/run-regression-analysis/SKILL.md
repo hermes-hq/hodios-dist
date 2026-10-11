@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: statistics
   source: https://hermes-ide.com/prompts/run-regression-analysis
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Run a regression analysis

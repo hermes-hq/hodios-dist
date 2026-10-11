@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: nonprofit
   source: https://hermes-ide.com/prompts/write-impact-report
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Write an annual impact report

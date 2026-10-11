@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: studying
   source: https://hermes-ide.com/prompts/understand-assignment-brief
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Understand an assignment brief

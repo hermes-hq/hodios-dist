@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: conventions
   source: https://hermes-ide.com/prompts/spring-boot-rules
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Spring Boot rules

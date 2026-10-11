@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: mental-health
   source: https://hermes-ide.com/prompts/guide-mindfulness-meditation
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Guide a mindfulness meditation

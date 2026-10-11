@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: public-speaking
   source: https://hermes-ide.com/prompts/speaking-coach
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Public-speaking coach

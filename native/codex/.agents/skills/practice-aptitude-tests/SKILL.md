@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: interview-prep
   source: https://hermes-ide.com/prompts/practice-aptitude-tests
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Practise aptitude tests

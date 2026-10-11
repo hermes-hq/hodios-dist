@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: caregiving
   source: https://hermes-ide.com/prompts/plan-parent-care-conversation
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Plan a care conversation with an ageing parent

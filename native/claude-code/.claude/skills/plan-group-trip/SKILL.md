@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: trip-planning
   source: https://hermes-ide.com/prompts/plan-group-trip
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Plan a group trip

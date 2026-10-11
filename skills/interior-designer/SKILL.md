@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: interior-design
   source: https://hermes-ide.com/prompts/interior-designer
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Interior designer

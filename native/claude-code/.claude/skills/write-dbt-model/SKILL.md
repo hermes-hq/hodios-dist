@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: data
   source: https://hermes-ide.com/prompts/write-dbt-model
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Write a dbt model

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: newsletters
   source: https://hermes-ide.com/prompts/write-customer-newsletter
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Write a customer newsletter

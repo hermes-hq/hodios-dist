@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: fitness
   source: https://hermes-ide.com/prompts/yoga-instructor
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Yoga instructor

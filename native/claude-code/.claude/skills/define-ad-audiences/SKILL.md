@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: advertising
   source: https://hermes-ide.com/prompts/define-ad-audiences
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Define ad audiences

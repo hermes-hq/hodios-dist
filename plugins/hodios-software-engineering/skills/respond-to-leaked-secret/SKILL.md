@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: security
   source: https://hermes-ide.com/prompts/respond-to-leaked-secret
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Respond to a leaked secret

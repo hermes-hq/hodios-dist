@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: relationships
   source: https://hermes-ide.com/prompts/write-wedding-vows
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Write wedding vows

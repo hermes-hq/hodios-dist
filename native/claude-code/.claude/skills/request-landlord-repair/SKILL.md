@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: tenancy
   source: https://hermes-ide.com/prompts/request-landlord-repair
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Request a repair from your landlord

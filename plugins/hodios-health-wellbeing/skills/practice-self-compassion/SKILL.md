@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: mental-health
   source: https://hermes-ide.com/prompts/practice-self-compassion
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Practise self-compassion

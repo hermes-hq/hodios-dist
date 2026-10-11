@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: investing
   source: https://hermes-ide.com/prompts/write-investment-policy-statement
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Write a personal investment policy statement

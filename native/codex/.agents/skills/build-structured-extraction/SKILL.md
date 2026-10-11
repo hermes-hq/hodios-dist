@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: ai-ml
   source: https://hermes-ide.com/prompts/build-structured-extraction
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Build an LLM structured extraction step

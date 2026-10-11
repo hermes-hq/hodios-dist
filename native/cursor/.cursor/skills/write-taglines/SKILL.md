@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: copywriting
   source: https://hermes-ide.com/prompts/write-taglines
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Write taglines and slogans

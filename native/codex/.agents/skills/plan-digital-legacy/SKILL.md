@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: digital-safety
   source: https://hermes-ide.com/prompts/plan-digital-legacy
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Plan your digital legacy

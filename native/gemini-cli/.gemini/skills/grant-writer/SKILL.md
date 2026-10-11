@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: grant-writing
   source: https://hermes-ide.com/prompts/grant-writer
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Grant writer

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: business-strategy
   source: https://hermes-ide.com/prompts/draw-strategy-canvas
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Draw a strategy canvas

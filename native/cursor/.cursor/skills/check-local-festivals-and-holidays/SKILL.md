@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: local-culture
   source: https://hermes-ide.com/prompts/check-local-festivals-and-holidays
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Check local festivals and holidays

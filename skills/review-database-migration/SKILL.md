@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data
   source: https://hermes-ide.com/prompts/review-database-migration
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Review a database migration

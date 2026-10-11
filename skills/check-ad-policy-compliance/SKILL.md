@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: advertising
   source: https://hermes-ide.com/prompts/check-ad-policy-compliance
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Check ads against platform policies

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: security
   source: https://hermes-ide.com/prompts/threat-model-feature
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Threat model a feature

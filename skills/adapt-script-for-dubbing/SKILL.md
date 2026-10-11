@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: translation
   source: https://hermes-ide.com/prompts/adapt-script-for-dubbing
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Adapt a script for dubbing or voice-over

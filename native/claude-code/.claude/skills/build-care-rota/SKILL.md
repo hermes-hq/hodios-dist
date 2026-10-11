@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: caregiving
   source: https://hermes-ide.com/prompts/build-care-rota
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Build a family care rota

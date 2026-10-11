@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/design-classroom-activity
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Design an active-learning activity

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: gardening
   source: https://hermes-ide.com/prompts/build-garden-calendar
-  catalog: 2026.1011.0
+  catalog: 2026.1011.1
 ---
 
 # Build a garden calendar
