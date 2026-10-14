@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: meal-planning
   source: https://hermes-ide.com/prompts/plan-mixed-diet-household-meals
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan meals for a mixed-diet household

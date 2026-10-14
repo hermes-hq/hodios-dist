@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: decision-making
   source: https://hermes-ide.com/prompts/steelman-opposing-view
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Steelman the opposing view

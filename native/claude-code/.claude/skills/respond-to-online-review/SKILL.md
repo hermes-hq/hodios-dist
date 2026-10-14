@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: customer-support
   source: https://hermes-ide.com/prompts/respond-to-online-review
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Respond to an online review

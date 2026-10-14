@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/reconcile-datasets
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Reconcile two datasets

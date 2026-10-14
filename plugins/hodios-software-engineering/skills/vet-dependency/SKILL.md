@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: security
   source: https://hermes-ide.com/prompts/vet-dependency
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Vet a dependency before adding it

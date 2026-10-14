@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: grant-writing
   source: https://hermes-ide.com/prompts/grant-proposal-track
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Grant proposal track

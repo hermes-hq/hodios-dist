@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: tutoring
   source: https://hermes-ide.com/prompts/analyze-literary-work
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Analyse a literary work

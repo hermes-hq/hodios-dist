@@ -1,0 +1,5 @@
+interface:
+  display_name: Find a gift
+  short_description: Finds gift ideas for anyone and any occasion, asking who it is for, the occasion and budget if missing, then gives a shortlist tied to the person with prices, timing and a top pick.
+policy:
+  allow_implicit_invocation: false

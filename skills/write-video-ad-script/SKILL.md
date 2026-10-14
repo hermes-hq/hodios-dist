@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: advertising
   source: https://hermes-ide.com/prompts/write-video-ad-script
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write a video ad script

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: customer-support
   source: https://hermes-ide.com/prompts/roleplay-difficult-customer
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Role-play a difficult customer

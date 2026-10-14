@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: mental-health
   source: https://hermes-ide.com/prompts/plan-digital-detox
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan a cut in screen time

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: humor
   source: https://hermes-ide.com/prompts/write-parody-lyrics
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write parody lyrics

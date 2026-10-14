@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: public-relations
   source: https://hermes-ide.com/prompts/pr-strategist
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # PR strategist

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: insurance
   source: https://hermes-ide.com/prompts/appeal-insurance-denial
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Appeal a denied insurance claim

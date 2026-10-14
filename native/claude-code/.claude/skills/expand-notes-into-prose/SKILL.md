@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: editing
   source: https://hermes-ide.com/prompts/expand-notes-into-prose
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Expand notes into prose

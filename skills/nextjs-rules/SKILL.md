@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: conventions
   source: https://hermes-ide.com/prompts/nextjs-rules
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Next.js rules

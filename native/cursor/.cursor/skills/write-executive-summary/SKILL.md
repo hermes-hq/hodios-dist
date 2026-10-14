@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: business-writing
   source: https://hermes-ide.com/prompts/write-executive-summary
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write an executive summary

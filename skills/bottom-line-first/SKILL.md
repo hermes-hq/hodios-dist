@@ -7,7 +7,7 @@ metadata:
   kind: style
   category: output-styles
   source: https://hermes-ide.com/prompts/bottom-line-first
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Bottom line first

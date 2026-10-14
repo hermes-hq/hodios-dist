@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: git
   source: https://hermes-ide.com/prompts/write-commit-message
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write a commit message

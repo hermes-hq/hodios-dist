@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: tutoring
   source: https://hermes-ide.com/prompts/literature-tutor
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Literature tutor

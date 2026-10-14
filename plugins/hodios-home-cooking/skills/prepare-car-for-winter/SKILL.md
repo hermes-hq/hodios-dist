@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: vehicles
   source: https://hermes-ide.com/prompts/prepare-car-for-winter
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Prepare a car for winter

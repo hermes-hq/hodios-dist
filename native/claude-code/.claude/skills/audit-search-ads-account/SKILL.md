@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: advertising
   source: https://hermes-ide.com/prompts/audit-search-ads-account
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Audit a search ads account

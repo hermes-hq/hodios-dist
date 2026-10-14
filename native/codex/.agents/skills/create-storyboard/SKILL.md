@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: image-generation
   source: https://hermes-ide.com/prompts/create-storyboard
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Create a storyboard with image prompts

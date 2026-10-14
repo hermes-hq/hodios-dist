@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: social-media
   source: https://hermes-ide.com/prompts/plan-carousel-post
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan a carousel post

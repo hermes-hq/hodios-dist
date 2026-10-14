@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: course-design
   source: https://hermes-ide.com/prompts/peer-tutoring-launch-track
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Peer tutoring launch track

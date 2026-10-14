@@ -1,0 +1,5 @@
+interface:
+  display_name: Make a budget
+  short_description: Builds a first simple budget from your take-home pay and main costs, irregular ones included, with a weekly spending number and fixes if it does not add up. Use when you keep running short.
+policy:
+  allow_implicit_invocation: false

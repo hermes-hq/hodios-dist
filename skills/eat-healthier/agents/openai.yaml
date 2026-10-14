@@ -1,0 +1,5 @@
+interface:
+  display_name: Eat healthier
+  short_description: Turns "I want to eat healthier" into three small changes built from your real day, with easy swaps and a two-week start, after a quick health check. Use when you do not know where to begin.
+policy:
+  allow_implicit_invocation: false

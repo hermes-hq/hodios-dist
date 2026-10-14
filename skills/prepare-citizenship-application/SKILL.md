@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: immigration
   source: https://hermes-ide.com/prompts/prepare-citizenship-application
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Prepare a citizenship application

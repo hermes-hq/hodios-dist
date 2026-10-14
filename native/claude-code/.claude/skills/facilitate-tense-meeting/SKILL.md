@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: meetings
   source: https://hermes-ide.com/prompts/facilitate-tense-meeting
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Facilitate a tense meeting

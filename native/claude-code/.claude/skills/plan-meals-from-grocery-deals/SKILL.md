@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: meal-planning
   source: https://hermes-ide.com/prompts/plan-meals-from-grocery-deals
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan meals from grocery deals

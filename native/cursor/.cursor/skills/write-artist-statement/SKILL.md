@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: visual-art
   source: https://hermes-ide.com/prompts/write-artist-statement
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write an artist statement

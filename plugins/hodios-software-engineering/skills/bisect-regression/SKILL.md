@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: debugging
   source: https://hermes-ide.com/prompts/bisect-regression
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Bisect a regression

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: job-search
   source: https://hermes-ide.com/prompts/accept-job-offer-in-writing
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Accept a job offer in writing

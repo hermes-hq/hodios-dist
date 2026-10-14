@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: trivia
   source: https://hermes-ide.com/prompts/write-icebreaker-games
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write icebreakers and party games

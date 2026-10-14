@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: branding
   source: https://hermes-ide.com/prompts/run-brand-audit
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Run a brand audit

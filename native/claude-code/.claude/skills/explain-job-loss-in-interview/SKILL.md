@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: interview-prep
   source: https://hermes-ide.com/prompts/explain-job-loss-in-interview
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Explain a layoff or dismissal in an interview

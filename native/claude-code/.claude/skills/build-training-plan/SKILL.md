@@ -15,7 +15,7 @@ metadata:
   kind: prompt
   category: fitness
   source: https://hermes-ide.com/prompts/build-training-plan
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Build a progressive training plan

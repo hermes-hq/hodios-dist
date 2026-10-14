@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: scientific-writing
   source: https://hermes-ide.com/prompts/paper-writing-track
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Paper writing track

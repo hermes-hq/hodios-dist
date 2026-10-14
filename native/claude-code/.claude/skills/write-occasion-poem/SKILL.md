@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: poetry
   source: https://hermes-ide.com/prompts/write-occasion-poem
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write a poem for an occasion

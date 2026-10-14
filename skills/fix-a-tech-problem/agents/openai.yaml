@@ -1,0 +1,5 @@
+interface:
+  display_name: Fix a tech problem
+  short_description: Troubleshoots phones, computers, Wi-Fi, printers and apps in plain words, asking what happens and what changed, then safe steps from the simplest fix up. Use when a device is not doing what it should.
+policy:
+  allow_implicit_invocation: false

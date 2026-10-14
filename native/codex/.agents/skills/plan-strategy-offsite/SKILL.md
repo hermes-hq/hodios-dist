@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: business-strategy
   source: https://hermes-ide.com/prompts/plan-strategy-offsite
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan a leadership strategy offsite

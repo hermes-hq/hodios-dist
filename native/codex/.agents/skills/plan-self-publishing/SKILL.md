@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fiction
   source: https://hermes-ide.com/prompts/plan-self-publishing
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan self-publishing a book

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: business-writing
   source: https://hermes-ide.com/prompts/write-user-manual
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write a user manual

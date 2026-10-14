@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: trivia
   source: https://hermes-ide.com/prompts/create-party-game-cards
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Create party game cards

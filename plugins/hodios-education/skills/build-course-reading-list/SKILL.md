@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: course-design
   source: https://hermes-ide.com/prompts/build-course-reading-list
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Build a course reading list

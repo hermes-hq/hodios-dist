@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: editing
   source: https://hermes-ide.com/prompts/capture-writing-voice
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Capture a writing voice profile

@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: studying
   source: https://hermes-ide.com/prompts/choose-degree-course
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Choose a degree course

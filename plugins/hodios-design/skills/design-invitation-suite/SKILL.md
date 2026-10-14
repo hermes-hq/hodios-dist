@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: graphic-design
   source: https://hermes-ide.com/prompts/design-invitation-suite
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Design an invitation suite

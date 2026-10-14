@@ -1,0 +1,5 @@
+interface:
+  display_name: Sleep better
+  short_description: Works out what kind of sleep problem you have, screens for signs that need a doctor, and gives three changes and a two-week sleep experiment. Use when you sleep badly and do not know where to start.
+policy:
+  allow_implicit_invocation: false

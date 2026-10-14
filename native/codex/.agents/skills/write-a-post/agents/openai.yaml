@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a social media post
+  short_description: Writes a ready-to-paste post for any platform from your idea, fitted to the platform, the readers and your goal, in three versions with different openings. Use for personal, work or business posts.
+policy:
+  allow_implicit_invocation: false

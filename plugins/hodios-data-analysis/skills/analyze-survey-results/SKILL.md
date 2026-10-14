@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/analyze-survey-results
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Analyse survey results

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: music
   source: https://hermes-ide.com/prompts/write-artist-bio
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write an artist bio

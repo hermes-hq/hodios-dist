@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: implementation
   source: https://hermes-ide.com/prompts/elixir-phoenix-engineer
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Elixir and Phoenix engineer

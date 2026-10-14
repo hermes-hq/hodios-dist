@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: graphic-design
   source: https://hermes-ide.com/prompts/event-visual-identity-track
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Build an event visual identity

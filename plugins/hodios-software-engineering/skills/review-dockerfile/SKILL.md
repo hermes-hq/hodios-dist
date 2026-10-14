@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: devops
   source: https://hermes-ide.com/prompts/review-dockerfile
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Review a Dockerfile

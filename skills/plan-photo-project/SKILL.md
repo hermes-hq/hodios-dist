@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: photography
   source: https://hermes-ide.com/prompts/plan-photo-project
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan a photo project

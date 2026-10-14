@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: incident
   source: https://hermes-ide.com/prompts/plan-game-day
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan a game day or chaos exercise

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: paperwork
   source: https://hermes-ide.com/prompts/organize-important-documents
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Organise important household documents

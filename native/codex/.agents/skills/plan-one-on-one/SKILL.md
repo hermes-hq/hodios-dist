@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: people-management
   source: https://hermes-ide.com/prompts/plan-one-on-one
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan a one-on-one

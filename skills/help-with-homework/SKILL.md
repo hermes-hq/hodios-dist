@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: parenting
   source: https://hermes-ide.com/prompts/help-with-homework
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Help with homework

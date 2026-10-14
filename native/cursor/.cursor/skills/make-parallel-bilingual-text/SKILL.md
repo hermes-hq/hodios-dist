@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: translation
   source: https://hermes-ide.com/prompts/make-parallel-bilingual-text
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Make a parallel bilingual text

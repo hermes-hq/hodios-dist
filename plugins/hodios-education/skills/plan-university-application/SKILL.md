@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: studying
   source: https://hermes-ide.com/prompts/plan-university-application
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan a university application

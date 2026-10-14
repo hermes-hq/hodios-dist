@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: data-visualization
   source: https://hermes-ide.com/prompts/choose-chart-type
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Choose a chart type

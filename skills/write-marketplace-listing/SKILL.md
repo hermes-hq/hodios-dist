@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: ecommerce
   source: https://hermes-ide.com/prompts/write-marketplace-listing
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write a marketplace product listing

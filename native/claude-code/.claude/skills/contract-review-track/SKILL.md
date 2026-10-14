@@ -12,7 +12,7 @@ metadata:
   kind: workflow
   category: contracts
   source: https://hermes-ide.com/prompts/contract-review-track
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Contract review track

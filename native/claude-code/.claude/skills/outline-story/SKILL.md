@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: fiction
   source: https://hermes-ide.com/prompts/outline-story
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Outline a story

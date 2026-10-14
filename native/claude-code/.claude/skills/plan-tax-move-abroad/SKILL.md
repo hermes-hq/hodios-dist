@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: taxes
   source: https://hermes-ide.com/prompts/plan-tax-move-abroad
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan the tax side of moving abroad

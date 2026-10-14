@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: implementation
   source: https://hermes-ide.com/prompts/game-developer
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Game developer

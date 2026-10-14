@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: data
   source: https://hermes-ide.com/prompts/database-administrator
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Database administrator

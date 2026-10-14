@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: poetry
   source: https://hermes-ide.com/prompts/analyze-poem
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Analyse a poem

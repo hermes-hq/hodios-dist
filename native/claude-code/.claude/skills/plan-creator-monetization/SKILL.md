@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: creator-business
   source: https://hermes-ide.com/prompts/plan-creator-monetization
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan creator monetization

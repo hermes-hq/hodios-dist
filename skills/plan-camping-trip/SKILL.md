@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: outdoors
   source: https://hermes-ide.com/prompts/plan-camping-trip
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan a camping trip

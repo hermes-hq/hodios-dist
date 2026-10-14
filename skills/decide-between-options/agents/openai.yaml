@@ -1,0 +1,5 @@
+interface:
+  display_name: Help me decide
+  short_description: Helps you decide between options by comparing them against what matters most to you, then gives an honest read, what would change it and a next step. Use when you are stuck on a choice.
+policy:
+  allow_implicit_invocation: false

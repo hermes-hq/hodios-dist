@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: local-culture
   source: https://hermes-ide.com/prompts/prepare-for-culture-shock
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Prepare for culture shock

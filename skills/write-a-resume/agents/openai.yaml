@@ -1,0 +1,5 @@
+interface:
+  display_name: Write a resume or CV
+  short_description: Writes a resume or CV from scratch or from an old one, asking the target role, your experience and the country you apply in, with achievement bullets, local conventions and no invented facts.
+policy:
+  allow_implicit_invocation: false

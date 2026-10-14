@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: tech-help
   source: https://hermes-ide.com/prompts/plan-smart-home
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan a smart home

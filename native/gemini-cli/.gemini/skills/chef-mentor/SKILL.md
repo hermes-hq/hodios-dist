@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: cooking
   source: https://hermes-ide.com/prompts/chef-mentor
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Chef mentor

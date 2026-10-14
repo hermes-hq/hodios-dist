@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/differentiate-lesson
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Differentiate a lesson

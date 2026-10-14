@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: implementation
   source: https://hermes-ide.com/prompts/dotnet-engineer
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # .NET engineer

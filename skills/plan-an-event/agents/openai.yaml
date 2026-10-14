@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan an event or party
+  short_description: Plans a birthday, party or small gathering from the occasion, guests, date and budget, with a budget split, food amounts, a to-do list and a plan for the day. Use when you are hosting.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Learn something new
+  short_description: Builds a learning path for any skill or topic from your goal, time and level, with milestones, practice that sticks and a first session for today. Use when you want to start learning something.
+policy:
+  allow_implicit_invocation: false

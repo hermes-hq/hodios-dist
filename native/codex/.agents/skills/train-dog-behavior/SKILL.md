@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: pet-care
   source: https://hermes-ide.com/prompts/train-dog-behavior
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Train a dog behaviour

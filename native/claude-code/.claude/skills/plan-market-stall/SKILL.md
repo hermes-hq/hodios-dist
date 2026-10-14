@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: entrepreneurship
   source: https://hermes-ide.com/prompts/plan-market-stall
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan a market stall or pop-up

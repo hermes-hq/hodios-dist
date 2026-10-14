@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: summarization
   source: https://hermes-ide.com/prompts/compare-documents
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Compare two documents

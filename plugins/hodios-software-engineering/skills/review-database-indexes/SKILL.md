@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: data
   source: https://hermes-ide.com/prompts/review-database-indexes
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Review database indexes against the workload

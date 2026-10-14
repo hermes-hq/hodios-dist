@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: public-speaking
   source: https://hermes-ide.com/prompts/critique-speech-recording
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Critique a speech recording

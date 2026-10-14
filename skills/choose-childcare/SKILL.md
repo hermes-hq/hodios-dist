@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: parenting
   source: https://hermes-ide.com/prompts/choose-childcare
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Choose childcare

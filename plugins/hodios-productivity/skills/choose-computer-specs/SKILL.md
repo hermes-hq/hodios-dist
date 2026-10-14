@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: tech-help
   source: https://hermes-ide.com/prompts/choose-computer-specs
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Choose computer specs

@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: newsletters
   source: https://hermes-ide.com/prompts/newsletter-editor
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Newsletter editor

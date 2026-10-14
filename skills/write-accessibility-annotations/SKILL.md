@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: design-systems
   source: https://hermes-ide.com/prompts/write-accessibility-annotations
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write accessibility annotations

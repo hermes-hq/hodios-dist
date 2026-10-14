@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/generate-discussion-questions
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Generate discussion questions

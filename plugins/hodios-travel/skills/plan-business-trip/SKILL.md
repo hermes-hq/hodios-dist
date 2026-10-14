@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: travel-logistics
   source: https://hermes-ide.com/prompts/plan-business-trip
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan a business trip

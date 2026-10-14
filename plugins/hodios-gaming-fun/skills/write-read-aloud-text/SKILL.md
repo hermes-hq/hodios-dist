@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: tabletop-rpg
   source: https://hermes-ide.com/prompts/write-read-aloud-text
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write read-aloud text

@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: git
   source: https://hermes-ide.com/prompts/conventional-commits-rules
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Conventional Commits rules

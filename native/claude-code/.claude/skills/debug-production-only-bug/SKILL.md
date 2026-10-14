@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: debugging
   source: https://hermes-ide.com/prompts/debug-production-only-bug
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Debug a production-only bug

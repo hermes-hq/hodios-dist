@@ -1,0 +1,5 @@
+interface:
+  display_name: Fix a bug
+  short_description: Fixes a bug from a symptom or error, asking what happens, what should happen and how to trigger it if missing, then reproduces it, fixes the cause and proves it. Start here for any bug.
+policy:
+  allow_implicit_invocation: false

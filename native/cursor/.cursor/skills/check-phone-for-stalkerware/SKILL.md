@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: digital-safety
   source: https://hermes-ide.com/prompts/check-phone-for-stalkerware
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Check a phone for stalkerware

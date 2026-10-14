@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: security
   source: https://hermes-ide.com/prompts/dependency-hygiene-rules
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Dependency hygiene rules

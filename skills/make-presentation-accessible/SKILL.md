@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: presentations
   source: https://hermes-ide.com/prompts/make-presentation-accessible
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Make a presentation accessible

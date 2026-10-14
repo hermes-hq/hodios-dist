@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: homeschooling
   source: https://hermes-ide.com/prompts/plan-homeschool-year
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan a homeschool year

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: creator-business
   source: https://hermes-ide.com/prompts/design-membership-tiers
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Design paid membership tiers

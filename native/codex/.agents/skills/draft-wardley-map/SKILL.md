@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: business-strategy
   source: https://hermes-ide.com/prompts/draft-wardley-map
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Draft a Wardley map

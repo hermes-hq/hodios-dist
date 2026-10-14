@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: debugging
   source: https://hermes-ide.com/prompts/reproduce-bug-report
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Turn a bug report into a minimal reproduction

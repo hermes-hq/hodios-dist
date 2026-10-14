@@ -15,7 +15,7 @@ metadata:
   kind: prompt
   category: language-learning
   source: https://hermes-ide.com/prompts/generate-language-drills
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Generate grammar drills

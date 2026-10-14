@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: freelancing
   source: https://hermes-ide.com/prompts/price-services
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Price your services

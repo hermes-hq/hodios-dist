@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: career-growth
   source: https://hermes-ide.com/prompts/propose-flexible-work
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Propose a flexible work arrangement

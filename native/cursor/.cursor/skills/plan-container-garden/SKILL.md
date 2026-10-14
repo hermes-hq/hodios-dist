@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: gardening
   source: https://hermes-ide.com/prompts/plan-container-garden
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan a container garden

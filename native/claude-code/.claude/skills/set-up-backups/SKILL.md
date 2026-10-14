@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: tech-help
   source: https://hermes-ide.com/prompts/set-up-backups
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Set up backups

@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: music
   source: https://hermes-ide.com/prompts/plan-instrument-practice
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan instrument practice

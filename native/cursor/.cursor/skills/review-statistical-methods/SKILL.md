@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: peer-review
   source: https://hermes-ide.com/prompts/review-statistical-methods
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Review the statistics in a manuscript

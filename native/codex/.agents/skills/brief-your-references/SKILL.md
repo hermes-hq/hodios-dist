@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: job-search
   source: https://hermes-ide.com/prompts/brief-your-references
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Brief your references

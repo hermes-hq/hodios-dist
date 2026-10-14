@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: interpersonal-communication
   source: https://hermes-ide.com/prompts/adapt-message-for-culture
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Adapt a message for another business culture

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: compliance
   source: https://hermes-ide.com/prompts/write-workplace-risk-assessment
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write a workplace risk assessment

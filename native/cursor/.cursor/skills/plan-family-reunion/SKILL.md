@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: relationships
   source: https://hermes-ide.com/prompts/plan-family-reunion
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan a family reunion

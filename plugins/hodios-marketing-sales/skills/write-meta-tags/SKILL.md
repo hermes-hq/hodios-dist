@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: seo
   source: https://hermes-ide.com/prompts/write-meta-tags
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write meta tags

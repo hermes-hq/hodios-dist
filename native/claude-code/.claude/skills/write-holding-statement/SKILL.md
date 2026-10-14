@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: public-relations
   source: https://hermes-ide.com/prompts/write-holding-statement
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write a crisis holding statement

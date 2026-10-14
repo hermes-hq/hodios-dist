@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: poetry
   source: https://hermes-ide.com/prompts/order-poetry-manuscript
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Order a poetry manuscript

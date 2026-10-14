@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: travel-logistics
   source: https://hermes-ide.com/prompts/plan-flight-search
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan a flight search strategy

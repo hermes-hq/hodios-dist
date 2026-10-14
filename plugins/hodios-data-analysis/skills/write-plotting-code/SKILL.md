@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: data-visualization
   source: https://hermes-ide.com/prompts/write-plotting-code
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write plotting code

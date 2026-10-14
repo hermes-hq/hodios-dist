@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: security
   source: https://hermes-ide.com/prompts/review-pr-for-security
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Review a pull request for security

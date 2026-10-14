@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: podcasting
   source: https://hermes-ide.com/prompts/launch-podcast
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Launch a podcast

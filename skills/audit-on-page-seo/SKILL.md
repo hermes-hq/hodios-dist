@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: seo
   source: https://hermes-ide.com/prompts/audit-on-page-seo
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Audit on-page SEO

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: debt
   source: https://hermes-ide.com/prompts/compare-loan-offers
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Compare loan offers

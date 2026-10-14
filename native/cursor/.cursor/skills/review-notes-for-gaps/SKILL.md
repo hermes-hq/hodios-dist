@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: studying
   source: https://hermes-ide.com/prompts/review-notes-for-gaps
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Review notes for gaps

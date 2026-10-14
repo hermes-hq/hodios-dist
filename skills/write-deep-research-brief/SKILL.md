@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: prompt-engineering
   source: https://hermes-ide.com/prompts/write-deep-research-brief
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write a deep-research brief

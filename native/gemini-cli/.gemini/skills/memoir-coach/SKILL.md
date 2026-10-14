@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: life-writing
   source: https://hermes-ide.com/prompts/memoir-coach
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Memoir coach

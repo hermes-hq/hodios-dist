@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: chronic-conditions
   source: https://hermes-ide.com/prompts/plan-activity-pacing
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan activity pacing

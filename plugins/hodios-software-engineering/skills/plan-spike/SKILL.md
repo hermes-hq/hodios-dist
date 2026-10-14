@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: planning
   source: https://hermes-ide.com/prompts/plan-spike
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan a spike

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: security
   source: https://hermes-ide.com/prompts/plan-secrets-management
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan secrets management

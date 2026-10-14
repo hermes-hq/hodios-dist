@@ -1,0 +1,5 @@
+interface:
+  display_name: Find a job
+  short_description: Starts a job search from zero by finding jobs that fit your experience, where to look, what to get ready, and a two-week plan with steps for today. Use when you need work and are unsure how to start.
+policy:
+  allow_implicit_invocation: false

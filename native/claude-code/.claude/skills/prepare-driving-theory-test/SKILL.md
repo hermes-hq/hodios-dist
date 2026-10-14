@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: exam-prep
   source: https://hermes-ide.com/prompts/prepare-driving-theory-test
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Prepare for a driving theory test

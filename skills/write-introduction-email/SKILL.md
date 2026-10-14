@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: email
   source: https://hermes-ide.com/prompts/write-introduction-email
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write an introduction email

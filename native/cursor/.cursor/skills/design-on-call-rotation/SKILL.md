@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: incident
   source: https://hermes-ide.com/prompts/design-on-call-rotation
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Design an on-call rotation

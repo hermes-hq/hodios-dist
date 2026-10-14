@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: reporting
   source: https://hermes-ide.com/prompts/monthly-reporting-cycle-track
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Monthly reporting cycle track

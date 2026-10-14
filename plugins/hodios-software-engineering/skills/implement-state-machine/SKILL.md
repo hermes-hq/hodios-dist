@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: implementation
   source: https://hermes-ide.com/prompts/implement-state-machine
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Implement a state machine

@@ -11,7 +11,7 @@ metadata:
   kind: workflow
   category: open-source
   source: https://hermes-ide.com/prompts/open-source-launch-track
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Open-source launch track

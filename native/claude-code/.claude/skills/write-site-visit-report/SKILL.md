@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: business-writing
   source: https://hermes-ide.com/prompts/write-site-visit-report
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write a site visit report

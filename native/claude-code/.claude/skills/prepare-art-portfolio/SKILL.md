@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: visual-art
   source: https://hermes-ide.com/prompts/prepare-art-portfolio
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Prepare an art portfolio

@@ -1,0 +1,5 @@
+interface:
+  display_name: What to cook tonight
+  short_description: Suggests three dinners from what you have, your time, who is eating and any diet, then gives a full recipe for the best one. Use when you open the fridge and have no idea what to make.
+policy:
+  allow_implicit_invocation: false

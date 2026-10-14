@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: language-learning
   source: https://hermes-ide.com/prompts/intelligibility-coach
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Pronunciation coach for intelligibility

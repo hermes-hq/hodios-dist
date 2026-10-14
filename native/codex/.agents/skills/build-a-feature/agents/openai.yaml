@@ -1,0 +1,5 @@
+interface:
+  display_name: Build a feature
+  short_description: Builds a feature from an idea rather than a full spec, asking the few questions that change the design, proposing a small plan, then implementing and testing it. Start here for new features.
+policy:
+  allow_implicit_invocation: false

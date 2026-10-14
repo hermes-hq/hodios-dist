@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: habits
   source: https://hermes-ide.com/prompts/break-bad-habit
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Break a bad habit

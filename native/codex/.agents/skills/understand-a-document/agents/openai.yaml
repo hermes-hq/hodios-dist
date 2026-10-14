@@ -1,0 +1,5 @@
+interface:
+  display_name: Understand a letter or form
+  short_description: Explains any official letter, bill, form or contract page in plain words, with what it asks, every deadline and amount, scam warning signs and next steps. Use when paperwork confuses or worries you.
+policy:
+  allow_implicit_invocation: false

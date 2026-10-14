@@ -1,0 +1,5 @@
+interface:
+  display_name: Summarize anything
+  short_description: Summarizes anything you paste, from an article or report to an email thread or meeting notes, adapted to what it is and what you need, faithful to the source and with any actions and dates pulled out.
+policy:
+  allow_implicit_invocation: false

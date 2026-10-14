@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: sleep
   source: https://hermes-ide.com/prompts/beat-jet-lag
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Beat jet lag

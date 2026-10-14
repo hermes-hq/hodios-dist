@@ -1,0 +1,5 @@
+interface:
+  display_name: Plan a trip
+  short_description: Plans a trip from a blank start, asking where, when, who and budget if missing, then gives a day-by-day outline, a budget and a booking checklist. Use when you want to go somewhere.
+policy:
+  allow_implicit_invocation: false

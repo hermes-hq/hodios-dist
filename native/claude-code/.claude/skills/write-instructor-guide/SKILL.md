@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: course-design
   source: https://hermes-ide.com/prompts/write-instructor-guide
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write a facilitator guide

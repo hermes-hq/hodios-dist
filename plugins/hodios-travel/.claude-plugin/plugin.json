@@ -1,6 +1,6 @@
 {
   "name": "hodios-travel",
-  "version": "2026.1014.0",
+  "version": "2026.1014.1",
   "description": "Travel prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -79,9 +79,11 @@
     "frequent-flyer",
     "gap-year",
     "gear-checklist",
+    "getaway",
     "gift-giving",
     "group-travel",
     "heritage-sites",
+    "holiday",
     "holiday-rentals",
     "homesickness",
     "homestay",
@@ -182,6 +184,7 @@
     "volunteer-travel",
     "volunteering",
     "voluntourism",
+    "weekend-away",
     "wheelchair-travel",
     "where-to-stay",
     "wilderness",

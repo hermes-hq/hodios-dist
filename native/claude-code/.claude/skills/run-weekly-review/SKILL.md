@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: task-management
   source: https://hermes-ide.com/prompts/run-weekly-review
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Run a weekly review

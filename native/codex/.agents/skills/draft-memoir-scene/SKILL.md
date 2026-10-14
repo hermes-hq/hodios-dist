@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: life-writing
   source: https://hermes-ide.com/prompts/draft-memoir-scene
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Draft a memoir scene

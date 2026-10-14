@@ -1,0 +1,5 @@
+interface:
+  display_name: Write an email
+  short_description: Writes any email, to a boss, landlord, school or company, asking who it is for and what it should achieve if missing, with a clear subject, the ask up front and no invented facts.
+policy:
+  allow_implicit_invocation: false

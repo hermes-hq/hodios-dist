@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: interview-prep
   source: https://hermes-ide.com/prompts/answer-salary-expectations
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Answer salary expectation questions

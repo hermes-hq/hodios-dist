@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: roadmapping
   source: https://hermes-ide.com/prompts/prioritize-features
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Prioritize features

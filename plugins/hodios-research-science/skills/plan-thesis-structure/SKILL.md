@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: scientific-writing
   source: https://hermes-ide.com/prompts/plan-thesis-structure
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan a thesis structure

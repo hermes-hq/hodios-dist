@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: exam-prep
   source: https://hermes-ide.com/prompts/prepare-citizenship-test
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Prepare for a citizenship test

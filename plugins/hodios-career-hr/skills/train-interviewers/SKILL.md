@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: hiring
   source: https://hermes-ide.com/prompts/train-interviewers
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Train interviewers

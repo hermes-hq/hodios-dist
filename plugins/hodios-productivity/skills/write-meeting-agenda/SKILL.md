@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: meetings
   source: https://hermes-ide.com/prompts/write-meeting-agenda
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write a meeting agenda

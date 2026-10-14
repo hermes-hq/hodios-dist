@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: exam-prep
   source: https://hermes-ide.com/prompts/quiz-me-interactively
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Quiz me interactively

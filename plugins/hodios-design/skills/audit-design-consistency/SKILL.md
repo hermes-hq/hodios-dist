@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: design-systems
   source: https://hermes-ide.com/prompts/audit-design-consistency
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Audit design consistency across screens

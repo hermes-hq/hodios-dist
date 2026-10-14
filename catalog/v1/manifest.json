@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "format": "1.1",
-  "catalog": "2026.1014.0",
-  "seq": 12,
+  "catalog": "2026.1014.1",
+  "seq": 13,
   "minClientVersion": "0.1.0",
   "objects": "o/{aa}/{sha256}",
   "tiers": {
     "curated": {
-      "list": "sha256:29e850d3d35a0d3d5f7af93ff6c1ff70a74aa6ae58c47f49649c1bc3afd953c9",
+      "list": "sha256:e4da1c745b22d506abcdb064f06548157ebcf2626d85ba1fe0b1e13cc927c7a3",
       "rows": 1995
     },
     "verified": {
-      "list": "sha256:2a120b97811e7d9d44599bf9d5454e83d690ebaa87e519b42e683f5635991116",
+      "list": "sha256:2d61f5eca189ce9b55bc530a3e8b35987afc58062ad1b04cc61aa8ccb6df04ba",
       "rows": 8246
     }
   },

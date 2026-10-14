@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: product-launch
   source: https://hermes-ide.com/prompts/plan-feature-adoption-push
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Plan a feature adoption push

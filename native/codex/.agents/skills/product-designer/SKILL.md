@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: ui-design
   source: https://hermes-ide.com/prompts/product-designer
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Product designer

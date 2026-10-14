@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: email-marketing
   source: https://hermes-ide.com/prompts/write-email-sequence
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write an email sequence

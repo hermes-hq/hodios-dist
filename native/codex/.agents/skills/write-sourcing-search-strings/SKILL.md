@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: hiring
   source: https://hermes-ide.com/prompts/write-sourcing-search-strings
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write sourcing search strings

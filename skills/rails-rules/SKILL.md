@@ -7,7 +7,7 @@ metadata:
   kind: rule
   category: conventions
   source: https://hermes-ide.com/prompts/rails-rules
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Ruby on Rails rules

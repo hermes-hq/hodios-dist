@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: marketing-strategy
   source: https://hermes-ide.com/prompts/growth-marketer
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Growth marketer

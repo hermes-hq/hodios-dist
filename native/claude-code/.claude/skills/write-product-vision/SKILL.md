@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: product-strategy
   source: https://hermes-ide.com/prompts/write-product-vision
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write a product vision

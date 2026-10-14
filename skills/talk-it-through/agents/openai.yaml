@@ -1,0 +1,5 @@
+interface:
+  display_name: Talk it through
+  short_description: Talks through whatever is on your mind, a worry, a choice or a plan, one question at a time, reflecting back, then summarising with a next step. Use when your head is full and you want to think aloud.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: Get fit
+  short_description: Builds a safe four-week beginner plan from your goal, fitness, time and equipment after a quick health check, with a simple progression rule. Use when you want to get fit and do not know how.
+policy:
+  allow_implicit_invocation: false

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: social-media
   source: https://hermes-ide.com/prompts/write-linkedin-post
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write a LinkedIn post

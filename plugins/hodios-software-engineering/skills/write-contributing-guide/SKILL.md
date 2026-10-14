@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: open-source
   source: https://hermes-ide.com/prompts/write-contributing-guide
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Write a CONTRIBUTING guide

@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: exam-prep
   source: https://hermes-ide.com/prompts/exam-prep-track
-  catalog: 2026.1014.0
+  catalog: 2026.1014.1
 ---
 
 # Exam preparation track
