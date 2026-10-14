@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: exam-prep
   source: https://hermes-ide.com/prompts/prepare-certification-exam
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Prepare for a certification exam

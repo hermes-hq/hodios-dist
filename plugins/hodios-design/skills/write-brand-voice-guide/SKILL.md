@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: branding
   source: https://hermes-ide.com/prompts/write-brand-voice-guide
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write a brand voice and tone guide

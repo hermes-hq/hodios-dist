@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: task-management
   source: https://hermes-ide.com/prompts/chief-of-staff
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Chief of staff

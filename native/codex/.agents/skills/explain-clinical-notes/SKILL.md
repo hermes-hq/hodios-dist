@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: medical-prep
   source: https://hermes-ide.com/prompts/explain-clinical-notes
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Explain clinical notes

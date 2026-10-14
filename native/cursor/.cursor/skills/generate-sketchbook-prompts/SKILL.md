@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: visual-art
   source: https://hermes-ide.com/prompts/generate-sketchbook-prompts
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Generate sketchbook prompts

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: digital-safety
   source: https://hermes-ide.com/prompts/secure-devices-for-travel
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Secure devices for travel

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: localization
   source: https://hermes-ide.com/prompts/review-i18n-readiness
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Review code for internationalization bugs

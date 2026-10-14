@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: debugging
   source: https://hermes-ide.com/prompts/find-root-cause
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Find the root cause of a bug

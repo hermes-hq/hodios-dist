@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: career-growth
   source: https://hermes-ide.com/prompts/first-job-mentor
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # First job mentor

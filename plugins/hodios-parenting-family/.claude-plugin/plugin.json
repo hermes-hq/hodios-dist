@@ -1,6 +1,6 @@
 {
   "name": "hodios-parenting-family",
-  "version": "2026.1011.1",
+  "version": "2026.1014.0",
   "description": "Parenting and family prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -45,6 +45,7 @@
     "childcare",
     "childhood-anxiety",
     "childminder",
+    "christmas-gifts",
     "clear-out",
     "co-parenting",
     "communication",
@@ -103,6 +104,7 @@
     "game-based-learning",
     "getting-out-the-door",
     "getting-to-know-someone",
+    "gift-for-mum",
     "gift-ideas",
     "go-bag",
     "grandparents",
@@ -158,6 +160,7 @@
     "potty-training",
     "pregnancy",
     "preschool",
+    "present-ideas",
     "proposal",
     "quality-time",
     "read-aloud",

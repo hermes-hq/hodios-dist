@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: brainstorming
   source: https://hermes-ide.com/prompts/write-how-might-we-questions
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write "how might we" questions

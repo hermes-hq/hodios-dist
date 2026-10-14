@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: accessibility
   source: https://hermes-ide.com/prompts/review-color-contrast
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Review colour contrast and fix the palette

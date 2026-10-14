@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: mental-health
   source: https://hermes-ide.com/prompts/manage-event-anxiety
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Manage anxiety before an event

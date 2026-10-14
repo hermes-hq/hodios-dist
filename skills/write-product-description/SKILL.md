@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: ecommerce
   source: https://hermes-ide.com/prompts/write-product-description
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write a product description

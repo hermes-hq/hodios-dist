@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: product-discovery
   source: https://hermes-ide.com/prompts/write-opportunity-assessment
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write an opportunity assessment

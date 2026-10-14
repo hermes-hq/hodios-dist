@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: music
   source: https://hermes-ide.com/prompts/plan-music-release
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Plan a music release

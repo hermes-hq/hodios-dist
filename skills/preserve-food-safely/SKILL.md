@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: cooking
   source: https://hermes-ide.com/prompts/preserve-food-safely
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Preserve food safely

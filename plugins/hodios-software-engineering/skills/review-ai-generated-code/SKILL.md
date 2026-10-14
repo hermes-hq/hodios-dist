@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: code-review
   source: https://hermes-ide.com/prompts/review-ai-generated-code
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Review AI-generated code

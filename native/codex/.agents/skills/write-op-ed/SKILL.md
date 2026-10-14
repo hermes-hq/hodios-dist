@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: blogging
   source: https://hermes-ide.com/prompts/write-op-ed
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write an op-ed

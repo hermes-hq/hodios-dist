@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: tech-help
   source: https://hermes-ide.com/prompts/check-used-device
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Check a used device before buying

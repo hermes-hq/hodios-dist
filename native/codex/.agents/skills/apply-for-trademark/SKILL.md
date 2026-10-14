@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: intellectual-property
   source: https://hermes-ide.com/prompts/apply-for-trademark
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Prepare a trademark application

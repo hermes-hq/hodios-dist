@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: statistics
   source: https://hermes-ide.com/prompts/compute-survey-margin-of-error
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Compute a survey margin of error

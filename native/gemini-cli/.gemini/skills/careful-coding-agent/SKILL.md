@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: meta
   source: https://hermes-ide.com/prompts/careful-coding-agent
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Careful coding agent

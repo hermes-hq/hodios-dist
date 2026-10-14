@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: business-writing
   source: https://hermes-ide.com/prompts/write-white-paper
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write a white paper

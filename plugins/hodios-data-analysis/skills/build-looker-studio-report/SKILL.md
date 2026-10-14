@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: data-visualization
   source: https://hermes-ide.com/prompts/build-looker-studio-report
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Build a Looker Studio report

@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: business-strategy
   source: https://hermes-ide.com/prompts/management-consultant
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Management consultant

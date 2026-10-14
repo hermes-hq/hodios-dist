@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: medical-prep
   source: https://hermes-ide.com/prompts/prepare-for-surgery
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Prepare for a planned procedure

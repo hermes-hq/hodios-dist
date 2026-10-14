@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: puzzles
   source: https://hermes-ide.com/prompts/analyze-chess-game
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Analyse a chess game

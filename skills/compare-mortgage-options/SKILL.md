@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: financial-planning
   source: https://hermes-ide.com/prompts/compare-mortgage-options
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Compare mortgage options

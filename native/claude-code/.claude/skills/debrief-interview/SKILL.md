@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: interview-prep
   source: https://hermes-ide.com/prompts/debrief-interview
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Debrief an interview

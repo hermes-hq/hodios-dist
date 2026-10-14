@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: product-discovery
   source: https://hermes-ide.com/prompts/synthesize-customer-interviews
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Synthesize customer interviews

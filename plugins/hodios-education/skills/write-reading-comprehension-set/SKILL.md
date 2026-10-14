@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/write-reading-comprehension-set
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write a reading comprehension set

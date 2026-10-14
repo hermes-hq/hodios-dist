@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: refactoring
   source: https://hermes-ide.com/prompts/remove-dead-code
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Remove dead code safely

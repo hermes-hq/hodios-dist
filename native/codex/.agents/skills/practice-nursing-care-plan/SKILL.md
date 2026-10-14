@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: clinical-practice
   source: https://hermes-ide.com/prompts/practice-nursing-care-plan
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Practise writing a nursing care plan

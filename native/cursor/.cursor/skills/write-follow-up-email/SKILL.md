@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: email
   source: https://hermes-ide.com/prompts/write-follow-up-email
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write a follow-up to an unanswered email

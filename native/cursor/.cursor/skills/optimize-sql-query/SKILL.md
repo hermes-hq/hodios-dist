@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: performance
   source: https://hermes-ide.com/prompts/optimize-sql-query
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Optimise a slow SQL query

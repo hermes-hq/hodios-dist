@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: meal-planning
   source: https://hermes-ide.com/prompts/plan-zero-waste-kitchen
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Plan a low-waste kitchen

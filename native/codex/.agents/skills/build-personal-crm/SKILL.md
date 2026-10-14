@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: note-taking
   source: https://hermes-ide.com/prompts/build-personal-crm
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Build a personal CRM for staying in touch

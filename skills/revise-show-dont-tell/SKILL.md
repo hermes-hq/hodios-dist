@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fiction
   source: https://hermes-ide.com/prompts/revise-show-dont-tell
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Revise telling into showing

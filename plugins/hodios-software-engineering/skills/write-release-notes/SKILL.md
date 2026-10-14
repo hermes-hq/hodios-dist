@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: docs
   source: https://hermes-ide.com/prompts/write-release-notes
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write release notes

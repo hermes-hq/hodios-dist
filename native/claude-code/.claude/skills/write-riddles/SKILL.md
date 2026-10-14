@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: puzzles
   source: https://hermes-ide.com/prompts/write-riddles
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write riddles

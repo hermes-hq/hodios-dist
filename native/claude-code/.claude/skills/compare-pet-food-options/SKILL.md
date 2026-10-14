@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: pet-care
   source: https://hermes-ide.com/prompts/compare-pet-food-options
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Compare pet food options

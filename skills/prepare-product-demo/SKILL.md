@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: product-launch
   source: https://hermes-ide.com/prompts/prepare-product-demo
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Prepare a product demo

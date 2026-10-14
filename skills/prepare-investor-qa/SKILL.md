@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fundraising
   source: https://hermes-ide.com/prompts/prepare-investor-qa
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Prepare for investor questions

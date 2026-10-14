@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: meetings
   source: https://hermes-ide.com/prompts/meeting-lifecycle-track
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Meeting lifecycle track

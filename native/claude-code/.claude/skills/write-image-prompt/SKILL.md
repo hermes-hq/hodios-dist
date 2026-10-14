@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: image-generation
   source: https://hermes-ide.com/prompts/write-image-prompt
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write an image-generation prompt

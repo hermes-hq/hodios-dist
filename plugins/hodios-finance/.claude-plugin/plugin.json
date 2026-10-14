@@ -1,6 +1,6 @@
 {
   "name": "hodios-finance",
-  "version": "2026.1011.1",
+  "version": "2026.1014.0",
   "description": "Finance prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -163,6 +163,7 @@
     "money-date",
     "money-habits",
     "month-end",
+    "monthly-budget",
     "mortgage",
     "mortgage-broker",
     "moving-abroad",
@@ -183,6 +184,7 @@
     "payment-terms",
     "payroll",
     "pension",
+    "personal-budget",
     "personal-loans",
     "pocket-money",
     "policy-wording",
@@ -207,6 +209,7 @@
     "risk-tolerance",
     "rsu",
     "sales-tax",
+    "save-money",
     "savings-goal",
     "savings-rate",
     "scam-protection",

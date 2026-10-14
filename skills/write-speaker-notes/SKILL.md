@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: presentations
   source: https://hermes-ide.com/prompts/write-speaker-notes
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write speaker notes

@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: tutoring
   source: https://hermes-ide.com/prompts/computer-science-tutor
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Computer science tutor

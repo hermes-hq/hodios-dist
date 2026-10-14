@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: medical-prep
   source: https://hermes-ide.com/prompts/prepare-doctor-questions
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Prepare questions for a doctor

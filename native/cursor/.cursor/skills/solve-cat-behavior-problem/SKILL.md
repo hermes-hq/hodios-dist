@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: pet-care
   source: https://hermes-ide.com/prompts/solve-cat-behavior-problem
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Solve a cat behaviour problem

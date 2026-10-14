@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: devops
   source: https://hermes-ide.com/prompts/devops-engineer
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # DevOps engineer

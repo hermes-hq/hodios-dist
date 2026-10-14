@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: roadmapping
   source: https://hermes-ide.com/prompts/run-quarterly-planning
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Prepare quarterly planning

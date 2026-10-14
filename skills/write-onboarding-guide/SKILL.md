@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: docs
   source: https://hermes-ide.com/prompts/write-onboarding-guide
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write a developer onboarding guide

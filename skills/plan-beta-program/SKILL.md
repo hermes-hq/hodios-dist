@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: user-feedback
   source: https://hermes-ide.com/prompts/plan-beta-program
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Plan a beta program

@@ -1,6 +1,6 @@
 {
   "name": "hodios-productivity",
-  "version": "2026.1011.1",
+  "version": "2026.1014.0",
   "description": "Productivity and personal life prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -402,6 +402,7 @@
     "study-funding",
     "subscriptions",
     "summarization",
+    "summarize-article",
     "sustainable-pace",
     "synthesis",
     "systems-thinking",
@@ -427,6 +428,7 @@
     "time-tracking",
     "timeboxing",
     "timestamps",
+    "tldr",
     "top-three",
     "total-cost-of-ownership",
     "trade-offs",

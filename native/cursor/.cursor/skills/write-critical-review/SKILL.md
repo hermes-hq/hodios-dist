@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: blogging
   source: https://hermes-ide.com/prompts/write-critical-review
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write a critical review

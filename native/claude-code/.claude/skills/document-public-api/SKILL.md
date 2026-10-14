@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: docs
   source: https://hermes-ide.com/prompts/document-public-api
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Document a public API

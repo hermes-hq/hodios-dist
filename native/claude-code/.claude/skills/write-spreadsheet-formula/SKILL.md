@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: spreadsheets
   source: https://hermes-ide.com/prompts/write-spreadsheet-formula
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write a spreadsheet formula

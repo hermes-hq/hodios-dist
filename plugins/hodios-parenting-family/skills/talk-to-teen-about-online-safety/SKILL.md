@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: parenting
   source: https://hermes-ide.com/prompts/talk-to-teen-about-online-safety
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Talk to a teen about online safety

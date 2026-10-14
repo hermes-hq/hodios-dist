@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: exam-prep
   source: https://hermes-ide.com/prompts/prepare-open-book-exam
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Prepare for an open-book exam

@@ -1,6 +1,6 @@
 {
   "name": "hodios-writing-communication",
-  "version": "2026.1011.1",
+  "version": "2026.1014.0",
   "description": "Writing and communication prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -132,6 +132,7 @@
     "email",
     "email-batching",
     "email-etiquette",
+    "email-my-boss",
     "email-reply",
     "email-templates",
     "emcee",
@@ -165,6 +166,7 @@
     "first-draft",
     "follow-up",
     "follow-ups",
+    "formal-email",
     "formal-letter",
     "formality",
     "framing",
@@ -435,6 +437,7 @@
     "word-choice",
     "word-count",
     "word-list",
+    "work-email",
     "workplace-mediation",
     "workplace-messaging",
     "writing-feedback",

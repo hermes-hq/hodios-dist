@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: kids-activities
   source: https://hermes-ide.com/prompts/plan-kids-summer
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Plan the kids' summer

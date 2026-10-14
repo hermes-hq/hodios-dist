@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: meta
   source: https://hermes-ide.com/prompts/audit-agent-permissions
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Audit a coding agent's permissions

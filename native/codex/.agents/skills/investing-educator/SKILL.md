@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: investing
   source: https://hermes-ide.com/prompts/investing-educator
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Investing educator

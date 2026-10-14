@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: nutrition
   source: https://hermes-ide.com/prompts/plan-shift-work-eating
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Plan eating around shift work

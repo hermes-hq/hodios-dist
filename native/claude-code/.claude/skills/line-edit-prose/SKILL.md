@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: editing
   source: https://hermes-ide.com/prompts/line-edit-prose
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Line-edit prose

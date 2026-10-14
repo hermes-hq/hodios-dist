@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: investing
   source: https://hermes-ide.com/prompts/compare-retirement-accounts
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Compare retirement account types

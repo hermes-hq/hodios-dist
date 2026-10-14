@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: mental-health
   source: https://hermes-ide.com/prompts/guide-breathing-exercise
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Guide a breathing exercise

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: worldbuilding
   source: https://hermes-ide.com/prompts/create-fictional-language
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Create a fictional language

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: public-speaking
   source: https://hermes-ide.com/prompts/speak-up-in-meetings
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Speak up in meetings

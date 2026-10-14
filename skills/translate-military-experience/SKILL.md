@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: resumes
   source: https://hermes-ide.com/prompts/translate-military-experience
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Translate military experience for a civilian resume

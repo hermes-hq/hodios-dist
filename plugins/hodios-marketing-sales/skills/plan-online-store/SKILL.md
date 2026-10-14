@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: ecommerce
   source: https://hermes-ide.com/prompts/plan-online-store
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Plan an online store launch

@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: compliance
   source: https://hermes-ide.com/prompts/review-data-processing-agreement
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Review a vendor data processing agreement

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: literature-review
   source: https://hermes-ide.com/prompts/summarize-paper
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Summarise a research paper

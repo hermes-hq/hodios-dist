@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: tabletop-rpg
   source: https://hermes-ide.com/prompts/teach-board-game-rules
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Teach board game rules

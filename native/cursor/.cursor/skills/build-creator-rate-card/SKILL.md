@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: creator-business
   source: https://hermes-ide.com/prompts/build-creator-rate-card
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Build a creator rate card

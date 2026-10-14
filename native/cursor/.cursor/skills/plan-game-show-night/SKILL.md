@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: trivia
   source: https://hermes-ide.com/prompts/plan-game-show-night
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Plan a game show night

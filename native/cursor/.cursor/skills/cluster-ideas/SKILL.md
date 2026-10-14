@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: brainstorming
   source: https://hermes-ide.com/prompts/cluster-ideas
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Cluster a long list of ideas

@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: email-marketing
   source: https://hermes-ide.com/prompts/email-campaign-track
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Email campaign track

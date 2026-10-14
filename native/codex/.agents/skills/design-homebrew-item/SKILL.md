@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: tabletop-rpg
   source: https://hermes-ide.com/prompts/design-homebrew-item
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Design a homebrew magic item

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: accounting
   source: https://hermes-ide.com/prompts/review-small-business-pnl
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Review a small business P&L

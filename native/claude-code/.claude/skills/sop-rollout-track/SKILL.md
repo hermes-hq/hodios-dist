@@ -12,7 +12,7 @@ metadata:
   kind: workflow
   category: operations
   source: https://hermes-ide.com/prompts/sop-rollout-track
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # SOP rollout track

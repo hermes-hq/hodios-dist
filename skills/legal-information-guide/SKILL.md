@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: paperwork
   source: https://hermes-ide.com/prompts/legal-information-guide
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Legal information guide

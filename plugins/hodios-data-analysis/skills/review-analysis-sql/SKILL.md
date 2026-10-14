@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/review-analysis-sql
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Review analytical SQL

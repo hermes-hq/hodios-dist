@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: video-generation
   source: https://hermes-ide.com/prompts/write-video-generation-prompt
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write a video-generation prompt

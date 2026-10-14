@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: financial-planning
   source: https://hermes-ide.com/prompts/plan-windfall
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Plan what to do with a windfall

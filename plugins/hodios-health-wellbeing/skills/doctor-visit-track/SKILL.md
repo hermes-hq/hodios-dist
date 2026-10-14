@@ -12,7 +12,7 @@ metadata:
   kind: workflow
   category: medical-prep
   source: https://hermes-ide.com/prompts/doctor-visit-track
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Doctor visit track

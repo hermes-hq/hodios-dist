@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: user-feedback
   source: https://hermes-ide.com/prompts/design-churn-save-flow
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Design a cancellation and save flow

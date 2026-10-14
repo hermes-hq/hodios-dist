@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: ux-research
   source: https://hermes-ide.com/prompts/measure-ux-with-sus
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Measure UX with SUS and task metrics

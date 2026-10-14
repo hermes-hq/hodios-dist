@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: operations
   source: https://hermes-ide.com/prompts/import-first-shipment-track
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # First import track

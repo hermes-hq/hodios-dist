@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: language-learning
   source: https://hermes-ide.com/prompts/plan-heritage-language-learning
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Plan heritage language learning

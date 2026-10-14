@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: taxes
   source: https://hermes-ide.com/prompts/tax-educator
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Tax educator

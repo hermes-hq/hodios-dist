@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/build-cohort-analysis
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Build a cohort retention analysis

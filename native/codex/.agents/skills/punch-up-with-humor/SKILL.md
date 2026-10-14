@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: humor
   source: https://hermes-ide.com/prompts/punch-up-with-humor
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Punch up text with humour

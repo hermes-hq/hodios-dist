@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: statistics
   source: https://hermes-ide.com/prompts/write-r-analysis-script
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write an R analysis script

@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: tutoring
   source: https://hermes-ide.com/prompts/essay-writing-track
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Essay writing track

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: implementation
   source: https://hermes-ide.com/prompts/write-file-parser
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write a streaming file parser

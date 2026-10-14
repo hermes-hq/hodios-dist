@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: budgeting
   source: https://hermes-ide.com/prompts/plan-first-job-finances
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Plan your first-job finances

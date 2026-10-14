@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: testing
   source: https://hermes-ide.com/prompts/fill-test-gaps
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Find and fill the riskiest test gaps

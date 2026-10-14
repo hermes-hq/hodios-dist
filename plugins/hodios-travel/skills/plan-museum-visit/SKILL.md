@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: local-culture
   source: https://hermes-ide.com/prompts/plan-museum-visit
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Plan a museum visit

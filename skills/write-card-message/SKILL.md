@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: interpersonal-communication
   source: https://hermes-ide.com/prompts/write-card-message
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write a card message

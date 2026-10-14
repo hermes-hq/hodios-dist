@@ -15,7 +15,7 @@ metadata:
   kind: prompt
   category: gardening
   source: https://hermes-ide.com/prompts/design-garden-border
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Design a garden border

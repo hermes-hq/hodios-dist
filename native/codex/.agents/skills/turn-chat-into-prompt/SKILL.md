@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: prompt-engineering
   source: https://hermes-ide.com/prompts/turn-chat-into-prompt
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Turn a chat into a reusable prompt

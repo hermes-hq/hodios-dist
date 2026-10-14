@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: task-management
   source: https://hermes-ide.com/prompts/set-up-task-system
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Set up a personal task system

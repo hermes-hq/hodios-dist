@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: product-metrics
   source: https://hermes-ide.com/prompts/monthly-growth-review-track
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Monthly open-source growth review

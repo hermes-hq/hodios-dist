@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: trip-planning
   source: https://hermes-ide.com/prompts/travel-planner
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Travel planner

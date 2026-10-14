@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: product-strategy
   source: https://hermes-ide.com/prompts/define-mvp-scope
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Define MVP scope

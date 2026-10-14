@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: fact-checking
   source: https://hermes-ide.com/prompts/check-statistics-in-article
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Check the statistics in an article

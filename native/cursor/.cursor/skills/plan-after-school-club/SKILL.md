@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: course-design
   source: https://hermes-ide.com/prompts/plan-after-school-club
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Plan a term of an after-school club

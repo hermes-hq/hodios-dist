@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: marketing-strategy
   source: https://hermes-ide.com/prompts/analyze-competitors
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Analyse competitors

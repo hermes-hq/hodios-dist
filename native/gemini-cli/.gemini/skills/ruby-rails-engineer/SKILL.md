@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: implementation
   source: https://hermes-ide.com/prompts/ruby-rails-engineer
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Ruby on Rails engineer

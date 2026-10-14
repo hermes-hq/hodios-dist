@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: scientific-writing
   source: https://hermes-ide.com/prompts/thesis-advisor
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Thesis advisor

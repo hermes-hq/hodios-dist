@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: creator-business
   source: https://hermes-ide.com/prompts/write-media-kit
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write a creator media kit

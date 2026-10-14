@@ -7,7 +7,7 @@ metadata:
   kind: style
   category: output-styles
   source: https://hermes-ide.com/prompts/journalistic
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Journalistic

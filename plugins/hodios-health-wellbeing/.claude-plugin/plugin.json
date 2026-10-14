@@ -1,6 +1,6 @@
 {
   "name": "hodios-health-wellbeing",
-  "version": "2026.1011.1",
+  "version": "2026.1014.0",
   "description": "Health and wellbeing prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -48,6 +48,7 @@
     "caffeine",
     "calm",
     "calories",
+    "cant-sleep",
     "care-coordination",
     "care-homes",
     "care-plan",
@@ -282,6 +283,7 @@
     "shift-work",
     "side-effects",
     "sleep",
+    "sleep-better",
     "sleep-diary",
     "sleep-efficiency",
     "sleep-schedule",

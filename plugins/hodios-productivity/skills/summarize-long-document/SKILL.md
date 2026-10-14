@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: summarization
   source: https://hermes-ide.com/prompts/summarize-long-document
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Summarise a long document

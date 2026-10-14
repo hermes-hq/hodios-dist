@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: budgeting
   source: https://hermes-ide.com/prompts/build-tight-budget
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Build a survival budget

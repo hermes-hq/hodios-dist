@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: outdoors
   source: https://hermes-ide.com/prompts/plan-long-distance-walk
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Plan a long-distance walk

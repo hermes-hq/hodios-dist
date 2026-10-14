@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: baking
   source: https://hermes-ide.com/prompts/baking-instructor
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Baking instructor

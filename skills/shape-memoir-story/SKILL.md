@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: life-writing
   source: https://hermes-ide.com/prompts/shape-memoir-story
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Shape a memoir story

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: worldbuilding
   source: https://hermes-ide.com/prompts/build-world-timeline
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Build a world timeline

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: tenancy
   source: https://hermes-ide.com/prompts/demand-deposit-return
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Demand a rental deposit back

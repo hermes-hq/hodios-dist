@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: interpersonal-communication
   source: https://hermes-ide.com/prompts/write-condolence-message
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write a condolence message

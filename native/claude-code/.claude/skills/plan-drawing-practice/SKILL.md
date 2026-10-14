@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: visual-art
   source: https://hermes-ide.com/prompts/plan-drawing-practice
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Plan drawing practice

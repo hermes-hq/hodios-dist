@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: budgeting
   source: https://hermes-ide.com/prompts/budget-for-holidays-and-gifts
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Budget for holidays and gifts

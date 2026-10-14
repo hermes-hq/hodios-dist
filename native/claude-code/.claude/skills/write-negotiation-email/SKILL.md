@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: email
   source: https://hermes-ide.com/prompts/write-negotiation-email
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write the next email in a negotiation

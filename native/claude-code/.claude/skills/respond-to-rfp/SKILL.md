@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: sales
   source: https://hermes-ide.com/prompts/respond-to-rfp
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Respond to an RFP or tender

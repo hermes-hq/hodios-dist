@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: assistant-setup
   source: https://hermes-ide.com/prompts/set-up-ai-for-kids
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Set up an AI assistant for a child

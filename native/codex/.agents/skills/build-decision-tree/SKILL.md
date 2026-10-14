@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: decision-making
   source: https://hermes-ide.com/prompts/build-decision-tree
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Build a decision tree with expected values

@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: business-writing
   source: https://hermes-ide.com/prompts/report-writing-track
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Report writing track

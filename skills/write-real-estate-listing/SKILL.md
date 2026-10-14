@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: real-estate
   source: https://hermes-ide.com/prompts/write-real-estate-listing
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write a property listing

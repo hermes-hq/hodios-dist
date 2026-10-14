@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: conversation-practice
   source: https://hermes-ide.com/prompts/roleplay-real-situation
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Role-play a real-life situation

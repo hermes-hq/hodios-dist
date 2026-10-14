@@ -1,6 +1,6 @@
 {
   "name": "hodios-career-hr",
-  "version": "2026.1011.1",
+  "version": "2026.1014.0",
   "description": "Career and HR prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -122,6 +122,7 @@
     "fired",
     "first-60-days",
     "first-90-days",
+    "first-cv",
     "first-hires",
     "first-job",
     "first-resume",
@@ -178,11 +179,13 @@
     "interview-day",
     "interview-feedback",
     "interview-follow-up",
+    "interview-practice",
     "interview-prep",
     "interviewer-training",
     "job-analysis",
     "job-application",
     "job-description",
+    "job-interview",
     "job-loss",
     "job-offer",
     "job-search",
@@ -377,6 +380,7 @@
     "working-parents",
     "workplace-conflict",
     "workplace-etiquette",
+    "write-cv",
     "x-ray-search"
   ]
 }

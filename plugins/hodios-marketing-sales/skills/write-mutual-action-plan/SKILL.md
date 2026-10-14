@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: sales
   source: https://hermes-ide.com/prompts/write-mutual-action-plan
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write a mutual action plan

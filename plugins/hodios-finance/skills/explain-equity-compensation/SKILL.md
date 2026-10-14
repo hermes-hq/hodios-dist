@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: investing
   source: https://hermes-ide.com/prompts/explain-equity-compensation
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Explain employee equity compensation

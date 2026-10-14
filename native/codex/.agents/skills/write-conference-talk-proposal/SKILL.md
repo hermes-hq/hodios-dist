@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: writing
   source: https://hermes-ide.com/prompts/write-conference-talk-proposal
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write a conference talk proposal

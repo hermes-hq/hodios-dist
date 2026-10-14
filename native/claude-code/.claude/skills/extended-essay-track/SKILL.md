@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: studying
   source: https://hermes-ide.com/prompts/extended-essay-track
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # IB Extended Essay track

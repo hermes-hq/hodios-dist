@@ -14,7 +14,7 @@ metadata:
   kind: workflow
   category: home-improvement
   source: https://hermes-ide.com/prompts/first-apartment-track
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # First apartment track

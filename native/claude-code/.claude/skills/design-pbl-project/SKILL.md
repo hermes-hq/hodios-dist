@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: teaching
   source: https://hermes-ide.com/prompts/design-pbl-project
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Design a project-based learning unit

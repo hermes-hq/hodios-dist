@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: ui-design
   source: https://hermes-ide.com/prompts/design-search-experience
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Design an in-product search experience

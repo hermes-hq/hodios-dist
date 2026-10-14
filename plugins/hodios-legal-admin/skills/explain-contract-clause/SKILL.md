@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: contracts
   source: https://hermes-ide.com/prompts/explain-contract-clause
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Explain a contract clause

@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: product-launch
   source: https://hermes-ide.com/prompts/write-competitive-battlecard
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write a competitive battlecard

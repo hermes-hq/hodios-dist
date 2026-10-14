@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: resumes
   source: https://hermes-ide.com/prompts/resume-writer
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Resume writer

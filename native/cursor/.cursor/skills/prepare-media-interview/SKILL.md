@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: public-relations
   source: https://hermes-ide.com/prompts/prepare-media-interview
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Prepare for a media interview

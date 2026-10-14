@@ -7,7 +7,7 @@ metadata:
   kind: workflow
   category: planning
   source: https://hermes-ide.com/prompts/feature-track
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Feature track

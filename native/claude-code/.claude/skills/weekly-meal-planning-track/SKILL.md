@@ -13,7 +13,7 @@ metadata:
   kind: workflow
   category: meal-planning
   source: https://hermes-ide.com/prompts/weekly-meal-planning-track
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Weekly meal planning track

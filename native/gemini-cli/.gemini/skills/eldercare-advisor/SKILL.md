@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: caregiving
   source: https://hermes-ide.com/prompts/eldercare-advisor
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Eldercare advisor

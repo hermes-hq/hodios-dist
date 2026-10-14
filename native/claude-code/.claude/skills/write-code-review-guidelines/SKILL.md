@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: code-review
   source: https://hermes-ide.com/prompts/write-code-review-guidelines
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write code review guidelines

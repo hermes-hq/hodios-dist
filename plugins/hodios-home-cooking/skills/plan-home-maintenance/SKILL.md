@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: home-improvement
   source: https://hermes-ide.com/prompts/plan-home-maintenance
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Plan seasonal home maintenance

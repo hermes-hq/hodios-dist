@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: architecture
   source: https://hermes-ide.com/prompts/software-architect
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Software architect

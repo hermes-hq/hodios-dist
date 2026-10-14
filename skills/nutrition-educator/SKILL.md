@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: nutrition
   source: https://hermes-ide.com/prompts/nutrition-educator
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Nutrition educator

@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: editing
   source: https://hermes-ide.com/prompts/rewrite-for-tone
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Rewrite a text for tone

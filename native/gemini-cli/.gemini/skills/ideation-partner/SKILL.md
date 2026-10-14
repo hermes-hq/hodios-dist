@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: brainstorming
   source: https://hermes-ide.com/prompts/ideation-partner
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Ideation partner

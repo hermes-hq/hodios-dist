@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: fundraising
   source: https://hermes-ide.com/prompts/venture-capitalist
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Venture capitalist

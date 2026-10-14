@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: data-exploration
   source: https://hermes-ide.com/prompts/explore-dataset
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Explore a dataset

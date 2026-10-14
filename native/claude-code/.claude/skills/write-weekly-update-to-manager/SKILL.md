@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: email
   source: https://hermes-ide.com/prompts/write-weekly-update-to-manager
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write a weekly update to your manager

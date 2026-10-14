@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: studying
   source: https://hermes-ide.com/prompts/read-textbook-actively
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Read a textbook chapter actively

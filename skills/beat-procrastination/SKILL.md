@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: habits
   source: https://hermes-ide.com/prompts/beat-procrastination
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Beat procrastination on a task

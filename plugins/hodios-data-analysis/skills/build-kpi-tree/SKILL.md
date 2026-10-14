@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: reporting
   source: https://hermes-ide.com/prompts/build-kpi-tree
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Build a KPI driver tree

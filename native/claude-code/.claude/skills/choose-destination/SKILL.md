@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: trip-planning
   source: https://hermes-ide.com/prompts/choose-destination
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Choose a destination

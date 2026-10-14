@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: meta
   source: https://hermes-ide.com/prompts/write-agents-md
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Write an AGENTS.md

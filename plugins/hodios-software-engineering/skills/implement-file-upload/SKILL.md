@@ -14,7 +14,7 @@ metadata:
   kind: prompt
   category: implementation
   source: https://hermes-ide.com/prompts/implement-file-upload
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Implement secure file uploads

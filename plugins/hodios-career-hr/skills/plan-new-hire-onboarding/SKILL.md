@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: hr-operations
   source: https://hermes-ide.com/prompts/plan-new-hire-onboarding
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Plan new-hire onboarding

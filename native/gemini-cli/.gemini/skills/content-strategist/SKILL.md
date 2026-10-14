@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: content-strategy
   source: https://hermes-ide.com/prompts/content-strategist
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Content strategist

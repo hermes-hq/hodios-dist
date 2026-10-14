@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: parenting
   source: https://hermes-ide.com/prompts/plan-potty-training
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Plan potty training

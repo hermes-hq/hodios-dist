@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: literature-review
   source: https://hermes-ide.com/prompts/plan-meta-analysis
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Plan and interpret a meta-analysis

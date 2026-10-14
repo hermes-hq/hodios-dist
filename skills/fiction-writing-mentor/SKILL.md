@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: fiction
   source: https://hermes-ide.com/prompts/fiction-writing-mentor
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Fiction-writing mentor

@@ -1,6 +1,6 @@
 {
   "name": "hodios-travel",
-  "version": "2026.1011.1",
+  "version": "2026.1014.0",
   "description": "Travel prompts, personas and workflows from Hodios.",
   "author": {
     "name": "Hodios contributors",
@@ -34,6 +34,7 @@
     "cats",
     "cheap-flights",
     "check-in",
+    "city-break",
     "climate",
     "compensation",
     "concert-trip",
@@ -175,7 +176,9 @@
     "trekking",
     "trip-budget",
     "trip-cost",
+    "trip-plan",
     "trip-planning",
+    "vacation-plan",
     "volunteer-travel",
     "volunteering",
     "voluntourism",

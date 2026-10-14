@@ -7,7 +7,7 @@ metadata:
   kind: prompt
   category: editing
   source: https://hermes-ide.com/prompts/build-style-sheet
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Build an editorial style sheet

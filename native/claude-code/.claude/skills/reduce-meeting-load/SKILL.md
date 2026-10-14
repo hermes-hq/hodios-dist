@@ -11,7 +11,7 @@ metadata:
   kind: prompt
   category: meetings
   source: https://hermes-ide.com/prompts/reduce-meeting-load
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Reduce meeting load

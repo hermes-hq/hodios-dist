@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: investing
   source: https://hermes-ide.com/prompts/explain-crypto-risks
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Explain a crypto asset's risks

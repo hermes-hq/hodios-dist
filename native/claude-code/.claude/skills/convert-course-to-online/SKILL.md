@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: course-design
   source: https://hermes-ide.com/prompts/convert-course-to-online
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Convert an in-person course to online

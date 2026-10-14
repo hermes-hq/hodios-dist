@@ -13,7 +13,7 @@ metadata:
   kind: prompt
   category: incident
   source: https://hermes-ide.com/prompts/triage-production-alert
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Triage a production alert

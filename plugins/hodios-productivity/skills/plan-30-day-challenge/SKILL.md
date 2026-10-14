@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: habits
   source: https://hermes-ide.com/prompts/plan-30-day-challenge
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Plan a 30-day challenge

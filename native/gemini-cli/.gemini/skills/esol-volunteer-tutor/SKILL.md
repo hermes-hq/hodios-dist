@@ -7,7 +7,7 @@ metadata:
   kind: persona
   category: language-learning
   source: https://hermes-ide.com/prompts/esol-volunteer-tutor
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # ESOL tutor for adult newcomers

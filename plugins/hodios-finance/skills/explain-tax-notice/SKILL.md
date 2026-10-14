@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: taxes
   source: https://hermes-ide.com/prompts/explain-tax-notice
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Explain a tax notice

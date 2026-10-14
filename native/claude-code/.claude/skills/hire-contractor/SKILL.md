@@ -12,7 +12,7 @@ metadata:
   kind: prompt
   category: home-improvement
   source: https://hermes-ide.com/prompts/hire-contractor
-  catalog: 2026.1011.1
+  catalog: 2026.1014.0
 ---
 
 # Prepare to hire a contractor
